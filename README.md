@@ -197,7 +197,7 @@
 
 *   [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
 *   [widcardw/music-grid](https://github.com/widcardw/music-grid) -
 
@@ -5171,7 +5171,7 @@
 
 *   [FeltMC/Fabricated-Forge-API](https://github.com/FeltMC/Fabricated-Forge-API) - Port of the forge api to fabric, under the same path.
 
-*   [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) - A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!  Customer Service: https://discord.gg/3RUjaRzdKv
+*   [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) - A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!  Customer Service: https://www.breakblocks.com/discord
 
 *   [Nan1t/NanoLimbo](https://github.com/Nan1t/NanoLimbo) - The lightweight, high performance Minecraft limbo server
 
@@ -6908,6 +6908,8 @@
 *   [xvhuan/bili](https://github.com/xvhuan/bili) - b站弹幕实时监控
 
 *   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
+
+*   [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5+
 
 ## C++
 
@@ -8922,8 +8924,6 @@
 *   [gl-transitions/gl-transitions](https://github.com/gl-transitions/gl-transitions) - The open collection of GL Transitions
 
 *   [hooke007/MPV\_lazy](https://github.com/hooke007/MPV_lazy) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
-
-*   [hkiceflow/mpv\_video](https://github.com/hkiceflow/mpv_video) - 搭配目前最高效的实时超分及滤镜算法。With the most efficient real-time super-resolution and filter algorithms at present.
 
 *   [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
 
