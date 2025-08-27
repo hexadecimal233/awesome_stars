@@ -283,7 +283,7 @@
 
 *   [TNXG/Tomori](https://github.com/TNXG/Tomori) - A Mix-Space theme built with Next
 
-*   [graphif/project-graph](https://github.com/graphif/project-graph) - 🔥 Draw fast, think efficiently. | A simple tool for drawing graphs.
+*   [graphif/project-graph](https://github.com/graphif/project-graph) - A simple but powerful tool for drawing graphs
 
 *   [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 
@@ -547,7 +547,7 @@
 
 *   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 
-*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
+*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
 
 *   [wfjsw/danbooru-diffusion-prompt-builder](https://github.com/wfjsw/danbooru-diffusion-prompt-builder) - Danbooru / NovelAI 标签超市
 
