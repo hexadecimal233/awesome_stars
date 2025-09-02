@@ -2910,7 +2910,7 @@
 
 *   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 
-*   [PRO-2684/Scriptio](https://github.com/PRO-2684/Scriptio) - Load custom renderer-level scripts for QQNT
+*   [PRO-2684/Scriptio](https://github.com/PRO-2684/Scriptio) - Load custom UserScripts for QQNT
 
 *   [rebane2001/mapartcraft](https://github.com/rebane2001/mapartcraft) - A Minecraft custom mapart schematica generator, designed to be feasible in survival in servers like 2b2t
 
@@ -7890,7 +7890,7 @@
 
 *   [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
 
-*   [Thepuppetqueen57/five-blocks-at-fredricks](https://github.com/Thepuppetqueen57/five-blocks-at-fredricks) - A Five Nights at Freddy's Fan Game meant to be Goofy
+*   [Five-Blocks-at-Fredricks/five-blocks-at-fredricks](https://github.com/Five-Blocks-at-Fredricks/five-blocks-at-fredricks) - A Five Nights at Freddy's Fan Game meant to be Goofy
 
 *   [face-hh/8055](https://github.com/face-hh/8055) - Real-time anime vision for VR headsets.
 
