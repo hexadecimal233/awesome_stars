@@ -3162,6 +3162,8 @@
 
 *   [anitabi/anitabi.cn-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 
+*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
+
 *   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 
 *   [pjy612/SteamManifestCache](https://github.com/pjy612/SteamManifestCache) - Steam Depot Manifest Files Cache
@@ -3750,8 +3752,6 @@
 
 *   [ObservedObserver/convertfast-ui](https://github.com/ObservedObserver/convertfast-ui) - Build beautiful landing pages with prebuild code blocks. All based on shadcn-ui and tailwind.
 
-*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
-
 *   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 
 *   [theme-shoka-x/hexo-theme-shokaX](https://github.com/theme-shoka-x/hexo-theme-shokaX) - a hexo theme based on shoka
@@ -3980,7 +3980,7 @@
 
 *   [SummerLiu95/bili-fav-sniffer](https://github.com/SummerLiu95/bili-fav-sniffer) - 哔哩哔哩收藏夹嗅探器，定时下载特定收藏夹的新视频到本地
 
-*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 
 *   [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 
@@ -7962,7 +7962,7 @@
 
 *   [Kieaer/Essentials](https://github.com/Kieaer/Essentials) - Mindustry plugin - Essentials
 
-*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
+*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被人泄露、利用
 
 *   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
@@ -8924,7 +8924,7 @@
 
 *   [gl-transitions/gl-transitions](https://github.com/gl-transitions/gl-transitions) - The open collection of GL Transitions
 
-*   [hooke007/MPV\_lazy](https://github.com/hooke007/MPV_lazy) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
+*   [hooke007/mpv\_PlayKit](https://github.com/hooke007/mpv_PlayKit) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
 
 *   [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
 
