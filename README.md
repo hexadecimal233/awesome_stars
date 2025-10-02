@@ -176,8 +176,6 @@
 
 *   [unjs/unhead](https://github.com/unjs/unhead) - The full stack \<head> package for any framework.
 
-*   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
 *   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 
 *   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
@@ -1069,6 +1067,8 @@
 *   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 
 *   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+
+*   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 *   [TheWinRaRs/Writeups](https://github.com/TheWinRaRs/Writeups) -
 
@@ -3460,8 +3460,6 @@
 
 *   [cplussharp/graph-studio-next](https://github.com/cplussharp/graph-studio-next) - GraphStudioNext is a tool for developers to build and test DirectShow Graphs
 
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
-
 *   [Wunkolo/UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL and Injector for dumping UWP applications at run-time to bypass encrypted file system protection.
 
 *   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
@@ -5154,6 +5152,8 @@
 
 *   [Earthcomputer/EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
 
+*   [xmdhs/arcimg](https://github.com/xmdhs/arcimg) -
+
 ## Zig
 
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -6438,7 +6438,7 @@
 
 *   [LucunJi/ExtraPlayerRenderer](https://github.com/LucunJi/ExtraPlayerRenderer) - highly configurable paper doll mod
 
-*   [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds bedrock-like chunk fade-in animation
+*   [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds chunk fade-in animations for Minecraft. Supports Sodium and Iris!
 
 *   [CjangCjengh/TTSModels](https://github.com/CjangCjengh/TTSModels) -
 
@@ -8202,7 +8202,7 @@
 
 *   [StellarNexusNetwork/disqualified](https://github.com/StellarNexusNetwork/disqualified) - 一键退赛小帮手（不是）
 
-*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、面向个人、专注思想流动的轻量级发布平台
 
 *   [pysio2007/Vue-blog](https://github.com/pysio2007/Vue-blog) - Pysio的个人博客
 
