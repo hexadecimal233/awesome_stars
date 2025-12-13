@@ -2443,6 +2443,8 @@
 
 *   [wed0n/Paster](https://github.com/wed0n/Paster) - 模拟键盘输入进行粘贴
 
+*   [ikaros-dev/ikaros](https://github.com/ikaros-dev/ikaros) - Dedicated to ACGMN's Content Management System (CMS). | 专注于ACGMN的内容管理系统(CMS)。
+
 *   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 
 *   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -4266,8 +4268,6 @@
 *   [yhtt2020/workbench](https://github.com/yhtt2020/workbench) - 想天工作台客户端
 
 *   [diyigemt/arona](https://github.com/diyigemt/arona) - mirai-console的blue archive插件
-
-*   [lx-music-project/lx-music-api-server](https://github.com/lx-music-project/lx-music-api-server) - LX Music 非官方测试接口服务器实现
 
 *   [MelodyYuuka/NeteaseCloudMusic-Audio-Recognize](https://github.com/MelodyYuuka/NeteaseCloudMusic-Audio-Recognize) - 网易云音乐-听歌识曲接口 demo
 
@@ -6416,8 +6416,6 @@
 *   [NucleoidMC/plasmid](https://github.com/NucleoidMC/plasmid) - Server-side minigame development library based on Fabric.
 
 *   [TPCraft/TPCraftIDACAuth](https://github.com/TPCraft/TPCraftIDACAuth) - TPCraft身份认证中心授权
-
-*   [ikaros-dev/ikaros](https://github.com/ikaros-dev/ikaros) - Dedicated to ACGMN's Content Management System (CMS). | 专注于ACGMN的内容管理系统(CMS)。
 
 *   [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，支持 MCP 调用，文档：https://docs.qq.com/doc/DV3pKbG9GS0pJS0tk
 
@@ -9181,7 +9179,7 @@
 
 *   [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client based on LiquidBounce.
 
-*   [lambda-client/lambda](https://github.com/lambda-client/lambda) - Minecraft utility mod coded in Kotlin
+*   [lambda-client/lambda-legacy](https://github.com/lambda-client/lambda-legacy) - Minecraft utility mod coded in Kotlin
 
 *   [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
 
@@ -9897,9 +9895,11 @@
 
 *   [VirtualHotBar/HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox) - 一个纯净、强大、优雅的WinPE
 
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+*   [abbodi1406/KMS\_VL\_ALL\_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 
-*   [kkkgo/KMS\_VL\_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS\_VL\_ALL - Smart Activation Script
+*   [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## Squirrel
 
