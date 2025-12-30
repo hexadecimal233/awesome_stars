@@ -751,8 +751,6 @@
 
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
 *   [bjornhenriksson/minecraft-colors](https://github.com/bjornhenriksson/minecraft-colors) -
 
 *   [CoffeSiberian/truck-tools](https://github.com/CoffeSiberian/truck-tools) - Edit your saves game in Euro Truck Simulator 2 and American Truck Simulator with this simple Desktop App
@@ -2389,11 +2387,13 @@
 
 *   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
 *   [SuperNG6/Docker-qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) - Docker-qBittorrent-Enhanced-Edition
 
 *   [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
 
 *   [Joe1sn/route\_fileter](https://github.com/Joe1sn/route_fileter) - 统计路由器CVE，便于漏洞挖掘
 
@@ -2505,7 +2505,7 @@
 
 *   [JimssM/tiktok-slider](https://github.com/JimssM/tiktok-slider) - OpenCV + NumPy detect TikTok slider 🥖 OpenCV + NumPy检测抖音验证码
 
-*   [ShiyumeMeguri/ShiyumeBlender](https://github.com/ShiyumeMeguri/ShiyumeBlender) - 嫁制作工具 起動!
+*   [ShiyumeMeguri/ShiyumeBlender](https://github.com/ShiyumeMeguri/ShiyumeBlender) - 🥵嫁制作工具 起動!
 
 *   [11dogzi/Comfyui-ergouzi-kaiguan](https://github.com/11dogzi/Comfyui-ergouzi-kaiguan) -
 
@@ -6385,7 +6385,7 @@
 
 *   [racoonman2/ReTerraForged](https://github.com/racoonman2/ReTerraForged) - TerraForged for modern MC versions
 
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 *   [JustAlittleWolf/ModDetectionPreventer](https://github.com/JustAlittleWolf/ModDetectionPreventer) - Fixes a security vulnerability that allows servers to detect what mods you have installed.
 
@@ -8961,7 +8961,7 @@
 
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
-*   [eeg1412/wikimoeNodeJSBlog](https://github.com/eeg1412/wikimoeNodeJSBlog) - 猛男自用博客系统，基于nodejs，mongodb，nuxt3
+*   [eeg1412/wikimoeNodeJSBlog](https://github.com/eeg1412/wikimoeNodeJSBlog) - 猛男自用博客系统，基于nodejs，mongodb，nuxt4
 
 *   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make meaningful wallpapers with colors and words.
 
