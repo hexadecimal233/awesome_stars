@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [GDScript](#gdscript)
 *   [Rust](#rust)
 *   [Astro](#astro)
 *   [TypeScript](#typescript)
@@ -37,7 +38,6 @@
 *   [Objective-C](#objective-c)
 *   [Vala](#vala)
 *   [Haxe](#haxe)
-*   [GDScript](#gdscript)
 *   [Zig](#zig)
 *   [XSLT](#xslt)
 *   [Assembly](#assembly)
@@ -104,6 +104,68 @@
 *   [PLpgSQL](#plpgsql)
 *   [Vim Script](#vim-script)
 *   [YARA](#yara)
+
+## GDScript
+
+*   [jonysuise/voxel-engine-godot-tutorial-jonysuise](https://github.com/jonysuise/voxel-engine-godot-tutorial-jonysuise) - Voxel Engine Godot Tutorial Series
+
+*   [GodotModding/godot-mod-loader](https://github.com/GodotModding/godot-mod-loader) - A general purpose mod loader for GDScript based Godot Games \[3.x/4.x]
+
+*   [Donitzo/godot-color-dither](https://github.com/Donitzo/godot-color-dither) - Multicolored dithering shaders for Godot 4.
+
+*   [Oplexitie/Cupcakes-Framework](https://github.com/Oplexitie/Cupcakes-Framework) - A Five Nights at Freddy's framework made for the Godot game engine.
+
+*   [RodZill4/material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring and 3D model painting tool based on the Godot game engine
+
+*   [VojtaStruhar/antichamber-example](https://github.com/VojtaStruhar/antichamber-example) - Example project to showcase my Godot portals plugin
+
+*   [JACKADUX/Application-Components](https://github.com/JACKADUX/Application-Components) -
+
+*   [SakuyaCN/Godot-2D-Action-Game](https://github.com/SakuyaCN/Godot-2D-Action-Game) - Godot 2D Action Game
+
+*   [brantagames/noise-shader](https://github.com/brantagames/noise-shader) - An additive cyclic noise shader that makes a cool effect.
+
+*   [rapidvectors/tutorial-components-and-scripts](https://github.com/rapidvectors/tutorial-components-and-scripts) - Godot Tutorial Components and Scripts
+
+*   [blmz/GODOT-DaoDan](https://github.com/blmz/GODOT-DaoDan) - 导弹追踪
+
+*   [Calinou/godot-accumulation-motion-blur-demo](https://github.com/Calinou/godot-accumulation-motion-blur-demo) - \[WIP] Accumulation motion blur for use with Godot's Movie Maker mode
+
+*   [Zane97/Godot-Matrix-Background](https://github.com/Zane97/Godot-Matrix-Background) - A simple implementation of the matrix movie background
+
+*   [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) - The minimalistic video editor made with Godot.
+
+*   [Bozar/the-life-of-a-government-clerk](https://github.com/Bozar/the-life-of-a-government-clerk) - A turn based Roguelike game.
+
+*   [Yanxiyimengya/SmithyLegend](https://github.com/Yanxiyimengya/SmithyLegend) - 二创游戏 铁匠铺传奇 - Godot项目源代码
+
+*   [240700/Puzzle-Bobble](https://github.com/240700/Puzzle-Bobble) - 益智泡泡龙 Puzzle Bubble
+
+*   [nathanhoad/godot\_dialogue\_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
+
+*   [240700/Tetris](https://github.com/240700/Tetris) - Godot 俄罗斯方块
+
+*   [saicom/TimeRewind](https://github.com/saicom/TimeRewind) - godot时间回溯
+
+*   [Naptie/godot-phigros](https://github.com/Naptie/godot-phigros) -
+
+*   [saicom/JigsawPuzzle](https://github.com/saicom/JigsawPuzzle) -
+
+*   [feint123/feint-demos](https://github.com/feint123/feint-demos) - 一些有趣的小项目
+
+*   [etherealxx/limbo-godot](https://github.com/etherealxx/limbo-godot) - Godot 4 implementation of Geometry Dash Limbo keys minigame in Windows 10/11
+
+*   [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
+
+*   [JACKADUX/Godot-Audio-Player](https://github.com/JACKADUX/Godot-Audio-Player) -
+
+*   [yiduu76/godot\_music\_visulaize](https://github.com/yiduu76/godot_music_visulaize) - godot\_music\_visulaize
+
+*   [Goldenlion5648/GodotOverlayWindow](https://github.com/Goldenlion5648/GodotOverlayWindow) - A project showcasing how to overlay windows in godot, and reveal things in other windows
+
+*   [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!
+
+*   [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!
 
 ## Rust
 
@@ -469,7 +531,7 @@
 
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 
-*   [mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql) -
+*   [mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql) - TailwindSQL lets you write SQL queries using Tailwind-style class names.
 
 *   [google/A2UI](https://github.com/google/A2UI) -
 
@@ -781,8 +843,6 @@
 
 *   [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 
-*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-
 *   [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -1018,6 +1078,8 @@
 *   [Steve245270533/gallery](https://github.com/Steve245270533/gallery) - Digital exhibition project developed based on three.js.
 
 *   [lrusso/ArduinoSimulator](https://github.com/lrusso/ArduinoSimulator) - Arduino Simulator in JavaScript
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [Tsuk1ko/bilibili-qr-login](https://github.com/Tsuk1ko/bilibili-qr-login) - 哔哩哔哩扫码获取cookie网页工具
 
@@ -2383,7 +2445,7 @@
 
 *   [TheWinRaRs/Writeups](https://github.com/TheWinRaRs/Writeups) -
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / 企微 / 飞书 / 钉钉 / Discord 等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 
 *   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 
@@ -2398,6 +2460,8 @@
 *   [Joe1sn/route\_fileter](https://github.com/Joe1sn/route_fileter) - 统计路由器CVE，便于漏洞挖掘
 
 *   [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
+
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - How can we build a true AI agent? Like Claude Code.
 
 *   [Erfaniaa/text-to-commit-history](https://github.com/Erfaniaa/text-to-commit-history) - Write a large text on your GitHub profile, with your commits history (contribution graph).
 
@@ -5595,8 +5659,6 @@
 
 *   [ntminer/NtMiner](https://github.com/ntminer/NtMiner) - GPU miner. github不太慢，https://ntminer.coding.net/public/NtMiner/NtMiner/git/files
 
-*   [OpenRA/ra2](https://github.com/OpenRA/ra2) - A Red Alert 2 mod for the OpenRA game engine
-
 ## Swift
 
 *   [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
@@ -6424,8 +6486,6 @@
 *   [MCRcortex/vulkanite](https://github.com/MCRcortex/vulkanite) - A minecraft mod designed to bring vulkan hardware raytracing to minecraft java edition
 
 *   [LuminolMC/Luminol](https://github.com/LuminolMC/Luminol) - 轻量级、优化且功能齐全的 Folia 分支，专为生存和无政府状态服务器而设计
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [NucleoidMC/plasmid](https://github.com/NucleoidMC/plasmid) - Server-side minigame development library based on Fabric.
 
@@ -7338,8 +7398,6 @@
 *   [sansan0/mao-map](https://github.com/sansan0/mao-map) - 📍 毛主席足迹地图 | Chairman Mao's Footprints Map - 交互式动态展示1893-1976年完整轨迹 | Interactive map showcasing Mao Zedong's journey (1893-1976). 星星之火，可以燎原 / A single spark can start a prairie fire.。底部为网友整理的毛泽东年谱，欢迎协作完善数据。
 
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 
 *   [Stan370/stan370.github.io](https://github.com/Stan370/stan370.github.io) - A user-friendly Material Design blog template.  博客模板 个性化定制的Hexo主题，简单配置即可使用，欢迎Star\&Fork
 
@@ -8593,7 +8651,7 @@
 
 *   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
 
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - Open source Pan-CJK pixel font / 开源的泛中日韩像素字体
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 
 *   [pkfrom/404](https://github.com/pkfrom/404) - 404 Pages not found
 
@@ -8906,6 +8964,8 @@
 *   [kazukokawagawa/vitepress-theme-curve](https://github.com/kazukokawagawa/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
 
 *   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
+
+*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 *   [hexadecimal233/nuxt-projects](https://github.com/hexadecimal233/nuxt-projects) -
 
@@ -9774,66 +9834,6 @@
 *   [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
 
 *   [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
-
-## GDScript
-
-*   [GodotModding/godot-mod-loader](https://github.com/GodotModding/godot-mod-loader) - A general purpose mod loader for GDScript based Godot Games \[3.x/4.x]
-
-*   [Donitzo/godot-color-dither](https://github.com/Donitzo/godot-color-dither) - Multicolored dithering shaders for Godot 4.
-
-*   [Oplexitie/Cupcakes-Framework](https://github.com/Oplexitie/Cupcakes-Framework) - A Five Nights at Freddy's framework made for the Godot game engine.
-
-*   [RodZill4/material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring and 3D model painting tool based on the Godot game engine
-
-*   [VojtaStruhar/antichamber-example](https://github.com/VojtaStruhar/antichamber-example) - Example project to showcase my Godot portals plugin
-
-*   [JACKADUX/Application-Components](https://github.com/JACKADUX/Application-Components) -
-
-*   [SakuyaCN/Godot-2D-Action-Game](https://github.com/SakuyaCN/Godot-2D-Action-Game) - Godot 2D Action Game
-
-*   [brantagames/noise-shader](https://github.com/brantagames/noise-shader) - An additive cyclic noise shader that makes a cool effect.
-
-*   [rapidvectors/tutorial-components-and-scripts](https://github.com/rapidvectors/tutorial-components-and-scripts) - Godot Tutorial Components and Scripts
-
-*   [blmz/GODOT-DaoDan](https://github.com/blmz/GODOT-DaoDan) - 导弹追踪
-
-*   [Calinou/godot-accumulation-motion-blur-demo](https://github.com/Calinou/godot-accumulation-motion-blur-demo) - \[WIP] Accumulation motion blur for use with Godot's Movie Maker mode
-
-*   [Zane97/Godot-Matrix-Background](https://github.com/Zane97/Godot-Matrix-Background) - A simple implementation of the matrix movie background
-
-*   [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) - The minimalistic video editor made with Godot.
-
-*   [Bozar/the-life-of-a-government-clerk](https://github.com/Bozar/the-life-of-a-government-clerk) - A turn based Roguelike game.
-
-*   [Yanxiyimengya/SmithyLegend](https://github.com/Yanxiyimengya/SmithyLegend) - 二创游戏 铁匠铺传奇 - Godot项目源代码
-
-*   [240700/Puzzle-Bobble](https://github.com/240700/Puzzle-Bobble) - 益智泡泡龙 Puzzle Bubble
-
-*   [nathanhoad/godot\_dialogue\_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
-
-*   [240700/Tetris](https://github.com/240700/Tetris) - Godot 俄罗斯方块
-
-*   [saicom/TimeRewind](https://github.com/saicom/TimeRewind) - godot时间回溯
-
-*   [Naptie/godot-phigros](https://github.com/Naptie/godot-phigros) -
-
-*   [saicom/JigsawPuzzle](https://github.com/saicom/JigsawPuzzle) -
-
-*   [feint123/feint-demos](https://github.com/feint123/feint-demos) - 一些有趣的小项目
-
-*   [etherealxx/limbo-godot](https://github.com/etherealxx/limbo-godot) - Godot 4 implementation of Geometry Dash Limbo keys minigame in Windows 10/11
-
-*   [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
-
-*   [JACKADUX/Godot-Audio-Player](https://github.com/JACKADUX/Godot-Audio-Player) -
-
-*   [yiduu76/godot\_music\_visulaize](https://github.com/yiduu76/godot_music_visulaize) - godot\_music\_visulaize
-
-*   [Goldenlion5648/GodotOverlayWindow](https://github.com/Goldenlion5648/GodotOverlayWindow) - A project showcasing how to overlay windows in godot, and reveal things in other windows
-
-*   [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!
-
-*   [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!
 
 ## Zig
 
