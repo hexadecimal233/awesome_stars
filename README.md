@@ -4,21 +4,22 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
-*   [Swift](#swift)
+*   [Kotlin](#kotlin)
+*   [Svelte](#svelte)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
-*   [C++](#c)
+*   [TypeScript](#typescript)
+*   [C](#c)
+*   [Python](#python)
+*   [Swift](#swift)
+*   [C++](#c-1)
 *   [Batchfile](#batchfile)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c-1)
 *   [Go](#go)
 *   [Vue](#vue)
-*   [Python](#python)
 *   [GDScript](#gdscript)
 *   [Astro](#astro)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Kotlin](#kotlin)
 *   [C#](#c-2)
 *   [MDX](#mdx)
 *   [Java](#java)
@@ -32,7 +33,6 @@
 *   [Common Lisp](#common-lisp)
 *   [Pascal](#pascal)
 *   [CSS](#css)
-*   [Svelte](#svelte)
 *   [Nix](#nix)
 *   [Dockerfile](#dockerfile)
 *   [Lua](#lua)
@@ -105,7 +105,1743 @@
 *   [PLpgSQL](#plpgsql)
 *   [Vim Script](#vim-script)
 
+## Kotlin
+
+*   [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
+
+*   [MewoLab/AquaDX](https://github.com/MewoLab/AquaDX) - A certain magical arcade server 🪄
+
+*   [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
+
+*   [EssentialGG/Essential-Mod](https://github.com/EssentialGG/Essential-Mod) - Essential is a quality of life mod that boosts Minecraft Java Edition to the next level!
+
+*   [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.x
+
+*   [spotify/ruler](https://github.com/spotify/ruler) - Gradle plugin which helps you analyze the size of your Android apps.
+
+*   [jordond/MaterialKolorBuilder](https://github.com/jordond/MaterialKolorBuilder) - 🚀 A Material3 theme builder for Compose, powered by MaterialKolor
+
+*   [openai/openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
+
+*   [isaakhanimann/psychonautwiki-journal-android](https://github.com/isaakhanimann/psychonautwiki-journal-android) -
+
+*   [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
+
+*   [HdShare/WAuxiliary\_Zygisk](https://github.com/HdShare/WAuxiliary_Zygisk) - WeChat Auxiliary Zygisk
+
+*   [TheCymaera/minecraft-hologram](https://github.com/TheCymaera/minecraft-hologram) -
+
+*   [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频聚合流媒体播放器 🎵
+
+*   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+
+*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+
+*   [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+
+*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
+
+*   [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
+
+*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+
+*   [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
+
+*   [MuntashirAkon/Metro](https://github.com/MuntashirAkon/Metro) -
+
+*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+
+*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
+
+*   [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
+
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+
+*   [pass-with-high-score/ANeko](https://github.com/pass-with-high-score/ANeko) - ANeko Reborn is a modern version of the classic ANeko app.  It features a cute cat animation that follows your finger on the Android screen, inspired by apps like nekoDA, xneko, oneko, and more.  This version is built for modern Android devices with better performance and compatibility.
+
+*   [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) - LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
+
+*   [HdShare/NullAvatar](https://github.com/HdShare/NullAvatar) - NullAvatar Source
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [HdShare/WAuxiliary\_Public](https://github.com/HdShare/WAuxiliary_Public) - WeChat Auxiliary Public
+
+*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+*   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Monochrome outlined brand icons for Android launchers.
+
+*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+
+*   [TheCymaera/minecraft-spider](https://github.com/TheCymaera/minecraft-spider) -
+
+*   [cao-awa/Conium](https://github.com/cao-awa/Conium) - Conium is a datapack and script framework for modern Minecraft, it provides very diverse features without Java coding, Conium lets you complete your mods only using datapacks.
+
+*   [hax0r31337/ProtoHax](https://github.com/hax0r31337/ProtoHax) - MITM cheat for Minecraft: PE
+
+*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+
+*   [huzhicheng/ALauncher](https://github.com/huzhicheng/ALauncher) -
+
+*   [xiSage/Godot4-TapTap-SDK-v4](https://github.com/xiSage/Godot4-TapTap-SDK-v4) - 适用于Godot4.2+的taptap sdk v4
+
+*   [clok-1201/RPGMaker](https://github.com/clok-1201/RPGMaker) -
+
+*   [chrislo27/PolyrhythmMania](https://github.com/chrislo27/PolyrhythmMania) - A game that faithfully recreates the Polyrhythm minigame from Rhythm Tengoku (リズム天国), with a built-in level editor
+
+*   [sotasan/decompiler](https://github.com/sotasan/decompiler) - Java Decompiler GUI
+
+*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
+
+*   [MinecraftFunctionPlusPlus/MCFPP](https://github.com/MinecraftFunctionPlusPlus/MCFPP) - MCFPP is a brand new objected-oriented language that can be compiled into Minecraft Datapack.
+
+*   [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
+
+*   [Sh4miko/BAuth](https://github.com/Sh4miko/BAuth) - A simple minecraft account login plugin with 100% bukkit api.
+
+*   [senseiwells/ServerReplay](https://github.com/senseiwells/ServerReplay) - A completely server-side Minecraft fabric mod that allows you to record replays for replay mod or flashback. This mod allows you to record multiple players that are online on a server at a time, as well as any given chunk area. This will produce replay files which can then be used with the respective mod for viewing/rendering.
+
+*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
+
+*   [Enaium/practice-bukkit-alipay](https://github.com/Enaium/practice-bukkit-alipay) - Bukkit插件对接支付宝支付
+
+*   [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
+
+*   [MC-XiaoHei/ISeeYou](https://github.com/MC-XiaoHei/ISeeYou) -
+
+*   [gauravssnl/BypassRootCheckPro](https://github.com/gauravssnl/BypassRootCheckPro) - Bypass Root Check Pro Modern Xposed API Module (with Java & Native C/C++ Hooks)
+
+*   [RatPoison-dev/RatPoison](https://github.com/RatPoison-dev/RatPoison) - Latest Ver: 1.7; Default Menu Key is F1; Charlatano's Successor; dn
+
+*   [simple-robot/simpler-robot](https://github.com/simple-robot/simpler-robot) - Simple Robot，一个bot风格的Kotlin多平台事件调度框架，异步高效、Java友好！/ A Bot-style Kotlin Multiplatform event scheduling framework, asynchronous and high-performance, java-friendly! 🐱😼😻😸
+
+*   [ArcaeaOffline/client-android](https://github.com/ArcaeaOffline/client-android) -
+
+*   [RuiPereiraDev/SimpleScore](https://github.com/RuiPereiraDev/SimpleScore) - A simple animated scoreboard plugin for your minecraft server.
+
+*   [Sumandora/tarasande](https://github.com/Sumandora/tarasande) - As the golden standard in cheating for Minecraft Competitive Multiplayer, tarasande provides the effective client-side solution to cheating.
+
+*   [xszqxszq/KarenBot](https://github.com/xszqxszq/KarenBot) - QQBot for Otomad/Maimai groups
+
+*   [EB-wilson/TooManyItems](https://github.com/EB-wilson/TooManyItems) - 一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [Era4FunMC/MyYsmNonFull](https://github.com/Era4FunMC/MyYsmNonFull) - My simple plugin that aims to run yes\_steve\_model mod on plugin servers without ysm format loading functions
+
+*   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
+
+*   [setruth/MaskAnim](https://github.com/setruth/MaskAnim) - The same switching effect is achieved based on the night and day theme switching effect of Telegram
+
+*   [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
+
+*   [fumiama/copymanga](https://github.com/fumiama/copymanga) - 拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本
+
+*   [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
+
+*   [zly2006/reden-is-what-we-made](https://github.com/zly2006/reden-is-what-we-made) - Redstone EDEN: Undo & Redo | Ctrl+Z | Mineacrft Debugger | Redstone Version Control | Any amazing features you can image!
+
+*   [SpaceXC/Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - Re:从零开始的WearBili
+
+*   [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+
+*   [CatMoe/Blessing](https://github.com/CatMoe/Blessing) - Recoding of MoeFilter. A utility created for Minecraft: Java Edition server/proxy.
+
+*   [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
+
+*   [StarWishsama/Comet-Bot](https://github.com/StarWishsama/Comet-Bot) - ☄ 支持多 IM 平台的机器人
+
+*   [KosmX/jneedle](https://github.com/KosmX/jneedle) - Java malware detection tool
+
+*   [AoEiuV020/IAmNotDisabled](https://github.com/AoEiuV020/IAmNotDisabled) - 我不是残疾人！
+
+*   [KitsunePie/AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) - Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to Android developer.
+
+*   [Dr-TSNG/TwiFucker](https://github.com/Dr-TSNG/TwiFucker) - Yet Another Adkiller for Twitter
+
+*   [RikkaW/YASNAC](https://github.com/RikkaW/YASNAC) - Yet Another SafetyNet Attestation Checker
+
+*   [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
+
+*   [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
+
+*   [feilongproject/BAAssetsDownloader](https://github.com/feilongproject/BAAssetsDownloader) - unOfficial BlueArchive Asset Downloader
+
+*   [Luna5ama/TrollHack](https://github.com/Luna5ama/TrollHack) - Strong utility mod for Minecraft anarchy servers.
+
+*   [UnlegitMC/FuckPCL](https://github.com/UnlegitMC/FuckPCL) - A library to detect PCL(Plain Craft Launcher)
+
+*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+
+*   [SpaceXC/WearBili](https://github.com/SpaceXC/WearBili) -
+
+*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+
+*   [EssentialGG/Elementa](https://github.com/EssentialGG/Elementa) - A simple, declarative GUI library for Minecraft
+
+*   [VoxelHax/OpenBukloit](https://github.com/VoxelHax/OpenBukloit) - Minecraft plugin backdoor injector
+
+*   [limbang/mirai-console-mcsm-plugin](https://github.com/limbang/mirai-console-mcsm-plugin) - 基于 Mirai Console 编写的MCSM api 控制插件
+
+*   [senseiwells/EssentialClient](https://github.com/senseiwells/EssentialClient) - EssentialClient is a client-side mod that adds many client utilities as well as providing a gui to modify carpet rules!
+
+*   [congHu/DD\_Monitor-android-kotlin](https://github.com/congHu/DD_Monitor-android-kotlin) - DD监控室，安卓版，Kotlin
+
+*   [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
+
+*   [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven-based artifacts in the JVM ecosystem 📦
+
+*   [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client based on LiquidBounce.
+
+*   [lambda-client/lambda-legacy](https://github.com/lambda-client/lambda-legacy) - Minecraft utility mod coded in Kotlin
+
+*   [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
+
+*   [4o4E/Boom](https://github.com/4o4E/Boom) - 基于BukkitAPI的管理插件
+
+*   [shaokeyibb/PaperclipPatcher](https://github.com/shaokeyibb/PaperclipPatcher) - 帮助你更改 Paperclip 的 Vanilla 服务端下载地址到国内友好的镜像站点
+
+*   [TabooLib/taboolib](https://github.com/TabooLib/taboolib) - Powerful framework for creating multi-platform Minecraft plugin
+
+*   [TrPlugins/TrChat](https://github.com/TrPlugins/TrChat) - Modern & Advanced chat control for Minecraft servers
+
+*   [etil2jz/Mirai](https://github.com/etil2jz/Mirai) - Mirai 未来 - A powerful Minecraft Server Software coming from the future
+
+*   [flexbooru/flexbooru](https://github.com/flexbooru/flexbooru) - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Shimmie, etc.
+
+*   [Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment) - 负魔书
+
+*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+
+*   [Dreeam-qwq/Liquidbounce-China](https://github.com/Dreeam-qwq/Liquidbounce-China) - (Abandoned)一个我的世界黑客端 | A Minecraft Hacked Client
+
+*   [SliceCast/External-PG3D-Injector](https://github.com/SliceCast/External-PG3D-Injector) -
+
+*   [HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android) - 【自用】咕咕咕
+
+*   [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
+
+*   [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
+
+*   [Enaium/BiligameAddictionNotLimited](https://github.com/Enaium/BiligameAddictionNotLimited) - B站游戏防沉迷不限制，关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+*   [MatteCarra/AccA](https://github.com/MatteCarra/AccA) - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [Slava0135/reVision](https://github.com/Slava0135/reVision) - Install for fresh and revised mindustry experience
+
+*   [lucasnlm/antimine-android](https://github.com/lucasnlm/antimine-android) - Antimine is an open source minesweeper-like puzzle game.
+
+*   [way-zer/ScriptAgent4MindustryExt](https://github.com/way-zer/ScriptAgent4MindustryExt) - A Plugin for Mindustry to load kotlin scripts && lots of feature scripts including vote/permission.
+
+*   [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
+
+*   [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+
+*   [Kieaer/Essentials](https://github.com/Kieaer/Essentials) - Mindustry plugin - Essentials
+
+*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被人泄露、利用
+
+*   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
+*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
+*   [mamoe/mirai-console](https://github.com/mamoe/mirai-console) - mirai 的高效率 QQ 机器人控制台
+
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+
+*   [lincollincol/HEIF-converter](https://github.com/lincollincol/HEIF-converter) - Converter for High Efficiency Image Format(HEIF)
+
+*   [fabricezhang/lcg](https://github.com/fabricezhang/lcg) - 吾爱破解第三方安卓应用
+
+*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+
+*   [kami-blue/client](https://github.com/kami-blue/client) - ARCHIVED - KAMI Blue: a continuation of 1.12.2 KAMI
+
+*   [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free Minecraft hacked client (utility mod) for Fabric
+
+*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+
+## Svelte
+
+*   [janosh/svelte-bricks](https://github.com/janosh/svelte-bricks) - Svelte masonry component with SSR support and column balancing
+
+*   [svar-widgets/core](https://github.com/svar-widgets/core) - SVAR Core library is a collection of essential UI components written with Svelte.
+
+*   [whoisyurii/checkmygit](https://github.com/whoisyurii/checkmygit) - Visualize and share your Github profile in seconds!
+
+*   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+*   [METATOOLS-ORG/metacloud](https://github.com/METATOOLS-ORG/metacloud) - experimental music sharing site
+
+*   [tijnjh/sveltrum](https://github.com/tijnjh/sveltrum) - minimal ad-free soundcloud client
+
+*   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
+
+*   [Naptie/nearcade](https://github.com/Naptie/nearcade) -
+
+*   [face-hh/lawmaxxing](https://github.com/face-hh/lawmaxxing) - A maps website, that reports you to the police if detected speeding. (self-hosted, calls a number of your choice, a meme)
+
+*   [bmdavis419/crazy-sveltekit-animations](https://github.com/bmdavis419/crazy-sveltekit-animations) - A little sandbox where I'm playing with some seriously insane animations
+
+*   [face-hh/lyntr](https://github.com/face-hh/lyntr) - Micro-blogging social media - with an IQ test. https://lyntr.com
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+*   [talesofai/comfyui-browser](https://github.com/talesofai/comfyui-browser) - An image/video/workflow browser and manager for ComfyUI.
+
+*   [KUN1007/kun-galgame-stickers-sveltekit](https://github.com/KUN1007/kun-galgame-stickers-sveltekit) - KUN's Visual Novel (galgame) sticker set. To recommend games to more people. Galgame 表情包仓库
+
+*   [MauritsWilke/mcpfp](https://github.com/MauritsWilke/mcpfp) - A website to generate Minecraft profile pictures
+
+*   [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
+
+*   [B00M3000/Mindustry-Schematics](https://github.com/B00M3000/Mindustry-Schematics) -
+
+## Rust
+
+*   [Kesomannen/gale](https://github.com/Kesomannen/gale) - A modern mod manager for Thunderstore
+
+*   [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies.
+
+*   [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket implementation
+
+*   [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation
+
+*   [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org\[Rust]
+
+*   [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no\_std + serde compatible message library for Rust
+
+*   [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
+
+*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+
+*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+
+*   [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust
+
+*   [valignatev/sleep-from-scratch](https://github.com/valignatev/sleep-from-scratch) - sleep for x86\_64 Linux from scratch
+
+*   [Fanteria/todotxt-tui](https://github.com/Fanteria/todotxt-tui) - Todo.txt TUI - Terminal-based Todo Task Manager
+
+*   [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) -
+
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+
+*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
+
+*   [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
+
+*   [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
+
+*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+
+*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
+
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+
+*   [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+
+*   [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
+
+*   [IxianPixel/rustwave](https://github.com/IxianPixel/rustwave) - A Soundcloud client written in Rust
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [biomejs/biome-zed](https://github.com/biomejs/biome-zed) - Biome extension for Zed
+
+*   [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
+
+*   [s00d/tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) -
+
+*   [Taiizor/tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - 🚀 Supercharge your Tauri app with intelligent disk & memory caching. Features TTL, compression, auto-cleanup, and cross-platform support for optimized performance.
+
+*   [cetra3/rustcloud](https://github.com/cetra3/rustcloud) - Download songs and mixes from your soundcloud stream
+
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+
+*   [djkato/DRP\_Creative](https://github.com/djkato/DRP_Creative) - Show your friends what you're working on, be it in Adobe Suite, Autodesk Suite, Cinema 4D or many more! Currently supported: C4D, Adobe Suite, Davinci Resolve, Maya, 3Ds Max, Sony Vegas, Substance suite, Isotropix suite, FL, Ableton, Blender, Cavalry, Zbrush
+
+*   [MaxOhn/Bathbot](https://github.com/MaxOhn/Bathbot) - Discord bot for osu!
+
+*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
+*   [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
+
+*   [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
+
+*   [grufkork/rkbx\_link](https://github.com/grufkork/rkbx_link) - Sync music and lights to Rekordbox over Ableton Link, OSC and more!
+
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+
+*   [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists.
+
+*   [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences
+
+*   [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
+
+*   [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) - \[READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
+
+*   [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
+
+*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+
+*   [rerun-io/egui\_table](https://github.com/rerun-io/egui_table) - Advanced table viewer for egui
+
+*   [kang-sw/egui-data-table](https://github.com/kang-sw/egui-data-table) -
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+
+*   [wangfu91/usn-journal-rs](https://github.com/wangfu91/usn-journal-rs) - A Rust library for working with the NTFS USN change journal and enumerating the MFT.
+
+*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+
+*   [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) - Package Manager for AOSC OS
+
+*   [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
+
+*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+
+*   [neocturne/MinedMap](https://github.com/neocturne/MinedMap) - Minecraft map renderer and viewer
+
+*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+
+*   [7086cmd/totp-console](https://github.com/7086cmd/totp-console) - Generate and manage your TOTP codes, in console.
+
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+
+*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
+
+*   [kingwingfly/encrypt-config](https://github.com/kingwingfly/encrypt-config) - A rust crate to manage, persist and encrypt your configurations.
+
+*   [AzurIce/ranim](https://github.com/AzurIce/ranim) - An animation engine implemented in rust, inspired by manim and JAnim
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+
+*   [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+
+*   [Eonian-Sharp/ESPortscan](https://github.com/Eonian-Sharp/ESPortscan) - 超高速端口扫描器。
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
+*   [onion108/xibao-gen](https://github.com/onion108/xibao-gen) - Generate xibao picture
+
+*   [Martinplior/high\_performance\_key\_overlay](https://github.com/Martinplior/high_performance_key_overlay) - A high performance key overlay, but not only high performance.
+
+*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+*   [contextfreeinfo/taca](https://github.com/contextfreeinfo/taca) - Wasm runtime for multimedia apps
+
+*   [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
+
+*   [maxcurzi/tplay](https://github.com/maxcurzi/tplay) - A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
+
+*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+
+*   [insomnimus/nodi](https://github.com/insomnimus/nodi) - A rust library for playing and abstraction of MIDI files.
+
+*   [insomnimus/plmidi](https://github.com/insomnimus/plmidi) - A command line MIDI player, written in rust.
+
+*   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
+
+*   [matrixlin/text\_editor](https://github.com/matrixlin/text_editor) - Learn the Rust programming language by writing your own text editor using the Rust programming language.
+
+*   [HaoboGu/rmk](https://github.com/HaoboGu/rmk) - Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support
+
+*   [typst/subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts.
+
+*   [chris-zen/kiro-synth](https://github.com/chris-zen/kiro-synth) - Modular sound synthesizer written in Rust
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+*   [michaelfairley/ezing](https://github.com/michaelfairley/ezing) - Easing functions for Rust
+
+*   [gin66/rusthesia](https://github.com/gin66/rusthesia) - Reads midi files and create piano notes waterfall
+
+*   [Coddeus/Pianorium](https://github.com/Coddeus/Pianorium) - A customizable midi visualizer/renderer for piano performances
+
+*   [kovaxis/midly](https://github.com/kovaxis/midly) - A feature-complete MIDI parser and writer focused on speed.
+
+*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+
+*   [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [Bylx666/key-lang](https://github.com/Bylx666/key-lang) - 目标是最精致的编程语言
+
+*   [wyatt-herkamp/vue3-simple-icons](https://github.com/wyatt-herkamp/vue3-simple-icons) - Simple-Icons for Vue3 with Typescript Definitions.
+
+*   [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and MacOs
+
+*   [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
+
+*   [srcres258/minecraft-rust](https://github.com/srcres258/minecraft-rust) -
+
+*   [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+
+*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+
+*   [lolishinshi/imsearch](https://github.com/lolishinshi/imsearch) - 基于特征点匹配的大规模相似图片搜索
+
+*   [KawaYww/deci-player](https://github.com/KawaYww/deci-player) - A music-player written with rust and iced
+
+*   [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+
+*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+
+*   [19MisterX98/Nether\_Bedrock\_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
+
+*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
+
+*   [kingwingfly/fav](https://github.com/kingwingfly/fav) - Back up your favorite bilibili resources with CLI.
+
+*   [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [Spu7Nix/SPWN-language](https://github.com/Spu7Nix/SPWN-language) - A language for Geometry Dash triggers
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [kingwingfly/downloader](https://github.com/kingwingfly/downloader) - A downloader by Tauri, Nextjs and actix.
+
+*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
+
+*   [ganlvtech/obs-audio-renderer](https://github.com/ganlvtech/obs-audio-renderer) - OBS 音频渲染器，将音频的采样信息渲染成视频画面
+
+*   [ganlvtech/obs-video-tile-remap](https://github.com/ganlvtech/obs-video-tile-remap) - OBS 视频分块重映射插件
+
+*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+
+*   [framist/egg-language-server](https://github.com/framist/egg-language-server) - egg 驱动的编写时代码优化语言服务器及 VS Code 插件 | Egg-powered code optimization language server & VS Code extension
+
+*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+
+*   [BRA1L0R/hopper-rs](https://github.com/BRA1L0R/hopper-rs) - Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft
+
+*   [StarWishsama/starrail-unlock-rs](https://github.com/StarWishsama/starrail-unlock-rs) - 星穹铁道 FPS 解锁 | Unlock Honkai: Star Rail fps limit | Written in Rust
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
+
+*   [TeamFlos/phira](https://github.com/TeamFlos/phira) -
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [BHznJNs/Calculator.rs](https://github.com/BHznJNs/Calculator.rs) - A simple command-line calculator program writen with Rust.
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [katyo/msdfgen-rs](https://github.com/katyo/msdfgen-rs) - Rust bindings to msdfgen library
+
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+*   [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
+
+*   [anna-is-cute/paste](https://github.com/anna-is-cute/paste) - A sensible, modern pastebin.
+
+*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [biliup/biliup-app](https://github.com/biliup/biliup-app) - b站全平台投稿客户端，支持多p投稿，稿件编辑
+
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+
+*   [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+
+*   [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+
+*   [veloren/veloren](https://github.com/veloren/veloren) - \[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+
+*   [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
+
+*   [chewing/windows-chewing-tsf](https://github.com/chewing/windows-chewing-tsf) - Free software implementation of Chewing Input method for Windows based on Text Services Framework
+
+*   [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+
+*   [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+
+*   [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
+
+*   [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
+
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+
+*   [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
+
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+*   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+
+*   [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+
+*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+
+*   [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.
+
+*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+
+*   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+
+*   [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
+
+*   [MaulingMonkey/appx](https://github.com/MaulingMonkey/appx) - manage appx packages
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+
+*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
+
+## JavaScript
+
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+
+*   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
+
+*   [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
+
+*   [cryptii/cryptii](https://github.com/cryptii/cryptii) - A web app for modular conversion, encoding, and encryption, all performed directly in your browser with no server interaction
+
+*   [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
+
+*   [produck/svg-captcha](https://github.com/produck/svg-captcha) - generate svg captcha in node
+
+*   [isitchristmas/web](https://github.com/isitchristmas/web) - Main site.
+
+*   [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
+
+*   [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+
+*   [ahnaf505/careless-whisper-poc](https://github.com/ahnaf505/careless-whisper-poc) - Proof Of Concept of the careless whisper vulnerability
+
+*   [TransparentLC/saizeriya](https://github.com/TransparentLC/saizeriya) - 萨莉亚随机点餐（Saizeriya random dish picker/サイゼリヤ ガチャ）
+
+*   [oftx/cloudflare-error-page](https://github.com/oftx/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host - A customizable Cloudflare error page generator
+
+*   [jarek-foksa/xel](https://github.com/jarek-foksa/xel) - Xel - Widget toolkit for building native-like Electron and Web apps
+
+*   [platformatic/php](https://github.com/platformatic/php) - PHP stackable for Watt
+
+*   [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
+
+*   [thednp/kute.js](https://github.com/thednp/kute.js) - KUTE.js is a JavaScript animation engine for modern browsers.
+
+*   [icyux/bili-auth](https://github.com/icyux/bili-auth) - 第三方哔哩哔哩 OAuth 2.0 API，基于私信鉴权 | Third-party Bilibili OAuth 2.0 API
+
+*   [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
+
+*   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+
+*   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
+
+*   [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
+
+*   [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing.
+
+*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+
+*   [scrapfly/Antibot-Detector](https://github.com/scrapfly/Antibot-Detector) -  Real-time detection of anti-bot systems, CAPTCHAs & fingerprinting techniques. Identifies Cloudflare, Akamai, DataDome, reCAPTCHA, hCaptcha, Shape Security & more with confidence scoring and advanced capture tools.
+
+*   [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
+
+*   [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
+
+*   [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
+
+*   [p2r3/SaplingFS](https://github.com/p2r3/SaplingFS) - Voxel-based Entropy-oriented Minecraft File System
+
+*   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+
+*   [pschlan/cron-job.org](https://github.com/pschlan/cron-job.org) - cron-job.org Open Source project
+
+*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+
+*   [1812z/RunTime\_Tracker](https://github.com/1812z/RunTime_Tracker) - A Node.js app that tracks your usage time.
+
+*   [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) -  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
+
+*   [Vertex-Mods/Advanced-Tab-Groups](https://github.com/Vertex-Mods/Advanced-Tab-Groups) - Improves Tab Folders & Groups for Zen Browser
+
+*   [DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE](https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE) - The Bluetooth Protocol Of DG-LAB Devices
+
+*   [OIRNOIR/WackyWebM](https://github.com/OIRNOIR/WackyWebM) - This is a simple tool to allow you to create WebM files with changing aspect ratios.
+
+*   [feross/buffer](https://github.com/feross/buffer) - The buffer module from node.js, for the browser.
+
+*   [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) -
+
+*   [iTsMaaT/WD-40](https://github.com/iTsMaaT/WD-40) - A music, utility & fun discord bot made in JavaScript
+
+*   [masonicGIT/pacman](https://github.com/masonicGIT/pacman) - A historical tribute to pac-man
+
+*   [TimMacy/YouTubeAlchemy](https://github.com/TimMacy/YouTubeAlchemy) - This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.
+
+*   [sanographix/tokusetsu4](https://github.com/sanographix/tokusetsu4) -
+
+*   [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
+
+*   [S4WA/SoundCloud-Player](https://github.com/S4WA/SoundCloud-Player) - For all of the soundcloud heavy users.
+
+*   [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
+
+*   [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
+
+*   [FranckFreiburger/vue3-sfc-loader](https://github.com/FranckFreiburger/vue3-sfc-loader) - Single File Component loader for Vue2 and Vue3. Load .vue files directly from your HTML. No node.js environment, no build step.
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [sapics/ip-location-api](https://github.com/sapics/ip-location-api) - Fast and customizable nodejs api to get geolocation information from ip address
+
+*   [NyarchLinux/NyarchLinux](https://github.com/NyarchLinux/NyarchLinux) - Nyarch Linux is a Linux distribution made for weebs, based on ArchLinux and EzArcher.
+
+*   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
+
+*   [GeorgLegato/sd-webui-panorama-viewer](https://github.com/GeorgLegato/sd-webui-panorama-viewer) - Sends rendered SD\_auto1111 images quickly to this panorama (hdri, equirectangular) viewer
+
+*   [lbb00/remove-feishu-watermark](https://github.com/lbb00/remove-feishu-watermark) - 移除飞书网页水印 ｜ Remove watermarks for Lark
+
+*   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
+
+*   [jonssonyan/cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) - Cloudflare Workers HTTP 反向代理
+
+*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
+
+*   [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
+
+*   [overtrue/share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
+
+*   [1280px/hueblocks](https://github.com/1280px/hueblocks) - Create beautiful Minecraft block gradients in a few clicks!
+
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+
+*   [aiselp/AutoX](https://github.com/aiselp/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+
+*   [HanamiYuushimo/adventurex-disqualified-generator](https://github.com/HanamiYuushimo/adventurex-disqualified-generator) -
+
+*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+
+*   [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
+
+*   [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)
+
+*   [echo094/decode-js](https://github.com/echo094/decode-js) - JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code
+
+*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+
+*   [sansan0/mao-map](https://github.com/sansan0/mao-map) - 📍 毛主席足迹地图 | Chairman Mao's Footprints Map - 交互式动态展示1893-1976年完整轨迹 | Interactive map showcasing Mao Zedong's journey (1893-1976). 星星之火，可以燎原 / A single spark can start a prairie fire.。底部为网友整理的毛泽东年谱，欢迎协作完善数据。
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+*   [Stan370/stan370.github.io](https://github.com/Stan370/stan370.github.io) - A user-friendly Material Design blog template.  博客模板 个性化定制的Hexo主题，简单配置即可使用，欢迎Star\&Fork
+
+*   [mattrltrent/github\_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
+
+*   [p2r3/doomcord-server-template](https://github.com/p2r3/doomcord-server-template) - https://youtu.be/EAQFDM5-zLU
+
+*   [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
+
+*   [Arnie97/moerail](https://github.com/Arnie97/moerail) - 铁路车站代码查询 × 动车组交路查询
+
+*   [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
+
+*   [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts) - 网易云音乐油猴脚本:歌曲下载、转存云盘、云盘歌曲快传、云盘匹配纠正...
+
+*   [ExaGraphica/Wavetapper](https://github.com/ExaGraphica/Wavetapper) - An interactive web version of the video for Wavetapper by Frums.
+
+*   [hmjz100/123panYouthMember](https://github.com/hmjz100/123panYouthMember) - 123 云盘会员青春版 - 模拟 123 云盘会员，还支持隐藏广告、使用视频倍速、修改头像、修改用户名、修改等级等功能；123云盘辅助增强脚本 - “解锁”123云盘
+
+*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)
+
+*   [QuiltNT/LLQQNT-unofficial](https://github.com/QuiltNT/LLQQNT-unofficial) - LiteLoaderQQNT 非官方版: 包含官方版尚未实现的功能
+
+*   [allen-garvey/dithermark](https://github.com/allen-garvey/dithermark) - Transform your photos into pixel art
+
+*   [leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
+
+*   [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
+
+*   [WJZ-P/LiteLoaderQQNT-Encrypt-Chat](https://github.com/WJZ-P/LiteLoaderQQNT-Encrypt-Chat) - 基于NTQQ的一个方便好用的消息加密插件(*^\_^*)
+
+*   [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
+
+*   [mapbs/mbs.js](https://github.com/mapbs/mbs.js) - 基于cesiumjs的web3d框架
+
+*   [Tup0lev/CutChenRui](https://github.com/Tup0lev/CutChenRui) - A JavaScript game to mock Chen Rui, the CEO of bilibili 乳睿Javascript小游戏 切陈睿
+
+*   [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize) - A node.js module for color quantization, based on Leptonica.
+
+*   [wheatup/TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku) - A danmaku chrome extension for twitch.tv
+
+*   [EvanZhouDev/polycompiler](https://github.com/EvanZhouDev/polycompiler) - Merge Python and JS code into one file that can be run in both languages.
+
+*   [antonpk1/gibber-mcp](https://github.com/antonpk1/gibber-mcp) - Tiny MCP server with cryptography tools, sufficient to establish end-to-end encryption between LLM agents
+
+*   [ahillss/ShadertoyCustomTextures](https://github.com/ahillss/ShadertoyCustomTextures) - Load client side textures into Shadertoy projects
+
+*   [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
+
+*   [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
+
+*   [kevb34ns/CEDICT2JSON](https://github.com/kevb34ns/CEDICT2JSON) - Converts the CC-CEDICT dictionary format to JSON
+
+*   [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
+
+*   [z2586300277/three-cesium-examples](https://github.com/z2586300277/three-cesium-examples) - WebGL Three.js Cesium.js Examples And Demo - WebGL 的 Three.js 和 Cesium.js 案例 --- Star ---点星星
+
+*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+
+*   [ayasa520/bilibili-favorites-exporter](https://github.com/ayasa520/bilibili-favorites-exporter) - 用于导出并本地展示 B 站收藏夹
+
+*   [chika-rikka/Mikan](https://github.com/chika-rikka/Mikan) - 这是一个超可爱的 Chrome 扩展程序，专门为 LeetCode 刷题的小伙伴设计～
+
+*   [KIY7086/OTTO](https://github.com/KIY7086/OTTO) -
+
+*   [Jacken-Wu/MSearcher](https://github.com/Jacken-Wu/MSearcher) - Memes Searcher allows you to quickly search for memes, or rename them.
+
+*   [n3xta/lyric-displayer](https://github.com/n3xta/lyric-displayer) - Letter to the Black World, but it's animated in JavaScript.
+
+*   [Rosemoe/arcaea-stickers](https://github.com/Rosemoe/arcaea-stickers) - Arcaea sticker maker
+
+*   [MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes](https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes) - 萌娘百科界面代码库
+
+*   [66hh/MidishowCrack](https://github.com/66hh/MidishowCrack) - Midishow免积分脚本
+
+*   [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) -
+
+*   [SmileYik/GTNH-OC-AE-Controller](https://github.com/SmileYik/GTNH-OC-AE-Controller) - Order the items in AE on the web. https://blog.smileyik.eu.org/oc-ae/
+
+*   [Losketch/yu-En.Decryption](https://github.com/Losketch/yu-En.Decryption) - ユ！语加密/解密工具
+
+*   [schollz/performances](https://github.com/schollz/performances) -
+
+*   [ENIACJushi/TouHouLittleMaidBE](https://github.com/ENIACJushi/TouHouLittleMaidBE) - A bedrock-edition Add-On transplanted by Java mod: TouHou Little Maid.
+
+*   [YaoqxCN/star-sky](https://github.com/YaoqxCN/star-sky) - 一个炫酷的网页星空动态背景
+
+*   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+
+*   [PRO-2684/Scriptio](https://github.com/PRO-2684/Scriptio) - Load custom UserScripts for QQNT
+
+*   [rebane2001/mapartcraft](https://github.com/rebane2001/mapartcraft) - A Minecraft custom mapart schematica generator, designed to be feasible in survival in servers like 2b2t
+
+*   [jrenc2002/GenLineAnimation-Server](https://github.com/jrenc2002/GenLineAnimation-Server) - Provide different line animations depending on the letters you type
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+
+*   [akzhy/Vara](https://github.com/akzhy/Vara) - Vara is a javascript library that can create text drawing animations
+
+*   [Nuitka-Commander/nuitka-commander.github.io](https://github.com/Nuitka-Commander/nuitka-commander.github.io) - A tool to help you generate Nuitka commands
+
+*   [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
+
+*   [CharlesHolbrow/vst2-preset-parser](https://github.com/CharlesHolbrow/vst2-preset-parser) - vst2 .fxp and .fxb binary file parser for node.js
+
+*   [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
+*   [sanyeEX/novel-rep](https://github.com/sanyeEX/novel-rep) -
+
+*   [fucklinux/fakeCAPTCHA](https://github.com/fucklinux/fakeCAPTCHA) - 仿 CAPTCHA（人机身份验证）组件，可自定义显示内容。
+
+*   [renmu123/biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
+
+*   [F-know/F\_Record](https://github.com/F-know/F_Record) - 一款用来录制绘画过程的轻量级PS插件
+
+*   [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
+
+*   [hCaptcha/vue-hcaptcha](https://github.com/hCaptcha/vue-hcaptcha) - Vue.js hCaptcha Component Library
+
+*   [4as/Chat-DeMod](https://github.com/4as/Chat-DeMod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with Chat.
+
+*   [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK) - 我的世界新兴论坛晋级赛，欢迎观战
+
+*   [huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
+
+*   [discordier/sam](https://github.com/discordier/sam) - Software Automatic Mouth - Tiny Speech Synthesizer
+
+*   [shixiaohu2206/hexo-theme-huhu](https://github.com/shixiaohu2206/hexo-theme-huhu) - theme for hexo
+
+*   [shengtudai2/geetestv4Slide](https://github.com/shengtudai2/geetestv4Slide) - 极验4代滑块
+
+*   [dzmitry-duboyski/solving-yandex-smart-captcha-using-puppeteer](https://github.com/dzmitry-duboyski/solving-yandex-smart-captcha-using-puppeteer) - Решение капчи Yandex SmartCaptcha от Яндекса с использованием библиотеки Puppeteer и сервиса 2captcha. Демо автоматизации обхода капчи Yandex Smart Captcha.
+
+*   [sout233/daw-test-web](https://github.com/sout233/daw-test-web) - 测测哪款daw更适合你
+
+*   [tarptaeya/repo-card](https://github.com/tarptaeya/repo-card) - :sunglasses: showcase :octocat: repositories on your website :metal:!
+
+*   [notbenwang/PolyrhythmCircleVisualizer](https://github.com/notbenwang/PolyrhythmCircleVisualizer) -
+
+*   [Angramme/polyrhythm3](https://github.com/Angramme/polyrhythm3) - A new reworked release of polyrhythm generator / metronome
+
+*   [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
+
+*   [tornadocash/tornado-core](https://github.com/tornadocash/tornado-core) - Tornado cash. Non-custodial private transactions on Ethereum.
+
+*   [safak/react-firebase-chat](https://github.com/safak/react-firebase-chat) -
+
+*   [alex3236/ToQQMusic](https://github.com/alex3236/ToQQMusic) - 优雅地将网易云音乐（或其他音乐平台）的歌单转换到 QQ 音乐
+
+*   [LoveCards/LoveCardsV2](https://github.com/LoveCards/LoveCardsV2) - 一款轻量、快速、友好于一身的微型社区系统
+
+*   [xtaw/LiteLoaderQQNT-Audio-Sender](https://github.com/xtaw/LiteLoaderQQNT-Audio-Sender) - 一个用于直接以语音形式发送音频文件的插件
+
+*   [xtaw/LiteLoaderQQNT-Euphony](https://github.com/xtaw/LiteLoaderQQNT-Euphony) - 一个为LiteLoaderQQNT插件提供基础功能的依赖
+
+*   [xh321/LiteLoaderQQNT-Directly-Jump](https://github.com/xh321/LiteLoaderQQNT-Directly-Jump) - LiteLoaderQQNT 插件 - 使用自定义浏览器打开链接并跳过拦截页
+
+*   [xh321/LiteLoaderQQNT-Kill-Update](https://github.com/xh321/LiteLoaderQQNT-Kill-Update) - LiteLoaderQQNT 插件 - 关闭自动更新弹窗
+
+*   [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效
+
+*   [leibnizli/hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
+
+*   [idcsmart/ZJMF-CBAP](https://github.com/idcsmart/ZJMF-CBAP) -
+
+*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+
+*   [0xlau/pixelcat](https://github.com/0xlau/pixelcat) - 🎬 Pixelcat is a solution for video frame encryption
+
+*   [PRO-2684/pURLfy](https://github.com/PRO-2684/pURLfy) - The ultimate URL purifier
+
+*   [sf-yuzifu/codemaoOptimization](https://github.com/sf-yuzifu/codemaoOptimization) - 对于在使用编程猫中遇到的各种问题的部分优化
+
+*   [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
+
+*   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+
+*   [Realityang/yuzusoft](https://github.com/Realityang/yuzusoft) -
+
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+
+*   [mustache-dev/Mario-Kart-3.js](https://github.com/mustache-dev/Mario-Kart-3.js) -
+
+*   [hrhello/cxk-ball](https://github.com/hrhello/cxk-ball) -
+
+*   [madderscientist/noteDigger](https://github.com/madderscientist/noteDigger) - 在线前端频谱分析扒谱 front-end music transcription
+
+*   [lgc2333/0d00.cn](https://github.com/lgc2333/0d00.cn) - 私のオナニーを見てください！
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+*   [sunnny516/speedfox](https://github.com/sunnny516/speedfox) -
+
+*   [wandduse/workers\_kv\_Shortenurl](https://github.com/wandduse/workers_kv_Shortenurl) -
+
+*   [forkphorus/sb-downloader](https://github.com/forkphorus/sb-downloader) - Website, JavaScript library, and CLI to download projects from Scratch. Supports Scratch 1 (sb), Scratch 2 (sb2), and Scratch 3 (sb3).
+
+*   [Chasyxx/EnBeat\_NEW](https://github.com/Chasyxx/EnBeat_NEW) - Bytebeat player with a collection of many formulas from around the internet.
+
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+
+*   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
+
+*   [sheep-realms/Echo-Live](https://github.com/sheep-realms/Echo-Live) - 一款基于 Echo 的用于无声系虚拟主播直播的仿视觉小说对话框 OBS 插件
+
+*   [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
+
+*   [Bitsea1/vitayr](https://github.com/Bitsea1/vitayr) - vitayr主题
+
+*   [etigerstudio/hexo-tag-hint](https://github.com/etigerstudio/hexo-tag-hint) - A Hexo tag plugin to display text hint/spoiler tooltip.
+
+*   [yhtt2020/workbench](https://github.com/yhtt2020/workbench) - 想天工作台客户端
+
+*   [diyigemt/arona](https://github.com/diyigemt/arona) - mirai-console的blue archive插件
+
+*   [MelodyYuuka/NeteaseCloudMusic-Audio-Recognize](https://github.com/MelodyYuuka/NeteaseCloudMusic-Audio-Recognize) - 网易云音乐-听歌识曲接口 demo
+
+*   [MingxuanGame/hexo-sakana](https://github.com/MingxuanGame/hexo-sakana) - Sakana🐟 in hexo
+
+*   [takuron/talk-with-buddha](https://github.com/takuron/talk-with-buddha) - 与佛论禅——一个加密应用的Web重制版。
+
+*   [rcnbapp/RCNB.js](https://github.com/rcnbapp/RCNB.js) - Everything can be encoded into RCNB with JavaScript.
+
+*   [daymade/Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
+
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [imzlh/vList](https://github.com/imzlh/vList) - vList是一个基于nginx-fancyindex的列表程序，支持在线预览、自适应...
+
+*   [alcor/emoji-supply](https://github.com/alcor/emoji-supply) - Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen
+
+*   [DoodleBears/blivechat](https://github.com/DoodleBears/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
+
+*   [mmyo456/BiliAnalysis](https://github.com/mmyo456/BiliAnalysis) - 用于获取哔哩哔哩视频直链的tampermonkey脚本
+
+*   [huasenjio/huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于Vue.js + Node.js + Docker开发的多功能平台，由可自定义简洁主页、文章发布、后台管理模块组成，内容涵盖了日常生活、娱乐、学习、影视、考研、工作、科技、实用工具等领域，致力于提供聚合高效地上网冲浪环境的公益性平台！
+
+*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [WenqiOfficial/StudyWithMiku](https://github.com/WenqiOfficial/StudyWithMiku) - STUDY WITH MIKU web version cover
+
+*   [luoyily/MoeMusicTranscription](https://github.com/luoyily/MoeMusicTranscription) - An automatic music transcription application
+
+*   [LouisBarranqueiro/hexo-algoliasearch](https://github.com/LouisBarranqueiro/hexo-algoliasearch) - :mag\_right: A plugin to index posts of your Hexo blog on Algolia
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+
+*   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+
+*   [SunsetMkt/blue-archive-spine](https://github.com/SunsetMkt/blue-archive-spine) - Blue Archive Spine Viewer for Global & Japan versions, Demo: https://github.com/SunsetMkt/blue-archive-spine-production
+
+*   [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一个可爱而现代的 Hexo 主题
+
+*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+
+*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [ganlvtech/qrcode-file-transfer](https://github.com/ganlvtech/qrcode-file-transfer) - Transfer files with screen and webcam
+
+*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+
+*   [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
+
+*   [MoePlayer/hexo-tag-dplayer](https://github.com/MoePlayer/hexo-tag-dplayer) - Embed dplayer in Hexo posts/pages
+
+*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+
+*   [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
+
+*   [imaegoo/hexo-theme-icarus](https://github.com/imaegoo/hexo-theme-icarus) - 魔改版 Hexo Icarus 主题
+
+*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
+
+*   [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
+
+*   [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
+
+*   [ohroy/hexo-abbrlink](https://github.com/ohroy/hexo-abbrlink) - create one and only link for every post for hexo
+
+*   [fomalhaut1998/hexo-theme-Fomalhaut](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut) - 🥝的网站源码
+
+*   [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
+
+*   [metowolf/MetingJS](https://github.com/metowolf/MetingJS) - :cake: A powerful plugin connect APlayer and Meting
+
+*   [TheOriginalAyaka/sekai-stickers](https://github.com/TheOriginalAyaka/sekai-stickers) - Project Sekai sticker maker
+
+*   [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
+
+*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
+
+*   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
+
+*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
+
+*   [nineya/halo-theme-dream](https://github.com/nineya/halo-theme-dream) - 二次元风格 halo 博客主题
+
+*   [DIYgod/OwO](https://github.com/DIYgod/OwO) - :lollipop: Lovely Emoticon and Emoji Keyboard for input
+
+*   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
+
+*   [rovo89/XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
+
+*   [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
+
+*   [duiqt/herta\_kuru](https://github.com/duiqt/herta_kuru) - The website for Herta, the cutest genius Honkai: Star Rail character out there.
+
+*   [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+
+*   [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer) - SubPlayer is no longer maintained, please consider Aimu
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+
+*   [shanmiteko/LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bili动态抽奖助手
+
+*   [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope) - Bilibili chrome extension to show uploader's stats
+
+*   [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
+
+*   [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
+
+*   [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
+
+*   [ShikemokuMK/tyranoscript](https://github.com/ShikemokuMK/tyranoscript) - novel game engine for Browser, iOS, Android , etc
+
+*   [rustgopy/wasm](https://github.com/rustgopy/wasm) - WebAssembly(WASM)合集
+
+*   [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
+
+*   [dev-zuo/nice-func](https://github.com/dev-zuo/nice-func) - 尝试实现一些让人耳目一新、感觉很 nice 的网页内容、动效 http://nice.zuo11.com
+
+*   [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
+
+*   [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Offer！☁️ 本项目前后端均开源，励志成为最好的全栈云开发项目！
+
+*   [sanmusen214/arisstudio-blockly](https://github.com/sanmusen214/arisstudio-blockly) - Build blocks to use ArisStudio to create ba story. 堆搭积木来使用爱丽丝工坊以生成碧蓝档案动画。
+
+*   [ccloli/E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file
+
+*   [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
+
+*   [journey-ad/sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization) - Stable Diffusion web UI bilingual localization extensions. SD WebUI双语对照翻译插件
+
+*   [NXY666/Jsjiemi](https://github.com/NXY666/Jsjiemi) - 基于正则匹配的 JavaScript 解密工具。请务必遵守开源协议，不得用于非法或商业用途。
+
+*   [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
+
+*   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+
+*   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+
+*   [LoveLiveMusicPlayer/LoveLiveMusicPlayer](https://github.com/LoveLiveMusicPlayer/LoveLiveMusicPlayer) - \[ラブライブ] A LoveLiver Music Player
+
+*   [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
+
+*   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
+
+*   [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
+
+*   [solstice23/refined-now-playing-netease](https://github.com/solstice23/refined-now-playing-netease) - 🎵 网易云音乐沉浸式播放界面、歌词动画 - BetterNCM 插件
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+
+*   [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+
+*   [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
+
+*   [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
+
+*   [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
+
+*   [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights) - 明日方舟罗德岛阵营的 Hexo 主题，支持数学公式、Mermaid图表、多种评论系统（Valine、Gitalk、Waline、Artalk、Utterances、Giscus）
+
+*   [xfgryujk/blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
+
+*   [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
+
+*   [chao325/Evil.js](https://github.com/chao325/Evil.js) - 专注技术的库
+
+*   [YQ-LL-Plugins/LLSE-FakePlayer](https://github.com/YQ-LL-Plugins/LLSE-FakePlayer) - A fake-player plugin for LiteLoaderBDS
+
+*   [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+
+*   [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [soonxf/Firewalld-UI](https://github.com/soonxf/Firewalld-UI) - Node.js 的 Firewalld  界面化,基于 Node.js 适用于 个人服务器 和 NAS  的  Firewalld(防火墙) 界面化,不需要记忆操作命令,更没有 Firewalld 的区域概念,和 iptables 复杂的 表链结构 .界面上点击创建一些规则就可以达到  自动  屏蔽和放行 IP 的目的.
+
+*   [newcl/namebb](https://github.com/newcl/namebb) - pick up a chinese name for you baby~
+
+*   [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
+
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+*   [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+*   [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
+
+*   [fastify/fastify-express](https://github.com/fastify/fastify-express) - Express compatibility layer for Fastify
+
+*   [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+
+*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+*   [respectZ/blue-archive-spine](https://github.com/respectZ/blue-archive-spine) - Blue Archive Spine Viewer
+
+*   [sindresorhus/public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address - very fast!
+
+*   [FAF-D2/bpgame](https://github.com/FAF-D2/bpgame) - 一个可以在b站玩游戏的插件 A game plugin in web bilibili
+
+*   [0ct0r0ck/SMFuckding](https://github.com/0ct0r0ck/SMFuckding) - 苏州死🐴法克丁软件有限公司-让盗版软件坑你坑到倾家荡产。
+
+*   [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
+
+*   [eggtoopain/React-beginner-tutorial-TeacherEgg](https://github.com/eggtoopain/React-beginner-tutorial-TeacherEgg) - B站：技术蛋老师
+
+*   [BUGTeas/nugget\_speens\_h5](https://github.com/BUGTeas/nugget_speens_h5) -
+
+*   [SukkaW/OpenCore-Document-zh\_Hans](https://github.com/SukkaW/OpenCore-Document-zh_Hans) - \[非官方/Unofficial] OpenCore Bootloader 参考手册简体中文翻译
+
+*   [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+
+*   [BUIBIU/imageToMLogic](https://github.com/BUIBIU/imageToMLogic) - 图片转Mindustry处理器脚本
+
+*   [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
+
+*   [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
+
+*   [std-microblock/BilibiliInteractiveVideoTree](https://github.com/std-microblock/BilibiliInteractiveVideoTree) - Bilibili互动视频剧情树获取
+
+*   [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+
+*   [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
+
+*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+
+*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
+
+*   [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
+
+*   [userElaina/this-is-the-China-website](https://github.com/userElaina/this-is-the-China-website) - 将国际网站伪装成中国网站.
+
+*   [kenmingwang/azusa-player](https://github.com/kenmingwang/azusa-player) - A 3rd party Bilibili audio player / 一个Bilibili第三方音频播放器
+
+*   [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Browser Extension to Sync Video Playback on All Video Platforms / 一起看视频浏览器插件，兼容所有平台
+
+*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
+
+*   [wuuconix/scripts](https://github.com/wuuconix/scripts) - 拿来练手的油猴脚本
+
+*   [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp) - If you stop typing for more than five seconds, all progress will be lost.
+
+*   [std-microblock/BilibiliLiveDanmakuSender](https://github.com/std-microblock/BilibiliLiveDanmakuSender) - 网页端 检测直播间吞弹幕&自动尝试规避 插件
+
+*   [cokolele/terraria-map-editor](https://github.com/cokolele/terraria-map-editor) - ✏️🌳 Terraria map editor, in a web browser.
+
+*   [hexadecimal233/mcsm-reg](https://github.com/hexadecimal233/mcsm-reg) - MCSManager注册工具
+
+*   [xianfei/SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
+
+*   [go-cqhttp/for-node](https://github.com/go-cqhttp/for-node) - 基于 go-cqhttp 和 nodejs 的 qq 机器人
+
+*   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
+
+*   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
+
+*   [jerrychan7/WebMC](https://github.com/jerrychan7/WebMC) - A web version of Minecraft built using js and WebGL without third-party libraries.
+
+*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
+
+*   [itorr/homo](https://github.com/itorr/homo) - 💩「恶臭数字论证器」数字恶臭化工具
+
+*   [ZiuChen/A-Soul-Browser-Pet](https://github.com/ZiuChen/A-Soul-Browser-Pet) - 🍬 Keep an A-SOUL member as a pet in your browser
+
+*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
+
+*   [mymonero/mymonero-app-js](https://github.com/mymonero/mymonero-app-js) - The JS codebase for the MyMonero desktop apps
+
+*   [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+
+*   [Heath123/pakkit](https://github.com/Heath123/pakkit) -
+
+*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
+
+*   [kamerk22/random-password-generator](https://github.com/kamerk22/random-password-generator) - Random Password Generator Tool in React 🔀🔑
+
+*   [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
+
+*   [abstractsins/TOS-psygen](https://github.com/abstractsins/TOS-psygen) - Fake Psychic Will generator for Town of Salem
+
+*   [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV Media Server
+
+*   [nickola/web-console](https://github.com/nickola/web-console) - :desktop\_computer: Simple web-based shell in your browser (outdated)
+
+*   [tmplink/tmpui\_tmplink](https://github.com/tmplink/tmpui_tmplink) - Made for storage.
+
+*   [gaoyuyue/MyUploader](https://github.com/gaoyuyue/MyUploader) - 单文件上传，多文件上传，大文件上传，断点续传，文件秒传，图片上传
+
+*   [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+*   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+
+*   [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
+
+*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
+
+*   [alexadam/img-encode](https://github.com/alexadam/img-encode) - Encode an image to sound and view it as a spectrogram - turn your images into music
+
+*   [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
+
+*   [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
+
+*   [fabianoriccardi/killed-by-microsoft](https://github.com/fabianoriccardi/killed-by-microsoft) - Part guillotine, part graveyard for Microsoft's doomed apps, services, and hardware.
+
+*   [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
+
+*   [wanghao221/moyu](https://github.com/wanghao221/moyu) - 2000个摸鱼小游戏、小工具源码集合及在线演示
+
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+
+*   [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
+
+*   [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
+
+*   [hexadecimal233/chongchong-free](https://github.com/hexadecimal233/chongchong-free) - 免费下载虫虫钢琴琴谱
+
+*   [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
+
+*   [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical\_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.
+
+*   [tomas/needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.
+
+*   [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+
+*   [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
+
+*   [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
+
+*   [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
+
+*   [sindresorhus/random-int](https://github.com/sindresorhus/random-int) - Generate a random integer
+
+*   [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
+
+*   [Lytsu/lowlight](https://github.com/Lytsu/lowlight) - Lowlight is a website that provides some rhythm games downloading.
+
+*   [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
+
+*   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+
+*   [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
+
+*   [MuGuiLin/QRCode](https://github.com/MuGuiLin/QRCode) - 纯前端JS ：QRCode 扫描、生成二维码、从相册获取图片识别、生成带Logo二维码、能识别：微博、微信、QQ等 扫一扫 二维码，该项目功能共分为：Js版 和 Vue.js两个版本！
+
+*   [yuameshi/PhiCommunity-Bak](https://github.com/yuameshi/PhiCommunity-Bak) - A community driven project to make a game like phigros.
+
+*   [imsky/holder](https://github.com/imsky/holder) - :city\_sunrise: Client-side image placeholders.
+
+*   [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
+
+*   [TheSecondAkari/vscode-live2d](https://github.com/TheSecondAkari/vscode-live2d) - vscode插件-live2d。 默认角色会设置为asoul的嘉然
+
+*   [MisaWorkGroup/Ph1gr0s-Emulator](https://github.com/MisaWorkGroup/Ph1gr0s-Emulator) - \[Deprecated] An emulator for rythnm game 'Phigros', based on Pixi.js, forked from lchzh3473/lchzh3473.github.io.
+
+*   [GDColon/GDBrowser](https://github.com/GDColon/GDBrowser) - A website that lets you browse all of Geometry Dash's online features, and more!
+
+*   [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
+
+*   [shenruisi/Stay](https://github.com/shenruisi/Stay) - Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.
+
+*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+
+*   [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg) - 电脑博物馆 - compumuseum.com
+
+*   [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
+
+*   [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
+
+*   [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
+
+*   [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
+
+*   [kanasimi/work\_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
+
+*   [savokiss/vue-videojs-demo](https://github.com/savokiss/vue-videojs-demo) - Use video.js & vue to play RTMP && HLS streams && playback
+
+*   [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc) - :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green\_apple: 实时直播：WebRTC
+
+*   [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application.
+
+*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
+
+*   [ldez/cubejs](https://github.com/ldez/cubejs) - cube.js -- JavaScript library for modeling and solving the 3x3x3 Rubik's Cube
+
+*   [jinliming2/Chrome-Charset](https://github.com/jinliming2/Chrome-Charset) - An extension used to modify the page default encoding for Chromium 55+ based browsers.
+
+*   [xbeginagain/generator](https://github.com/xbeginagain/generator) - 编号生成器(测试用)
+
+*   [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
+
+*   [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
+
+*   [nashaofu/dingtalk](https://github.com/nashaofu/dingtalk) - 钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
+
+*   [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+
+*   [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
+
+*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+
+*   [ShizukuIchi/pdf-editor](https://github.com/ShizukuIchi/pdf-editor) - Offline PDF editor. Add images, signatures, text to PDF in your browser. 🚀
+
+*   [scratchfoundation/scratch-gui](https://github.com/scratchfoundation/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
+
+*   [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
+
+*   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
+
+*   [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2
+
+*   [jspenguin2017/uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin
+
+*   [glyphr-studio/Glyphr-Studio-1](https://github.com/glyphr-studio/Glyphr-Studio-1) - Now deprecated, Glyphr Studio v1 served us well from 2010 to 2023.
+
+*   [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags.
+
+*   [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+
+*   [joue-quroi/cookie-editor](https://github.com/joue-quroi/cookie-editor) - a browser extension to display and modify page-related cookies
+
+*   [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
+
+*   [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
+
+*   [react-dates/react-dates](https://github.com/react-dates/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
+
+*   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
+
+*   [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+
+*   [Kenshin/simpread-little](https://github.com/Kenshin/simpread-little) - 简悦( SimpRead ) · 轻阅版
+
+*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+
+*   [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
+
+*   [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
+
+*   [devloop01/password-generator](https://github.com/devloop01/password-generator) - Random Password Generator Tool
+
+*   [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+
+*   [hustcc/chrome-qrcode](https://github.com/hustcc/chrome-qrcode) - :zap: A Chrome plugin to Genrate QRCode of URL / Text, or Decode the QRcode in website. 一个Chrome浏览器插件，用于生成当前URL或者选中内容的二维码，同时可以用于解析网页上的二维码内容。
+
+*   [primer/primer.style](https://github.com/primer/primer.style) - The website for all things Primer
+
+*   [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
+
+*   [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+
+*   [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
+
+*   [nasawz/lucky\_bilibili\_web](https://github.com/nasawz/lucky_bilibili_web) - 一款帮助B站UP主恰饭视频做抽奖活动的工具。
+
+*   [scottcgi/MojoJS-Animation](https://github.com/scottcgi/MojoJS-Animation) - A lightweight and powerful javascript Animation engine.
+
+*   [journey-ad/DanmakuSender](https://github.com/journey-ad/DanmakuSender) - 哔站弹幕发送者uid反查
+
+*   [chitosai/bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩
+
+*   [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
+
+*   [videojs/videojs-vr](https://github.com/videojs/videojs-vr) - A plugin to add 360 and VR video support to video.js.
+
+*   [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
+
+*   [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
+
+*   [Pau1fitz/react-spotify](https://github.com/Pau1fitz/react-spotify) - Spotify React / Redux   🎤🎺🎸🎷
+
+*   [EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate) - A translation extension.
+
+*   [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no\_entry\_sign:
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [Grispi/Uno\_Game](https://github.com/Grispi/Uno_Game) - Uno Card Game online | Juega UNO gratis online, ahora puedes jugar con tus amigos o tu familia desde cualquier dispositivo sin necesidad de instalar nada. #UnoGame
+
+*   [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
+
+*   [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
+
+*   [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
+
+*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+
+*   [phoqe/havelock](https://github.com/phoqe/havelock) - Extract accounts, cookies, and history from Chromium-based web browsers.
+
+*   [crumblingstatue/FloweysTimeMachine](https://github.com/crumblingstatue/FloweysTimeMachine) - Undertale SAVE editor
+
+*   [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension \[top~1] Enrich your experience\&choice!🧰200+options; clever features📌set\&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+
+*   [rooklift/nibbler](https://github.com/rooklift/nibbler) - Chess analysis GUI for UCI engines, with extra features for Leela (Lc0) in particular.
+
+*   [svga/SVGAPlayer-Web](https://github.com/svga/SVGAPlayer-Web) - Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
+
+*   [z358z358/Roulette](https://github.com/z358z358/Roulette) - 自訂轉盤
+
+*   [Sirvoid/MindustryVCode](https://github.com/Sirvoid/MindustryVCode) - Mindustry Mod that adds a programming language with its own compiler in game.
+
+*   [TeamAOF/All-of-Fabric-3](https://github.com/TeamAOF/All-of-Fabric-3) - Modpack containing the latest & best Fabric mods
+
+*   [hexadecimal233/MinecraftMusic](https://github.com/hexadecimal233/MinecraftMusic) - Adds Minecraft music into the game.
+
+*   [egold555/MinecraftAssetBeautifier](https://github.com/egold555/MinecraftAssetBeautifier) - Rename and beautify the .minecraft/assets/objects directory
+
+*   [MEEPofFaith/missing-category-units](https://github.com/MEEPofFaith/missing-category-units) - Aims to add the missing categories of units.
+
+*   [hexadecimal233/DebugUtils](https://github.com/hexadecimal233/DebugUtils) - Debug utilities for mindustry
+
+*   [mumuy/browser](https://github.com/mumuy/browser) - 浏览器检测 - Useragent分析/浏览器识别/浏览器判断/用户代理信息/浏览器指纹/Useragent analysis tool/Browser detection
+
+*   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
+
+*   [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
+
+*   [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
+
+*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+
+*   [aszx87410/mars-lang-chrome-extension](https://github.com/aszx87410/mars-lang-chrome-extension) - 能讓你的頁面變成火星文的 chrome 擴充套件
+
+*   [rspx/MinEmu](https://github.com/rspx/MinEmu) -
+
+*   [Xeloboyo/Factoriodustry](https://github.com/Xeloboyo/Factoriodustry) - A texturepack for mindustry, currently in dev
+
+*   [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
+
+*   [MEEPofFaith/Ohno-Missiles](https://github.com/MEEPofFaith/Ohno-Missiles) - With the new ballistic missile, you can nuke the enemies with various missile silos.
+
+*   [QmelZ/hackustry](https://github.com/QmelZ/hackustry) - Hackustry mod for Mindustry.
+
+*   [deltanedas/dev-mode](https://github.com/deltanedas/dev-mode) - Mindustry mod, lets you type into the console.
+
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+
+*   [clear-code/ieview-we](https://github.com/clear-code/ieview-we) - Provides ability to open pages and links by Internet Explorer (Cloned IE View based on WebExtensions)
+
+*   [Sam0230/No-Fingerprint](https://github.com/Sam0230/No-Fingerprint) - Block browser fingerprinting attempts.
+
+*   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+
+*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
+
+*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+
+*   [ffmpegwasm/chrome-extension-app](https://github.com/ffmpegwasm/chrome-extension-app) - An example to use ffmpeg.wasm in Chrome Extension
+
+*   [sonysuqin/WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer) - Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.
+
+*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+
+*   [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+
+*   [feross/bitmidi.com](https://github.com/feross/bitmidi.com) - 🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web
+
+*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
+
+*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+
+*   [jabbany/ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器
+
+*   [travist/jsencrypt](https://github.com/travist/jsencrypt) - A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+
+*   [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
+
+*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+
+*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+
+*   [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
+
+*   [Kenguba/google-access-helper](https://github.com/Kenguba/google-access-helper) - 谷歌访问助手破解版、谷歌翻墙、谷歌梯子、谷歌梯子扩展工具、谷歌商店访问、Chrome翻墙
+
+*   [ElemeFE/vue-amap](https://github.com/ElemeFE/vue-amap) - 🌍  基于 Vue 2.x 和高德地图的地图组件
+
+*   [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx) - 斗鱼直播间增强插件（Tampermonkey）
+
+*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+
+*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+
+*   [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
+
+*   [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+
+*   [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love\_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+
+*   [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
+
+*   [rover95/morse-encrypt](https://github.com/rover95/morse-encrypt) - 基于零宽字符和摩斯电码的隐藏文本加密 || Text hiding encryption、Morse code encryption、zero-width character encryption
+
+*   [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux.
+
+*   [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
+
+*   [bhaoo/Cuckoo](https://github.com/bhaoo/Cuckoo) - 🍭 一款MD风格的双栏 Typecho 主题
+
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+*   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+
+*   [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
+
+*   [nilaoda/Blog](https://github.com/nilaoda/Blog) - 记录点东西.
+
+*   [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
+
+*   [telerik/kendo-ui-core](https://github.com/telerik/kendo-ui-core) - An HTML5, jQuery-based widget library for building modern web apps.
+
+*   [maple3142/ytdl](https://github.com/maple3142/ytdl) - Get youtube video download url
+
+*   [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
+
+*   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+
+*   [muicss/mui](https://github.com/muicss/mui) - Lightweight CSS framework
+
+*   [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+
+*   [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
+
+*   [libsgh/189-down](https://github.com/libsgh/189-down) - 天翼云网盘直链解析
+
+*   [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
+
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+*   [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
+
+*   [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
+
+*   [biliob233/biliob233.github.io](https://github.com/biliob233/biliob233.github.io) -
+
+*   [poppinlp/bv2av](https://github.com/poppinlp/bv2av) - 把 bilibili 新的 bv 号转回旧的 av 号
+
+*   [gxywy/rl-bigwatermelon](https://github.com/gxywy/rl-bigwatermelon) - 用深度强化学习玩合成大西瓜
+
+*   [liyupi/daxigua](https://github.com/liyupi/daxigua) - 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
+
+*   [Mapaler/PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程(如路由器)下载。
+
+*   [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
+
+*   [liust97/rich-simulator](https://github.com/liust97/rich-simulator) - 有钱人模拟器
+
+*   [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon) - 合成大西瓜源码,修改版
+
+*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+
+*   [canguser/hooker-js](https://github.com/canguser/hooker-js) -
+
+*   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+*   [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
+
+*   [akameco/PixivDeck](https://github.com/akameco/PixivDeck) - :two\_hearts: pixiv client for Desktop like TweetDeck :two\_hearts:
+
+*   [bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
+
+*   [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
+
+*   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
+
+*   [iSparta/iSparta](https://github.com/iSparta/iSparta) - APNG、WebP converter
+
+*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+*   [scratchfoundation/scratch-desktop](https://github.com/scratchfoundation/scratch-desktop) - Scratch 3.0 as a self-contained desktop application
+
+*   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+
+*   [WMProject1217/Wemakeli](https://github.com/WMProject1217/Wemakeli) - 一个基于PHP的弹幕视频网站 A danmaku video website build with php
+
+*   [jnordberg/gif.js](https://github.com/jnordberg/gif.js) - JavaScript GIF encoding library
+
+*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
+
+*   [lukevink/hass-config-lajv](https://github.com/lukevink/hass-config-lajv) - Home Assistant Configuration
+
+*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+
+*   [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - \[Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
+
+*   [catdad-experiments/heic-convert](https://github.com/catdad-experiments/heic-convert) - 🤳 convert heic/heif images to jpeg and png
+
+*   [akof1314/Wiz.UEditor](https://github.com/akof1314/Wiz.UEditor) - 一个基于 UEditor 构建的为知笔记编辑器插件
+
+*   [vialink/viacrypt](https://github.com/vialink/viacrypt) - One time read messaging system.
+
+*   [fex-team/ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
+
+*   [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
+
+*   [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
+
+*   [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+
+*   [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
+
+*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
+
+*   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+
+*   [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
+
+*   [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
+
+*   [libnoname/noname](https://github.com/libnoname/noname) -
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [Mr-Po/bilibili-favorites-fix](https://github.com/Mr-Po/bilibili-favorites-fix) - 修复 哔哩哔哩(www.bilibili.com) 失效的收藏。（可查看av号、简介、标题、封面）
+
+*   [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
+
+*   [justjavac/Flarum](https://github.com/justjavac/Flarum) - Flarum - 优雅自由的 PHP 轻社区
+
 ## TypeScript
+
+*   [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 
 *   [melt-ui/next-gen](https://github.com/melt-ui/next-gen) - The next generation of Melt UI
 
@@ -1225,7 +2961,2093 @@
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 
-*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
+## C
+
+*   [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
+
+*   [sbrin/lopaka](https://github.com/sbrin/lopaka) - Lopaka - Stunning graphics for embedded systems displays
+
+*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+
+*   [RQNG/WouoUI](https://github.com/RQNG/WouoUI) - 模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。
+
+*   [TheSunCat/Minecraft4k-CPP](https://github.com/TheSunCat/Minecraft4k-CPP) - A reimagining of Minecraft4k in C++, now with GPU acceleration!
+
+*   [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
+
+*   [tsoding/lamb](https://github.com/tsoding/lamb) - Tiny Pure Functional Programming Language in C
+
+*   [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
+
+*   [litespeedtech/lsquic](https://github.com/litespeedtech/lsquic) - LiteSpeed QUIC and HTTP/3 Library
+
+*   [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
+
+*   [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
+
+*   [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+
+*   [bi3mer/adjust.h](https://github.com/bi3mer/adjust.h) - A simple single header library written in c99 for adjusting hardcoded parameters while debugging and fiddling around with values.
+
+*   [vimpop/UCraft](https://github.com/vimpop/UCraft) - A minecraft server implementation written in C for machines with limited resources.
+
+*   [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
+
+*   [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
+
+*   [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
+
+*   [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
+*   [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
+
+*   [Majjcom/ncmppGui](https://github.com/Majjcom/ncmppGui) - 一个使用C++编写的极速ncm转换GUI工具
+
+*   [AurieFramework/YYToolkit](https://github.com/AurieFramework/YYToolkit) - The definitive internal modding tool for GameMaker games
+
+*   [BetterNCM/InfinityLink](https://github.com/BetterNCM/InfinityLink) -
+
+*   [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
+
+*   [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) - Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies.
+
+*   [p2r3/bf16](https://github.com/p2r3/bf16) - Visual Brainfuck game runtime
+
+*   [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
+
+*   [SocialSisterYi/T-Union\_Master](https://github.com/SocialSisterYi/T-Union_Master) - 🐬🚇💳基于flipper zero平台的交通联合卡综合信息查询工具
+
+*   [SpyterDev/FNAF-World-C-Edition](https://github.com/SpyterDev/FNAF-World-C-Edition) - A full remake of FNAF World from the ground up in C and Raylib with Touch and Keyboard support. Along with a few improvements and changes.
+
+*   [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
+
+*   [SoyBeanMilkx/InjectDetect](https://github.com/SoyBeanMilkx/InjectDetect) - 检测app是否被frida/xposed注入
+
+*   [phyphox/phyphox-android](https://github.com/phyphox/phyphox-android) - Physical Phone Experiments
+
+*   [henrypp/hostsmgr](https://github.com/henrypp/hostsmgr) - Console tool for sysadmins and other people who need to autoupdate "hosts" file.
+
+*   [shorthorn-project/One-Core-API-Source](https://github.com/shorthorn-project/One-Core-API-Source) - A complete layer to get compatibility on XP/2003 for newer applications
+
+*   [imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
+
+*   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
+
+*   [matt-wu/AES](https://github.com/matt-wu/AES) - Understanding AES & Rijndael
+
+*   [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
+
+*   [michael-bill/perfect-circle](https://github.com/michael-bill/perfect-circle) - A program exploit to draw a perfect circle in the game "Perfect Circle". For MacOS.
+
+*   [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
+
+*   [caoaolong/nps-teach](https://github.com/caoaolong/nps-teach) - 手写网络协议栈 - 课程代码
+
+*   [happymimimix/Piano-FX-Pro](https://github.com/happymimimix/Piano-FX-Pro) - This will take Black MIDI to the next level!
+
+*   [SakuraKoi/FuckKookObs](https://github.com/SakuraKoi/FuckKookObs) - Allow Kook voice chat while OBS or Bilibili LiveHime running
+
+*   [gabriellandau/ItsNotASecurityBoundary](https://github.com/gabriellandau/ItsNotASecurityBoundary) -
+
+*   [chaosgoo/mcompass](https://github.com/chaosgoo/mcompass) -
+
+*   [yuyimimimi/Sirius](https://github.com/yuyimimimi/Sirius) -
+
+*   [SyrieYume/RobinPlayer](https://github.com/SyrieYume/RobinPlayer) - 在控制台播放《使一颗心免于哀伤》
+
+*   [ViudiraTech/Uinxed-Kernel](https://github.com/ViudiraTech/Uinxed-Kernel) - Uinxed-Kernel is a Unix-like operating system kernel developed from scratch, focusing on modern computer architecture and advanced system design concepts. The project aims to build an efficient, stable, and scalable operating system kernel while maintaining code clarity and maintainability.
+
+*   [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) - CoolPotOS for ia32 / amd64 / riscv64
+
+*   [whowechina/mai\_pico](https://github.com/whowechina/mai_pico) - Pico controller for Maimai
+
+*   [imfrea/mai\_pico](https://github.com/imfrea/mai_pico) - Pico controller for Maimai
+
+*   [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
+
+*   [nschweitz/vkwc](https://github.com/nschweitz/vkwc) - Vulkan Wayland Compositor
+
+*   [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
+
+*   [libsdl-org/SDL\_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer.
+
+*   [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
+
+*   [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
+
+*   [mkowsiak/jnicookbook](https://github.com/mkowsiak/jnicookbook) - JNI Cookbook Redux - learn JNI by example.
+
+*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
+
+*   [tsoding/bfjit](https://github.com/tsoding/bfjit) - JIT Compiler for Brainfuck
+
+*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+
+*   [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
+
+*   [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+*   [JuanDiegoMontoya/FidelityFX-FSR2-OpenGL](https://github.com/JuanDiegoMontoya/FidelityFX-FSR2-OpenGL) - FidelityFX Super Resolution 2 for OpenGL
+
+*   [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+
+*   [mat-1/masscan](https://github.com/mat-1/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+
+*   [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
+
+*   [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86\_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
+
+*   [VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls) - The following two code samples can be used to understand the difference between direct syscalls and indirect syscalls
+
+*   [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+
+*   [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
+
+*   [Bill-Haku/kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
+
+*   [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
+
+*   [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) -
+
+*   [AndroidAudioMods/ViPERFX\_RE](https://github.com/AndroidAudioMods/ViPERFX_RE) - Reverse Engineering of ViPER4Android FX
+
+*   [SpacehuhnTech/esp8266\_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
+
+*   [alandau/arpspoof](https://github.com/alandau/arpspoof) - A simple ARP spoofer for Windows
+
+*   [nanobyte-dev/nanobyte\_os](https://github.com/nanobyte-dev/nanobyte_os) - OS tutorial from Nanobyte YouTube channel.
+
+*   [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
+
+*   [0sha0/PYAS\_Protection](https://github.com/0sha0/PYAS_Protection) - A Driver Only For PYAS
+
+*   [Yaxser/Backstab](https://github.com/Yaxser/Backstab) - A tool to kill antimalware protected processes
+
+*   [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
+
+*   [praat/praat.github.io](https://github.com/praat/praat.github.io) - Praat: Doing Phonetics By Computer
+
+*   [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
+
+*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
+
+*   [reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+*   [8bitbubsy/ft2-clone](https://github.com/8bitbubsy/ft2-clone) - Fasttracker 2 clone for Windows/macOS/Linux
+
+*   [vvb2060/MagiskDetector](https://github.com/vvb2060/MagiskDetector) -
+
+*   [RichadoWonosas/RWSE2](https://github.com/RichadoWonosas/RWSE2) - A 256-bit block cipher based on SPN design, supporting key sizes of 256/384/512 bits
+
+*   [fjqisba/E-Debug](https://github.com/fjqisba/E-Debug) - X64Dbg插件，分析易语言必备神器
+
+*   [SamuelTulach/negativespoofer](https://github.com/SamuelTulach/negativespoofer) - PoC HWID spoofer that runs in EFI
+
+*   [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
+
+*   [ReallocAll/MediaPlayer](https://github.com/ReallocAll/MediaPlayer) - This plugin is used to play NBS music & video on the bedrock dedicated server(BDS).
+
+*   [josStorer/llama.cpp-unicode-windows](https://github.com/josStorer/llama.cpp-unicode-windows) - llama.cpp with unicode (windows) support
+
+*   [elllusion/pinduoduo\_backdoor\_code](https://github.com/elllusion/pinduoduo_backdoor_code) - 拼多多事件的脱壳后的部分代码
+
+*   [PojavLauncherTeam/android-openjdk-build-multiarch](https://github.com/PojavLauncherTeam/android-openjdk-build-multiarch) - Build and packaging script for building OpenJDK, used for PojavLauncher
+
+*   [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
+
+*   [HFO4/SMM2-Printer](https://github.com/HFO4/SMM2-Printer) - LUFA Project for the Nintendo Switch, prints Super Mario Maker 2 comments🎨 (超级马力欧创作家2关卡评论自动绘图)
+
+*   [AcademySoftwareFoundation/openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
+
+*   [SpadesX/SpadesX](https://github.com/SpadesX/SpadesX) - An Ace of Spades server implementation in C
+
+*   [Cubitect/cubiomes](https://github.com/Cubitect/cubiomes) - C library that mimics the Minecraft biome generation.
+
+*   [garet90/MotorMC](https://github.com/garet90/MotorMC) - MotorMC is a blazing fast, multi threaded, asynchronous Minecraft server software that aims to handle many players (1000+) on a single world while still providing an experience as close to vanilla Minecraft as possible.
+
+*   [EndCredits/kernel\_xiaomi\_sm7250](https://github.com/EndCredits/kernel_xiaomi_sm7250) - Rebased kernel for Redmi K30 5G ( picasso ) | WIP
+
+*   [PriesiaMioShirakana/DragonianVoice](https://github.com/PriesiaMioShirakana/DragonianVoice) - 多个SVC/TTS的C++推理库
+
+*   [antiwar3/py](https://github.com/antiwar3/py) - 飘云ark（pyark）
+
+*   [Jamesits/BGRTInjector](https://github.com/Jamesits/BGRTInjector) - Customize Windows 10 boot logo without modifying UEFI firmware.
+
+*   [BlackOfWorld/NtCreateUserProcess](https://github.com/BlackOfWorld/NtCreateUserProcess) - A small NtCreateUserProcess PoC that spawns a Command prompt.
+
+*   [qiufuyu123/qnos](https://github.com/qiufuyu123/qnos) - A tiny 32bit os with VFS multitasks VMM ...
+
+*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)
+
+*   [ToKiNoBug/burningShip](https://github.com/ToKiNoBug/burningShip) - The burning ship fractal
+
+*   [WireGuard/wintun](https://github.com/WireGuard/wintun) - Mirror only. Official repository is at https://git.zx2c4.com/wintun
+
+*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
+
+*   [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - SVG rendering and manipulation library in C++
+
+*   [kritzikratzi/Oscilloscope](https://github.com/kritzikratzi/Oscilloscope) - Oscilloscope for Mac/Windows written in OF.
+
+*   [bad-apple-lab/Bad-Apple](https://github.com/bad-apple-lab/Bad-Apple) - Bad-Apple!!: Play the video in the console as ASCII art.
+
+*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+
+*   [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
+
+*   [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
+
+*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+
+*   [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
+
+*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
+
+*   [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
+
+*   [lordmulder/MemoryChecker](https://github.com/lordmulder/MemoryChecker) - Memory Checker is a simple memory stress-testing tool.
+
+*   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+
+*   [Minep/lunaix-os](https://github.com/Minep/lunaix-os) - A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
+
+*   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+
+*   [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
+
+*   [diegocr/netcat](https://github.com/diegocr/netcat) - NetCat for Windows
+
+*   [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
+
+*   [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
+
+*   [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
+
+*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+
+*   [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
+
+*   [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
+
+*   [1401199262/AntiScreenCapture-r0](https://github.com/1401199262/AntiScreenCapture-r0) -
+
+*   [LTRData/ImDisk](https://github.com/LTRData/ImDisk) - ImDisk Virtual Disk Driver
+
+*   [ad-oliviero/uwufetch](https://github.com/ad-oliviero/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
+
+*   [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
+
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+
+*   [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
+
+*   [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
+
+*   [liblouis/liblouis](https://github.com/liblouis/liblouis) - Open-source braille translator and back-translator.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit
+
+*   [9176324/Shark](https://github.com/9176324/Shark) - Turn off PatchGuard in real time for win7 (7600) ~ later
+
+*   [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
+
+*   [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
+
+*   [danielkrupinski/VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass) - Valve Anti-Cheat bypass written in C.
+
+*   [danielkrupinski/VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader) - Loader for VAC Bypass written in C.
+
+*   [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
+
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+*   [44670/desmume-wasm](https://github.com/44670/desmume-wasm) -
+
+*   [liudf0716/apfree-wifidog](https://github.com/liudf0716/apfree-wifidog) - apfree-wifidog is a high-performance captive portal solution that serves as a gateway between your wireless networks and the Internet. Optimized for both HTTP and HTTPS traffic, it ensures secure border control while enabling seamless user authentication and efficient network management. 技术交流QQ群 331230369
+
+*   [cesanta/elk](https://github.com/cesanta/elk) - A low footprint JavaScript engine for embedded systems
+
+*   [bytecode77/r77-rootkit](https://github.com/bytecode77/r77-rootkit) - Fileless ring 3 rootkit with installer and persistence that hides processes, files, network connections, etc.
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+
+*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+
+*   [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
+
+*   [gsioteam/kinoko](https://github.com/gsioteam/kinoko) - An online manga browser.
+
+*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
+
+*   [kiyolee/openssl1\_1-win-build](https://github.com/kiyolee/openssl1_1-win-build) - openssl-1.1 Windows build with Visual Studio.
+
+*   [dosgo/ngrok-c](https://github.com/dosgo/ngrok-c) - ngrok client for c language,Due to the use of GO ngrok language development, porting to embedded devices some inconvenience, such as openwrt, so use C language rewrite a client. Very mini, the need to support polarssl library.
+
+*   [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
+
+*   [homeworkc/lazycast](https://github.com/homeworkc/lazycast) - A Simple Wireless Display Receiver
+
+*   [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
+
+*   [RefindPlusRepo/RefindPlus](https://github.com/RefindPlusRepo/RefindPlus) - A Boot Manager for Mac and PC
+
+*   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
+
+*   [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
+
+*   [archeryue/cpc](https://github.com/archeryue/cpc) - 建党 100 周年！写一个名为 CPC 的 C 编译器，为党庆生！
+
+*   [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
+
+*   [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
+
+*   [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
+
+*   [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
+
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+*   [stotiks/chia-plotter](https://github.com/stotiks/chia-plotter) -
+
+*   [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) -
+
+*   [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+*   [ffmpegwasm/ffmpeg.wasm-core](https://github.com/ffmpegwasm/ffmpeg.wasm-core) - Mirror of git://source.ffmpeg.org/ffmpeg.git
+
+*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
+
+*   [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
+
+*   [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
+
+*   [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+
+*   [kn007/silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) - \[Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.
+
+*   [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
+
+*   [hex-in/libscrc](https://github.com/hex-in/libscrc) - libscrc is a library for calculating CRC3 CRC4 CRC5 CRC6 CRC7 CRC8 CRC10 CRC11 CRC12  CRC15 CRC16 CRC24 CRC30 CRC31 CRC32 CRC64 CRC82
+
+*   [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
+
+*   [lammertb/libcrc](https://github.com/lammertb/libcrc) - Multi platform CRC library
+
+*   [ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash) - Python Binding for xxHash
+
+*   [maandree/sha3sum](https://github.com/maandree/sha3sum) - \[Feature complete] SHA-3 and Keccak checksum utility
+
+*   [404name/winter](https://github.com/404name/winter) - C语言 课程设计+大作业+小程序集，纯字符画逻辑实现【笔记本电脑，哔哩哔哩移动端，超级玛丽，QQ，绝地求生等】让C语言课设不仅仅局限于图书馆管理系统！配套视频演示，代码均通过自己思考无任何参考实现，规范性只能说是相当于我大一的标准，欢迎分享，学习和交流
+
+*   [r-lib/fs](https://github.com/r-lib/fs) - Provide cross platform file operations based on libuv.
+
+*   [henrypp/matrix](https://github.com/henrypp/matrix) - Small, fast and elegant Windows screensaver of the green "Matrix" cypher-code seen in the films.
+
+*   [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
+
+*   [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+
+*   [henrypp/errorlookup](https://github.com/henrypp/errorlookup) - Simple tool for retrieving information about Windows errors codes.
+
+*   [kholia/RC4-40-brute-office](https://github.com/kholia/RC4-40-brute-office) - Guaranteed cracking of M$ Office files using RC4 40-bit encryption
+
+*   [mackyle/sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
+
+*   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
+
+*   [CnCNet/ts-ddraw](https://github.com/CnCNet/ts-ddraw) - Rewrite of cnc-ddraw with Tiberian Sun as the target
+
+*   [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines
+
+*   [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.
+
+*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+
+*   [White-Tiger/T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
+
+*   [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
+
+*   [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
+
+*   [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
+
+*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+
+*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
+
+*   [ip2location/ip2location-nginx](https://github.com/ip2location/ip2location-nginx) - This is IP2Location Nginx module that enables the user to find the country, region (state), city, latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, mobile network, elevation, usage type, address type and IAB category by IP address or hostname originates from.
+
+*   [utoni/ptunnel-ng](https://github.com/utoni/ptunnel-ng) - Tunnel TCP connections through ICMP.
+
+*   [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+
+*   [OpenVPN/tap-windows6](https://github.com/OpenVPN/tap-windows6) - Windows TAP driver (NDIS 6)
+
+*   [OpenVPN/openvpn-gui](https://github.com/OpenVPN/openvpn-gui) - OpenVPN GUI is a graphical frontend for OpenVPN running on Windows (10 and 11). It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
+
+*   [EasyHook/EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
+
+*   [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
+
+*   [rfc1036/whois](https://github.com/rfc1036/whois) - Intelligent WHOIS client
+
+*   [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
+
+*   [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
+
+*   [shakenetwork/slshim](https://github.com/shakenetwork/slshim) - HWIDGEN激活工具Win10激活https://mp.weixin.qq.com/s/Kl\_iEeSSxSprblfSRZ6yEQ     https://mp.weixin.qq.com/s?\_\_biz=MzA3MjUzNzE1OA==\&mid=2247489808\&idx=1\&sn=84e517fd43846f15b122564894094fc5\&source=41#wechat\_redirect
+
+*   [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
+
+*   [Yuriy-Svetlov/compress-images](https://github.com/Yuriy-Svetlov/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
+
+*   [ZhanLang/msdk](https://github.com/ZhanLang/msdk) -
+
+*   [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
+
+*   [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+
+*   [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
+*   [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
+
+*   [Lssg97/DetailedSystemMonitor](https://github.com/Lssg97/DetailedSystemMonitor) - 一款 Rainmeter 皮肤项目 (A Rainmeter skin project)
+
+*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
+
+*   [stong/CVE-2021-3156](https://github.com/stong/CVE-2021-3156) - PoC for CVE-2021-3156 (sudo heap overflow)
+
+*   [hnwyllmm/netkiller](https://github.com/hnwyllmm/netkiller) - network speed limiter for Windows
+
+*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+*   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
+
+*   [troglobit/ssdp-responder](https://github.com/troglobit/ssdp-responder) - SSDP responder for UNIX systems that gives you an InternetGatewayDevice icon in Windows :)
+
+*   [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD) -
+
+*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+
+*   [boywhp/wifi\_crack\_windows](https://github.com/boywhp/wifi_crack_windows) - wifi crack project for windows
+
+*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+
+*   [patrickgill/ntpwedit](https://github.com/patrickgill/ntpwedit) - mirror of ntpwedit
+
+*   [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
+
+*   [wifidog/wifidog-gateway](https://github.com/wifidog/wifidog-gateway) - Repository for the wifidog-gateway captive portal designed for embedded systems
+
+*   [u0u0/Quick-Cocos2dx-Community](https://github.com/u0u0/Quick-Cocos2dx-Community) - Cocos2d-Lua 社区版
+
+*   [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
+
+*   [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
+
+*   [rhboot/efivar](https://github.com/rhboot/efivar) - Tools and libraries to work with EFI variables
+
+*   [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
+
+*   [a1ive/grub](https://github.com/a1ive/grub) - Fork of GRUB 2 to add various features.
+
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+*   [chenall/grub4dos](https://github.com/chenall/grub4dos) - 外部命令和工具源码:https://github.com/chenall/grubutils 下载:
+
+*   [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+
+*   [NtRaiseHardError/Anti-Delete](https://github.com/NtRaiseHardError/Anti-Delete) - Protects deletion of files with a specified extension using a kernel-mode driver.
+
+*   [aroulin/FAT32-FS-Driver](https://github.com/aroulin/FAT32-FS-Driver) - A FAT32 File System Driver for FUSE
+
+*   [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
+
+*   [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
+*   [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
+
+*   [terryky/tflite\_gles\_app](https://github.com/terryky/tflite_gles_app) - GPU accelerated deep learning inference applications for RaspberryPi / JetsonNano / Linux PC using TensorflowLite GPUDelegate / TensorRT
+
+*   [QCute/WinRing0](https://github.com/QCute/WinRing0) -
+
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+
+*   [oudream/ccxx](https://github.com/oudream/ccxx) - This is a cross-platform library software library about c, c ++, unix4, posix.  Include gtest, benchmark, cmake, process lock, daemon, libuv, lua, cpython, re2, json, yaml, mysql, redis, opencv, qt, lz4, oci ... https://hub.docker.com/u/oudream
+
+*   [danigargu/CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost
+
+*   [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
+
+*   [quarkslab/dreamboot](https://github.com/quarkslab/dreamboot) - UEFI bootkit
+
+*   [ionescu007/VisualUefi](https://github.com/ionescu007/VisualUefi) - A project for allowing EDK-II Development with Visual Studio
+
+*   [ajkhoury/UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) - A small bootkit which does not rely on x64 assembly.
+
+*   [topcss/WannaCry](https://github.com/topcss/WannaCry) - 勒索病毒WannaCry反编译源码
+
+*   [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
+
+*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+
+*   [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
+
+*   [otya128/winevdm](https://github.com/otya128/winevdm) - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
+
+*   [MarioCrane/LeagueLobby](https://github.com/MarioCrane/LeagueLobby) - 英雄联盟自定义房间创建工具，包括5V5训练营，(血月杀等轮换模式已被官方关闭)
+
+*   [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
+
+*   [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
+
+*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+
+*   [hzcx998/xbook2](https://github.com/hzcx998/xbook2) - xbook2是一个基于x86处理器的32位操作系统，实现了大量的基础功能，可以拿来学习操作系统知识。
+
+*   [RainbowRoad1/Cgame](https://github.com/RainbowRoad1/Cgame) - 一些用C编写的小游戏, 14行贪吃蛇  22行2048  22行俄罗斯方块  25行扫雷...以及各种小玩意
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
+
+*   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
+
+*   [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
+
+*   [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
+
+*   [legiar/diskcryptor](https://github.com/legiar/diskcryptor) - DiskCryptor - it's a free solution that allows you to encrypt disk partitions, including system partition.
+
+*   [AlexAltea/orbital](https://github.com/AlexAltea/orbital) - Experimental PlayStation 4 emulator.
+
+## Python
+
+*   [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+
+*   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+
+*   [XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco) - Xiaomi Miloco
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+
+*   [lesander/amongus-impostor-detector](https://github.com/lesander/amongus-impostor-detector) - Detect impostors in an Among Us game by inspecting UDP packets.
+
+*   [xhh890921/cnn-captcha-pytorch](https://github.com/xhh890921/cnn-captcha-pytorch) - 小黑黑讲AI，AI实战项目《验证码识别》
+
+*   [opulentfox-29/protonmail-api-client](https://github.com/opulentfox-29/protonmail-api-client) - This is not an official python ProtonMail API client. it allows you to read, send and delete messages in protonmail, as well as render a ready-made template with embedded images.
+
+*   [ProbiusOfficial/CVE-2025-14847](https://github.com/ProbiusOfficial/CVE-2025-14847) - poc for CVE-2025-14847
+
+*   [pythonlessons/mltu](https://github.com/pythonlessons/mltu) - Machine Learning Training Utilities (for TensorFlow and PyTorch)
+
+*   [summersonnn/Town-Of-Salem-with-LLMs](https://github.com/summersonnn/Town-Of-Salem-with-LLMs) - In this repository, 16 models compete to outperform each other in the game Town of Salem. Each model is randomly assigned roles like Vampire, Peasant, Clown, or special variants of Peasants with unique abilities.
+
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+
+*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
+
+*   [tatanakots/SDGB\_usefultool\_back](https://github.com/tatanakots/SDGB_usefultool_back) - A Useful Tool For SDGB
+
+*   [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) - Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+
+*   [KomoriDev/nonebot\_plugin\_og](https://github.com/KomoriDev/nonebot_plugin_og) - 检测链接并发送网站简介及预览图
+
+*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+
+*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌
+
+*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
+
+*   [fllesser/nonebot-plugin-parser](https://github.com/fllesser/nonebot-plugin-parser) - 社交媒体分享链接解析插件
+
+*   [MemeCrafters/nonebot-plugin-memes](https://github.com/MemeCrafters/nonebot-plugin-memes) - Nonebot2 表情包制作插件
+
+*   [creepebucket/creepe\_ponder](https://github.com/creepebucket/creepe_ponder) - 使用python编译Minecraft的纯原版仿机械动力思索动画
+
+*   [spipm/Depixelization\_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
+
+*   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+*   [TryHackMyOffsecBox/TryHackMe-CN](https://github.com/TryHackMyOffsecBox/TryHackMe-CN) - Chinese mirror of Tryhackme tutorials
+
+*   [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
+
+*   [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+
+*   [laggykiller/sticker-convert](https://github.com/laggykiller/sticker-convert) - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, OGQ, Viber, Discord, iMessage. Written in Python.
+
+*   [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
+
+*   [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+
+*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
+
+*   [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+*   [XiYang6666/EvenBetterNeteaseResolver](https://github.com/XiYang6666/EvenBetterNeteaseResolver) - 更好的网易云音乐解析 API 与 SDK / Even better NetEase Cloud Music parsing API and SDK
+
+*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
+
+*   [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款开源的小型化像素字体
+
+*   [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
+
+*   [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
+
+*   [Roy-zZZ08/Texture-Atlas-Compression](https://github.com/Roy-zZZ08/Texture-Atlas-Compression) - Official implementation of SIGGRAPH AISA 2023 paper "Texture Atlas Compression Based on Repeated Content Removal"
+
+*   [wenyaxie023/WordSaladChopper](https://github.com/wenyaxie023/WordSaladChopper) -
+
+*   [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron) - Formatron empowers everyone to control the format of language models' output with minimal overhead.
+
+*   [WingedSeal/jmc](https://github.com/WingedSeal/jmc) - A compiler for JMC (JavaScript-like Minecraft Function), a mcfunction extension language for making Minecraft Datapack
+
+*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+
+*   [wh01s17/billionlaugh\_vuln](https://github.com/wh01s17/billionlaugh_vuln) - API vulnerable a Billion Laughs Attack
+
+*   [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
+
+*   [TC999/zed-loc](https://github.com/TC999/zed-loc) - zed 本地化脚本。( zed editor l10n script.
+
+*   [zhdbk3/GeometryCalculator](https://github.com/zhdbk3/GeometryCalculator) - 借助计算机的强大算力，使用解析几何暴力计算几何问题！
+
+*   [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
+*   [guduwenjiu/PyWxDump](https://github.com/guduwenjiu/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+
+*   [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
+
+*   [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump) - Analyzing your wechat message history from android
+
+*   [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
+
+*   [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
+
+*   [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
+
+*   [gpchelkin/scdlbot](https://github.com/gpchelkin/scdlbot) - Telegram Bot for downloading MP3 rips of tracks/sets from SoundCloud, Bandcamp, YouTube with tags and artwork.
+
+*   [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
+
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [sammyuri/craftgpt](https://github.com/sammyuri/craftgpt) - Small language model built in Minecraft.
+
+*   [larsbijl/trending\_archive](https://github.com/larsbijl/trending_archive) - An archive of the GitHub daily trending information
+
+*   [raminfp/redis\_exploit](https://github.com/raminfp/redis_exploit) - CVE-2025-49844 (RediShell)
+
+*   [zxsama/BilingualTranslationToolkit](https://github.com/zxsama/BilingualTranslationToolkit) - Bilingual Translation Interface, Language Switching, Quick Restart
+
+*   [neuphonic/neutts](https://github.com/neuphonic/neutts) - On-device TTS model by Neuphonic
+
+*   [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
+
+*   [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
+
+*   [rei05/rekordbox-video-linker](https://github.com/rei05/rekordbox-video-linker) - rekordboxのビデオLINKを自動化するやつ
+
+*   [bghtnya/fuckhongqingting](https://github.com/bghtnya/fuckhongqingting) - 飞翔的红蜻蜓校园跑app辅助工具
+
+*   [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
+
+*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+*   [7x11x13/soundcloud.py](https://github.com/7x11x13/soundcloud.py) - Python wrapper for v2 SoundCloud API. Does not require an API key.
+
+*   [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
+
+*   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+
+*   [R2D2FISH/glados-tts](https://github.com/R2D2FISH/glados-tts) - A GLaDOS TTS, using Forward Tacotron and HiFiGAN.  Inference is fast and stable, even on the CPU.  A low quality vocoder model is included for mobile use.  Rudimentary TTS script included.  Works perfectly on Linux, partially on Maybe someone smarter than me can make a GUI.
+
+*   [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
+
+*   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
+
+*   [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
+
+*   [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.
+
+*   [bilibili/Index-anisora](https://github.com/bilibili/Index-anisora) -
+
+*   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) -
+
+*   [Maicius/QQZoneMood](https://github.com/Maicius/QQZoneMood) - QQZone mood spider and analysis. QQ空间多线程爬虫和数据挖掘。提供线上服务，扫码登陆即可自动爬取和分析数据，还有网易云年度报告风格的数据展示；使用docker-compose打包程序，方便部署；额外提供QQ空间抽奖小程序。
+
+*   [Zhalslar/astrbot\_plugin\_qzone](https://github.com/Zhalslar/astrbot_plugin_qzone) - QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说、点赞、评论等
+
+*   [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+
+*   [yinhao0214/QQZoneParse](https://github.com/yinhao0214/QQZoneParse) - 模拟登陆QQ空间，获取好友信息，并做分析（年龄分布、性别分布、地址分布等）具体参见说明文档及1049755192文件夹下的分析结果展示。
+
+*   [EternalTrail/eeVR](https://github.com/EternalTrail/eeVR) - Blender addon for rendering equirectangular and dome projection images using the eevee rendering engine.
+
+*   [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
+
+*   [SmartHypercube/Qzone-API](https://github.com/SmartHypercube/Qzone-API) - QQ空间的Python接口
+
+*   [aioqzone/Qzone2TG](https://github.com/aioqzone/Qzone2TG) - Forward Qzone Feeds to Telegram
+
+*   [aioqzone/aioqzone](https://github.com/aioqzone/aioqzone) - A python wrapper for Qzone web login and Qzone http api
+
+*   [AndreGuo/HDRTVDM](https://github.com/AndreGuo/HDRTVDM) - The official repo of "Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models" in CVPR2023.
+
+*   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+
+*   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
+
+*   [lxulxu/WatermarkRemover](https://github.com/lxulxu/WatermarkRemover) - 批量去除视频中位置固定的水印
+
+*   [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
+
+*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
+
+*   [hlorus/CAD\_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
+
+*   [sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-](https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-) - CVE-2025-8088 WinRAR Proof of Concept (PoC-Exploit)
+
+*   [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
+
+*   [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
+
+*   [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) -
+
+*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
+
+*   [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy) - coredumpy saves your crash site for post-mortem debugging
+
+*   [clearlab-sustech/Wheel-Legged-Gym](https://github.com/clearlab-sustech/Wheel-Legged-Gym) -
+
+*   [3c0tr/CharacterFlow](https://github.com/3c0tr/CharacterFlow) - a blender addon for creating procedure character/text animation
+
+*   [qqqqqf-q/Qing-Digital-Self](https://github.com/qqqqqf-q/Qing-Digital-Self) - 数字分身项目,并且包含了搭建(复现)教程  Qing's digital self, including setup tutorial
+
+*   [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+
+*   [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+
+*   [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻
+
+*   [MatrixEditor/pairipcore-vm](https://github.com/MatrixEditor/pairipcore-vm) - Research on the internal workings of Google's Play Integrity Protect Virtual Machine (VM) with tools for both disassembling and decompiling the bytecode.
+
+*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
+
+*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
+
+*   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+
+*   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+
+*   [TheWinRaRs/Writeups](https://github.com/TheWinRaRs/Writeups) -
+
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
+
+*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+*   [SuperNG6/Docker-qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) - Docker-qBittorrent-Enhanced-Edition
+
+*   [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+
+*   [Joe1sn/route\_fileter](https://github.com/Joe1sn/route_fileter) - 统计路由器CVE，便于漏洞挖掘
+
+*   [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
+
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - How can we build a true AI agent? Like Claude Code.
+
+*   [Erfaniaa/text-to-commit-history](https://github.com/Erfaniaa/text-to-commit-history) - Write a large text on your GitHub profile, with your commits history (contribution graph).
+
+*   [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
+
+*   [LiteyukiStudio/marshoai-melo](https://github.com/LiteyukiStudio/marshoai-melo) - Melobot v3 猫娘聊天机器人
+
+*   [chenxi-Eumenides/bilibili\_live\_tool](https://github.com/chenxi-Eumenides/bilibili_live_tool) - 用于B站直播的获取推流码及开播工具
+
+*   [Crispher/MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - Visualizing the network of math theories.
+
+*   [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity's Last Exam
+
+*   [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework.
+
+*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+
+*   [FlyingWolFox/Netscape-Bookmarks-File-Parser](https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser) - Parser and creator for Netscape Bookmarks file format that is used when exporting bookmarks from browsers
+
+*   [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
+
+*   [ZianTT/BHYG](https://github.com/ZianTT/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [MtFloveU/twitter\_fdap](https://github.com/MtFloveU/twitter_fdap) - A Python script to automatically export and track changes in your X (formerly Twitter) followers and following lists.
+
+*   [ahmia/ahmia-crawler](https://github.com/ahmia/ahmia-crawler) - Collection of crawlers used by the ahmia search engine
+
+*   [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+
+*   [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站会员购购票辅助工具
+
+*   [huanxin996/qzone\_api](https://github.com/huanxin996/qzone_api) -
+
+*   [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
+
+*   [kobopi/CS2-DG\_LAB](https://github.com/kobopi/CS2-DG_LAB) - 基于郊狼3.0socket协议的CS2实时反馈项目
+
+*   [ChaceQC/bilibili\_live\_stream\_code](https://github.com/ChaceQC/bilibili_live_stream_code) - 用于在准备直播时获取第三方推流码，以便可以绕开哔哩哔哩直播姬，直接在如OBS等软件中进行直播，软件同时提供定义直播分区和标题功能
+
+*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
+
+*   [Web-Art-Online/qzone-next](https://github.com/Web-Art-Online/qzone-next) -
+
+*   [idoknow/CampuxBot](https://github.com/idoknow/CampuxBot) - QQ 空间 校园墙自动化系统机器人端
+
+*   [gfhdhytghd/qzone-toolkit](https://github.com/gfhdhytghd/qzone-toolkit) -
+
+*   [gahogg/Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
+
+*   [1812z/PCTools](https://github.com/1812z/PCTools) - 一个简单的python脚本，支持Ha远程启动Windows自定义程序，调节音量等等。同时同步Aida64数据到Ha
+
+*   [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
+
+*   [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
+
+*   [JinXiaofeng1234/ChatBar](https://github.com/JinXiaofeng1234/ChatBar) -
+
+*   [hanfangyuan4396/dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat) - 本项目为 chatgpt-on-wechat下游分支, 额外对接了LLMOps平台 Dify，同时支持gewechat，相比itchat更加稳定。
+
+*   [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
+
+*   [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
+
+*   [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+
+*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+
+*   [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀
+
+*   [RaceIsIm/CircleHackor](https://github.com/RaceIsIm/CircleHackor) -
+
+*   [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
+
+*   [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
+
+*   [MemeMeow-Studio/MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow) - 智能检索张维为表情包
+
+*   [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
+
+*   [insecurityofthings/jackit](https://github.com/insecurityofthings/jackit) - JackIt - Exploit Code for Mousejack
+
+*   [mc-meme/mc-meme](https://github.com/mc-meme/mc-meme) - some meme about Minecraft
+
+*   [Des-Magmeta/ChildFunSans](https://github.com/Des-Magmeta/ChildFunSans) - An open-source Chinese font derived from Fontworks' Stick.
+
+*   [nbk888/File2Vid](https://github.com/nbk888/File2Vid) - Convert ANY to VIDEO
+
+*   [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
+
+*   [mos9527/pyncm](https://github.com/mos9527/pyncm) - 第三方网易云音乐 Python API + 转储工具
+
+*   [sleepy-project/sleepy](https://github.com/sleepy-project/sleepy) - Are you sleeping?
+
+*   [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [albertchen857/Litematica-viewer](https://github.com/albertchen857/Litematica-viewer) - Litematica Viewer - A tool used to check & edit minecraft structures and litematic files
+
+*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
+
+*   [JimssM/tiktok-slider](https://github.com/JimssM/tiktok-slider) - OpenCV + NumPy detect TikTok slider 🥖 OpenCV + NumPy检测抖音验证码
+
+*   [ShiyumeMeguri/ShiyumeBlender](https://github.com/ShiyumeMeguri/ShiyumeBlender) - 🥵嫁制作工具 起動!
+
+*   [11dogzi/Comfyui-ergouzi-kaiguan](https://github.com/11dogzi/Comfyui-ergouzi-kaiguan) -
+
+*   [Project-Babble/ProjectBabble](https://github.com/Project-Babble/ProjectBabble) - A DIY mouth tracking method for VR
+
+*   [yuchenyang1994/godot-love-wechat](https://github.com/yuchenyang1994/godot-love-wechat) - godot export tools for wechat
+
+*   [SafeBreach-Labs/WindowsDowndate](https://github.com/SafeBreach-Labs/WindowsDowndate) - A tool that takes over Windows Updates to craft custom downgrades and expose past fixed vulnerabilities
+
+*   [Golevka2001/Stereographic-Projection-of-Otto](https://github.com/Golevka2001/Stereographic-Projection-of-Otto) - 通过球极投影的方式得到 otto 的多种形态
+
+*   [OhMyKing/Blender-Gamepad-Controls](https://github.com/OhMyKing/Blender-Gamepad-Controls) - 一个支持Xbox手柄的Blender手柄控制插件
+
+*   [sumeshi/ntfsfind](https://github.com/sumeshi/ntfsfind) - An efficient tool for search files, directories, and alternate data streams directly from NTFS image files.
+
+*   [sec-consult/msiscan](https://github.com/sec-consult/msiscan) - Scanning tool for identifying local privilege escalation issues in vulnerable MSI installers
+
+*   [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
+
+*   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+
+*   [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy importer for Blender
+
+*   [xiaofeiyu0723/ExVR](https://github.com/xiaofeiyu0723/ExVR) - https://exvr-doc.github.io/#/en/home
+
+*   [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+
+*   [IATI/IATI-Publishing-Statistics](https://github.com/IATI/IATI-Publishing-Statistics) - Tables and files presenting different stats for IATI publishers
+
+*   [XiYang6666/WrittenBookEditor](https://github.com/XiYang6666/WrittenBookEditor) - 基于 PySide6 的 Minecraft 成书编辑器 / Minecraft written book editor based on PySide6
+
+*   [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
+
+*   [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算
+
+*   [zhdbk3/CrazyLiteratureEncryption](https://github.com/zhdbk3/CrazyLiteratureEncryption) - 发疯文学加密 www
+
+*   [ProtonMail/proton-python-client](https://github.com/ProtonMail/proton-python-client) - Python Proton client module
+
+*   [HurryPeng/MagiaTimeline](https://github.com/HurryPeng/MagiaTimeline) - A general-purpose CV-based framework for extracting precise subtitle timelines from videos with embedded subtitles, from video to .ass file.
+
+*   [qiuqiao/SOFA](https://github.com/qiuqiao/SOFA) - SOFA: Singing-Oriented Forced Aligner
+
+*   [qaqFei/TodayTopic](https://github.com/qaqFei/TodayTopic) -
+
+*   [WeaponizedVSCode/Script](https://github.com/WeaponizedVSCode/Script) - A VSCode Workspace based hacking environment utils. Starting your Note-Driven Hacking experience.
+
+*   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+
+*   [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
+
+*   [tamikip/GitGPT](https://github.com/tamikip/GitGPT) - 通过自然语言来查找github仓库
+
+*   [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
+
+*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
+
+*   [RQLuo/MixTeX-Latex-OCR](https://github.com/RQLuo/MixTeX-Latex-OCR) - MixTeX multimodal LaTeX, ZhEn, and, Table OCR. It performs efficient CPU-based inference in a local offline on Windows.
+
+*   [psoho/fast-poster](https://github.com/psoho/fast-poster) - 🔥🔥🔥 fastposter海报生成器,图片生成器,电商海报编辑器,海报设计器,电商图片合成,海报开发。生成朋友圈分享海报并生成图片，二维码海报，图片海报，图片合成，二维码推广海报，支持Java Python PHP Go JS 小程序。https://fastposter.net/doc/
+
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+*   [zai-org/CodeGeeX4](https://github.com/zai-org/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q\&A and much more.
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [rsp4jack/now\_playing](https://github.com/rsp4jack/now_playing) - OBS Script to display now playing
+
+*   [matgarate/Blender\_ParadoxToolkit](https://github.com/matgarate/Blender_ParadoxToolkit) - A toolkit to create 3D optical illusion in Blender.
+
+*   [eldek0/fnaf-in-pygame](https://github.com/eldek0/fnaf-in-pygame) -
+
+*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+
+*   [avilliai/Manyana](https://github.com/avilliai/Manyana) - 停止更新，请改用Eridanus
+
+*   [happycola233/GoogleTranslateMakeGrass](https://github.com/happycola233/GoogleTranslateMakeGrass) - 谷歌翻译生草机
+
+*   [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - Repository for training models for music source separation.
+
+*   [ChinaIceF/sentence-to-cn-poem](https://github.com/ChinaIceF/sentence-to-cn-poem) - 将你的语言转化为中国古诗词风格的谐音版本，基于马尔科夫链和全概率公式编写的转换器、评价器
+
+*   [Euro-pol/turnaround-api](https://github.com/Euro-pol/turnaround-api) - Cloudflare Turnstile solving API
+
+*   [yanglbme/geetest-crack](https://github.com/yanglbme/geetest-crack) - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
+
+*   [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+
+*   [Angelic47/FontChinese7x7](https://github.com/Angelic47/FontChinese7x7) - 清晰易读的7x7像素点阵中文字体和取模工具
+
+*   [ChinaIceF/My-TODOs](https://github.com/ChinaIceF/My-TODOs) - A cross-platform desktop To-Do list.  跨平台桌面待办小工具
+
+*   [krau/kmua-bot](https://github.com/krau/kmua-bot) -  💕 A kawaii Telegram bot with some useful or interesting features
+
+*   [ttrtty5/mi2bl](https://github.com/ttrtty5/mi2bl) - 转换Mine-Imator的文件到blender软件内
+
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+
+*   [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
+
+*   [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
+
+*   [tamikip/AI-GAL](https://github.com/tamikip/AI-GAL) - AI GAL是专门为Galgame场景设计的程序，旨在让得每一名用户都能享受到独一无二的剧情。程序基于renpy框架开发
+
+*   [happycola233/VideoHybridizer](https://github.com/happycola233/VideoHybridizer) - 视频 “杂交” 器，将两个60FPS视频的帧交替排列，生成一个新的120FPS视频。在不同的帧率下观看，您将看到完全不同的画面！ The "VideoHybridizer" alternates frames from two 60FPS videos to create a new 120FPS video. Watching it at different frame rates, you'll see completely different visuals!
+
+*   [3000IQPlay/client-library](https://github.com/3000IQPlay/client-library) - Client collection (For some ppl skidding center lol)
+
+*   [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
+
+*   [fa0311/TwitterInternalAPIDocument](https://github.com/fa0311/TwitterInternalAPIDocument) - Twitter Internal API Document
+
+*   [vladkens/twscrape](https://github.com/vladkens/twscrape) - 2025! X / Twitter API scrapper with authorization support. Allows you to scrape search results, User's profiles (followers/following), Tweets (favoriters/retweeters) and more.
+
+*   [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+
+*   [rrika/cant-believe-its-not-twitter](https://github.com/rrika/cant-believe-its-not-twitter) - Twitter archive viewer, also takes WARC/HAR files as input
+
+*   [NotSwedish02/MusicVisualizer](https://github.com/NotSwedish02/MusicVisualizer) -
+
+*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [Xiaokang2022/maliang](https://github.com/Xiaokang2022/maliang) - A lightweight UI framework based on tkinter with all UI drawn in Canvas!🎨
+
+*   [SodiumSulfate/HideFileInMusic-GUI](https://github.com/SodiumSulfate/HideFileInMusic-GUI) - Use songs in wav format to hide any files, novels, pictures, torrents, etc.
+
+*   [Fitzgerald-Porthmouth-Koenigsegg/Plangothic\_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
+
+*   [plaintextpackets/ping\_smuggler](https://github.com/plaintextpackets/ping_smuggler) - Concept script to demonstrate how to exfiltrate data inside of ping packets
+
+*   [swiftycode256/clitheme](https://github.com/swiftycode256/clitheme) - CLItheme - Customize output messages of any command line application! 自定义任何命令行程序的提示输出！
+
+*   [hkchengrex/Cutie](https://github.com/hkchengrex/Cutie) - \[CVPR 2024 Highlight] Putting the Object Back Into Video Object Segmentation
+
+*   [ChinaIceF/PyQt-SiliconUI](https://github.com/ChinaIceF/PyQt-SiliconUI) - A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便
+
+*   [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.
+
+*   [bilibili/Index-1.9B](https://github.com/bilibili/Index-1.9B) - A lightweight multilingual LLM
+
+*   [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
+
+*   [iDkGK/PyTermRenderer](https://github.com/iDkGK/PyTermRenderer) - A tool to render images, or create some awesome effects in 256-color terminals. The tool is completely written in Python3.
+
+*   [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
+
+*   [Ikaros-521/RealtimeSTT\_LLM\_TTS](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS) - 实时STT，连接OpenAI接口/智谱AI（流式LLM）和GPT-SOVITS/Edge-TTS，通过网页的方式，进行跨网络的服务调用，实现实时对话的效果
+
+*   [kinglegendzzh/chordPrediction](https://github.com/kinglegendzzh/chordPrediction) - 音乐创作工具(基于马尔科夫链的和弦预测算法)
+
+*   [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
+
+*   [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection \[NeurIPS 2024]
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+
+*   [hv0905/NekoImageGallery](https://github.com/hv0905/NekoImageGallery) - An AI-powered natural language & reverse Image Search Engine powered by CLIP & qdrant.
+
+*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
+
+*   [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
+
+*   [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
+
+*   [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
+
+*   [shinnpuru/VoiceTransl](https://github.com/shinnpuru/VoiceTransl) - VoiceTrans是一站式离线AI视频字幕生成和翻译软件，功能包括视频下载，音频提取，听写打轴，字幕翻译，视频合成，字幕总结。
+
+*   [OmooLab/BioxelNodes](https://github.com/OmooLab/BioxelNodes) - For scientific volumetric data visualization in Blender.
+
+*   [gameltb/Comfyui-StableSR](https://github.com/gameltb/Comfyui-StableSR) -
+
+*   [ICE27182/Python-3D-renderer](https://github.com/ICE27182/Python-3D-renderer) -
+
+*   [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, like Microsoft's Windows Recall or Rewind.
+
+*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+
+*   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
+
+*   [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) -
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+
+*   [lllyasviel/sd-forge-layerdiffuse](https://github.com/lllyasviel/sd-forge-layerdiffuse) - \[WIP] Layer Diffusion for WebUI (via Forge)
+
+*   [ksons/shaderToyTexture](https://github.com/ksons/shaderToyTexture) - Blender addon to create 2D textures from Shadertoy shaders.
+
+*   [EatTheFuture/camera\_shakify](https://github.com/EatTheFuture/camera_shakify) -
+
+*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
+
+*   [yuanzhoulvpi2017/vscode\_debug\_transformers](https://github.com/yuanzhoulvpi2017/vscode_debug_transformers) -
+
+*   [nonebot/nonebot](https://github.com/nonebot/nonebot) - 基于 OneBot 标准的 Python 异步 QQ 机器人框架 / Asynchronous QQ robot framework based on OneBot for Python
+
+*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+
+*   [mashhoodey123/MediaCrawler](https://github.com/mashhoodey123/MediaCrawler) -
+
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+
+*   [RimoChan/seal-sorcery](https://github.com/RimoChan/seal-sorcery) - 印刷术！
+
+*   [lgc-NB2Dev/nonebot-plugin-pjsk](https://github.com/lgc-NB2Dev/nonebot-plugin-pjsk) - Project Sekai 表情包制作
+
+*   [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art.
+
+*   [happycola233/class\_schedule](https://github.com/happycola233/class_schedule) - 课程表
+
+*   [FledgeXu/CoreOfInterpreter](https://github.com/FledgeXu/CoreOfInterpreter) - Pure educational
+
+*   [2DIPW/gpt\_sovits\_infer\_with\_emotion](https://github.com/2DIPW/gpt_sovits_infer_with_emotion) - 基于中文文本情绪分析自动切换参考音频的 GPT-SoVITS 推理 Demo
+
+*   [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
+
+*   [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [lgc-NB2Dev/YetAnotherPicSearch](https://github.com/lgc-NB2Dev/YetAnotherPicSearch) - Yet another picture search plugin for nonebot2
+
+*   [UMRnInside/MlogEvo](https://github.com/UMRnInside/MlogEvo) - Compile C code to Mindustry logic, support C99 and some GNU extensions.
+
+*   [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot) - 沐雪，一个会自动找你聊天的AI女孩子
+
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+
+*   [netsora/miraita](https://github.com/netsora/miraita) - 基于 Nonebot2 开发，互通多平台，超可爱的林汐酱
+
+*   [CheshireCC/faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI) - faster\_whisper GUI with PySide6
+
+*   [mos9527/evbunpack](https://github.com/mos9527/evbunpack) - Enigma Virtual Box Unpacker / 解包、脱壳工具
+
+*   [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
+
+*   [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) -  Use bilix to archive BiliBili video with metadata and danmaku.
+
+*   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+
+*   [Taosky/telegram-search-bot](https://github.com/Taosky/telegram-search-bot) - A telegram group record search bot that solves the problem of direct search inability in languages such as CJK / Telegram 群聊天记录搜索Bot，解决CJK等语言无法直接搜索问题
+
+*   [worm128/AI-YinMei-backup](https://github.com/worm128/AI-YinMei-backup) - AI吟美零式
+
+*   [SharzyL/tg\_searcher](https://github.com/SharzyL/tg_searcher) - A bot to provide versatile Chinese optimized searching for telegram chats.    通过 bot 来给 Telegram 提供针对中文优化的搜索。
+
+*   [OlafZhang/bilib](https://github.com/OlafZhang/bilib) - 整合多个B站原生API，并结合爬取技术的Python爬取用lib
+
+*   [xymb-endcrystalme/LinearRegionFileFormatTools](https://github.com/xymb-endcrystalme/LinearRegionFileFormatTools) -
+
+*   [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion for 3D Generation
+
+*   [Artrajz/vits-simple-api](https://github.com/Artrajz/vits-simple-api) - A simple VITS HTTP API, developed by extending Moegoe with additional features.
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [luoyily/mcae](https://github.com/luoyily/mcae) - A minecraft command animation tool
+
+*   [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具
+
+*   [ProbiusOfficial/TCL](https://github.com/ProbiusOfficial/TCL) - TCL-TencentCloudListener 腾讯云抢占式实例监听器
+
+*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
+
+*   [KimmyXYC/BiliLive-Auto-Streaming](https://github.com/KimmyXYC/BiliLive-Auto-Streaming) - 哔哩哔哩自动直播 ‖ 自动获取B站直播激励金
+
+*   [CodeChina888/FakeToa](https://github.com/CodeChina888/FakeToa) - Fake IP sources using Linux's BPF feature
+
+*   [amueller/word\_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
+
+*   [TomoeMami/S1PlainTextArchive2023](https://github.com/TomoeMami/S1PlainTextArchive2023) - 2023年S1帖子归档
+
+*   [Losketch/Unicode-Flash-Mob](https://github.com/Losketch/Unicode-Flash-Mob) - Unicode快闪视频生成器
+
+*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
+*   [secretsquirrel/the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors
+
+*   [YishiMichael/manim3](https://github.com/YishiMichael/manim3) - An animation engine inspired from manim and three.js
+
+*   [MMD-Blender/blender\_mmd\_tools](https://github.com/MMD-Blender/blender_mmd_tools) - MMD Tools is a blender addon for importing/exporting Models and Motions of MikuMikuDance.
+
+*   [chsh2/nijiGPen](https://github.com/chsh2/nijiGPen) - An add-on of Blender focusing on Grease Pencil
+
+*   [OddDevelopment/OperaGX-Nitro-Gen](https://github.com/OddDevelopment/OperaGX-Nitro-Gen) - Gen infinite Opera GX nitro promotion codes! Quick and easy!
+
+*   [WEGFan/Geometry-Dash-Savefile-Editor](https://github.com/WEGFan/Geometry-Dash-Savefile-Editor) - Geometry Dash savefile encrypter & decrypter
+
+*   [YeetDisDude/pg3d-tools](https://github.com/YeetDisDude/pg3d-tools) - A Pixel Gun 3D Tool made in Python for Modding and other purposes.
+
+*   [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+
+*   [francozappa/bluffs](https://github.com/francozappa/bluffs) - Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) \[CVE 2023-24023]
+
+*   [MeoProject/lx-music-api-server](https://github.com/MeoProject/lx-music-api-server) - 适用于 LX Music 的解析接口服务器的 Python 实现
+
+*   [Masterolic/Spotify-Downloader](https://github.com/Masterolic/Spotify-Downloader) - A telegram bot to download Spotify songs from yt and saavn
+
+*   [Yuri-YuzuChaN/maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) - 基于HoshinoBot V2的舞萌DX查询插件，移植自mai-bot开源项目
+
+*   [WuHou-Teng/Minecraft\_particle\_effect](https://github.com/WuHou-Teng/Minecraft_particle_effect) - A Generator for creating minecraft partical effects from pictures or 3D models
+
+*   [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - \[SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
+
+*   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+
+*   [yxsj245/cloudfareDNS](https://github.com/yxsj245/cloudfareDNS) - 探测IP自动更换cloudfare DNS解析
+
+*   [pur1fying/blue\_archive\_auto\_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序( Steam已适配 )
+
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+
+*   [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - One of a few malware collections on the GitHub.
+
+*   [Yourouchour/yMath](https://github.com/Yourouchour/yMath) -
+
+*   [openvpi/SOME](https://github.com/openvpi/SOME) - SOME: Singing-Oriented MIDI Extractor.
+
+*   [NewSapporoNingyo/BVE-Gensokyo-Railway](https://github.com/NewSapporoNingyo/BVE-Gensokyo-Railway) - Bve Trainsim5  Gensokyo Railway 幻想郷鉄道 幻想乡铁道
+
+*   [283375/arcaea-offline](https://github.com/283375/arcaea-offline) -
+
+*   [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI) - A project for ATRI, use go-cqhttp and Nonebot2.
+
+*   [YinBuLiao/GenshinImpact\_Start](https://github.com/YinBuLiao/GenshinImpact_Start) -
+
+*   [87owo/PYAS](https://github.com/87owo/PYAS) - Antivirus software written in Python and C++ that blocks threats through deep learning and behavioral monitoring!
+
+*   [cwuom/MusicHelper](https://github.com/cwuom/MusicHelper) - 一个通过Python编写的QQ、网易云音乐无损音乐爬取工具
+
+*   [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches and common tags.
+
+*   [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
+
+*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+
+*   [123summertime/ykkz](https://github.com/123summertime/ykkz) - 基于nonebot和RWKV的聊天机器人，支持发送语音和表情
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [SkyDynamic/MinecraftCNLoginFixTool](https://github.com/SkyDynamic/MinecraftCNLoginFixTool) - 一个基于修改Hosts让登录MC不再困难的软件
+
+*   [MCServerScout/Discord-Bot](https://github.com/MCServerScout/Discord-Bot) - Server Scout (Discord Bot)
+
+*   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+
+*   [hoemotion/Karuma](https://github.com/hoemotion/Karuma) - Karuma is a Discord Bot including Nukes, Raids, Mass DM and other features. Only for educational purposes 🥱🚀
+
+*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+
+*   [Balloon-356/Video2MC](https://github.com/Balloon-356/Video2MC) -
+
+*   [Zhenye-Na/leetcode](https://github.com/Zhenye-Na/leetcode) - 👨‍💻 This repository contains the solutions and explanations for algorithm problems in LeetCode, implemented by Python or Java. Code Skeletons are generated automatically via the `vscode-leetcode` plugin.
+
+*   [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
+
+*   [psyker-team/mist](https://github.com/psyker-team/mist) - Watermark you artworks to stay away from unauthorized diffusion style mimicry!
+
+*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+
+*   [noDRM/DeDRM\_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
+
+*   [RimoChan/GPT-reader](https://github.com/RimoChan/GPT-reader) - 【GPT-reader】让GPT帮你读小说吧！
+
+*   [TollyH/rPlaceData](https://github.com/TollyH/rPlaceData) - Scripts for making videos based on Reddit r/place
+
+*   [RimoChan/waifu-sensor](https://github.com/RimoChan/waifu-sensor) - 【老婆探测器】1个可解释的动漫角色分类模型！
+
+*   [bghta666/mfunsNew](https://github.com/bghta666/mfunsNew) - m站新站辅助工具
+
+*   [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+
+*   [SerinaNya/SkinRenderMC](https://github.com/SerinaNya/SkinRenderMC) - Render your Minecraft Skins and Capes in 3D view. | 一坨狗屎，待重写
+
+*   [CnAoKip/BlankEncode](https://github.com/CnAoKip/BlankEncode) - 一个用不可见字符编码并藏匿文件的脚本
+
+*   [JialingRichard/LSB-T-Live-Frame](https://github.com/JialingRichard/LSB-T-Live-Frame) - https://www.bilibili.com/video/BV1Az4y1z7Jy
+
+*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+
+*   [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) - Advanced Multi-Featured Telegram UserBot by pyrogram.
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [IrisRainbowNeko/pixiv\_AI\_crawler](https://github.com/IrisRainbowNeko/pixiv_AI_crawler) - 基于深度学习的p站高质量涩图AI爬虫，可以学会你的XP
+
+*   [GamerNoTitle/bilibiliEmote](https://github.com/GamerNoTitle/bilibiliEmote) - 【B站加入了反爬机制，未拥有的表情现在无法爬取了】哔哩哔哩官方表情自动爬取
+
+*   [errorer/Portal\_StillAlive\_Python](https://github.com/errorer/Portal_StillAlive_Python) - A demo of the credit song 'Still Alive' of Portal 1 written in Python, running in 80x24 text terminal
+
+*   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
+
+*   [molanp/html\_check\_Minecraft](https://github.com/molanp/html_check_Minecraft) - 网页版我的世界服务器查询，最初给蓝天云写的
+
+*   [ermaozi01/free\_clash\_vpn](https://github.com/ermaozi01/free_clash_vpn) - ✈️ 2023 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙 | 梯子 | 免费节点
+
+*   [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率）
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+
+*   [fengx1a0/Bilibili\_show\_ticket\_auto\_order](https://github.com/fengx1a0/Bilibili_show_ticket_auto_order) -
+
+*   [noionion/Twikoo-Magic](https://github.com/noionion/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
+
+*   [ChenPi11/PixelPlayer](https://github.com/ChenPi11/PixelPlayer) - PixelPlayer can play video in console
+
+*   [Syan-Lin/CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) - LLM + TTS 的真实感聊天机器人 | QQ 机器人 | 支持表情包、QQ 表情、联网搜索
+
+*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议，支持web端和B站直播开放平台两种接口
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+
+*   [JimmyLiang-lzm/biliDownloader\_GUI](https://github.com/JimmyLiang-lzm/biliDownloader_GUI) - B站视频下载程序，BiliBili视频下载器，支持下载B站视频、交互\互动视频，支持下载区域限制视频资源。Bili Downloader GUI Program for Stable.😊
+
+*   [huang1332/qrcode\_streamer](https://github.com/huang1332/qrcode_streamer) - 基于二维码和AES128加密的直播工具，可用于bilibili的彩虹六号直播，包括获取屏幕画面并显示二维码的脚本和识别屏幕上二维码并显示原图的脚本
+
+*   [kivvi3412/HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
+
+*   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
+
+*   [YukariChiba/MedicineNotifyBot](https://github.com/YukariChiba/MedicineNotifyBot) - 提醒您按时吃药的 Telegram Bot。
+
+*   [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
+
+*   [AnonymousX1025/AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
+
+*   [clean-master/stable-diffusion-webui-launcher-directml](https://github.com/clean-master/stable-diffusion-webui-launcher-directml) - A PyQt5 based launcher that provides an easy-to-use interface for launching Stable Diffusion WebUI with optional DirectML support.
+
+*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+
+*   [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
+
+*   [Zeal-L/BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！
+
+*   [cheukcat/The-Eyes-Have-It](https://github.com/cheukcat/The-Eyes-Have-It) - An intuitive approach for 3D Occupancy Detection
+
+*   [bujnlc8/gptbing](https://github.com/bujnlc8/gptbing) - 集成ChatGPT和New Bing到微信，提供New Bing聊天小程序，额外集成了Google Bard和文心一言
+
+*   [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+
+*   [DongGuoZheng/VideoSlim](https://github.com/DongGuoZheng/VideoSlim) - VideoSlim 简洁易用的Win视频压缩工具
+
+*   [CBerJun/AcaciaMC](https://github.com/CBerJun/AcaciaMC) - A programming language that runs in Minecraft BE by compiling into commands
+
+*   [SayaSS/vits-finetuning](https://github.com/SayaSS/vits-finetuning) - Fine-Tuning your VITS model using a pre-trained model
+
+*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into various software applications (such as Telegram, Gmail, Slack, and websites).
+
+*   [Paraworks/vits\_with\_chatgpt-gpt3](https://github.com/Paraworks/vits_with_chatgpt-gpt3) -
+
+*   [EasyLive2D/Live2DMascot](https://github.com/EasyLive2D/Live2DMascot) - 桌面Live2D，提供自定义聊天接口，支持更换模型，自定义动作语音+文本
+
+*   [M4Singer/M4Singer](https://github.com/M4Singer/M4Singer) -
+
+*   [Well2333/VoiceS](https://github.com/Well2333/VoiceS) - 适用于 diffsinger 的多功能工具集
+
+*   [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
+
+*   [InvoluteHell/NineNineTable](https://github.com/InvoluteHell/NineNineTable) - 九九乘法表
+
+*   [pkuliyi2015/multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) - Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0
+
+*   [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+
+*   [AliceNavigator/AI-Vtuber-chatglm](https://github.com/AliceNavigator/AI-Vtuber-chatglm) - 本地部署chatglm生成并以语音回复你的bilibili直播弹幕 Use chatglm to generate and reply your bilibili live danmu with voice
+
+*   [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
+
+*   [keums/icassp2022-vocal-transcription](https://github.com/keums/icassp2022-vocal-transcription) - Code for ICASSP2022 paper "Pseudo-Label Transfer from Frame-Level to Note-Level in a Teacher-Student Framework for Singing Transcription from Polyphonic Music"
+
+*   [kulya97/warm\_3dmodule](https://github.com/kulya97/warm_3dmodule) -
+
+*   [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
+
+*   [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
+
+*   [fishaudio/openutau-remote-host](https://github.com/fishaudio/openutau-remote-host) -
+
+*   [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
+
+*   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+
+*   [IoeCmcomc/NBSTool](https://github.com/IoeCmcomc/NBSTool) - Batch manipulating, importing and exporting .nbs files
+
+*   [bmaltais/kohya\_ss](https://github.com/bmaltais/kohya_ss) -
+
+*   [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
+
+*   [Darth-InVader15/8D-Audio-Generator](https://github.com/Darth-InVader15/8D-Audio-Generator) - A python application to generate 8D (Ambisonic) version of any song
+
+*   [joe-habel/PyHRTFSweeper](https://github.com/joe-habel/PyHRTFSweeper) - A Python based implementation of HRTF that sweeps an audio file around the azimuth at a given frequency.
+
+*   [CrownYou/Information-Security-Toolbox](https://github.com/CrownYou/Information-Security-Toolbox) - 这是我在大学期间开发的一款课程项目，这款程序中包括了隐写术、RSA、ECC非对称加解密、数字签名、AES对称加解密、DH密钥交换算法、Shamir秘密共享算法、CKKS同态加密以及哈希计算等多种功能。这个软件使用方便、上手简单、使用逻辑清晰，旨在为用户提供一系列方便、安全和可靠的数据保护解决方案。
+
+*   [Xizo-114514/DiskIconChangerByXizo](https://github.com/Xizo-114514/DiskIconChangerByXizo) - 这是一个可以修改硬盘图标的软件哦~。 A software that can change the disk icon.
+
+*   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
+
+*   [bghta666/mfuns-helper](https://github.com/bghta666/mfuns-helper) - m站辅助工具python版本
+
+*   [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) - 基于Graia Ariadne和Mirai的QQ机器人 SAGIRI-BOT
+
+*   [Cosmos01/aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT) - HoshinoBot aichat插件魔改GPT-3.5 API版本
+
+*   [OedoSoldier/chatglm\_webui](https://github.com/OedoSoldier/chatglm_webui) - A naive webui for ChatGLM
+
+*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+
+*   [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+
+*   [Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
+
+*   [tkgs0/nonebot-plugin-dicky-pk](https://github.com/tkgs0/nonebot-plugin-dicky-pk) - 群聊小游戏: 牛子PK
+
+*   [tkgs0/Momoko](https://github.com/tkgs0/Momoko) - 女生自用QQ聊天机器人「桃桃酱」
+
+*   [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+
+*   [MCSLTeam/MCSL2](https://github.com/MCSLTeam/MCSL2) - MCSL2 | 一个简洁全能的Minecraft开服器
+
+*   [shawnrivers/gif-compressor](https://github.com/shawnrivers/gif-compressor) - This is a little program to help compress your .mp4 or gif into a smaller .gif which has a size smallar than 1 MB.
+
+*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器
+
+*   [kyxiaxiang/VSPhishBuild](https://github.com/kyxiaxiang/VSPhishBuild) -
+
+*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+
+*   [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
+
+*   [TheKOG/Gal-Voice-Bot](https://github.com/TheKOG/Gal-Voice-Bot) -
+
+*   [flutydeer/audio-slicer](https://github.com/flutydeer/audio-slicer) - A simple GUI application that slices audio with silence detection
+
+*   [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+
+*   [KingKDot/SomalifuscatorV2](https://github.com/KingKDot/SomalifuscatorV2) - Most advanced and poorly coded windows batch obfuscator ever made (aka the best)
+
+*   [Lost-MSth/Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) - 一个微型的 Arcaea 本地服务器  A small local server for Arcaea
+
+*   [molanp/Auto\_shop](https://github.com/molanp/Auto_shop) - 蓝天云魔方站自动抢购，稍微改改也可以在其他魔方站使用
+
+*   [molanp/zhenxun\_plugin\_niuniu](https://github.com/molanp/zhenxun_plugin_niuniu) - 真寻群内小游戏插件牛牛大作战
+
+*   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+
+*   [hokejyo/VisualNovelUpscaler](https://github.com/hokejyo/VisualNovelUpscaler) - 一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
+
+*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+
+*   [LiveOverflow/minecraft-hacked](https://github.com/LiveOverflow/minecraft-hacked) - Minecraft:Hacked is a video series exploring various technical areas of Minecraft.
+
+*   [MeowHardware/chat-meow](https://github.com/MeowHardware/chat-meow) -
+
+*   [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+*   [MemeCrafters/nonebot-plugin-petpet](https://github.com/MemeCrafters/nonebot-plugin-petpet) - Nonebot2 插件，用于制作摸头等头像相关表情包
+
+*   [walker-1024/Meme-with-QQavatar](https://github.com/walker-1024/Meme-with-QQavatar) - 给定一个QQ号和指令，将获取其头像，制作成为一个有趣的表情包。非常适合作为QQbot的一个功能。
+
+*   [piqueserver/piqueserver](https://github.com/piqueserver/piqueserver) - An Ace of Spades 0.75 server based on PySnip.
+
+*   [fslongjin/This-repo-has-1426-stars](https://github.com/fslongjin/This-repo-has-1426-stars) - 这个仓库有1426个star，不信你试试
+
+*   [offlinemark/dawtool](https://github.com/offlinemark/dawtool) - Reverse-engineered parsers for Ableton Live & FL Studio project files.
+
+*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+
+*   [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+
+*   [SunsetMkt/Bilibili-Video-Reply-Crawler](https://github.com/SunsetMkt/Bilibili-Video-Reply-Crawler) - Python爬虫获取Bilibili视频/专栏评论
+
+*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
+
+*   [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+
+*   [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
+
+*   [MXWXZ/QQKey](https://github.com/MXWXZ/QQKey) - QQKey漏洞获取，仅供学习研究使用
+
+*   [ful1e5/clickgen](https://github.com/ful1e5/clickgen) - The hassle-free cursor building toolbox.
+
+*   [xiaoyou-bilibili/video\_tool](https://github.com/xiaoyou-bilibili/video_tool) - 视频小工具，批量字幕内嵌、视频转码、音频提取、视频混流、视频超分辨率、视频字幕生成、带GUI
+
+*   [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) - A simple Minecraft modpack focusing on performance and graphics enhancements.
+
+*   [sma11new/ip2domain](https://github.com/sma11new/ip2domain) - 批量查询ip对应域名及百度权重、备案信息；ip反查域名；ip查备案信息；资产归属查询；百度权重查询
+
+*   [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - an UwU programming language
+
+*   [ms-jpq/gay](https://github.com/ms-jpq/gay) - Colour your text / terminal to be more gay. 🏳️‍🌈
+
+*   [xiaoyou-bilibili/mskn](https://github.com/xiaoyou-bilibili/mskn) - 御坂网络-一个分布式任务执行应用
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [kumopult/blender\_BoneAnimCopy](https://github.com/kumopult/blender_BoneAnimCopy) - 用于在blender中桥接骨骼动画的插件
+
+*   [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK) - Official code of "HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation", CVPR 2021
+
+*   [Turing-Project/AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model
+
+*   [sena-nana/nonebot-plugin-novelai](https://github.com/sena-nana/nonebot-plugin-novelai) - Generate images by Stable-Diffusion-webui Based on Python | 使用Python的基于 SD-webui 的画图机器人（支持中文、Novelai和Naifu）
+
+*   [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
+
+*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+
+*   [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+
+*   [purple4pur/generate-880000-lmao](https://github.com/purple4pur/generate-880000-lmao) - 连编译都不给我通过\[摸鱼]，我88万行代码百写了啊
+
+*   [btc-99/Yukkuri-audition](https://github.com/btc-99/Yukkuri-audition) - 通过 Python 中的 selenium 库实现自动化批量生成油库里语音
+
+*   [ShenYuhan/python-tools](https://github.com/ShenYuhan/python-tools) -
+
+*   [btc-99/autotune\_remix](https://github.com/btc-99/autotune_remix) - 一键生成鬼畜音 mad 视频
+
+*   [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) - StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion
+
+*   [molanp/zhenxun\_plugin\_mccheck](https://github.com/molanp/zhenxun_plugin_mccheck) - Minecraft服务器状态查询，支持IPv6/Minecraft server status query, IPv6 supported
+
+*   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
+
+*   [bbilly1/tilefy](https://github.com/bbilly1/tilefy) - Create beautiful tiles for your project
+
+*   [casualsnek/waydroid\_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
+
+*   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
+
+*   [ffreemt/deepl-fastapi](https://github.com/ffreemt/deepl-fastapi) - your own deepl server via fastapi, cross-platform (Windows/Linux/Mac)
+
+*   [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) -
+
+*   [kyv001/song](https://github.com/kyv001/song) -
+
+*   [JingShing/Encryptor-Decryptor](https://github.com/JingShing/Encryptor-Decryptor) - A tool for encrypt and decrypt.
+
+*   [tammypi/remote\_control\_tool](https://github.com/tammypi/remote_control_tool) -
+
+*   [Rainbow-Dreamer/musicpy](https://github.com/Rainbow-Dreamer/musicpy) - Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.
+
+*   [LiRenTech/SmartPython](https://github.com/LiRenTech/SmartPython) - python小技巧系列源代码——来自b站视频
+
+*   [innnky/so-vits-svc](https://github.com/innnky/so-vits-svc) - 基于vits与softvc的歌声音色转换模型
+
+*   [CjangCjengh/MoeGoe](https://github.com/CjangCjengh/MoeGoe) - Executable file for VITS inference
+
+*   [tuomaskivioja/File-Downloads-Automator](https://github.com/tuomaskivioja/File-Downloads-Automator) - Sends downloaded files to user-defined folders automatically. Avoids cluttering your downloads folder.
+
+*   [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
+
+*   [openvpi/DiffSinger](https://github.com/openvpi/DiffSinger) - An advanced singing voice synthesis system with high fidelity, expressiveness, controllability and flexibility based on DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism
+
+*   [userElaina/translator](https://github.com/userElaina/translator) - 强烈谴责某二次元公司用 japanglish 变量名
+
+*   [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197) - CobaltStrike <= 4.7.1 RCE
+
+*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
+
+*   [KichangKim/DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
+
+*   [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+
+*   [journey-ad/sd-webui-custom](https://github.com/journey-ad/sd-webui-custom) - 给Stable Diffusion web UI加点料
+
+*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
+
+*   [HaujetZhao/QuickHand](https://github.com/HaujetZhao/QuickHand) - 快速的仿手写文字的图片生成器。基于 https://github.com/Gsllchb/Handright/ 的 GUI。
+
+*   [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) - pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
+
+*   [Al1ex/CVE-2021-22205](https://github.com/Al1ex/CVE-2021-22205) - CVE-2021-22205& GitLab CE/EE RCE
+
+*   [UzJu/Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) - 六大云存储，泄露利用检测工具
+
+*   [kelvinBen/AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner) - 一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
+
+*   [yuyuyzl/EasyVtuber](https://github.com/yuyuyzl/EasyVtuber) - Based on Talking-head-anime 3, works like Vtube Studio.
+
+*   [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code
+
+*   [zhengxiaowai/tcping](https://github.com/zhengxiaowai/tcping) - ⚡️ Just like icmp ping
+
+*   [chinalu/imagedups](https://github.com/chinalu/imagedups) - 图片查重、图片去重、Find/Delete duplicated images
+
+*   [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
+
+*   [MCDReforged/MCDReforged](https://github.com/MCDReforged/MCDReforged) - A rewritten version of MCDaemon, a python tool to control your Minecraft server
+
+*   [RMYHY/RBot](https://github.com/RMYHY/RBot) -
+
+*   [infinityedge01/ASOUL-Generator-Backend](https://github.com/infinityedge01/ASOUL-Generator-Backend) - Backend of https://asoul.infedg.xyz/, An A-SOUL Text Generator Based on CPM-Distill.
+
+*   [SuperZombi/GICutscenesUI](https://github.com/SuperZombi/GICutscenesUI) - User Interface for Genshin Cutscenes Demuxer
+
+*   [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
+
+*   [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+
+*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+
+*   [GraiaProject/Avilla](https://github.com/GraiaProject/Avilla) - The next-gen framework for IM development. Powered by Graia Project.
+
+*   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+
+*   [zhenxun-org/zhenxun\_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
+
+*   [itstyren/CNKI-download](https://github.com/itstyren/CNKI-download) -  :frog: 知网(CNKI)文献下载及文献速览爬虫 (Web Scraper for Extracting Data)
+
+*   [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+
+*   [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+
+*   [HypoX64/Deep3D](https://github.com/HypoX64/Deep3D) - Real-Time end-to-end 2D-to-3D Video Conversion, based on deep learning.
+
+*   [Belval/pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
+
+*   [INotGreen/GlllPowerloader](https://github.com/INotGreen/GlllPowerloader) - 绕过AV/EDR的代码例子（Code example to bypass AV/EDR）
+
+*   [Ha3MrX/DDos-Attack](https://github.com/Ha3MrX/DDos-Attack) - DDos-Attack Is A Python script online Attack
+
+*   [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs
+
+*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+
+*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+
+*   [jimmy-ly00/Ransomware-PoC](https://github.com/jimmy-ly00/Ransomware-PoC) - A simple, fully python ransomware PoC using AES-CTR and RSA. Supports Windows, Linux and macOS
+
+*   [LeviBorodenko/spectrographic](https://github.com/LeviBorodenko/spectrographic) - Turn an image into sound whose spectrogram looks like the image.
+
+*   [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl) - Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，喜马拉雅，荔枝FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，Bilibili音乐，SoundCloud，猫耳FM等数十个主流音乐平台)
+
+*   [39665558/HideFileInMusic](https://github.com/39665558/HideFileInMusic) - 用歌曲隐藏任意文件，小说、图片、种子等
+
+*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
+
+*   [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
+
+*   [terrycojones/rpnpy](https://github.com/terrycojones/rpnpy) - A reverse-Polish notation calculator for Python
+
+*   [hexadecimal233/bili-signature](https://github.com/hexadecimal233/bili-signature) - An auto signature changer for Bilibili. This is the Python port.
+
+*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+
+*   [tlecomte/friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.)
+
+*   [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+
+*   [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
+
+*   [jtl1207/comic-translation](https://github.com/jtl1207/comic-translation) - 基于深度学习的漫画翻译辅助工具，包含翻译、朗读、图像去字、自动嵌字功能。  目的是帮助非专业汉化人员完成更简单，快速的翻译任务。
+
+*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+
+*   [nl8590687/ASRT\_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition) - A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统
+
+*   [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
+
+*   [zulkarnine/WordleSolver](https://github.com/zulkarnine/WordleSolver) - Algorithm to solve Wordle correctly 100% of the time within 6 attempts.
+
+*   [GoForceX/bilibili-sign-changer](https://github.com/GoForceX/bilibili-sign-changer) -
+
+*   [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
+
+*   [alekssamos/msspeech](https://github.com/alekssamos/msspeech) - not official API for Microsoft speech synthesis from Microsoft Edge web browser read aloud
+
+*   [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers
+
+*   [drakeerv/MC-Server-Finder](https://github.com/drakeerv/MC-Server-Finder) - A project that scans the internet to find open Minecraft servers.
+
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+
+*   [bilibili/ailab](https://github.com/bilibili/ailab) -
+
+*   [uzh-rpg/rpg\_timelens](https://github.com/uzh-rpg/rpg_timelens) - Repository relating to the CVPR21 paper TimeLens: Event-based Video Frame Interpolation
+
+*   [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Check our tutorial site, https://rick-lang.github.io/programming-language-explainer/
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+*   [MaxSecurity/BiliExper](https://github.com/MaxSecurity/BiliExper) -
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+
+*   [magicbear/OscilloVideo](https://github.com/magicbear/OscilloVideo) - Make video to oscilloscope graphic
+
+*   [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用 diango 开发的 shadowsocks 面板
+
+*   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
+
+*   [Bluefissure/OtterBot](https://github.com/Bluefissure/OtterBot) - A QQ bot of FFXIV
+
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+
+*   [Cindy723/PyRPA](https://github.com/Cindy723/PyRPA) - 基于Pyautogui的自动化工具
+
+*   [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - \[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
+
+*   [Vincentzyx/DouZero\_For\_HLDDZ\_FullAuto](https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto) - 将DouZero用于欢乐斗地主自动化
+
+*   [lyc8503/AutomaticGrassSpawner-octet](https://github.com/lyc8503/AutomaticGrassSpawner-octet) - \[纯属无聊] 全自动谷歌翻译生草机八国语言版
+
+*   [Rydgel/Fake-images-please](https://github.com/Rydgel/Fake-images-please) - Fakeimg.pl is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free.
+
+*   [laorange/ScriptForSafetyEducation](https://github.com/laorange/ScriptForSafetyEducation) - 用python全自动刷课-(北京麦课)安全教育
+
+*   [seanliang/ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8) - A Sublime Text 2 & 3 plugin for editing and saving files encoded in GBK, BIG5, EUC-KR, EUC-JP, Shift\_JIS, etc.
+
+*   [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) - 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS
+
+*   [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) - 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)
+
+*   [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) - e-hentai, exhentai，看图，搜索，下载器
+
+*   [offu/WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
+
+*   [UndeadSec/EvilURL](https://github.com/UndeadSec/EvilURL) - Generate unicode domains for IDN Homograph Attack and detect them.
+
+*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+
+*   [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
+
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+
+*   [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv 辅助工具
+
+*   [svzdev/doudizhu](https://github.com/svzdev/doudizhu) - html5 斗地主游戏
+
+*   [kwai/DouZero](https://github.com/kwai/DouZero) - \[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
+
+*   [feisuzhu/thbattle](https://github.com/feisuzhu/thbattle) - A Sanguosha board game clone, based on Touhou Project
+
+*   [sdushantha/wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
+
+*   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+
+*   [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
+
+*   [cve-search/cve-search](https://github.com/cve-search/cve-search) - cve-search - a tool to perform local searches for known vulnerabilities
+
+*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
+
+*   [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+
+*   [Meituan-Dianping/lyrebird](https://github.com/Meituan-Dianping/lyrebird) - 移动应用插件化测试工作台
+
+*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+*   [IrisRainbowNeko/genshin\_auto\_fish](https://github.com/IrisRainbowNeko/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI
+
+*   [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) - Open source Python library for converting PDF to DOCX.
+
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+*   [liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 🍺基于Django的博客系统
+
+*   [NoisyWinds/puzzle](https://github.com/NoisyWinds/puzzle) - 🌷 使用5000张二次元图片生成海报大图，计算颜色相似度。Make a poster with 5000 pictures，Python spider and Color similarity measure
+
+*   [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
+
+*   [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
+
+*   [ZubinGou/AI\_Poet\_Totoro](https://github.com/ZubinGou/AI_Poet_Totoro) - 新手实战：语料爬取、数据处理、数据分析、规则作诗与机器学习写诗
+
+*   [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
+
+*   [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+
+*   [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
+
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+
+*   [abhirooptalasila/AutoSub](https://github.com/abhirooptalasila/AutoSub) - A CLI script to generate subtitle files (SRT/VTT/TXT) for any video using either DeepSpeech or Coqui
+
+*   [webpy/webpy](https://github.com/webpy/webpy) - web.py is a web framework for python that is as simple as it is powerful.
+
+*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+
+*   [official-stockfish/fishtest](https://github.com/official-stockfish/fishtest) - The Stockfish testing framework
+
+*   [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - A bridge between Lichess bots and chess engines
+
+*   [bytedance/OMGD](https://github.com/bytedance/OMGD) - Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
+
+*   [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
+
+*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+
+*   [RimoChan/Vtuber\_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial) - 【教程】从零开始的自制Vtuber！
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+*   [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
+
+*   [Coder-Osman/Chess](https://github.com/Coder-Osman/Chess) -
+
+*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+
+*   [TomoeMami/S1PlainTextBackup](https://github.com/TomoeMami/S1PlainTextBackup) - 纯文本格式的S1帖子备份
+
+*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).
+
+*   [ASoulCnki/ASoulCnki](https://github.com/ASoulCnki/ASoulCnki) - ASoul评论区小作文 枝网查重系统 爬虫部分
+
+*   [miaotony/calc114514](https://github.com/miaotony/calc114514) - Calculate a number with 114514 & some operators.
+
+*   [jiupinjia/stylized-neural-painting](https://github.com/jiupinjia/stylized-neural-painting) - Official Pytorch implementation of the preprint paper "Stylized Neural Painting", in CVPR 2021.
+
+*   [Severus11/Virtual-Air-Painting](https://github.com/Severus11/Virtual-Air-Painting) - This is an application that enables one to vitually paint in the air using their fingers. It is developed in python on TF lite and opencv
+
+*   [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC) - :fire: PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. :fire: 图像翻译，条件GAN，AI绘画
+
+*   [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
+
+*   [zaxtyson/AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) - 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
+
+*   [coneypo/Dlib\_face\_recognition\_from\_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) - Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别
+
+*   [39665558/PaddleDemo](https://github.com/39665558/PaddleDemo) - 使用百度飞桨深度学习平台的简单例子
+
+*   [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
+
+*   [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
+
+*   [VacantHusky/2048GameAutoMovePython](https://github.com/VacantHusky/2048GameAutoMovePython) - 使用python编写2048游戏及自动玩
+
+*   [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
+
+*   [yutto-dev/bilili](https://github.com/yutto-dev/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
+
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+
+*   [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
+
+*   [userElaina/dream](https://github.com/userElaina/dream) - Welcome to record interesting (or strange) dreams here! 欢迎在这里记录有趣的(或奇怪的)梦境!
+
+*   [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
+
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+*   [stormshadow07/HackTheWorld](https://github.com/stormshadow07/HackTheWorld) - An Python Script For Generating Payloads that Bypasses All Antivirus so far .
+
+*   [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
+
+*   [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
+
+*   [ewanhowell5195/ewanhowell5195.github.io](https://github.com/ewanhowell5195/ewanhowell5195.github.io) - My old website
+
+*   [AsakuraMizu/pygros](https://github.com/AsakuraMizu/pygros) - An open-source fanmade chart emulator for the rhythm game "Phigros".
+
+*   [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn/.DS\_Store泄漏和目录列出
+
+*   [SysCV/qd-3dt](https://github.com/SysCV/qd-3dt) - Official implementation of Monocular Quasi-Dense 3D Object Tracking, TPAMI 2022
+
+*   [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
+
+*   [ado1928/pix2msch](https://github.com/ado1928/pix2msch) - A program that converts images into Mindustry schematics
+
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
+
+*   [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
+
+*   [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
+
+*   [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
+
+*   [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
+
+*   [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
+
+*   [imageio/imageio-ffmpeg](https://github.com/imageio/imageio-ffmpeg) - FFMPEG wrapper for Python
+
+*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+
+*   [bytedance/piano\_transcription](https://github.com/bytedance/piano_transcription) -
+
+*   [desbma/GoogleSpeech](https://github.com/desbma/GoogleSpeech) - Read text using Google Translate TTS API
+
+*   [HollowMan6/Picture-Video-Info-Hiding-EnDecryption](https://github.com/HollowMan6/Picture-Video-Info-Hiding-EnDecryption) - This is a software for Picture (Video) Information Hiding Encryption and Decryption.(Hollow 图片（视频）信息隐藏加解密软件)
+
+*   [k4yt3x/zero-width-text-scrambler](https://github.com/k4yt3x/zero-width-text-scrambler) - 一个在字符串中随机加入随机数量零宽字符的混淆器。
+
+*   [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
+
+*   [decalage2/olefile](https://github.com/decalage2/olefile) - olefile is a Python package to parse, read and write Microsoft OLE2 files (also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office 97-2003 documents, vbaProject.bin in MS Office 2007+ files, Image Composer and FlashPix files, Outlook messages, StickyNotes, several Microscopy file formats, McAfee antivirus quarantine files, etc.
+
+*   [strayge/olefile](https://github.com/strayge/olefile) - olefile is a Python package to parse, read and write Microsoft OLE2 files (also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office 97-2003 documents, vbaProject.bin in MS Office 2007+ files, Image Composer and FlashPix files, Outlook messages, StickyNotes, several Microscopy file formats, McAfee antivirus quarantine files, etc.
+
+*   [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba\_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical\_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+
+*   [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
+
+*   [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [ubitux/oraladder](https://github.com/ubitux/oraladder) - frontend+backend for oraladder.net
+
+*   [39665558/WindowBadApple](https://github.com/39665558/WindowBadApple) - 打开1200个窗口，让它们跳bad apple
+
+*   [39665558/Novel\_In\_Image](https://github.com/39665558/Novel_In_Image) - 把百万字小说藏进图片 再也不担心麻麻检查了
+
+*   [39665558/SimpleScaleDown](https://github.com/39665558/SimpleScaleDown) - 利用近邻法的弱点实现图片缩小后变成另一张图
+
+*   [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
+
+*   [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) - OpenCV问答群不再维护。有问题，自己去搜索。Google能找到大部分答案。
+
+*   [teja156/imghide](https://github.com/teja156/imghide) - Hide secret texts inside an image, optionally encrypt them with a password using AES-256.
+
+*   [jameslyons/pycipher](https://github.com/jameslyons/pycipher) - python module containing many classical cipher algorithms: Caesar, Vigenere, ADFGVX, Enigma etc.
+
+*   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+
+*   [avdosev/github\_avatars\_generator](https://github.com/avdosev/github_avatars_generator) - generator github avatars
+
+*   [kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [justcatthefish/justctf-2020](https://github.com/justcatthefish/justctf-2020) - justCTF \[\*] 2020 challenges sources
+
+*   [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
+
+*   [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
+
+*   [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
+
+*   [truenas/middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
+
+*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+
+*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+
+*   [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+
+*   [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
+
+*   [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
+
+*   [artcom-net/mp3-tagger](https://github.com/artcom-net/mp3-tagger) - ID3 data editor
+
+*   [FengZi-lv/WebShell](https://github.com/FengZi-lv/WebShell) - WebShell 可以连接 一句话木马,文件包含漏洞等。基于python3编写。小巧好用。Can connect a sentence Trojan, files containing vulnerabilities, etc. Written in Python 3. Small to use
+
+*   [lijiejie/subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A fast sub domain brute tool for pentesters
+
+*   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
+
+*   [fhorinek/adbmirror](https://github.com/fhorinek/adbmirror) - Fast screen mirroring via adb
+
+*   [PeterDing/BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) - BaiduPCS API & App 百度网盘客户端 和 API
+
+*   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
+
+*   [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+
+*   [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+
+*   [python/cpython](https://github.com/python/cpython) - The Python programming language
+
+*   [ee0703/console\_video](https://github.com/ee0703/console_video) - a tool based on ffmpeg that plays video in console!
+
+*   [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
+
+*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+
+*   [BurguerJohn/Dain-App](https://github.com/BurguerJohn/Dain-App) - Source code for Dain-App
+
+*   [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
+
+*   [FortuneDayssss/BilibiliUploader](https://github.com/FortuneDayssss/BilibiliUploader) - 模拟Bilibili windows投稿客户端
+
+*   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
+
+*   [priyankchheda/chrome\_password\_grabber](https://github.com/priyankchheda/chrome_password_grabber) - Get unencrypted 'Saved Password' from Google Chrome
+
+*   [Nandaka/PixivUtil2](https://github.com/Nandaka/PixivUtil2) - Download images from Pixiv and more!
+
+*   [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
+
+*   [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
+
+*   [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
+
+*   [yuanhao-chen-nyoeghau/Xdi8Translator](https://github.com/yuanhao-chen-nyoeghau/Xdi8Translator) - Multiway Xdi8 Translator
+
+*   [hanikesn/woff2otf](https://github.com/hanikesn/woff2otf) - Converts woff files to otf files
+
+*   [sanderland/katrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo!
+
+*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+
+*   [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray/xray多用户管理部署程序
+
+*   [dyh/ai-blocks](https://github.com/dyh/ai-blocks) - awesome ai applications, lane line detection, license plate detection, etc.
+
+*   [Nico31415/Drowning-Detector](https://github.com/Nico31415/Drowning-Detector) - Using YOLO object detection, this program will detect if a person is drowning. This project is still a work in progress, so it can only be implemented with a computer's webcam, and doesn't work completely yet.
+
+*   [corpnewt/SSDTTime](https://github.com/corpnewt/SSDTTime) - SSDT/DSDT hotpatch attempts.
+
+*   [eerykitty/CVE-2020-0796-PoC](https://github.com/eerykitty/CVE-2020-0796-PoC) - PoC for triggering buffer overflow via CVE-2020-0796
+
+*   [LubyRuffy/duck2spark](https://github.com/LubyRuffy/duck2spark) - Converter for raw RubberDucky payloads to Digispark Arduino IDE Sketch source.
+
+*   [nitinkamra1992/heic2jpg](https://github.com/nitinkamra1992/heic2jpg) - Convert HEIC image files to JPG format using libheif
+
+*   [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling\_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
+
+*   [IreneSSSL/VideoViewsCapture](https://github.com/IreneSSSL/VideoViewsCapture) -
+
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+
+*   [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+
+*   [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
+
+*   [dunnousername/yanderifier](https://github.com/dunnousername/yanderifier) - First-Order-Wrapper (formerly known as Yanderify) is a front-end tool for first-order-motion. It aims to make using first-order-motion face animation accessible to everyone, for education and entertainment.
+
+*   [Teahouse-Studios/mcwzh-meme-resourcepack](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) - A pack that include meme translation in Chinese. | 梗体中文
+
+*   [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
+
+*   [BingLingGroup/autosub](https://github.com/BingLingGroup/autosub) - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles
+
+*   [agermanidis/autosub](https://github.com/agermanidis/autosub) - \[NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
+
+*   [aboood40091/Miyamoto](https://github.com/aboood40091/Miyamoto) - A supercharged fork of the modern day level editor.
+
+*   [tarcisio-marinho/GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) - A Linux Ransomware
+
+*   [satan1a/DDoS\_Attacket\_v0.1](https://github.com/satan1a/DDoS_Attacket_v0.1) - DDoS攻击器
+
+*   [aploium/zmirror-onekey](https://github.com/aploium/zmirror-onekey) - 一键部署zmirror镜像
 
 ## Swift
 
@@ -1264,1424 +5086,6 @@
 *   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 
 *   [Pavo-IM/OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X) - OpenCore Config Generator
-
-## Rust
-
-*   [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies.
-
-*   [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket implementation
-
-*   [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation
-
-*   [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org\[Rust]
-
-*   [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no\_std + serde compatible message library for Rust
-
-*   [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
-
-*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
-
-*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
-
-*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-
-*   [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust
-
-*   [valignatev/sleep-from-scratch](https://github.com/valignatev/sleep-from-scratch) - sleep for x86\_64 Linux from scratch
-
-*   [Fanteria/todotxt-tui](https://github.com/Fanteria/todotxt-tui) - Todo.txt TUI - Terminal-based Todo Task Manager
-
-*   [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) -
-
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-
-*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
-
-*   [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
-
-*   [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
-
-*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-
-*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
-
-*   [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
-
-*   [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
-
-*   [IxianPixel/rustwave](https://github.com/IxianPixel/rustwave) - A Soundcloud client written in Rust
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [biomejs/biome-zed](https://github.com/biomejs/biome-zed) - Biome extension for Zed
-
-*   [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
-
-*   [s00d/tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) -
-
-*   [Taiizor/tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - 🚀 Supercharge your Tauri app with intelligent disk & memory caching. Features TTL, compression, auto-cleanup, and cross-platform support for optimized performance.
-
-*   [cetra3/rustcloud](https://github.com/cetra3/rustcloud) - Download songs and mixes from your soundcloud stream
-
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-*   [djkato/DRP\_Creative](https://github.com/djkato/DRP_Creative) - Show your friends what you're working on, be it in Adobe Suite, Autodesk Suite, Cinema 4D or many more! Currently supported: C4D, Adobe Suite, Davinci Resolve, Maya, 3Ds Max, Sony Vegas, Substance suite, Isotropix suite, FL, Ableton, Blender, Cavalry, Zbrush
-
-*   [MaxOhn/Bathbot](https://github.com/MaxOhn/Bathbot) - Discord bot for osu!
-
-*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-
-*   [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
-
-*   [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
-
-*   [grufkork/rkbx\_link](https://github.com/grufkork/rkbx_link) - Sync music and lights to Rekordbox over Ableton Link, OSC and more!
-
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
-
-*   [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists.
-
-*   [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences
-
-*   [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
-
-*   [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) - \[READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
-
-*   [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
-
-*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-
-*   [rerun-io/egui\_table](https://github.com/rerun-io/egui_table) - Advanced table viewer for egui
-
-*   [kang-sw/egui-data-table](https://github.com/kang-sw/egui-data-table) -
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-
-*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-
-*   [wangfu91/usn-journal-rs](https://github.com/wangfu91/usn-journal-rs) - A Rust library for working with the NTFS USN change journal and enumerating the MFT.
-
-*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-
-*   [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) - Package Manager for AOSC OS
-
-*   [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
-
-*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
-
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-
-*   [neocturne/MinedMap](https://github.com/neocturne/MinedMap) - Minecraft map renderer and viewer
-
-*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
-
-*   [7086cmd/totp-console](https://github.com/7086cmd/totp-console) - Generate and manage your TOTP codes, in console.
-
-*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-
-*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
-
-*   [kingwingfly/encrypt-config](https://github.com/kingwingfly/encrypt-config) - A rust crate to manage, persist and encrypt your configurations.
-
-*   [AzurIce/ranim](https://github.com/AzurIce/ranim) - An animation engine implemented in rust, inspired by manim and JAnim
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-
-*   [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-
-*   [Eonian-Sharp/ESPortscan](https://github.com/Eonian-Sharp/ESPortscan) - 超高速端口扫描器。
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
-*   [onion108/xibao-gen](https://github.com/onion108/xibao-gen) - Generate xibao picture
-
-*   [Martinplior/high\_performance\_key\_overlay](https://github.com/Martinplior/high_performance_key_overlay) - A high performance key overlay, but not only high performance.
-
-*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-
-*   [contextfreeinfo/taca](https://github.com/contextfreeinfo/taca) - Wasm runtime for multimedia apps
-
-*   [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
-
-*   [maxcurzi/tplay](https://github.com/maxcurzi/tplay) - A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
-
-*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-
-*   [insomnimus/nodi](https://github.com/insomnimus/nodi) - A rust library for playing and abstraction of MIDI files.
-
-*   [insomnimus/plmidi](https://github.com/insomnimus/plmidi) - A command line MIDI player, written in rust.
-
-*   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
-
-*   [matrixlin/text\_editor](https://github.com/matrixlin/text_editor) - Learn the Rust programming language by writing your own text editor using the Rust programming language.
-
-*   [HaoboGu/rmk](https://github.com/HaoboGu/rmk) - Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support
-
-*   [typst/subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts.
-
-*   [chris-zen/kiro-synth](https://github.com/chris-zen/kiro-synth) - Modular sound synthesizer written in Rust
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-
-*   [michaelfairley/ezing](https://github.com/michaelfairley/ezing) - Easing functions for Rust
-
-*   [gin66/rusthesia](https://github.com/gin66/rusthesia) - Reads midi files and create piano notes waterfall
-
-*   [Coddeus/Pianorium](https://github.com/Coddeus/Pianorium) - A customizable midi visualizer/renderer for piano performances
-
-*   [kovaxis/midly](https://github.com/kovaxis/midly) - A feature-complete MIDI parser and writer focused on speed.
-
-*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-
-*   [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [Bylx666/key-lang](https://github.com/Bylx666/key-lang) - 目标是最精致的编程语言
-
-*   [wyatt-herkamp/vue3-simple-icons](https://github.com/wyatt-herkamp/vue3-simple-icons) - Simple-Icons for Vue3 with Typescript Definitions.
-
-*   [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and MacOs
-
-*   [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
-
-*   [srcres258/minecraft-rust](https://github.com/srcres258/minecraft-rust) -
-
-*   [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
-
-*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
-
-*   [lolishinshi/imsearch](https://github.com/lolishinshi/imsearch) - 基于特征点匹配的大规模相似图片搜索
-
-*   [KawaYww/deci-player](https://github.com/KawaYww/deci-player) - A music-player written with rust and iced
-
-*   [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-
-*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-
-*   [19MisterX98/Nether\_Bedrock\_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
-
-*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
-
-*   [kingwingfly/fav](https://github.com/kingwingfly/fav) - Back up your favorite bilibili resources with CLI.
-
-*   [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [Spu7Nix/SPWN-language](https://github.com/Spu7Nix/SPWN-language) - A language for Geometry Dash triggers
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [kingwingfly/downloader](https://github.com/kingwingfly/downloader) - A downloader by Tauri, Nextjs and actix.
-
-*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
-
-*   [ganlvtech/obs-audio-renderer](https://github.com/ganlvtech/obs-audio-renderer) - OBS 音频渲染器，将音频的采样信息渲染成视频画面
-
-*   [ganlvtech/obs-video-tile-remap](https://github.com/ganlvtech/obs-video-tile-remap) - OBS 视频分块重映射插件
-
-*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
-
-*   [framist/egg-language-server](https://github.com/framist/egg-language-server) - egg 驱动的编写时代码优化语言服务器及 VS Code 插件 | Egg-powered code optimization language server & VS Code extension
-
-*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-
-*   [BRA1L0R/hopper-rs](https://github.com/BRA1L0R/hopper-rs) - Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft
-
-*   [StarWishsama/starrail-unlock-rs](https://github.com/StarWishsama/starrail-unlock-rs) - 星穹铁道 FPS 解锁 | Unlock Honkai: Star Rail fps limit | Written in Rust
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
-
-*   [TeamFlos/phira](https://github.com/TeamFlos/phira) -
-
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [BHznJNs/Calculator.rs](https://github.com/BHznJNs/Calculator.rs) - A simple command-line calculator program writen with Rust.
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [katyo/msdfgen-rs](https://github.com/katyo/msdfgen-rs) - Rust bindings to msdfgen library
-
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-
-*   [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
-
-*   [anna-is-cute/paste](https://github.com/anna-is-cute/paste) - A sensible, modern pastebin.
-
-*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [biliup/biliup-app](https://github.com/biliup/biliup-app) - b站全平台投稿客户端，支持多p投稿，稿件编辑
-
-*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
-
-*   [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-
-*   [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-
-*   [veloren/veloren](https://github.com/veloren/veloren) - \[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
-
-*   [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
-
-*   [chewing/windows-chewing-tsf](https://github.com/chewing/windows-chewing-tsf) - Free software implementation of Chewing Input method for Windows based on Text Services Framework
-
-*   [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-
-*   [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-
-*   [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
-
-*   [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
-
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-
-*   [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-*   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-
-*   [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-
-*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-
-*   [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.
-
-*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-
-*   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-
-*   [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
-
-*   [MaulingMonkey/appx](https://github.com/MaulingMonkey/appx) - manage appx packages
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
-*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
-
-## JavaScript
-
-*   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
-
-*   [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
-
-*   [cryptii/cryptii](https://github.com/cryptii/cryptii) - A web app for modular conversion, encoding, and encryption, all performed directly in your browser with no server interaction
-
-*   [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
-
-*   [produck/svg-captcha](https://github.com/produck/svg-captcha) - generate svg captcha in node
-
-*   [isitchristmas/web](https://github.com/isitchristmas/web) - Main site.
-
-*   [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
-
-*   [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-
-*   [ahnaf505/careless-whisper-poc](https://github.com/ahnaf505/careless-whisper-poc) - Proof Of Concept of the careless whisper vulnerability
-
-*   [TransparentLC/saizeriya](https://github.com/TransparentLC/saizeriya) - 萨莉亚随机点餐（Saizeriya random dish picker/サイゼリヤ ガチャ）
-
-*   [oftx/cloudflare-error-page](https://github.com/oftx/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host - A customizable Cloudflare error page generator
-
-*   [jarek-foksa/xel](https://github.com/jarek-foksa/xel) - Xel - Widget toolkit for building native-like Electron and Web apps
-
-*   [platformatic/php](https://github.com/platformatic/php) - PHP stackable for Watt
-
-*   [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research) - CVE-2025-55182 POC
-
-*   [thednp/kute.js](https://github.com/thednp/kute.js) - KUTE.js is a JavaScript animation engine for modern browsers.
-
-*   [icyux/bili-auth](https://github.com/icyux/bili-auth) - 第三方哔哩哔哩 OAuth 2.0 API，基于私信鉴权 | Third-party Bilibili OAuth 2.0 API
-
-*   [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
-
-*   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-
-*   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
-
-*   [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
-
-*   [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing.
-
-*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-
-*   [scrapfly/Antibot-Detector](https://github.com/scrapfly/Antibot-Detector) -  Real-time detection of anti-bot systems, CAPTCHAs & fingerprinting techniques. Identifies Cloudflare, Akamai, DataDome, reCAPTCHA, hCaptcha, Shape Security & more with confidence scoring and advanced capture tools.
-
-*   [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
-
-*   [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
-
-*   [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
-
-*   [p2r3/SaplingFS](https://github.com/p2r3/SaplingFS) - Voxel-based Entropy-oriented Minecraft File System
-
-*   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-
-*   [pschlan/cron-job.org](https://github.com/pschlan/cron-job.org) - cron-job.org Open Source project
-
-*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
-
-*   [1812z/RunTime\_Tracker](https://github.com/1812z/RunTime_Tracker) - A Node.js app that tracks your usage time.
-
-*   [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) -  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
-
-*   [Vertex-Mods/Advanced-Tab-Groups](https://github.com/Vertex-Mods/Advanced-Tab-Groups) - Improves Tab Folders & Groups for Zen Browser
-
-*   [DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE](https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE) - The Bluetooth Protocol Of DG-LAB Devices
-
-*   [OIRNOIR/WackyWebM](https://github.com/OIRNOIR/WackyWebM) - This is a simple tool to allow you to create WebM files with changing aspect ratios.
-
-*   [feross/buffer](https://github.com/feross/buffer) - The buffer module from node.js, for the browser.
-
-*   [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) -
-
-*   [iTsMaaT/WD-40](https://github.com/iTsMaaT/WD-40) - A music, utility & fun discord bot made in JavaScript
-
-*   [masonicGIT/pacman](https://github.com/masonicGIT/pacman) - A historical tribute to pac-man
-
-*   [TimMacy/YouTubeAlchemy](https://github.com/TimMacy/YouTubeAlchemy) - This userscript for YouTube offers 200+ layout changes and features such as tab view, speed control, export transcripts, square design, auto-theater mode, and much more—all easily customizable via settings panels.
-
-*   [sanographix/tokusetsu4](https://github.com/sanographix/tokusetsu4) -
-
-*   [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
-
-*   [S4WA/SoundCloud-Player](https://github.com/S4WA/SoundCloud-Player) - For all of the soundcloud heavy users.
-
-*   [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
-
-*   [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
-
-*   [FranckFreiburger/vue3-sfc-loader](https://github.com/FranckFreiburger/vue3-sfc-loader) - Single File Component loader for Vue2 and Vue3. Load .vue files directly from your HTML. No node.js environment, no build step.
-
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
-*   [sapics/ip-location-api](https://github.com/sapics/ip-location-api) - Fast and customizable nodejs api to get geolocation information from ip address
-
-*   [NyarchLinux/NyarchLinux](https://github.com/NyarchLinux/NyarchLinux) - Nyarch Linux is a Linux distribution made for weebs, based on ArchLinux and EzArcher.
-
-*   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-
-*   [GeorgLegato/sd-webui-panorama-viewer](https://github.com/GeorgLegato/sd-webui-panorama-viewer) - Sends rendered SD\_auto1111 images quickly to this panorama (hdri, equirectangular) viewer
-
-*   [lbb00/remove-feishu-watermark](https://github.com/lbb00/remove-feishu-watermark) - 移除飞书网页水印 ｜ Remove watermarks for Lark
-
-*   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
-
-*   [jonssonyan/cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) - Cloudflare Workers HTTP 反向代理
-
-*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
-
-*   [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
-
-*   [overtrue/share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
-
-*   [1280px/hueblocks](https://github.com/1280px/hueblocks) - Create beautiful Minecraft block gradients in a few clicks!
-
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-*   [aiselp/AutoX](https://github.com/aiselp/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-
-*   [HanamiYuushimo/adventurex-disqualified-generator](https://github.com/HanamiYuushimo/adventurex-disqualified-generator) -
-
-*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
-
-*   [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
-
-*   [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)
-
-*   [echo094/decode-js](https://github.com/echo094/decode-js) - JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code
-
-*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
-
-*   [sansan0/mao-map](https://github.com/sansan0/mao-map) - 📍 毛主席足迹地图 | Chairman Mao's Footprints Map - 交互式动态展示1893-1976年完整轨迹 | Interactive map showcasing Mao Zedong's journey (1893-1976). 星星之火，可以燎原 / A single spark can start a prairie fire.。底部为网友整理的毛泽东年谱，欢迎协作完善数据。
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [Stan370/stan370.github.io](https://github.com/Stan370/stan370.github.io) - A user-friendly Material Design blog template.  博客模板 个性化定制的Hexo主题，简单配置即可使用，欢迎Star\&Fork
-
-*   [mattrltrent/github\_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google. Try it!
-
-*   [p2r3/doomcord-server-template](https://github.com/p2r3/doomcord-server-template) - https://youtu.be/EAQFDM5-zLU
-
-*   [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
-
-*   [Arnie97/moerail](https://github.com/Arnie97/moerail) - 铁路车站代码查询 × 动车组交路查询
-
-*   [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
-
-*   [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts) - 网易云音乐油猴脚本:歌曲下载、转存云盘、云盘歌曲快传、云盘匹配纠正...
-
-*   [ExaGraphica/Wavetapper](https://github.com/ExaGraphica/Wavetapper) - An interactive web version of the video for Wavetapper by Frums.
-
-*   [hmjz100/123panYouthMember](https://github.com/hmjz100/123panYouthMember) - 123 云盘会员青春版 - 模拟 123 云盘会员，还支持隐藏广告、使用视频倍速、修改头像、修改用户名、修改等级等功能；123云盘辅助增强脚本 - “解锁”123云盘
-
-*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)
-
-*   [QuiltNT/LLQQNT-unofficial](https://github.com/QuiltNT/LLQQNT-unofficial) - LiteLoaderQQNT 非官方版: 包含官方版尚未实现的功能
-
-*   [allen-garvey/dithermark](https://github.com/allen-garvey/dithermark) - Transform your photos into pixel art
-
-*   [leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
-
-*   [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
-
-*   [WJZ-P/LiteLoaderQQNT-Encrypt-Chat](https://github.com/WJZ-P/LiteLoaderQQNT-Encrypt-Chat) - 基于NTQQ的一个方便好用的消息加密插件(*^\_^*)
-
-*   [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
-
-*   [mapbs/mbs.js](https://github.com/mapbs/mbs.js) - 基于cesiumjs的web3d框架
-
-*   [Tup0lev/CutChenRui](https://github.com/Tup0lev/CutChenRui) - A JavaScript game to mock Chen Rui, the CEO of bilibili 乳睿Javascript小游戏 切陈睿
-
-*   [olivierlesnicki/quantize](https://github.com/olivierlesnicki/quantize) - A node.js module for color quantization, based on Leptonica.
-
-*   [wheatup/TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku) - A danmaku chrome extension for twitch.tv
-
-*   [EvanZhouDev/polycompiler](https://github.com/EvanZhouDev/polycompiler) - Merge Python and JS code into one file that can be run in both languages.
-
-*   [antonpk1/gibber-mcp](https://github.com/antonpk1/gibber-mcp) - Tiny MCP server with cryptography tools, sufficient to establish end-to-end encryption between LLM agents
-
-*   [ahillss/ShadertoyCustomTextures](https://github.com/ahillss/ShadertoyCustomTextures) - Load client side textures into Shadertoy projects
-
-*   [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
-
-*   [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
-
-*   [kevb34ns/CEDICT2JSON](https://github.com/kevb34ns/CEDICT2JSON) - Converts the CC-CEDICT dictionary format to JSON
-
-*   [FoxRefire/wvg](https://github.com/FoxRefire/wvg) - Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
-
-*   [z2586300277/three-cesium-examples](https://github.com/z2586300277/three-cesium-examples) - WebGL Three.js Cesium.js Examples And Demo - WebGL 的 Three.js 和 Cesium.js 案例 --- Star ---点星星
-
-*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-*   [ayasa520/bilibili-favorites-exporter](https://github.com/ayasa520/bilibili-favorites-exporter) - 用于导出并本地展示 B 站收藏夹
-
-*   [chika-rikka/Mikan](https://github.com/chika-rikka/Mikan) - 这是一个超可爱的 Chrome 扩展程序，专门为 LeetCode 刷题的小伙伴设计～
-
-*   [KIY7086/OTTO](https://github.com/KIY7086/OTTO) -
-
-*   [Jacken-Wu/MSearcher](https://github.com/Jacken-Wu/MSearcher) - Memes Searcher allows you to quickly search for memes, or rename them.
-
-*   [n3xta/lyric-displayer](https://github.com/n3xta/lyric-displayer) - Letter to the Black World, but it's animated in JavaScript.
-
-*   [Rosemoe/arcaea-stickers](https://github.com/Rosemoe/arcaea-stickers) - Arcaea sticker maker
-
-*   [MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes](https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes) - 萌娘百科界面代码库
-
-*   [66hh/MidishowCrack](https://github.com/66hh/MidishowCrack) - Midishow免积分脚本
-
-*   [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) -
-
-*   [SmileYik/GTNH-OC-AE-Controller](https://github.com/SmileYik/GTNH-OC-AE-Controller) - Order the items in AE on the web. https://blog.smileyik.eu.org/oc-ae/
-
-*   [Losketch/yu-En.Decryption](https://github.com/Losketch/yu-En.Decryption) - ユ！语加密/解密工具
-
-*   [schollz/performances](https://github.com/schollz/performances) -
-
-*   [ENIACJushi/TouHouLittleMaidBE](https://github.com/ENIACJushi/TouHouLittleMaidBE) - A bedrock-edition Add-On transplanted by Java mod: TouHou Little Maid.
-
-*   [YaoqxCN/star-sky](https://github.com/YaoqxCN/star-sky) - 一个炫酷的网页星空动态背景
-
-*   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
-
-*   [PRO-2684/Scriptio](https://github.com/PRO-2684/Scriptio) - Load custom UserScripts for QQNT
-
-*   [rebane2001/mapartcraft](https://github.com/rebane2001/mapartcraft) - A Minecraft custom mapart schematica generator, designed to be feasible in survival in servers like 2b2t
-
-*   [jrenc2002/GenLineAnimation-Server](https://github.com/jrenc2002/GenLineAnimation-Server) - Provide different line animations depending on the letters you type
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
-
-*   [akzhy/Vara](https://github.com/akzhy/Vara) - Vara is a javascript library that can create text drawing animations
-
-*   [Nuitka-Commander/nuitka-commander.github.io](https://github.com/Nuitka-Commander/nuitka-commander.github.io) - A tool to help you generate Nuitka commands
-
-*   [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
-
-*   [CharlesHolbrow/vst2-preset-parser](https://github.com/CharlesHolbrow/vst2-preset-parser) - vst2 .fxp and .fxb binary file parser for node.js
-
-*   [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
-*   [sanyeEX/novel-rep](https://github.com/sanyeEX/novel-rep) -
-
-*   [fucklinux/fakeCAPTCHA](https://github.com/fucklinux/fakeCAPTCHA) - 仿 CAPTCHA（人机身份验证）组件，可自定义显示内容。
-
-*   [renmu123/biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
-
-*   [F-know/F\_Record](https://github.com/F-know/F_Record) - 一款用来录制绘画过程的轻量级PS插件
-
-*   [zyplos/discord-readme-badge](https://github.com/zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
-
-*   [hCaptcha/vue-hcaptcha](https://github.com/hCaptcha/vue-hcaptcha) - Vue.js hCaptcha Component Library
-
-*   [4as/Chat-DeMod](https://github.com/4as/Chat-DeMod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with Chat.
-
-*   [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK) - 我的世界新兴论坛晋级赛，欢迎观战
-
-*   [huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
-
-*   [discordier/sam](https://github.com/discordier/sam) - Software Automatic Mouth - Tiny Speech Synthesizer
-
-*   [shixiaohu2206/hexo-theme-huhu](https://github.com/shixiaohu2206/hexo-theme-huhu) - theme for hexo
-
-*   [shengtudai2/geetestv4Slide](https://github.com/shengtudai2/geetestv4Slide) - 极验4代滑块
-
-*   [dzmitry-duboyski/solving-yandex-smart-captcha-using-puppeteer](https://github.com/dzmitry-duboyski/solving-yandex-smart-captcha-using-puppeteer) - Решение капчи Yandex SmartCaptcha от Яндекса с использованием библиотеки Puppeteer и сервиса 2captcha. Демо автоматизации обхода капчи Yandex Smart Captcha.
-
-*   [sout233/daw-test-web](https://github.com/sout233/daw-test-web) - 测测哪款daw更适合你
-
-*   [tarptaeya/repo-card](https://github.com/tarptaeya/repo-card) - :sunglasses: showcase :octocat: repositories on your website :metal:!
-
-*   [notbenwang/PolyrhythmCircleVisualizer](https://github.com/notbenwang/PolyrhythmCircleVisualizer) -
-
-*   [Angramme/polyrhythm3](https://github.com/Angramme/polyrhythm3) - A new reworked release of polyrhythm generator / metronome
-
-*   [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
-
-*   [tornadocash/tornado-core](https://github.com/tornadocash/tornado-core) - Tornado cash. Non-custodial private transactions on Ethereum.
-
-*   [safak/react-firebase-chat](https://github.com/safak/react-firebase-chat) -
-
-*   [alex3236/ToQQMusic](https://github.com/alex3236/ToQQMusic) - 优雅地将网易云音乐（或其他音乐平台）的歌单转换到 QQ 音乐
-
-*   [LoveCards/LoveCardsV2](https://github.com/LoveCards/LoveCardsV2) - 一款轻量、快速、友好于一身的微型社区系统
-
-*   [xtaw/LiteLoaderQQNT-Audio-Sender](https://github.com/xtaw/LiteLoaderQQNT-Audio-Sender) - 一个用于直接以语音形式发送音频文件的插件
-
-*   [xtaw/LiteLoaderQQNT-Euphony](https://github.com/xtaw/LiteLoaderQQNT-Euphony) - 一个为LiteLoaderQQNT插件提供基础功能的依赖
-
-*   [xh321/LiteLoaderQQNT-Directly-Jump](https://github.com/xh321/LiteLoaderQQNT-Directly-Jump) - LiteLoaderQQNT 插件 - 使用自定义浏览器打开链接并跳过拦截页
-
-*   [xh321/LiteLoaderQQNT-Kill-Update](https://github.com/xh321/LiteLoaderQQNT-Kill-Update) - LiteLoaderQQNT 插件 - 关闭自动更新弹窗
-
-*   [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效
-
-*   [leibnizli/hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
-
-*   [idcsmart/ZJMF-CBAP](https://github.com/idcsmart/ZJMF-CBAP) -
-
-*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-
-*   [0xlau/pixelcat](https://github.com/0xlau/pixelcat) - 🎬 Pixelcat is a solution for video frame encryption
-
-*   [PRO-2684/pURLfy](https://github.com/PRO-2684/pURLfy) - The ultimate URL purifier
-
-*   [sf-yuzifu/codemaoOptimization](https://github.com/sf-yuzifu/codemaoOptimization) - 对于在使用编程猫中遇到的各种问题的部分优化
-
-*   [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-
-*   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-
-*   [Realityang/yuzusoft](https://github.com/Realityang/yuzusoft) -
-
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-
-*   [mustache-dev/Mario-Kart-3.js](https://github.com/mustache-dev/Mario-Kart-3.js) -
-
-*   [hrhello/cxk-ball](https://github.com/hrhello/cxk-ball) -
-
-*   [madderscientist/noteDigger](https://github.com/madderscientist/noteDigger) - 在线前端频率分析扒谱 front-end music transcription
-
-*   [lgc2333/0d00.cn](https://github.com/lgc2333/0d00.cn) - 私のオナニーを見てください！
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-*   [sunnny516/speedfox](https://github.com/sunnny516/speedfox) -
-
-*   [wandduse/workers\_kv\_Shortenurl](https://github.com/wandduse/workers_kv_Shortenurl) -
-
-*   [forkphorus/sb-downloader](https://github.com/forkphorus/sb-downloader) - Website, JavaScript library, and CLI to download projects from Scratch. Supports Scratch 1 (sb), Scratch 2 (sb2), and Scratch 3 (sb3).
-
-*   [Chasyxx/EnBeat\_NEW](https://github.com/Chasyxx/EnBeat_NEW) - Bytebeat player with a collection of many formulas from around the internet.
-
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-
-*   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
-
-*   [sheep-realms/Echo-Live](https://github.com/sheep-realms/Echo-Live) - 一款基于 Echo 的用于无声系虚拟主播直播的仿视觉小说对话框 OBS 插件
-
-*   [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
-
-*   [Bitsea1/vitayr](https://github.com/Bitsea1/vitayr) - vitayr主题
-
-*   [etigerstudio/hexo-tag-hint](https://github.com/etigerstudio/hexo-tag-hint) - A Hexo tag plugin to display text hint/spoiler tooltip.
-
-*   [yhtt2020/workbench](https://github.com/yhtt2020/workbench) - 想天工作台客户端
-
-*   [diyigemt/arona](https://github.com/diyigemt/arona) - mirai-console的blue archive插件
-
-*   [MelodyYuuka/NeteaseCloudMusic-Audio-Recognize](https://github.com/MelodyYuuka/NeteaseCloudMusic-Audio-Recognize) - 网易云音乐-听歌识曲接口 demo
-
-*   [MingxuanGame/hexo-sakana](https://github.com/MingxuanGame/hexo-sakana) - Sakana🐟 in hexo
-
-*   [takuron/talk-with-buddha](https://github.com/takuron/talk-with-buddha) - 与佛论禅——一个加密应用的Web重制版。
-
-*   [rcnbapp/RCNB.js](https://github.com/rcnbapp/RCNB.js) - Everything can be encoded into RCNB with JavaScript.
-
-*   [daymade/Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
-
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-
-*   [imzlh/vList](https://github.com/imzlh/vList) - vList是一个基于nginx-fancyindex的列表程序，支持在线预览、自适应...
-
-*   [alcor/emoji-supply](https://github.com/alcor/emoji-supply) - Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen
-
-*   [DoodleBears/blivechat](https://github.com/DoodleBears/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
-
-*   [mmyo456/BiliAnalysis](https://github.com/mmyo456/BiliAnalysis) - 用于获取哔哩哔哩视频直链的tampermonkey脚本
-
-*   [huasenjio/huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于Vue.js + Node.js + Docker开发的多功能平台，由可自定义简洁主页、文章发布、后台管理模块组成，内容涵盖了日常生活、娱乐、学习、影视、考研、工作、科技、实用工具等领域，致力于提供聚合高效地上网冲浪环境的公益性平台！
-
-*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [WenqiOfficial/StudyWithMiku](https://github.com/WenqiOfficial/StudyWithMiku) - STUDY WITH MIKU web version cover
-
-*   [luoyily/MoeMusicTranscription](https://github.com/luoyily/MoeMusicTranscription) - An automatic music transcription application
-
-*   [LouisBarranqueiro/hexo-algoliasearch](https://github.com/LouisBarranqueiro/hexo-algoliasearch) - :mag\_right: A plugin to index posts of your Hexo blog on Algolia
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
-
-*   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
-
-*   [SunsetMkt/blue-archive-spine](https://github.com/SunsetMkt/blue-archive-spine) - Blue Archive Spine Viewer for Global & Japan versions, Demo: https://github.com/SunsetMkt/blue-archive-spine-production
-
-*   [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一个可爱而现代的 Hexo 主题
-
-*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-
-*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [ganlvtech/qrcode-file-transfer](https://github.com/ganlvtech/qrcode-file-transfer) - Transfer files with screen and webcam
-
-*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-
-*   [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
-
-*   [MoePlayer/hexo-tag-dplayer](https://github.com/MoePlayer/hexo-tag-dplayer) - Embed dplayer in Hexo posts/pages
-
-*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
-
-*   [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
-
-*   [imaegoo/hexo-theme-icarus](https://github.com/imaegoo/hexo-theme-icarus) - 魔改版 Hexo Icarus 主题
-
-*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
-
-*   [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
-
-*   [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
-
-*   [ohroy/hexo-abbrlink](https://github.com/ohroy/hexo-abbrlink) - create one and only link for every post for hexo
-
-*   [fomalhaut1998/hexo-theme-Fomalhaut](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut) - 🥝的网站源码
-
-*   [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
-
-*   [metowolf/MetingJS](https://github.com/metowolf/MetingJS) - :cake: A powerful plugin connect APlayer and Meting
-
-*   [TheOriginalAyaka/sekai-stickers](https://github.com/TheOriginalAyaka/sekai-stickers) - Project Sekai sticker maker
-
-*   [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
-
-*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
-
-*   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
-
-*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-
-*   [nineya/halo-theme-dream](https://github.com/nineya/halo-theme-dream) - 二次元风格 halo 博客主题
-
-*   [DIYgod/OwO](https://github.com/DIYgod/OwO) - :lollipop: Lovely Emoticon and Emoji Keyboard for input
-
-*   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-
-*   [rovo89/XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
-
-*   [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
-
-*   [duiqt/herta\_kuru](https://github.com/duiqt/herta_kuru) - The website for Herta, the cutest genius Honkai: Star Rail character out there.
-
-*   [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
-
-*   [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer) - SubPlayer is no longer maintained, please consider Aimu
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-
-*   [shanmiteko/LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bili动态抽奖助手
-
-*   [gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope) - Bilibili chrome extension to show uploader's stats
-
-*   [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
-
-*   [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
-
-*   [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
-
-*   [ShikemokuMK/tyranoscript](https://github.com/ShikemokuMK/tyranoscript) - novel game engine for Browser, iOS, Android , etc
-
-*   [rustgopy/wasm](https://github.com/rustgopy/wasm) - WebAssembly(WASM)合集
-
-*   [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
-
-*   [dev-zuo/nice-func](https://github.com/dev-zuo/nice-func) - 尝试实现一些让人耳目一新、感觉很 nice 的网页内容、动效 http://nice.zuo11.com
-
-*   [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
-
-*   [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Offer！☁️ 本项目前后端均开源，励志成为最好的全栈云开发项目！
-
-*   [sanmusen214/arisstudio-blockly](https://github.com/sanmusen214/arisstudio-blockly) - Build blocks to use ArisStudio to create ba story. 堆搭积木来使用爱丽丝工坊以生成碧蓝档案动画。
-
-*   [ccloli/E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file
-
-*   [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
-
-*   [journey-ad/sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization) - Stable Diffusion web UI bilingual localization extensions. SD WebUI双语对照翻译插件
-
-*   [NXY666/Jsjiemi](https://github.com/NXY666/Jsjiemi) - 基于正则匹配的 JavaScript 解密工具。请务必遵守开源协议，不得用于非法或商业用途。
-
-*   [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
-
-*   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
-
-*   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-
-*   [LoveLiveMusicPlayer/LoveLiveMusicPlayer](https://github.com/LoveLiveMusicPlayer/LoveLiveMusicPlayer) - \[ラブライブ] A LoveLiver Music Player
-
-*   [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
-
-*   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-
-*   [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
-
-*   [solstice23/refined-now-playing-netease](https://github.com/solstice23/refined-now-playing-netease) - 🎵 网易云音乐沉浸式播放界面、歌词动画 - BetterNCM 插件
-
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-
-*   [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
-
-*   [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
-
-*   [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
-
-*   [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
-
-*   [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights) - 明日方舟罗德岛阵营的 Hexo 主题，支持数学公式、Mermaid图表、多种评论系统（Valine、Gitalk、Waline、Artalk、Utterances、Giscus）
-
-*   [xfgryujk/blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
-
-*   [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
-
-*   [chao325/Evil.js](https://github.com/chao325/Evil.js) - 专注技术的库
-
-*   [YQ-LL-Plugins/LLSE-FakePlayer](https://github.com/YQ-LL-Plugins/LLSE-FakePlayer) - A fake-player plugin for LiteLoaderBDS
-
-*   [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
-
-*   [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [soonxf/Firewalld-UI](https://github.com/soonxf/Firewalld-UI) - Node.js 的 Firewalld  界面化,基于 Node.js 适用于 个人服务器 和 NAS  的  Firewalld(防火墙) 界面化,不需要记忆操作命令,更没有 Firewalld 的区域概念,和 iptables 复杂的 表链结构 .界面上点击创建一些规则就可以达到  自动  屏蔽和放行 IP 的目的.
-
-*   [newcl/namebb](https://github.com/newcl/namebb) - pick up a chinese name for you baby~
-
-*   [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
-
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-*   [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-*   [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
-
-*   [fastify/fastify-express](https://github.com/fastify/fastify-express) - Express compatibility layer for Fastify
-
-*   [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [respectZ/blue-archive-spine](https://github.com/respectZ/blue-archive-spine) - Blue Archive Spine Viewer
-
-*   [sindresorhus/public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address - very fast!
-
-*   [FAF-D2/bpgame](https://github.com/FAF-D2/bpgame) - 一个可以在b站玩游戏的插件 A game plugin in web bilibili
-
-*   [0ct0r0ck/SMFuckding](https://github.com/0ct0r0ck/SMFuckding) - 苏州死🐴法克丁软件有限公司-让盗版软件坑你坑到倾家荡产。
-
-*   [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
-
-*   [eggtoopain/React-beginner-tutorial-TeacherEgg](https://github.com/eggtoopain/React-beginner-tutorial-TeacherEgg) - B站：技术蛋老师
-
-*   [BUGTeas/nugget\_speens\_h5](https://github.com/BUGTeas/nugget_speens_h5) -
-
-*   [SukkaW/OpenCore-Document-zh\_Hans](https://github.com/SukkaW/OpenCore-Document-zh_Hans) - \[非官方/Unofficial] OpenCore Bootloader 参考手册简体中文翻译
-
-*   [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
-
-*   [BUIBIU/imageToMLogic](https://github.com/BUIBIU/imageToMLogic) - 图片转Mindustry处理器脚本
-
-*   [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
-
-*   [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
-
-*   [std-microblock/BilibiliInteractiveVideoTree](https://github.com/std-microblock/BilibiliInteractiveVideoTree) - Bilibili互动视频剧情树获取
-
-*   [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-
-*   [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
-
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
-
-*   [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-
-*   [userElaina/this-is-the-China-website](https://github.com/userElaina/this-is-the-China-website) - 将国际网站伪装成中国网站.
-
-*   [kenmingwang/azusa-player](https://github.com/kenmingwang/azusa-player) - A 3rd party Bilibili audio player / 一个Bilibili第三方音频播放器
-
-*   [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Browser Extension to Sync Video Playback on All Video Platforms / 一起看视频浏览器插件，兼容所有平台
-
-*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-
-*   [wuuconix/scripts](https://github.com/wuuconix/scripts) - 拿来练手的油猴脚本
-
-*   [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp) - If you stop typing for more than five seconds, all progress will be lost.
-
-*   [std-microblock/BilibiliLiveDanmakuSender](https://github.com/std-microblock/BilibiliLiveDanmakuSender) - 网页端 检测直播间吞弹幕&自动尝试规避 插件
-
-*   [cokolele/terraria-map-editor](https://github.com/cokolele/terraria-map-editor) - ✏️🌳 Terraria map editor, in a web browser.
-
-*   [hexadecimal233/mcsm-reg](https://github.com/hexadecimal233/mcsm-reg) - MCSManager注册工具
-
-*   [xianfei/SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
-
-*   [go-cqhttp/for-node](https://github.com/go-cqhttp/for-node) - 基于 go-cqhttp 和 nodejs 的 qq 机器人
-
-*   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
-
-*   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
-
-*   [jerrychan7/WebMC](https://github.com/jerrychan7/WebMC) - A web version of Minecraft built using js and WebGL without third-party libraries.
-
-*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
-
-*   [itorr/homo](https://github.com/itorr/homo) - 💩「恶臭数字论证器」数字恶臭化工具
-
-*   [ZiuChen/A-Soul-Browser-Pet](https://github.com/ZiuChen/A-Soul-Browser-Pet) - 🍬 Keep an A-SOUL member as a pet in your browser
-
-*   [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
-
-*   [mymonero/mymonero-app-js](https://github.com/mymonero/mymonero-app-js) - The JS codebase for the MyMonero desktop apps
-
-*   [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-
-*   [Heath123/pakkit](https://github.com/Heath123/pakkit) -
-
-*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
-
-*   [kamerk22/random-password-generator](https://github.com/kamerk22/random-password-generator) - Random Password Generator Tool in React 🔀🔑
-
-*   [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
-
-*   [abstractsins/TOS-psygen](https://github.com/abstractsins/TOS-psygen) - Fake Psychic Will generator for Town of Salem
-
-*   [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV Media Server
-
-*   [nickola/web-console](https://github.com/nickola/web-console) - :desktop\_computer: Simple web-based shell in your browser (outdated)
-
-*   [tmplink/tmpui\_tmplink](https://github.com/tmplink/tmpui_tmplink) - Made for storage.
-
-*   [gaoyuyue/MyUploader](https://github.com/gaoyuyue/MyUploader) - 单文件上传，多文件上传，大文件上传，断点续传，文件秒传，图片上传
-
-*   [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
-
-*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-
-*   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-
-*   [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
-
-*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
-
-*   [alexadam/img-encode](https://github.com/alexadam/img-encode) - Encode an image to sound and view it as a spectrogram - turn your images into music
-
-*   [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
-
-*   [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
-
-*   [fabianoriccardi/killed-by-microsoft](https://github.com/fabianoriccardi/killed-by-microsoft) - Part guillotine, part graveyard for Microsoft's doomed apps, services, and hardware.
-
-*   [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
-
-*   [wanghao221/moyu](https://github.com/wanghao221/moyu) - 2000个摸鱼小游戏、小工具源码集合及在线演示
-
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-
-*   [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
-
-*   [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
-
-*   [hexadecimal233/chongchong-free](https://github.com/hexadecimal233/chongchong-free) - 免费下载虫虫钢琴琴谱
-
-*   [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
-
-*   [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical\_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.
-
-*   [tomas/needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.
-
-*   [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
-
-*   [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-
-*   [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
-
-*   [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
-
-*   [sindresorhus/random-int](https://github.com/sindresorhus/random-int) - Generate a random integer
-
-*   [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
-
-*   [Lytsu/lowlight](https://github.com/Lytsu/lowlight) - Lowlight is a website that provides some rhythm games downloading.
-
-*   [wellsousaaa/Five-Nights-at-Freddys-Web](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) - Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
-
-*   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-
-*   [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
-
-*   [MuGuiLin/QRCode](https://github.com/MuGuiLin/QRCode) - 纯前端JS ：QRCode 扫描、生成二维码、从相册获取图片识别、生成带Logo二维码、能识别：微博、微信、QQ等 扫一扫 二维码，该项目功能共分为：Js版 和 Vue.js两个版本！
-
-*   [yuameshi/PhiCommunity-Bak](https://github.com/yuameshi/PhiCommunity-Bak) - A community driven project to make a game like phigros.
-
-*   [imsky/holder](https://github.com/imsky/holder) - :city\_sunrise: Client-side image placeholders.
-
-*   [Priler/dino3d](https://github.com/Priler/dino3d) - 🦖 Google Chrome T-Rex Run! in 3D (WebGL experiment)
-
-*   [TheSecondAkari/vscode-live2d](https://github.com/TheSecondAkari/vscode-live2d) - vscode插件-live2d。 默认角色会设置为asoul的嘉然
-
-*   [MisaWorkGroup/Ph1gr0s-Emulator](https://github.com/MisaWorkGroup/Ph1gr0s-Emulator) - \[Deprecated] An emulator for rythnm game 'Phigros', based on Pixi.js, forked from lchzh3473/lchzh3473.github.io.
-
-*   [GDColon/GDBrowser](https://github.com/GDColon/GDBrowser) - A website that lets you browse all of Geometry Dash's online features, and more!
-
-*   [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
-
-*   [shenruisi/Stay](https://github.com/shenruisi/Stay) - Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.
-
-*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-
-*   [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg) - 电脑博物馆 - compumuseum.com
-
-*   [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
-
-*   [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
-
-*   [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
-
-*   [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
-
-*   [kanasimi/work\_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
-
-*   [savokiss/vue-videojs-demo](https://github.com/savokiss/vue-videojs-demo) - Use video.js & vue to play RTMP && HLS streams && playback
-
-*   [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc) - :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green\_apple: 实时直播：WebRTC
-
-*   [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application.
-
-*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-
-*   [ldez/cubejs](https://github.com/ldez/cubejs) - cube.js -- JavaScript library for modeling and solving the 3x3x3 Rubik's Cube
-
-*   [jinliming2/Chrome-Charset](https://github.com/jinliming2/Chrome-Charset) - An extension used to modify the page default encoding for Chromium 55+ based browsers.
-
-*   [xbeginagain/generator](https://github.com/xbeginagain/generator) - 编号生成器(测试用)
-
-*   [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
-
-*   [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
-
-*   [nashaofu/dingtalk](https://github.com/nashaofu/dingtalk) - 钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
-
-*   [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-
-*   [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
-
-*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-
-*   [ShizukuIchi/pdf-editor](https://github.com/ShizukuIchi/pdf-editor) - Offline PDF editor. Add images, signatures, text to PDF in your browser. 🚀
-
-*   [scratchfoundation/scratch-gui](https://github.com/scratchfoundation/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
-
-*   [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
-
-*   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
-
-*   [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2
-
-*   [jspenguin2017/uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin
-
-*   [glyphr-studio/Glyphr-Studio-1](https://github.com/glyphr-studio/Glyphr-Studio-1) - Now deprecated, Glyphr Studio v1 served us well from 2010 to 2023.
-
-*   [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags.
-
-*   [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
-
-*   [joue-quroi/cookie-editor](https://github.com/joue-quroi/cookie-editor) - a browser extension to display and modify page-related cookies
-
-*   [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
-
-*   [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-
-*   [react-dates/react-dates](https://github.com/react-dates/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
-
-*   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
-
-*   [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
-
-*   [Kenshin/simpread-little](https://github.com/Kenshin/simpread-little) - 简悦( SimpRead ) · 轻阅版
-
-*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-
-*   [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
-
-*   [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
-
-*   [devloop01/password-generator](https://github.com/devloop01/password-generator) - Random Password Generator Tool
-
-*   [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
-
-*   [hustcc/chrome-qrcode](https://github.com/hustcc/chrome-qrcode) - :zap: A Chrome plugin to Genrate QRCode of URL / Text, or Decode the QRcode in website. 一个Chrome浏览器插件，用于生成当前URL或者选中内容的二维码，同时可以用于解析网页上的二维码内容。
-
-*   [primer/primer.style](https://github.com/primer/primer.style) - The website for all things Primer
-
-*   [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
-
-*   [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-
-*   [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
-
-*   [nasawz/lucky\_bilibili\_web](https://github.com/nasawz/lucky_bilibili_web) - 一款帮助B站UP主恰饭视频做抽奖活动的工具。
-
-*   [scottcgi/MojoJS-Animation](https://github.com/scottcgi/MojoJS-Animation) - A lightweight and powerful javascript Animation engine.
-
-*   [journey-ad/DanmakuSender](https://github.com/journey-ad/DanmakuSender) - 哔站弹幕发送者uid反查
-
-*   [chitosai/bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩
-
-*   [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
-
-*   [videojs/videojs-vr](https://github.com/videojs/videojs-vr) - A plugin to add 360 and VR video support to video.js.
-
-*   [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
-
-*   [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
-
-*   [Pau1fitz/react-spotify](https://github.com/Pau1fitz/react-spotify) - Spotify React / Redux   🎤🎺🎸🎷
-
-*   [EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate) - A translation extension.
-
-*   [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no\_entry\_sign:
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [Grispi/Uno\_Game](https://github.com/Grispi/Uno_Game) - Uno Card Game online | Juega UNO gratis online, ahora puedes jugar con tus amigos o tu familia desde cualquier dispositivo sin necesidad de instalar nada. #UnoGame
-
-*   [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
-
-*   [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
-
-*   [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
-
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-
-*   [phoqe/havelock](https://github.com/phoqe/havelock) - Extract accounts, cookies, and history from Chromium-based web browsers.
-
-*   [crumblingstatue/FloweysTimeMachine](https://github.com/crumblingstatue/FloweysTimeMachine) - Undertale SAVE editor
-
-*   [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension \[top~1] Enrich your experience\&choice!🧰200+options; clever features📌set\&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
-
-*   [rooklift/nibbler](https://github.com/rooklift/nibbler) - Chess analysis GUI for UCI engines, with extra features for Leela (Lc0) in particular.
-
-*   [svga/SVGAPlayer-Web](https://github.com/svga/SVGAPlayer-Web) - Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
-
-*   [z358z358/Roulette](https://github.com/z358z358/Roulette) - 自訂轉盤
-
-*   [Sirvoid/MindustryVCode](https://github.com/Sirvoid/MindustryVCode) - Mindustry Mod that adds a programming language with its own compiler in game.
-
-*   [TeamAOF/All-of-Fabric-3](https://github.com/TeamAOF/All-of-Fabric-3) - Modpack containing the latest & best Fabric mods
-
-*   [hexadecimal233/MinecraftMusic](https://github.com/hexadecimal233/MinecraftMusic) - Adds Minecraft music into the game.
-
-*   [egold555/MinecraftAssetBeautifier](https://github.com/egold555/MinecraftAssetBeautifier) - Rename and beautify the .minecraft/assets/objects directory
-
-*   [MEEPofFaith/missing-category-units](https://github.com/MEEPofFaith/missing-category-units) - Aims to add the missing categories of units.
-
-*   [hexadecimal233/DebugUtils](https://github.com/hexadecimal233/DebugUtils) - Debug utilities for mindustry
-
-*   [mumuy/browser](https://github.com/mumuy/browser) - 浏览器检测 - Useragent分析/浏览器识别/浏览器判断/用户代理信息/浏览器指纹/Useragent analysis tool/Browser detection
-
-*   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
-
-*   [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
-
-*   [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-
-*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
-
-*   [aszx87410/mars-lang-chrome-extension](https://github.com/aszx87410/mars-lang-chrome-extension) - 能讓你的頁面變成火星文的 chrome 擴充套件
-
-*   [rspx/MinEmu](https://github.com/rspx/MinEmu) -
-
-*   [Xeloboyo/Factoriodustry](https://github.com/Xeloboyo/Factoriodustry) - A texturepack for mindustry, currently in dev
-
-*   [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
-
-*   [MEEPofFaith/Ohno-Missiles](https://github.com/MEEPofFaith/Ohno-Missiles) - With the new ballistic missile, you can nuke the enemies with various missile silos.
-
-*   [QmelZ/hackustry](https://github.com/QmelZ/hackustry) - Hackustry mod for Mindustry.
-
-*   [deltanedas/dev-mode](https://github.com/deltanedas/dev-mode) - Mindustry mod, lets you type into the console.
-
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-
-*   [clear-code/ieview-we](https://github.com/clear-code/ieview-we) - Provides ability to open pages and links by Internet Explorer (Cloned IE View based on WebExtensions)
-
-*   [Sam0230/No-Fingerprint](https://github.com/Sam0230/No-Fingerprint) - Block browser fingerprinting attempts.
-
-*   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-
-*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
-
-*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-
-*   [ffmpegwasm/chrome-extension-app](https://github.com/ffmpegwasm/chrome-extension-app) - An example to use ffmpeg.wasm in Chrome Extension
-
-*   [sonysuqin/WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer) - Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.
-
-*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-
-*   [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-
-*   [feross/bitmidi.com](https://github.com/feross/bitmidi.com) - 🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web
-
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
-
-*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
-
-*   [jabbany/ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器
-
-*   [travist/jsencrypt](https://github.com/travist/jsencrypt) - A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-
-*   [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-
-*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-
-*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-
-*   [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
-
-*   [Kenguba/google-access-helper](https://github.com/Kenguba/google-access-helper) - 谷歌访问助手破解版、谷歌翻墙、谷歌梯子、谷歌梯子扩展工具、谷歌商店访问、Chrome翻墙
-
-*   [ElemeFE/vue-amap](https://github.com/ElemeFE/vue-amap) - 🌍  基于 Vue 2.x 和高德地图的地图组件
-
-*   [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx) - 斗鱼直播间增强插件（Tampermonkey）
-
-*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-
-*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-
-*   [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
-
-*   [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-
-*   [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love\_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-
-*   [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
-
-*   [rover95/morse-encrypt](https://github.com/rover95/morse-encrypt) - 基于零宽字符和摩斯电码的隐藏文本加密 || Text hiding encryption、Morse code encryption、zero-width character encryption
-
-*   [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux.
-
-*   [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
-
-*   [bhaoo/Cuckoo](https://github.com/bhaoo/Cuckoo) - 🍭 一款MD风格的双栏 Typecho 主题
-
-*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
-*   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-
-*   [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
-
-*   [nilaoda/Blog](https://github.com/nilaoda/Blog) - 记录点东西.
-
-*   [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
-
-*   [telerik/kendo-ui-core](https://github.com/telerik/kendo-ui-core) - An HTML5, jQuery-based widget library for building modern web apps.
-
-*   [maple3142/ytdl](https://github.com/maple3142/ytdl) - Get youtube video download url
-
-*   [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
-
-*   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
-
-*   [muicss/mui](https://github.com/muicss/mui) - Lightweight CSS framework
-
-*   [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-
-*   [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
-
-*   [libsgh/189-down](https://github.com/libsgh/189-down) - 天翼云网盘直链解析
-
-*   [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
-
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-
-*   [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
-
-*   [eNkru/freechat](https://github.com/eNkru/freechat) - 致力于打造macOS和Linux桌面下最好用的微信（wechat）客户端
-
-*   [biliob233/biliob233.github.io](https://github.com/biliob233/biliob233.github.io) -
-
-*   [poppinlp/bv2av](https://github.com/poppinlp/bv2av) - 把 bilibili 新的 bv 号转回旧的 av 号
-
-*   [gxywy/rl-bigwatermelon](https://github.com/gxywy/rl-bigwatermelon) - 用深度强化学习玩合成大西瓜
-
-*   [liyupi/daxigua](https://github.com/liyupi/daxigua) - 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
-
-*   [Mapaler/PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程(如路由器)下载。
-
-*   [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
-
-*   [liust97/rich-simulator](https://github.com/liust97/rich-simulator) - 有钱人模拟器
-
-*   [bullhe4d/bigwatermelon](https://github.com/bullhe4d/bigwatermelon) - 合成大西瓜源码,修改版
-
-*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-
-*   [canguser/hooker-js](https://github.com/canguser/hooker-js) -
-
-*   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-
-*   [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
-
-*   [akameco/PixivDeck](https://github.com/akameco/PixivDeck) - :two\_hearts: pixiv client for Desktop like TweetDeck :two\_hearts:
-
-*   [bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
-
-*   [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
-
-*   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
-
-*   [iSparta/iSparta](https://github.com/iSparta/iSparta) - APNG、WebP converter
-
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-
-*   [scratchfoundation/scratch-desktop](https://github.com/scratchfoundation/scratch-desktop) - Scratch 3.0 as a self-contained desktop application
-
-*   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-
-*   [WMProject1217/Wemakeli](https://github.com/WMProject1217/Wemakeli) - 一个基于PHP的弹幕视频网站 A danmaku video website build with php
-
-*   [jnordberg/gif.js](https://github.com/jnordberg/gif.js) - JavaScript GIF encoding library
-
-*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
-*   [lukevink/hass-config-lajv](https://github.com/lukevink/hass-config-lajv) - Home Assistant Configuration
-
-*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-
-*   [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - \[Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
-
-*   [catdad-experiments/heic-convert](https://github.com/catdad-experiments/heic-convert) - 🤳 convert heic/heif images to jpeg and png
-
-*   [akof1314/Wiz.UEditor](https://github.com/akof1314/Wiz.UEditor) - 一个基于 UEditor 构建的为知笔记编辑器插件
-
-*   [vialink/viacrypt](https://github.com/vialink/viacrypt) - One time read messaging system.
-
-*   [fex-team/ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
-
-*   [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
-
-*   [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-
-*   [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-
-*   [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
-
-*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
-
-*   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
-
-*   [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
-
-*   [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
-
-*   [libnoname/noname](https://github.com/libnoname/noname) -
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [Mr-Po/bilibili-favorites-fix](https://github.com/Mr-Po/bilibili-favorites-fix) - 修复 哔哩哔哩(www.bilibili.com) 失效的收藏。（可查看av号、简介、标题、封面）
-
-*   [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
-
-*   [justjavac/Flarum](https://github.com/justjavac/Flarum) - Flarum - 优雅自由的 PHP 轻社区
 
 ## C++
 
@@ -4279,578 +6683,6 @@
 
 *   [alphaSeclab/awesome-rat](https://github.com/alphaSeclab/awesome-rat) - RAT And C\&C Resources. 250+ Open Source Projects, 1200+ RAT/C\&C blog/video.
 
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-
-*   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-
-*   [aceslup/pandownload-fake-server](https://github.com/aceslup/pandownload-fake-server) - 重定向服务器打开 Pandownload
-
-## C
-
-*   [sbrin/lopaka](https://github.com/sbrin/lopaka) - Lopaka - Stunning graphics for embedded systems displays
-
-*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
-
-*   [RQNG/WouoUI](https://github.com/RQNG/WouoUI) - 模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。
-
-*   [TheSunCat/Minecraft4k-CPP](https://github.com/TheSunCat/Minecraft4k-CPP) - A reimagining of Minecraft4k in C++, now with GPU acceleration!
-
-*   [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
-
-*   [tsoding/lamb](https://github.com/tsoding/lamb) - Tiny Pure Functional Programming Language in C
-
-*   [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
-
-*   [litespeedtech/lsquic](https://github.com/litespeedtech/lsquic) - LiteSpeed QUIC and HTTP/3 Library
-
-*   [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
-
-*   [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
-
-*   [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-
-*   [bi3mer/adjust.h](https://github.com/bi3mer/adjust.h) - A simple single header library written in c99 for adjusting hardcoded parameters while debugging and fiddling around with values.
-
-*   [vimpop/UCraft](https://github.com/vimpop/UCraft) - A minecraft server implementation written in C for machines with limited resources.
-
-*   [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
-
-*   [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
-
-*   [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
-
-*   [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-
-*   [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-
-*   [Majjcom/ncmppGui](https://github.com/Majjcom/ncmppGui) - 一个使用C++编写的极速ncm转换GUI工具
-
-*   [AurieFramework/YYToolkit](https://github.com/AurieFramework/YYToolkit) - The definitive internal modding tool for GameMaker games
-
-*   [BetterNCM/InfinityLink](https://github.com/BetterNCM/InfinityLink) -
-
-*   [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
-
-*   [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) - Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies.
-
-*   [p2r3/bf16](https://github.com/p2r3/bf16) - Visual Brainfuck game runtime
-
-*   [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
-
-*   [SocialSisterYi/T-Union\_Master](https://github.com/SocialSisterYi/T-Union_Master) - 🐬🚇💳基于flipper zero平台的交通联合卡综合信息查询工具
-
-*   [SpyterDev/FNAF-World-C-Edition](https://github.com/SpyterDev/FNAF-World-C-Edition) - A full remake of FNAF World from the ground up in C and Raylib with Touch and Keyboard support. Along with a few improvements and changes.
-
-*   [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-
-*   [SoyBeanMilkx/InjectDetect](https://github.com/SoyBeanMilkx/InjectDetect) - 检测app是否被frida/xposed注入
-
-*   [phyphox/phyphox-android](https://github.com/phyphox/phyphox-android) - Physical Phone Experiments
-
-*   [henrypp/hostsmgr](https://github.com/henrypp/hostsmgr) - Console tool for sysadmins and other people who need to autoupdate "hosts" file.
-
-*   [shorthorn-project/One-Core-API-Source](https://github.com/shorthorn-project/One-Core-API-Source) - A complete layer to get compatibility on XP/2003 for newer applications
-
-*   [imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
-
-*   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
-
-*   [matt-wu/AES](https://github.com/matt-wu/AES) - Understanding AES & Rijndael
-
-*   [ShinoLeah/eDBG](https://github.com/ShinoLeah/eDBG) - eBPF-based lightweight debugger for Android
-
-*   [michael-bill/perfect-circle](https://github.com/michael-bill/perfect-circle) - A program exploit to draw a perfect circle in the game "Perfect Circle". For MacOS.
-
-*   [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
-
-*   [caoaolong/nps-teach](https://github.com/caoaolong/nps-teach) - 手写网络协议栈 - 课程代码
-
-*   [happymimimix/Piano-FX-Pro](https://github.com/happymimimix/Piano-FX-Pro) - This will take Black MIDI to the next level!
-
-*   [SakuraKoi/FuckKookObs](https://github.com/SakuraKoi/FuckKookObs) - Allow Kook voice chat while OBS or Bilibili LiveHime running
-
-*   [gabriellandau/ItsNotASecurityBoundary](https://github.com/gabriellandau/ItsNotASecurityBoundary) -
-
-*   [chaosgoo/mcompass](https://github.com/chaosgoo/mcompass) -
-
-*   [yuyimimimi/Sirius](https://github.com/yuyimimimi/Sirius) -
-
-*   [SyrieYume/RobinPlayer](https://github.com/SyrieYume/RobinPlayer) - 在控制台播放《使一颗心免于哀伤》
-
-*   [ViudiraTech/Uinxed-Kernel](https://github.com/ViudiraTech/Uinxed-Kernel) - Uinxed-Kernel is a Unix-like operating system kernel developed from scratch, focusing on modern computer architecture and advanced system design concepts. The project aims to build an efficient, stable, and scalable operating system kernel while maintaining code clarity and maintainability.
-
-*   [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) - CoolPotOS for ia32 / amd64 / riscv64
-
-*   [whowechina/mai\_pico](https://github.com/whowechina/mai_pico) - Pico controller for Maimai
-
-*   [imfrea/mai\_pico](https://github.com/imfrea/mai_pico) - Pico controller for Maimai
-
-*   [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
-
-*   [nschweitz/vkwc](https://github.com/nschweitz/vkwc) - Vulkan Wayland Compositor
-
-*   [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
-
-*   [libsdl-org/SDL\_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer.
-
-*   [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
-
-*   [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
-
-*   [mkowsiak/jnicookbook](https://github.com/mkowsiak/jnicookbook) - JNI Cookbook Redux - learn JNI by example.
-
-*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
-
-*   [tsoding/bfjit](https://github.com/tsoding/bfjit) - JIT Compiler for Brainfuck
-
-*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-
-*   [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
-
-*   [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
-
-*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-
-*   [JuanDiegoMontoya/FidelityFX-FSR2-OpenGL](https://github.com/JuanDiegoMontoya/FidelityFX-FSR2-OpenGL) - FidelityFX Super Resolution 2 for OpenGL
-
-*   [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-
-*   [mat-1/masscan](https://github.com/mat-1/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-
-*   [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
-
-*   [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86\_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
-
-*   [VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls) - The following two code samples can be used to understand the difference between direct syscalls and indirect syscalls
-
-*   [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-
-*   [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
-
-*   [Bill-Haku/kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
-
-*   [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
-
-*   [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) -
-
-*   [AndroidAudioMods/ViPERFX\_RE](https://github.com/AndroidAudioMods/ViPERFX_RE) - Reverse Engineering of ViPER4Android FX
-
-*   [SpacehuhnTech/esp8266\_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
-
-*   [alandau/arpspoof](https://github.com/alandau/arpspoof) - A simple ARP spoofer for Windows
-
-*   [nanobyte-dev/nanobyte\_os](https://github.com/nanobyte-dev/nanobyte_os) - OS tutorial from Nanobyte YouTube channel.
-
-*   [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
-
-*   [0sha0/PYAS\_Protection](https://github.com/0sha0/PYAS_Protection) - A Driver Only For PYAS
-
-*   [Yaxser/Backstab](https://github.com/Yaxser/Backstab) - A tool to kill antimalware protected processes
-
-*   [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
-
-*   [praat/praat.github.io](https://github.com/praat/praat.github.io) - Praat: Doing Phonetics By Computer
-
-*   [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
-
-*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
-
-*   [reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-
-*   [8bitbubsy/ft2-clone](https://github.com/8bitbubsy/ft2-clone) - Fasttracker 2 clone for Windows/macOS/Linux
-
-*   [vvb2060/MagiskDetector](https://github.com/vvb2060/MagiskDetector) -
-
-*   [RichadoWonosas/RWSE2](https://github.com/RichadoWonosas/RWSE2) - A 256-bit block cipher based on SPN design, supporting key sizes of 256/384/512 bits
-
-*   [fjqisba/E-Debug](https://github.com/fjqisba/E-Debug) - X64Dbg插件，分析易语言必备神器
-
-*   [SamuelTulach/negativespoofer](https://github.com/SamuelTulach/negativespoofer) - PoC HWID spoofer that runs in EFI
-
-*   [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
-
-*   [ReallocAll/MediaPlayer](https://github.com/ReallocAll/MediaPlayer) - This plugin is used to play NBS music & video on the bedrock dedicated server(BDS).
-
-*   [josStorer/llama.cpp-unicode-windows](https://github.com/josStorer/llama.cpp-unicode-windows) - llama.cpp with unicode (windows) support
-
-*   [elllusion/pinduoduo\_backdoor\_code](https://github.com/elllusion/pinduoduo_backdoor_code) - 拼多多事件的脱壳后的部分代码
-
-*   [PojavLauncherTeam/android-openjdk-build-multiarch](https://github.com/PojavLauncherTeam/android-openjdk-build-multiarch) - Build and packaging script for building OpenJDK, used for PojavLauncher
-
-*   [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
-
-*   [HFO4/SMM2-Printer](https://github.com/HFO4/SMM2-Printer) - LUFA Project for the Nintendo Switch, prints Super Mario Maker 2 comments🎨 (超级马力欧创作家2关卡评论自动绘图)
-
-*   [AcademySoftwareFoundation/openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
-
-*   [SpadesX/SpadesX](https://github.com/SpadesX/SpadesX) - An Ace of Spades server implementation in C
-
-*   [Cubitect/cubiomes](https://github.com/Cubitect/cubiomes) - C library that mimics the Minecraft biome generation.
-
-*   [garet90/MotorMC](https://github.com/garet90/MotorMC) - MotorMC is a blazing fast, multi threaded, asynchronous Minecraft server software that aims to handle many players (1000+) on a single world while still providing an experience as close to vanilla Minecraft as possible.
-
-*   [EndCredits/kernel\_xiaomi\_sm7250](https://github.com/EndCredits/kernel_xiaomi_sm7250) - Rebased kernel for Redmi K30 5G ( picasso ) | WIP
-
-*   [PriesiaMioShirakana/DragonianVoice](https://github.com/PriesiaMioShirakana/DragonianVoice) - 多个SVC/TTS的C++推理库
-
-*   [antiwar3/py](https://github.com/antiwar3/py) - 飘云ark（pyark）
-
-*   [Jamesits/BGRTInjector](https://github.com/Jamesits/BGRTInjector) - Customize Windows 10 boot logo without modifying UEFI firmware.
-
-*   [BlackOfWorld/NtCreateUserProcess](https://github.com/BlackOfWorld/NtCreateUserProcess) - A small NtCreateUserProcess PoC that spawns a Command prompt.
-
-*   [qiufuyu123/qnos](https://github.com/qiufuyu123/qnos) - A tiny 32bit os with VFS multitasks VMM ...
-
-*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)
-
-*   [ToKiNoBug/burningShip](https://github.com/ToKiNoBug/burningShip) - The burning ship fractal
-
-*   [WireGuard/wintun](https://github.com/WireGuard/wintun) - Mirror only. Official repository is at https://git.zx2c4.com/wintun
-
-*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-
-*   [sammycage/lunasvg](https://github.com/sammycage/lunasvg) - SVG rendering and manipulation library in C++
-
-*   [kritzikratzi/Oscilloscope](https://github.com/kritzikratzi/Oscilloscope) - Oscilloscope for Mac/Windows written in OF.
-
-*   [bad-apple-lab/Bad-Apple](https://github.com/bad-apple-lab/Bad-Apple) - Bad-Apple!!: Play the video in the console as ASCII art.
-
-*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
-
-*   [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
-
-*   [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
-
-*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-
-*   [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
-
-*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
-
-*   [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
-
-*   [lordmulder/MemoryChecker](https://github.com/lordmulder/MemoryChecker) - Memory Checker is a simple memory stress-testing tool.
-
-*   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-
-*   [Minep/lunaix-os](https://github.com/Minep/lunaix-os) - A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
-
-*   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-
-*   [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
-
-*   [diegocr/netcat](https://github.com/diegocr/netcat) - NetCat for Windows
-
-*   [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
-
-*   [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
-
-*   [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
-
-*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-
-*   [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
-
-*   [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-
-*   [1401199262/AntiScreenCapture-r0](https://github.com/1401199262/AntiScreenCapture-r0) -
-
-*   [LTRData/ImDisk](https://github.com/LTRData/ImDisk) - ImDisk Virtual Disk Driver
-
-*   [ad-oliviero/uwufetch](https://github.com/ad-oliviero/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
-
-*   [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
-
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-
-*   [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
-
-*   [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
-
-*   [liblouis/liblouis](https://github.com/liblouis/liblouis) - Open-source braille translator and back-translator.
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit
-
-*   [9176324/Shark](https://github.com/9176324/Shark) - Turn off PatchGuard in real time for win7 (7600) ~ later
-
-*   [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
-
-*   [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
-
-*   [danielkrupinski/VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass) - Valve Anti-Cheat bypass written in C.
-
-*   [danielkrupinski/VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader) - Loader for VAC Bypass written in C.
-
-*   [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
-
-*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-*   [44670/desmume-wasm](https://github.com/44670/desmume-wasm) -
-
-*   [liudf0716/apfree-wifidog](https://github.com/liudf0716/apfree-wifidog) - apfree-wifidog is a high-performance captive portal solution that serves as a gateway between your wireless networks and the Internet. Optimized for both HTTP and HTTPS traffic, it ensures secure border control while enabling seamless user authentication and efficient network management. 技术交流QQ群 331230369
-
-*   [cesanta/elk](https://github.com/cesanta/elk) - A low footprint JavaScript engine for embedded systems
-
-*   [bytecode77/r77-rootkit](https://github.com/bytecode77/r77-rootkit) - Fileless ring 3 rootkit with installer and persistence that hides processes, files, network connections, etc.
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-
-*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
-
-*   [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
-
-*   [gsioteam/kinoko](https://github.com/gsioteam/kinoko) - An online manga browser.
-
-*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
-
-*   [kiyolee/openssl1\_1-win-build](https://github.com/kiyolee/openssl1_1-win-build) - openssl-1.1 Windows build with Visual Studio.
-
-*   [dosgo/ngrok-c](https://github.com/dosgo/ngrok-c) - ngrok client for c language,Due to the use of GO ngrok language development, porting to embedded devices some inconvenience, such as openwrt, so use C language rewrite a client. Very mini, the need to support polarssl library.
-
-*   [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
-
-*   [homeworkc/lazycast](https://github.com/homeworkc/lazycast) - A Simple Wireless Display Receiver
-
-*   [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
-
-*   [RefindPlusRepo/RefindPlus](https://github.com/RefindPlusRepo/RefindPlus) - A Boot Manager for Mac and PC
-
-*   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
-
-*   [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
-
-*   [archeryue/cpc](https://github.com/archeryue/cpc) - 建党 100 周年！写一个名为 CPC 的 C 编译器，为党庆生！
-
-*   [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
-
-*   [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
-
-*   [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
-
-*   [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
-
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-*   [stotiks/chia-plotter](https://github.com/stotiks/chia-plotter) -
-
-*   [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) -
-
-*   [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-
-*   [ffmpegwasm/ffmpeg.wasm-core](https://github.com/ffmpegwasm/ffmpeg.wasm-core) - Mirror of git://source.ffmpeg.org/ffmpeg.git
-
-*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
-
-*   [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-
-*   [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
-
-*   [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-
-*   [kn007/silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) - \[Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.
-
-*   [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
-
-*   [hex-in/libscrc](https://github.com/hex-in/libscrc) - libscrc is a library for calculating CRC3 CRC4 CRC5 CRC6 CRC7 CRC8 CRC10 CRC11 CRC12  CRC15 CRC16 CRC24 CRC30 CRC31 CRC32 CRC64 CRC82
-
-*   [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
-
-*   [lammertb/libcrc](https://github.com/lammertb/libcrc) - Multi platform CRC library
-
-*   [ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash) - Python Binding for xxHash
-
-*   [maandree/sha3sum](https://github.com/maandree/sha3sum) - \[Feature complete] SHA-3 and Keccak checksum utility
-
-*   [404name/winter](https://github.com/404name/winter) - C语言 课程设计+大作业+小程序集，纯字符画逻辑实现【笔记本电脑，哔哩哔哩移动端，超级玛丽，QQ，绝地求生等】让C语言课设不仅仅局限于图书馆管理系统！配套视频演示，代码均通过自己思考无任何参考实现，规范性只能说是相当于我大一的标准，欢迎分享，学习和交流
-
-*   [r-lib/fs](https://github.com/r-lib/fs) - Provide cross platform file operations based on libuv.
-
-*   [henrypp/matrix](https://github.com/henrypp/matrix) - Small, fast and elegant Windows screensaver of the green "Matrix" cypher-code seen in the films.
-
-*   [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
-
-*   [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
-
-*   [henrypp/errorlookup](https://github.com/henrypp/errorlookup) - Simple tool for retrieving information about Windows errors codes.
-
-*   [kholia/RC4-40-brute-office](https://github.com/kholia/RC4-40-brute-office) - Guaranteed cracking of M$ Office files using RC4 40-bit encryption
-
-*   [mackyle/sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
-
-*   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-
-*   [CnCNet/ts-ddraw](https://github.com/CnCNet/ts-ddraw) - Rewrite of cnc-ddraw with Tiberian Sun as the target
-
-*   [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines
-
-*   [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.
-
-*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-
-*   [White-Tiger/T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
-
-*   [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
-
-*   [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
-
-*   [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-
-*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
-
-*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-
-*   [ip2location/ip2location-nginx](https://github.com/ip2location/ip2location-nginx) - This is IP2Location Nginx module that enables the user to find the country, region (state), city, latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, mobile network, elevation, usage type, address type and IAB category by IP address or hostname originates from.
-
-*   [utoni/ptunnel-ng](https://github.com/utoni/ptunnel-ng) - Tunnel TCP connections through ICMP.
-
-*   [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-
-*   [OpenVPN/tap-windows6](https://github.com/OpenVPN/tap-windows6) - Windows TAP driver (NDIS 6)
-
-*   [OpenVPN/openvpn-gui](https://github.com/OpenVPN/openvpn-gui) - OpenVPN GUI is a graphical frontend for OpenVPN running on Windows (10 and 11). It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
-
-*   [EasyHook/EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
-
-*   [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
-
-*   [rfc1036/whois](https://github.com/rfc1036/whois) - Intelligent WHOIS client
-
-*   [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
-
-*   [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
-
-*   [shakenetwork/slshim](https://github.com/shakenetwork/slshim) - HWIDGEN激活工具Win10激活https://mp.weixin.qq.com/s/Kl\_iEeSSxSprblfSRZ6yEQ     https://mp.weixin.qq.com/s?\_\_biz=MzA3MjUzNzE1OA==\&mid=2247489808\&idx=1\&sn=84e517fd43846f15b122564894094fc5\&source=41#wechat\_redirect
-
-*   [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
-
-*   [Yuriy-Svetlov/compress-images](https://github.com/Yuriy-Svetlov/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
-
-*   [ZhanLang/msdk](https://github.com/ZhanLang/msdk) -
-
-*   [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
-
-*   [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-
-*   [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
-
-*   [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
-
-*   [Lssg97/DetailedSystemMonitor](https://github.com/Lssg97/DetailedSystemMonitor) - 一款 Rainmeter 皮肤项目 (A Rainmeter skin project)
-
-*   [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
-
-*   [stong/CVE-2021-3156](https://github.com/stong/CVE-2021-3156) - PoC for CVE-2021-3156 (sudo heap overflow)
-
-*   [hnwyllmm/netkiller](https://github.com/hnwyllmm/netkiller) - network speed limiter for Windows
-
-*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-*   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
-
-*   [troglobit/ssdp-responder](https://github.com/troglobit/ssdp-responder) - SSDP responder for UNIX systems that gives you an InternetGatewayDevice icon in Windows :)
-
-*   [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD) -
-
-*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
-
-*   [boywhp/wifi\_crack\_windows](https://github.com/boywhp/wifi_crack_windows) - wifi crack project for windows
-
-*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
-
-*   [patrickgill/ntpwedit](https://github.com/patrickgill/ntpwedit) - mirror of ntpwedit
-
-*   [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
-
-*   [wifidog/wifidog-gateway](https://github.com/wifidog/wifidog-gateway) - Repository for the wifidog-gateway captive portal designed for embedded systems
-
-*   [u0u0/Quick-Cocos2dx-Community](https://github.com/u0u0/Quick-Cocos2dx-Community) - Cocos2d-Lua 社区版
-
-*   [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
-
-*   [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-
-*   [rhboot/efivar](https://github.com/rhboot/efivar) - Tools and libraries to work with EFI variables
-
-*   [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
-
-*   [a1ive/grub](https://github.com/a1ive/grub) - Fork of GRUB 2 to add various features.
-
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-
-*   [chenall/grub4dos](https://github.com/chenall/grub4dos) - 外部命令和工具源码:https://github.com/chenall/grubutils 下载:
-
-*   [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
-
-*   [NtRaiseHardError/Anti-Delete](https://github.com/NtRaiseHardError/Anti-Delete) - Protects deletion of files with a specified extension using a kernel-mode driver.
-
-*   [aroulin/FAT32-FS-Driver](https://github.com/aroulin/FAT32-FS-Driver) - A FAT32 File System Driver for FUSE
-
-*   [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
-
-*   [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-
-*   [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
-
-*   [terryky/tflite\_gles\_app](https://github.com/terryky/tflite_gles_app) - GPU accelerated deep learning inference applications for RaspberryPi / JetsonNano / Linux PC using TensorflowLite GPUDelegate / TensorRT
-
-*   [QCute/WinRing0](https://github.com/QCute/WinRing0) -
-
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-
-*   [oudream/ccxx](https://github.com/oudream/ccxx) - This is a cross-platform library software library about c, c ++, unix4, posix.  Include gtest, benchmark, cmake, process lock, daemon, libuv, lua, cpython, re2, json, yaml, mysql, redis, opencv, qt, lz4, oci ... https://hub.docker.com/u/oudream
-
-*   [danigargu/CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost
-
-*   [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
-
-*   [quarkslab/dreamboot](https://github.com/quarkslab/dreamboot) - UEFI bootkit
-
-*   [ionescu007/VisualUefi](https://github.com/ionescu007/VisualUefi) - A project for allowing EDK-II Development with Visual Studio
-
-*   [ajkhoury/UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) - A small bootkit which does not rely on x64 assembly.
-
-*   [topcss/WannaCry](https://github.com/topcss/WannaCry) - 勒索病毒WannaCry反编译源码
-
-*   [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
-
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-
-*   [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
-
-*   [otya128/winevdm](https://github.com/otya128/winevdm) - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
-
-*   [MarioCrane/LeagueLobby](https://github.com/MarioCrane/LeagueLobby) - 英雄联盟自定义房间创建工具，包括5V5训练营，(血月杀等轮换模式已被官方关闭)
-
-*   [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
-
-*   [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
-
-*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
-*   [hzcx998/xbook2](https://github.com/hzcx998/xbook2) - xbook2是一个基于x86处理器的32位操作系统，实现了大量的基础功能，可以拿来学习操作系统知识。
-
-*   [RainbowRoad1/Cgame](https://github.com/RainbowRoad1/Cgame) - 一些用C编写的小游戏, 14行贪吃蛇  22行2048  22行俄罗斯方块  25行扫雷...以及各种小玩意
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
-
-*   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-
-*   [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
-
-*   [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
-
-*   [legiar/diskcryptor](https://github.com/legiar/diskcryptor) - DiskCryptor - it's a free solution that allows you to encrypt disk partitions, including system partition.
-
-*   [AlexAltea/orbital](https://github.com/AlexAltea/orbital) - Experimental PlayStation 4 emulator.
-
 ## Go
 
 *   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -4907,7 +6739,7 @@
 
 *   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
 
-*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 
 *   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 
@@ -5401,1528 +7233,6 @@
 
 *   [xiaozhu188/electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music) - 🚀Electron + Vue 仿网易云音乐windows客户端
 
-## Python
-
-*   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-
-*   [XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco) - Xiaomi Miloco
-
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
-
-*   [lesander/amongus-impostor-detector](https://github.com/lesander/amongus-impostor-detector) - Detect impostors in an Among Us game by inspecting UDP packets.
-
-*   [xhh890921/cnn-captcha-pytorch](https://github.com/xhh890921/cnn-captcha-pytorch) - 小黑黑讲AI，AI实战项目《验证码识别》
-
-*   [opulentfox-29/protonmail-api-client](https://github.com/opulentfox-29/protonmail-api-client) - This is not an official python ProtonMail API client. it allows you to read, send and delete messages in protonmail, as well as render a ready-made template with embedded images.
-
-*   [ProbiusOfficial/CVE-2025-14847](https://github.com/ProbiusOfficial/CVE-2025-14847) - poc for CVE-2025-14847
-
-*   [pythonlessons/mltu](https://github.com/pythonlessons/mltu) - Machine Learning Training Utilities (for TensorFlow and PyTorch)
-
-*   [summersonnn/Town-Of-Salem-with-LLMs](https://github.com/summersonnn/Town-Of-Salem-with-LLMs) - In this repository, 16 models compete to outperform each other in the game Town of Salem. Each model is randomly assigned roles like Vampire, Peasant, Clown, or special variants of Peasants with unique abilities.
-
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
-
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-
-*   [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
-
-*   [tatanakots/SDGB\_usefultool\_back](https://github.com/tatanakots/SDGB_usefultool_back) - A Useful Tool For SDGB
-
-*   [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) - Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
-
-*   [KomoriDev/nonebot\_plugin\_og](https://github.com/KomoriDev/nonebot_plugin_og) - 检测链接并发送网站简介及预览图
-
-*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
-
-*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌
-
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-
-*   [fllesser/nonebot-plugin-parser](https://github.com/fllesser/nonebot-plugin-parser) - 社交媒体分享链接解析插件
-
-*   [MemeCrafters/nonebot-plugin-memes](https://github.com/MemeCrafters/nonebot-plugin-memes) - Nonebot2 表情包制作插件
-
-*   [creepebucket/creepe\_ponder](https://github.com/creepebucket/creepe_ponder) - 使用python编译Minecraft的纯原版仿机械动力思索动画
-
-*   [spipm/Depixelization\_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
-
-*   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-
-*   [TryHackMyOffsecBox/TryHackMe-CN](https://github.com/TryHackMyOffsecBox/TryHackMe-CN) - Chinese mirror of Tryhackme tutorials
-
-*   [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
-
-*   [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-
-*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-
-*   [laggykiller/sticker-convert](https://github.com/laggykiller/sticker-convert) - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, OGQ, Viber, Discord, iMessage. Written in Python.
-
-*   [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
-
-*   [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
-
-*   [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
-
-*   [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-*   [XiYang6666/EvenBetterNeteaseResolver](https://github.com/XiYang6666/EvenBetterNeteaseResolver) - 更好的网易云音乐解析 API 与 SDK / Even better NetEase Cloud Music parsing API and SDK
-
-*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-
-*   [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款开源的小型化像素字体
-
-*   [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
-
-*   [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
-
-*   [Roy-zZZ08/Texture-Atlas-Compression](https://github.com/Roy-zZZ08/Texture-Atlas-Compression) - Official implementation of SIGGRAPH AISA 2023 paper "Texture Atlas Compression Based on Repeated Content Removal"
-
-*   [wenyaxie023/WordSaladChopper](https://github.com/wenyaxie023/WordSaladChopper) -
-
-*   [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron) - Formatron empowers everyone to control the format of language models' output with minimal overhead.
-
-*   [WingedSeal/jmc](https://github.com/WingedSeal/jmc) - A compiler for JMC (JavaScript-like Minecraft Function), a mcfunction extension language for making Minecraft Datapack
-
-*   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-
-*   [wh01s17/billionlaugh\_vuln](https://github.com/wh01s17/billionlaugh_vuln) - API vulnerable a Billion Laughs Attack
-
-*   [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
-
-*   [TC999/zed-loc](https://github.com/TC999/zed-loc) - zed 本地化脚本。( zed editor l10n script.
-
-*   [zhdbk3/GeometryCalculator](https://github.com/zhdbk3/GeometryCalculator) - 借助计算机的强大算力，使用解析几何暴力计算几何问题！
-
-*   [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-
-*   [guduwenjiu/PyWxDump](https://github.com/guduwenjiu/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
-
-*   [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
-
-*   [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump) - Analyzing your wechat message history from android
-
-*   [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
-
-*   [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
-
-*   [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
-
-*   [gpchelkin/scdlbot](https://github.com/gpchelkin/scdlbot) - Telegram Bot for downloading MP3 rips of tracks/sets from SoundCloud, Bandcamp, YouTube with tags and artwork.
-
-*   [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
-
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [sammyuri/craftgpt](https://github.com/sammyuri/craftgpt) - Small language model built in Minecraft.
-
-*   [larsbijl/trending\_archive](https://github.com/larsbijl/trending_archive) - An archive of the GitHub daily trending information
-
-*   [raminfp/redis\_exploit](https://github.com/raminfp/redis_exploit) - CVE-2025-49844 (RediShell)
-
-*   [zxsama/BilingualTranslationToolkit](https://github.com/zxsama/BilingualTranslationToolkit) - Bilingual Translation Interface, Language Switching, Quick Restart
-
-*   [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) - On-device TTS model by Neuphonic
-
-*   [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.
-
-*   [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
-
-*   [rei05/rekordbox-video-linker](https://github.com/rei05/rekordbox-video-linker) - rekordboxのビデオLINKを自動化するやつ
-
-*   [bghtnya/fuckhongqingting](https://github.com/bghtnya/fuckhongqingting) - 飞翔的红蜻蜓校园跑app辅助工具
-
-*   [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
-
-*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-*   [7x11x13/soundcloud.py](https://github.com/7x11x13/soundcloud.py) - Python wrapper for v2 SoundCloud API. Does not require an API key.
-
-*   [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
-
-*   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-
-*   [R2D2FISH/glados-tts](https://github.com/R2D2FISH/glados-tts) - A GLaDOS TTS, using Forward Tacotron and HiFiGAN.  Inference is fast and stable, even on the CPU.  A low quality vocoder model is included for mobile use.  Rudimentary TTS script included.  Works perfectly on Linux, partially on Maybe someone smarter than me can make a GUI.
-
-*   [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
-
-*   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-
-*   [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
-
-*   [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.
-
-*   [bilibili/Index-anisora](https://github.com/bilibili/Index-anisora) -
-
-*   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) -
-
-*   [Maicius/QQZoneMood](https://github.com/Maicius/QQZoneMood) - QQZone mood spider and analysis. QQ空间多线程爬虫和数据挖掘。提供线上服务，扫码登陆即可自动爬取和分析数据，还有网易云年度报告风格的数据展示；使用docker-compose打包程序，方便部署；额外提供QQ空间抽奖小程序。
-
-*   [Zhalslar/astrbot\_plugin\_qzone](https://github.com/Zhalslar/astrbot_plugin_qzone) - QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说、点赞、评论等
-
-*   [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-
-*   [yinhao0214/QQZoneParse](https://github.com/yinhao0214/QQZoneParse) - 模拟登陆QQ空间，获取好友信息，并做分析（年龄分布、性别分布、地址分布等）具体参见说明文档及1049755192文件夹下的分析结果展示。
-
-*   [EternalTrail/eeVR](https://github.com/EternalTrail/eeVR) - Blender addon for rendering equirectangular and dome projection images using the eevee rendering engine.
-
-*   [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
-
-*   [SmartHypercube/Qzone-API](https://github.com/SmartHypercube/Qzone-API) - QQ空间的Python接口
-
-*   [aioqzone/Qzone2TG](https://github.com/aioqzone/Qzone2TG) - Forward Qzone Feeds to Telegram
-
-*   [aioqzone/aioqzone](https://github.com/aioqzone/aioqzone) - A python wrapper for Qzone web login and Qzone http api
-
-*   [AndreGuo/HDRTVDM](https://github.com/AndreGuo/HDRTVDM) - The official repo of "Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models" in CVPR2023.
-
-*   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-
-*   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
-
-*   [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - \[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
-
-*   [lxulxu/WatermarkRemover](https://github.com/lxulxu/WatermarkRemover) - 批量去除视频中位置固定的水印
-
-*   [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
-
-*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
-
-*   [hlorus/CAD\_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
-
-*   [sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-](https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-) - CVE-2025-8088 WinRAR Proof of Concept (PoC-Exploit)
-
-*   [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
-
-*   [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
-
-*   [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) -
-
-*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
-
-*   [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy) - coredumpy saves your crash site for post-mortem debugging
-
-*   [clearlab-sustech/Wheel-Legged-Gym](https://github.com/clearlab-sustech/Wheel-Legged-Gym) -
-
-*   [3c0tr/CharacterFlow](https://github.com/3c0tr/CharacterFlow) - a blender addon for creating procedure character/text animation
-
-*   [qqqqqf-q/Qing-Digital-Self](https://github.com/qqqqqf-q/Qing-Digital-Self) - 数字分身项目,并且包含了搭建(复现)教程  Qing's digital self, including setup tutorial
-
-*   [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-
-*   [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-
-*   [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻
-
-*   [MatrixEditor/pairipcore-vm](https://github.com/MatrixEditor/pairipcore-vm) - Research on the internal workings of Google's Play Integrity Protect Virtual Machine (VM) with tools for both disassembling and decompiling the bytecode.
-
-*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
-
-*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
-
-*   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-
-*   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
-*   [TheWinRaRs/Writeups](https://github.com/TheWinRaRs/Writeups) -
-
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
-
-*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
-*   [SuperNG6/Docker-qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) - Docker-qBittorrent-Enhanced-Edition
-
-*   [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
-
-*   [Joe1sn/route\_fileter](https://github.com/Joe1sn/route_fileter) - 统计路由器CVE，便于漏洞挖掘
-
-*   [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
-
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - How can we build a true AI agent? Like Claude Code.
-
-*   [Erfaniaa/text-to-commit-history](https://github.com/Erfaniaa/text-to-commit-history) - Write a large text on your GitHub profile, with your commits history (contribution graph).
-
-*   [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
-
-*   [LiteyukiStudio/marshoai-melo](https://github.com/LiteyukiStudio/marshoai-melo) - Melobot v3 猫娘聊天机器人
-
-*   [chenxi-Eumenides/bilibili\_live\_tool](https://github.com/chenxi-Eumenides/bilibili_live_tool) - 用于B站直播的获取推流码及开播工具
-
-*   [Crispher/MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - Visualizing the network of math theories.
-
-*   [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity's Last Exam
-
-*   [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework.
-
-*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-
-*   [FlyingWolFox/Netscape-Bookmarks-File-Parser](https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser) - Parser and creator for Netscape Bookmarks file format that is used when exporting bookmarks from browsers
-
-*   [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
-
-*   [ZianTT/BHYG](https://github.com/ZianTT/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [MtFloveU/twitter\_fdap](https://github.com/MtFloveU/twitter_fdap) - A Python script to automatically export and track changes in your X (formerly Twitter) followers and following lists.
-
-*   [ahmia/ahmia-crawler](https://github.com/ahmia/ahmia-crawler) - Collection of crawlers used by the ahmia search engine
-
-*   [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-
-*   [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站会员购购票辅助工具
-
-*   [huanxin996/qzone\_api](https://github.com/huanxin996/qzone_api) -
-
-*   [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
-
-*   [kobopi/CS2-DG\_LAB](https://github.com/kobopi/CS2-DG_LAB) - 基于郊狼3.0socket协议的CS2实时反馈项目
-
-*   [ChaceQC/bilibili\_live\_stream\_code](https://github.com/ChaceQC/bilibili_live_stream_code) - 用于在准备直播时获取第三方推流码，以便可以绕开哔哩哔哩直播姬，直接在如OBS等软件中进行直播，软件同时提供定义直播分区和标题功能
-
-*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
-
-*   [Web-Art-Online/qzone-next](https://github.com/Web-Art-Online/qzone-next) -
-
-*   [idoknow/CampuxBot](https://github.com/idoknow/CampuxBot) - QQ 空间 校园墙自动化系统机器人端
-
-*   [gfhdhytghd/qzone-toolkit](https://github.com/gfhdhytghd/qzone-toolkit) -
-
-*   [gahogg/Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
-
-*   [1812z/PCTools](https://github.com/1812z/PCTools) - 一个简单的python脚本，支持Ha远程启动Windows自定义程序，调节音量等等。同时同步Aida64数据到Ha
-
-*   [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
-
-*   [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
-
-*   [JinXiaofeng1234/ChatBar](https://github.com/JinXiaofeng1234/ChatBar) -
-
-*   [hanfangyuan4396/dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat) - 本项目为 chatgpt-on-wechat下游分支, 额外对接了LLMOps平台 Dify，同时支持gewechat，相比itchat更加稳定。
-
-*   [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
-
-*   [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
-
-*   [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
-
-*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
-
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
-
-*   [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀
-
-*   [RaceIsIm/CircleHackor](https://github.com/RaceIsIm/CircleHackor) -
-
-*   [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
-
-*   [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
-
-*   [MemeMeow-Studio/MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow) - 智能检索张维为表情包
-
-*   [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
-
-*   [insecurityofthings/jackit](https://github.com/insecurityofthings/jackit) - JackIt - Exploit Code for Mousejack
-
-*   [mc-meme/mc-meme](https://github.com/mc-meme/mc-meme) - some meme about Minecraft
-
-*   [Des-Magmeta/ChildFunSans](https://github.com/Des-Magmeta/ChildFunSans) - An open-source Chinese font derived from Fontworks' Stick.
-
-*   [nbk888/File2Vid](https://github.com/nbk888/File2Vid) - Convert ANY to VIDEO
-
-*   [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
-
-*   [mos9527/pyncm](https://github.com/mos9527/pyncm) - 第三方网易云音乐 Python API + 转储工具
-
-*   [sleepy-project/sleepy](https://github.com/sleepy-project/sleepy) - Are you sleeping?
-
-*   [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
-
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [albertchen857/Litematica-viewer](https://github.com/albertchen857/Litematica-viewer) - Litematica Viewer - A tool used to check & edit minecraft structures and litematic files
-
-*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
-
-*   [JimssM/tiktok-slider](https://github.com/JimssM/tiktok-slider) - OpenCV + NumPy detect TikTok slider 🥖 OpenCV + NumPy检测抖音验证码
-
-*   [ShiyumeMeguri/ShiyumeBlender](https://github.com/ShiyumeMeguri/ShiyumeBlender) - 🥵嫁制作工具 起動!
-
-*   [11dogzi/Comfyui-ergouzi-kaiguan](https://github.com/11dogzi/Comfyui-ergouzi-kaiguan) -
-
-*   [Project-Babble/ProjectBabble](https://github.com/Project-Babble/ProjectBabble) - A DIY mouth tracking method for VR
-
-*   [yuchenyang1994/godot-love-wechat](https://github.com/yuchenyang1994/godot-love-wechat) - godot export tools for wechat
-
-*   [SafeBreach-Labs/WindowsDowndate](https://github.com/SafeBreach-Labs/WindowsDowndate) - A tool that takes over Windows Updates to craft custom downgrades and expose past fixed vulnerabilities
-
-*   [Golevka2001/Stereographic-Projection-of-Otto](https://github.com/Golevka2001/Stereographic-Projection-of-Otto) - 通过球极投影的方式得到 otto 的多种形态
-
-*   [OhMyKing/Blender-Gamepad-Controls](https://github.com/OhMyKing/Blender-Gamepad-Controls) - 一个支持Xbox手柄的Blender手柄控制插件
-
-*   [sumeshi/ntfsfind](https://github.com/sumeshi/ntfsfind) - An efficient tool for search files, directories, and alternate data streams directly from NTFS image files.
-
-*   [sec-consult/msiscan](https://github.com/sec-consult/msiscan) - Scanning tool for identifying local privilege escalation issues in vulnerable MSI installers
-
-*   [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
-
-*   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-
-*   [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy importer for Blender
-
-*   [xiaofeiyu0723/ExVR](https://github.com/xiaofeiyu0723/ExVR) - https://exvr-doc.github.io/#/en/home
-
-*   [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
-
-*   [IATI/IATI-Publishing-Statistics](https://github.com/IATI/IATI-Publishing-Statistics) - Tables and files presenting different stats for IATI publishers
-
-*   [XiYang6666/WrittenBookEditor](https://github.com/XiYang6666/WrittenBookEditor) - 基于 PySide6 的 Minecraft 成书编辑器 / Minecraft written book editor based on PySide6
-
-*   [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-
-*   [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算
-
-*   [zhdbk3/CrazyLiteratureEncryption](https://github.com/zhdbk3/CrazyLiteratureEncryption) - 发疯文学加密 www
-
-*   [ProtonMail/proton-python-client](https://github.com/ProtonMail/proton-python-client) - Python Proton client module
-
-*   [HurryPeng/MagiaTimeline](https://github.com/HurryPeng/MagiaTimeline) - A general-purpose CV-based framework for extracting precise subtitle timelines from videos with embedded subtitles, from video to .ass file.
-
-*   [qiuqiao/SOFA](https://github.com/qiuqiao/SOFA) - SOFA: Singing-Oriented Forced Aligner
-
-*   [qaqFei/TodayTopic](https://github.com/qaqFei/TodayTopic) -
-
-*   [WeaponizedVSCode/Script](https://github.com/WeaponizedVSCode/Script) - A VSCode Workspace based hacking environment utils. Starting your Note-Driven Hacking experience.
-
-*   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-
-*   [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
-
-*   [tamikip/GitGPT](https://github.com/tamikip/GitGPT) - 通过自然语言来查找github仓库
-
-*   [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
-
-*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
-
-*   [RQLuo/MixTeX-Latex-OCR](https://github.com/RQLuo/MixTeX-Latex-OCR) - MixTeX multimodal LaTeX, ZhEn, and, Table OCR. It performs efficient CPU-based inference in a local offline on Windows.
-
-*   [psoho/fast-poster](https://github.com/psoho/fast-poster) - 🔥🔥🔥 fastposter海报生成器,图片生成器,电商海报编辑器,海报设计器,电商图片合成,海报开发。生成朋友圈分享海报并生成图片，二维码海报，图片海报，图片合成，二维码推广海报，支持Java Python PHP Go JS 小程序。https://fastposter.net/doc/
-
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-
-*   [zai-org/CodeGeeX4](https://github.com/zai-org/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q\&A and much more.
-
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [rsp4jack/now\_playing](https://github.com/rsp4jack/now_playing) - OBS Script to display now playing
-
-*   [matgarate/Blender\_ParadoxToolkit](https://github.com/matgarate/Blender_ParadoxToolkit) - A toolkit to create 3D optical illusion in Blender.
-
-*   [eldek0/fnaf-in-pygame](https://github.com/eldek0/fnaf-in-pygame) -
-
-*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
-
-*   [avilliai/Manyana](https://github.com/avilliai/Manyana) - 停止更新，请改用Eridanus
-
-*   [happycola233/GoogleTranslateMakeGrass](https://github.com/happycola233/GoogleTranslateMakeGrass) - 谷歌翻译生草机
-
-*   [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) - Repository for training models for music source separation.
-
-*   [ChinaIceF/sentence-to-cn-poem](https://github.com/ChinaIceF/sentence-to-cn-poem) - 将你的语言转化为中国古诗词风格的谐音版本，基于马尔科夫链和全概率公式编写的转换器、评价器
-
-*   [Euro-pol/turnaround-api](https://github.com/Euro-pol/turnaround-api) - Cloudflare Turnstile solving API
-
-*   [yanglbme/geetest-crack](https://github.com/yanglbme/geetest-crack) - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
-
-*   [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-
-*   [Angelic47/FontChinese7x7](https://github.com/Angelic47/FontChinese7x7) - 清晰易读的7x7像素点阵中文字体和取模工具
-
-*   [ChinaIceF/My-TODOs](https://github.com/ChinaIceF/My-TODOs) - A cross-platform desktop To-Do list.  跨平台桌面待办小工具
-
-*   [krau/kmua-bot](https://github.com/krau/kmua-bot) -  💕 A kawaii Telegram bot with some useful or interesting features
-
-*   [ttrtty5/mi2bl](https://github.com/ttrtty5/mi2bl) - 转换Mine-Imator的文件到blender软件内
-
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-
-*   [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
-
-*   [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
-
-*   [tamikip/AI-GAL](https://github.com/tamikip/AI-GAL) - AI GAL是专门为Galgame场景设计的程序，旨在让得每一名用户都能享受到独一无二的剧情。程序基于renpy框架开发
-
-*   [happycola233/VideoHybridizer](https://github.com/happycola233/VideoHybridizer) - 视频 “杂交” 器，将两个60FPS视频的帧交替排列，生成一个新的120FPS视频。在不同的帧率下观看，您将看到完全不同的画面！ The "VideoHybridizer" alternates frames from two 60FPS videos to create a new 120FPS video. Watching it at different frame rates, you'll see completely different visuals!
-
-*   [3000IQPlay/client-library](https://github.com/3000IQPlay/client-library) - Client collection (For some ppl skidding center lol)
-
-*   [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
-
-*   [fa0311/TwitterInternalAPIDocument](https://github.com/fa0311/TwitterInternalAPIDocument) - Twitter Internal API Document
-
-*   [vladkens/twscrape](https://github.com/vladkens/twscrape) - 2025! X / Twitter API scrapper with authorization support. Allows you to scrape search results, User's profiles (followers/following), Tweets (favoriters/retweeters) and more.
-
-*   [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-
-*   [rrika/cant-believe-its-not-twitter](https://github.com/rrika/cant-believe-its-not-twitter) - Twitter archive viewer, also takes WARC/HAR files as input
-
-*   [NotSwedish02/MusicVisualizer](https://github.com/NotSwedish02/MusicVisualizer) -
-
-*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [Xiaokang2022/maliang](https://github.com/Xiaokang2022/maliang) - A lightweight UI framework based on tkinter with all UI drawn in Canvas!🎨
-
-*   [SodiumSulfate/HideFileInMusic-GUI](https://github.com/SodiumSulfate/HideFileInMusic-GUI) - Use songs in wav format to hide any files, novels, pictures, torrents, etc.
-
-*   [Fitzgerald-Porthmouth-Koenigsegg/Plangothic\_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
-
-*   [plaintextpackets/ping\_smuggler](https://github.com/plaintextpackets/ping_smuggler) - Concept script to demonstrate how to exfiltrate data inside of ping packets
-
-*   [swiftycode256/clitheme](https://github.com/swiftycode256/clitheme) - CLItheme - Customize output messages of any command line application! 自定义任何命令行程序的提示输出！
-
-*   [hkchengrex/Cutie](https://github.com/hkchengrex/Cutie) - \[CVPR 2024 Highlight] Putting the Object Back Into Video Object Segmentation
-
-*   [ChinaIceF/PyQt-SiliconUI](https://github.com/ChinaIceF/PyQt-SiliconUI) - A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便
-
-*   [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.
-
-*   [bilibili/Index-1.9B](https://github.com/bilibili/Index-1.9B) - A lightweight multilingual LLM
-
-*   [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
-
-*   [iDkGK/PyTermRenderer](https://github.com/iDkGK/PyTermRenderer) - A tool to render images, or create some awesome effects in 256-color terminals. The tool is completely written in Python3.
-
-*   [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
-
-*   [Ikaros-521/RealtimeSTT\_LLM\_TTS](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS) - 实时STT，连接OpenAI接口/智谱AI（流式LLM）和GPT-SOVITS/Edge-TTS，通过网页的方式，进行跨网络的服务调用，实现实时对话的效果
-
-*   [kinglegendzzh/chordPrediction](https://github.com/kinglegendzzh/chordPrediction) - 音乐创作工具(基于马尔科夫链的和弦预测算法)
-
-*   [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
-
-*   [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection \[NeurIPS 2024]
-
-*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-
-*   [hv0905/NekoImageGallery](https://github.com/hv0905/NekoImageGallery) - An AI-powered natural language & reverse Image Search Engine powered by CLIP & qdrant.
-
-*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
-
-*   [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
-
-*   [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
-
-*   [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
-
-*   [shinnpuru/VoiceTransl](https://github.com/shinnpuru/VoiceTransl) - VoiceTrans是一站式离线AI视频字幕生成和翻译软件，功能包括视频下载，音频提取，听写打轴，字幕翻译，视频合成，字幕总结。
-
-*   [OmooLab/BioxelNodes](https://github.com/OmooLab/BioxelNodes) - For scientific volumetric data visualization in Blender.
-
-*   [gameltb/Comfyui-StableSR](https://github.com/gameltb/Comfyui-StableSR) -
-
-*   [ICE27182/Python-3D-renderer](https://github.com/ICE27182/Python-3D-renderer) -
-
-*   [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, like Microsoft's Windows Recall or Rewind.
-
-*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-
-*   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
-
-*   [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) -
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
-
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
-
-*   [lllyasviel/sd-forge-layerdiffuse](https://github.com/lllyasviel/sd-forge-layerdiffuse) - \[WIP] Layer Diffusion for WebUI (via Forge)
-
-*   [ksons/shaderToyTexture](https://github.com/ksons/shaderToyTexture) - Blender addon to create 2D textures from Shadertoy shaders.
-
-*   [EatTheFuture/camera\_shakify](https://github.com/EatTheFuture/camera_shakify) -
-
-*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
-
-*   [yuanzhoulvpi2017/vscode\_debug\_transformers](https://github.com/yuanzhoulvpi2017/vscode_debug_transformers) -
-
-*   [nonebot/nonebot](https://github.com/nonebot/nonebot) - 基于 OneBot 标准的 Python 异步 QQ 机器人框架 / Asynchronous QQ robot framework based on OneBot for Python
-
-*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-
-*   [mashhoodey123/MediaCrawler](https://github.com/mashhoodey123/MediaCrawler) -
-
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-
-*   [RimoChan/seal-sorcery](https://github.com/RimoChan/seal-sorcery) - 印刷术！
-
-*   [lgc-NB2Dev/nonebot-plugin-pjsk](https://github.com/lgc-NB2Dev/nonebot-plugin-pjsk) - Project Sekai 表情包制作
-
-*   [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art.
-
-*   [happycola233/class\_schedule](https://github.com/happycola233/class_schedule) - 课程表
-
-*   [FledgeXu/CoreOfInterpreter](https://github.com/FledgeXu/CoreOfInterpreter) - Pure educational
-
-*   [2DIPW/gpt\_sovits\_infer\_with\_emotion](https://github.com/2DIPW/gpt_sovits_infer_with_emotion) - 基于中文文本情绪分析自动切换参考音频的 GPT-SoVITS 推理 Demo
-
-*   [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
-
-*   [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [lgc-NB2Dev/YetAnotherPicSearch](https://github.com/lgc-NB2Dev/YetAnotherPicSearch) - Yet another picture search plugin for nonebot2
-
-*   [UMRnInside/MlogEvo](https://github.com/UMRnInside/MlogEvo) - Compile C code to Mindustry logic, support C99 and some GNU extensions.
-
-*   [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot) - 沐雪，一个会自动找你聊天的AI女孩子
-
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-
-*   [netsora/miraita](https://github.com/netsora/miraita) - 基于 Nonebot2 开发，互通多平台，超可爱的林汐酱
-
-*   [CheshireCC/faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI) - faster\_whisper GUI with PySide6
-
-*   [mos9527/evbunpack](https://github.com/mos9527/evbunpack) - Enigma Virtual Box Unpacker / 解包、脱壳工具
-
-*   [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
-
-*   [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) -  Use bilix to archive BiliBili video with metadata and danmaku.
-
-*   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-
-*   [Taosky/telegram-search-bot](https://github.com/Taosky/telegram-search-bot) - A telegram group record search bot that solves the problem of direct search inability in languages such as CJK / Telegram 群聊天记录搜索Bot，解决CJK等语言无法直接搜索问题
-
-*   [worm128/AI-YinMei-backup](https://github.com/worm128/AI-YinMei-backup) - AI吟美零式
-
-*   [SharzyL/tg\_searcher](https://github.com/SharzyL/tg_searcher) - A bot to provide versatile Chinese optimized searching for telegram chats.    通过 bot 来给 Telegram 提供针对中文优化的搜索。
-
-*   [OlafZhang/bilib](https://github.com/OlafZhang/bilib) - 整合多个B站原生API，并结合爬取技术的Python爬取用lib
-
-*   [xymb-endcrystalme/LinearRegionFileFormatTools](https://github.com/xymb-endcrystalme/LinearRegionFileFormatTools) -
-
-*   [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion for 3D Generation
-
-*   [Artrajz/vits-simple-api](https://github.com/Artrajz/vits-simple-api) - A simple VITS HTTP API, developed by extending Moegoe with additional features.
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [luoyily/mcae](https://github.com/luoyily/mcae) - A minecraft command animation tool
-
-*   [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具
-
-*   [ProbiusOfficial/TCL](https://github.com/ProbiusOfficial/TCL) - TCL-TencentCloudListener 腾讯云抢占式实例监听器
-
-*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-
-*   [KimmyXYC/BiliLive-Auto-Streaming](https://github.com/KimmyXYC/BiliLive-Auto-Streaming) - 哔哩哔哩自动直播 ‖ 自动获取B站直播激励金
-
-*   [CodeChina888/FakeToa](https://github.com/CodeChina888/FakeToa) - Fake IP sources using Linux's BPF feature
-
-*   [amueller/word\_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
-
-*   [TomoeMami/S1PlainTextArchive2023](https://github.com/TomoeMami/S1PlainTextArchive2023) - 2023年S1帖子归档
-
-*   [Losketch/Unicode-Flash-Mob](https://github.com/Losketch/Unicode-Flash-Mob) - Unicode快闪视频生成器
-
-*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-
-*   [secretsquirrel/the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors
-
-*   [YishiMichael/manim3](https://github.com/YishiMichael/manim3) - An animation engine inspired from manim and three.js
-
-*   [MMD-Blender/blender\_mmd\_tools](https://github.com/MMD-Blender/blender_mmd_tools) - MMD Tools is a blender addon for importing/exporting Models and Motions of MikuMikuDance.
-
-*   [chsh2/nijiGPen](https://github.com/chsh2/nijiGPen) - An add-on of Blender focusing on Grease Pencil
-
-*   [OddDevelopment/OperaGX-Nitro-Gen](https://github.com/OddDevelopment/OperaGX-Nitro-Gen) - Gen infinite Opera GX nitro promotion codes! Quick and easy!
-
-*   [WEGFan/Geometry-Dash-Savefile-Editor](https://github.com/WEGFan/Geometry-Dash-Savefile-Editor) - Geometry Dash savefile encrypter & decrypter
-
-*   [YeetDisDude/pg3d-tools](https://github.com/YeetDisDude/pg3d-tools) - A Pixel Gun 3D Tool made in Python for Modding and other purposes.
-
-*   [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-
-*   [francozappa/bluffs](https://github.com/francozappa/bluffs) - Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) \[CVE 2023-24023]
-
-*   [MeoProject/lx-music-api-server](https://github.com/MeoProject/lx-music-api-server) - 适用于 LX Music 的解析接口服务器的 Python 实现
-
-*   [Masterolic/Spotify-Downloader](https://github.com/Masterolic/Spotify-Downloader) - A telegram bot to download Spotify songs from yt and saavn
-
-*   [Yuri-YuzuChaN/maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) - 基于HoshinoBot V2的舞萌DX查询插件，移植自mai-bot开源项目
-
-*   [WuHou-Teng/Minecraft\_particle\_effect](https://github.com/WuHou-Teng/Minecraft_particle_effect) - A Generator for creating minecraft partical effects from pictures or 3D models
-
-*   [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - \[SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
-
-*   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-
-*   [yxsj245/cloudfareDNS](https://github.com/yxsj245/cloudfareDNS) - 探测IP自动更换cloudfare DNS解析
-
-*   [pur1fying/blue\_archive\_auto\_script](https://github.com/pur1fying/blue_archive_auto_script) - 支持按轴凹总力战, 无缝制造三解, 用于实现蔚蓝档案自动化的程序( Steam已适配 )
-
-*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-
-*   [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - One of a few malware collections on the GitHub.
-
-*   [Yourouchour/yMath](https://github.com/Yourouchour/yMath) -
-
-*   [openvpi/SOME](https://github.com/openvpi/SOME) - SOME: Singing-Oriented MIDI Extractor.
-
-*   [NewSapporoNingyo/BVE-Gensokyo-Railway](https://github.com/NewSapporoNingyo/BVE-Gensokyo-Railway) - Bve Trainsim5  Gensokyo Railway 幻想郷鉄道 幻想乡铁道
-
-*   [283375/arcaea-offline](https://github.com/283375/arcaea-offline) -
-
-*   [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI) - A project for ATRI, use go-cqhttp and Nonebot2.
-
-*   [YinBuLiao/GenshinImpact\_Start](https://github.com/YinBuLiao/GenshinImpact_Start) -
-
-*   [87owo/PYAS](https://github.com/87owo/PYAS) - Antivirus software written in Python and C++ that blocks threats through deep learning and behavioral monitoring!
-
-*   [cwuom/MusicHelper](https://github.com/cwuom/MusicHelper) - 一个通过Python编写的QQ、网易云音乐无损音乐爬取工具
-
-*   [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches and common tags.
-
-*   [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
-
-*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-
-*   [123summertime/ykkz](https://github.com/123summertime/ykkz) - 基于nonebot和RWKV的聊天机器人，支持发送语音和表情
-
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-
-*   [SkyDynamic/MinecraftCNLoginFixTool](https://github.com/SkyDynamic/MinecraftCNLoginFixTool) - 一个基于修改Hosts让登录MC不再困难的软件
-
-*   [MCServerScout/Discord-Bot](https://github.com/MCServerScout/Discord-Bot) - Server Scout (Discord Bot)
-
-*   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
-
-*   [hoemotion/Karuma](https://github.com/hoemotion/Karuma) - Karuma is a Discord Bot including Nukes, Raids, Mass DM and other features. Only for educational purposes 🥱🚀
-
-*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-
-*   [Balloon-356/Video2MC](https://github.com/Balloon-356/Video2MC) -
-
-*   [Zhenye-Na/leetcode](https://github.com/Zhenye-Na/leetcode) - 👨‍💻 This repository contains the solutions and explanations for algorithm problems in LeetCode, implemented by Python or Java. Code Skeletons are generated automatically via the `vscode-leetcode` plugin.
-
-*   [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
-
-*   [psyker-team/mist](https://github.com/psyker-team/mist) - Watermark you artworks to stay away from unauthorized diffusion style mimicry!
-
-*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
-
-*   [noDRM/DeDRM\_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
-
-*   [RimoChan/GPT-reader](https://github.com/RimoChan/GPT-reader) - 【GPT-reader】让GPT帮你读小说吧！
-
-*   [TollyH/rPlaceData](https://github.com/TollyH/rPlaceData) - Scripts for making videos based on Reddit r/place
-
-*   [RimoChan/waifu-sensor](https://github.com/RimoChan/waifu-sensor) - 【老婆探测器】1个可解释的动漫角色分类模型！
-
-*   [bghta666/mfunsNew](https://github.com/bghta666/mfunsNew) - m站新站辅助工具
-
-*   [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-
-*   [SerinaNya/SkinRenderMC](https://github.com/SerinaNya/SkinRenderMC) - Render your Minecraft Skins and Capes in 3D view. | 一坨狗屎，待重写
-
-*   [CnAoKip/BlankEncode](https://github.com/CnAoKip/BlankEncode) - 一个用不可见字符编码并藏匿文件的脚本
-
-*   [JialingRichard/LSB-T-Live-Frame](https://github.com/JialingRichard/LSB-T-Live-Frame) - https://www.bilibili.com/video/BV1Az4y1z7Jy
-
-*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-
-*   [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) - Advanced Multi-Featured Telegram UserBot by pyrogram.
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [IrisRainbowNeko/pixiv\_AI\_crawler](https://github.com/IrisRainbowNeko/pixiv_AI_crawler) - 基于深度学习的p站高质量涩图AI爬虫，可以学会你的XP
-
-*   [GamerNoTitle/bilibiliEmote](https://github.com/GamerNoTitle/bilibiliEmote) - 【B站加入了反爬机制，未拥有的表情现在无法爬取了】哔哩哔哩官方表情自动爬取
-
-*   [errorer/Portal\_StillAlive\_Python](https://github.com/errorer/Portal_StillAlive_Python) - A demo of the credit song 'Still Alive' of Portal 1 written in Python, running in 80x24 text terminal
-
-*   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
-
-*   [molanp/html\_check\_Minecraft](https://github.com/molanp/html_check_Minecraft) - 网页版我的世界服务器查询，最初给蓝天云写的
-
-*   [ermaozi01/free\_clash\_vpn](https://github.com/ermaozi01/free_clash_vpn) - ✈️ 2023 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙 | 梯子 | 免费节点
-
-*   [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率）
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
-*   [fengx1a0/Bilibili\_show\_ticket\_auto\_order](https://github.com/fengx1a0/Bilibili_show_ticket_auto_order) -
-
-*   [noionion/Twikoo-Magic](https://github.com/noionion/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
-
-*   [ChenPi11/PixelPlayer](https://github.com/ChenPi11/PixelPlayer) - PixelPlayer can play video in console
-
-*   [Syan-Lin/CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) - LLM + TTS 的真实感聊天机器人 | QQ 机器人 | 支持表情包、QQ 表情、联网搜索
-
-*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议，支持web端和B站直播开放平台两种接口
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-
-*   [JimmyLiang-lzm/biliDownloader\_GUI](https://github.com/JimmyLiang-lzm/biliDownloader_GUI) - B站视频下载程序，BiliBili视频下载器，支持下载B站视频、交互\互动视频，支持下载区域限制视频资源。Bili Downloader GUI Program for Stable.😊
-
-*   [huang1332/qrcode\_streamer](https://github.com/huang1332/qrcode_streamer) - 基于二维码和AES128加密的直播工具，可用于bilibili的彩虹六号直播，包括获取屏幕画面并显示二维码的脚本和识别屏幕上二维码并显示原图的脚本
-
-*   [kivvi3412/HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
-
-*   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
-
-*   [YukariChiba/MedicineNotifyBot](https://github.com/YukariChiba/MedicineNotifyBot) - 提醒您按时吃药的 Telegram Bot。
-
-*   [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
-
-*   [AnonymousX1025/AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
-
-*   [clean-master/stable-diffusion-webui-launcher-directml](https://github.com/clean-master/stable-diffusion-webui-launcher-directml) - A PyQt5 based launcher that provides an easy-to-use interface for launching Stable Diffusion WebUI with optional DirectML support.
-
-*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-
-*   [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
-
-*   [Zeal-L/BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器，拥有图形界面，支持关键词搜索漫画和二维码登入，黑科技下载未解锁章节，多线程下载，多种保存格式，本地漫画管理，一键检查更新！
-
-*   [cheukcat/The-Eyes-Have-It](https://github.com/cheukcat/The-Eyes-Have-It) - An intuitive approach for 3D Occupancy Detection
-
-*   [bujnlc8/gptbing](https://github.com/bujnlc8/gptbing) - 集成ChatGPT和New Bing到微信，提供New Bing聊天小程序，额外集成了Google Bard和文心一言
-
-*   [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
-
-*   [DongGuoZheng/VideoSlim](https://github.com/DongGuoZheng/VideoSlim) - VideoSlim 简洁易用的Win视频压缩工具
-
-*   [CBerJun/AcaciaMC](https://github.com/CBerJun/AcaciaMC) - A programming language that runs in Minecraft BE by compiling into commands
-
-*   [SayaSS/vits-finetuning](https://github.com/SayaSS/vits-finetuning) - Fine-Tuning your VITS model using a pre-trained model
-
-*   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into various software applications (such as Telegram, Gmail, Slack, and websites).
-
-*   [Paraworks/vits\_with\_chatgpt-gpt3](https://github.com/Paraworks/vits_with_chatgpt-gpt3) -
-
-*   [EasyLive2D/Live2DMascot](https://github.com/EasyLive2D/Live2DMascot) - 桌面Live2D，提供自定义聊天接口，支持更换模型，自定义动作语音+文本
-
-*   [M4Singer/M4Singer](https://github.com/M4Singer/M4Singer) -
-
-*   [Well2333/VoiceS](https://github.com/Well2333/VoiceS) - 适用于 diffsinger 的多功能工具集
-
-*   [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
-
-*   [InvoluteHell/NineNineTable](https://github.com/InvoluteHell/NineNineTable) - 九九乘法表
-
-*   [pkuliyi2015/multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) - Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0
-
-*   [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
-
-*   [AliceNavigator/AI-Vtuber-chatglm](https://github.com/AliceNavigator/AI-Vtuber-chatglm) - 本地部署chatglm生成并以语音回复你的bilibili直播弹幕 Use chatglm to generate and reply your bilibili live danmu with voice
-
-*   [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
-
-*   [keums/icassp2022-vocal-transcription](https://github.com/keums/icassp2022-vocal-transcription) - Code for ICASSP2022 paper "Pseudo-Label Transfer from Frame-Level to Note-Level in a Teacher-Student Framework for Singing Transcription from Polyphonic Music"
-
-*   [kulya97/warm\_3dmodule](https://github.com/kulya97/warm_3dmodule) -
-
-*   [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-
-*   [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-
-*   [fishaudio/openutau-remote-host](https://github.com/fishaudio/openutau-remote-host) -
-
-*   [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
-
-*   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
-
-*   [IoeCmcomc/NBSTool](https://github.com/IoeCmcomc/NBSTool) - Batch manipulating, importing and exporting .nbs files
-
-*   [bmaltais/kohya\_ss](https://github.com/bmaltais/kohya_ss) -
-
-*   [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
-
-*   [Darth-InVader15/8D-Audio-Generator](https://github.com/Darth-InVader15/8D-Audio-Generator) - A python application to generate 8D (Ambisonic) version of any song
-
-*   [joe-habel/PyHRTFSweeper](https://github.com/joe-habel/PyHRTFSweeper) - A Python based implementation of HRTF that sweeps an audio file around the azimuth at a given frequency.
-
-*   [CrownYou/Information-Security-Toolbox](https://github.com/CrownYou/Information-Security-Toolbox) - 这是我在大学期间开发的一款课程项目，这款程序中包括了隐写术、RSA、ECC非对称加解密、数字签名、AES对称加解密、DH密钥交换算法、Shamir秘密共享算法、CKKS同态加密以及哈希计算等多种功能。这个软件使用方便、上手简单、使用逻辑清晰，旨在为用户提供一系列方便、安全和可靠的数据保护解决方案。
-
-*   [Xizo-114514/DiskIconChangerByXizo](https://github.com/Xizo-114514/DiskIconChangerByXizo) - 这是一个可以修改硬盘图标的软件哦~。 A software that can change the disk icon.
-
-*   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
-
-*   [bghta666/mfuns-helper](https://github.com/bghta666/mfuns-helper) - m站辅助工具python版本
-
-*   [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) - 基于Graia Ariadne和Mirai的QQ机器人 SAGIRI-BOT
-
-*   [Cosmos01/aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT) - HoshinoBot aichat插件魔改GPT-3.5 API版本
-
-*   [OedoSoldier/chatglm\_webui](https://github.com/OedoSoldier/chatglm_webui) - A naive webui for ChatGLM
-
-*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-
-*   [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
-
-*   [Plachtaa/VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
-
-*   [tkgs0/nonebot-plugin-dicky-pk](https://github.com/tkgs0/nonebot-plugin-dicky-pk) - 群聊小游戏: 牛子PK
-
-*   [tkgs0/Momoko](https://github.com/tkgs0/Momoko) - 女生自用QQ聊天机器人「桃桃酱」
-
-*   [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-
-*   [MCSLTeam/MCSL2](https://github.com/MCSLTeam/MCSL2) - MCSL2 | 一个简洁全能的Minecraft开服器
-
-*   [shawnrivers/gif-compressor](https://github.com/shawnrivers/gif-compressor) - This is a little program to help compress your .mp4 or gif into a smaller .gif which has a size smallar than 1 MB.
-
-*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器
-
-*   [kyxiaxiang/VSPhishBuild](https://github.com/kyxiaxiang/VSPhishBuild) -
-
-*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-
-*   [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
-
-*   [TheKOG/Gal-Voice-Bot](https://github.com/TheKOG/Gal-Voice-Bot) -
-
-*   [flutydeer/audio-slicer](https://github.com/flutydeer/audio-slicer) - A simple GUI application that slices audio with silence detection
-
-*   [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-
-*   [KingKDot/SomalifuscatorV2](https://github.com/KingKDot/SomalifuscatorV2) - Most advanced and poorly coded windows batch obfuscator ever made (aka the best)
-
-*   [Lost-MSth/Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) - 一个微型的 Arcaea 本地服务器  A small local server for Arcaea
-
-*   [molanp/Auto\_shop](https://github.com/molanp/Auto_shop) - 蓝天云魔方站自动抢购，稍微改改也可以在其他魔方站使用
-
-*   [molanp/zhenxun\_plugin\_niuniu](https://github.com/molanp/zhenxun_plugin_niuniu) - 真寻群内小游戏插件牛牛大作战
-
-*   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
-
-*   [hokejyo/VisualNovelUpscaler](https://github.com/hokejyo/VisualNovelUpscaler) - 一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
-
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-
-*   [LiveOverflow/minecraft-hacked](https://github.com/LiveOverflow/minecraft-hacked) - Minecraft:Hacked is a video series exploring various technical areas of Minecraft.
-
-*   [MeowHardware/chat-meow](https://github.com/MeowHardware/chat-meow) -
-
-*   [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-*   [MemeCrafters/nonebot-plugin-petpet](https://github.com/MemeCrafters/nonebot-plugin-petpet) - Nonebot2 插件，用于制作摸头等头像相关表情包
-
-*   [walker-1024/Meme-with-QQavatar](https://github.com/walker-1024/Meme-with-QQavatar) - 给定一个QQ号和指令，将获取其头像，制作成为一个有趣的表情包。非常适合作为QQbot的一个功能。
-
-*   [piqueserver/piqueserver](https://github.com/piqueserver/piqueserver) - An Ace of Spades 0.75 server based on PySnip.
-
-*   [fslongjin/This-repo-has-1426-stars](https://github.com/fslongjin/This-repo-has-1426-stars) - 这个仓库有1426个star，不信你试试
-
-*   [offlinemark/dawtool](https://github.com/offlinemark/dawtool) - Reverse-engineered parsers for Ableton Live & FL Studio project files.
-
-*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-
-*   [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
-
-*   [SunsetMkt/Bilibili-Video-Reply-Crawler](https://github.com/SunsetMkt/Bilibili-Video-Reply-Crawler) - Python爬虫获取Bilibili视频/专栏评论
-
-*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
-
-*   [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
-
-*   [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
-
-*   [MXWXZ/QQKey](https://github.com/MXWXZ/QQKey) - QQKey漏洞获取，仅供学习研究使用
-
-*   [ful1e5/clickgen](https://github.com/ful1e5/clickgen) - The hassle-free cursor building toolbox.
-
-*   [xiaoyou-bilibili/video\_tool](https://github.com/xiaoyou-bilibili/video_tool) - 视频小工具，批量字幕内嵌、视频转码、音频提取、视频混流、视频超分辨率、视频字幕生成、带GUI
-
-*   [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) - A simple Minecraft modpack focusing on performance and graphics enhancements.
-
-*   [sma11new/ip2domain](https://github.com/sma11new/ip2domain) - 批量查询ip对应域名及百度权重、备案信息；ip反查域名；ip查备案信息；资产归属查询；百度权重查询
-
-*   [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - an UwU programming language
-
-*   [ms-jpq/gay](https://github.com/ms-jpq/gay) - Colour your text / terminal to be more gay. 🏳️‍🌈
-
-*   [xiaoyou-bilibili/mskn](https://github.com/xiaoyou-bilibili/mskn) - 御坂网络-一个分布式任务执行应用
-
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [kumopult/blender\_BoneAnimCopy](https://github.com/kumopult/blender_BoneAnimCopy) - 用于在blender中桥接骨骼动画的插件
-
-*   [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK) - Official code of "HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation", CVPR 2021
-
-*   [Turing-Project/AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model
-
-*   [sena-nana/nonebot-plugin-novelai](https://github.com/sena-nana/nonebot-plugin-novelai) - Generate images by Stable-Diffusion-webui Based on Python | 使用Python的基于 SD-webui 的画图机器人（支持中文、Novelai和Naifu）
-
-*   [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
-
-*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-
-*   [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-
-*   [purple4pur/generate-880000-lmao](https://github.com/purple4pur/generate-880000-lmao) - 连编译都不给我通过\[摸鱼]，我88万行代码百写了啊
-
-*   [btc-99/Yukkuri-audition](https://github.com/btc-99/Yukkuri-audition) - 通过 Python 中的 selenium 库实现自动化批量生成油库里语音
-
-*   [ShenYuhan/python-tools](https://github.com/ShenYuhan/python-tools) -
-
-*   [btc-99/autotune\_remix](https://github.com/btc-99/autotune_remix) - 一键生成鬼畜音 mad 视频
-
-*   [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) - StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion
-
-*   [molanp/zhenxun\_plugin\_mccheck](https://github.com/molanp/zhenxun_plugin_mccheck) - Minecraft服务器状态查询，支持IPv6/Minecraft server status query, IPv6 supported
-
-*   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-
-*   [bbilly1/tilefy](https://github.com/bbilly1/tilefy) - Create beautiful tiles for your project
-
-*   [casualsnek/waydroid\_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
-
-*   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
-
-*   [ffreemt/deepl-fastapi](https://github.com/ffreemt/deepl-fastapi) - your own deepl server via fastapi, cross-platform (Windows/Linux/Mac)
-
-*   [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) -
-
-*   [kyv001/song](https://github.com/kyv001/song) -
-
-*   [JingShing/Encryptor-Decryptor](https://github.com/JingShing/Encryptor-Decryptor) - A tool for encrypt and decrypt.
-
-*   [tammypi/remote\_control\_tool](https://github.com/tammypi/remote_control_tool) -
-
-*   [Rainbow-Dreamer/musicpy](https://github.com/Rainbow-Dreamer/musicpy) - Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.
-
-*   [LiRenTech/SmartPython](https://github.com/LiRenTech/SmartPython) - python小技巧系列源代码——来自b站视频
-
-*   [innnky/so-vits-svc](https://github.com/innnky/so-vits-svc) - 基于vits与softvc的歌声音色转换模型
-
-*   [CjangCjengh/MoeGoe](https://github.com/CjangCjengh/MoeGoe) - Executable file for VITS inference
-
-*   [tuomaskivioja/File-Downloads-Automator](https://github.com/tuomaskivioja/File-Downloads-Automator) - Sends downloaded files to user-defined folders automatically. Avoids cluttering your downloads folder.
-
-*   [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
-
-*   [openvpi/DiffSinger](https://github.com/openvpi/DiffSinger) - An advanced singing voice synthesis system with high fidelity, expressiveness, controllability and flexibility based on DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism
-
-*   [userElaina/translator](https://github.com/userElaina/translator) - 强烈谴责某二次元公司用 japanglish 变量名
-
-*   [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197) - CobaltStrike <= 4.7.1 RCE
-
-*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
-
-*   [KichangKim/DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
-
-*   [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
-
-*   [journey-ad/sd-webui-custom](https://github.com/journey-ad/sd-webui-custom) - 给Stable Diffusion web UI加点料
-
-*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
-
-*   [HaujetZhao/QuickHand](https://github.com/HaujetZhao/QuickHand) - 快速的仿手写文字的图片生成器。基于 https://github.com/Gsllchb/Handright/ 的 GUI。
-
-*   [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) - pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
-
-*   [Al1ex/CVE-2021-22205](https://github.com/Al1ex/CVE-2021-22205) - CVE-2021-22205& GitLab CE/EE RCE
-
-*   [UzJu/Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) - 六大云存储，泄露利用检测工具
-
-*   [kelvinBen/AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner) - 一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
-
-*   [yuyuyzl/EasyVtuber](https://github.com/yuyuyzl/EasyVtuber) - Based on Talking-head-anime 3, works like Vtube Studio.
-
-*   [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code
-
-*   [zhengxiaowai/tcping](https://github.com/zhengxiaowai/tcping) - ⚡️ Just like icmp ping
-
-*   [chinalu/imagedups](https://github.com/chinalu/imagedups) - 图片查重、图片去重、Find/Delete duplicated images
-
-*   [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
-
-*   [MCDReforged/MCDReforged](https://github.com/MCDReforged/MCDReforged) - A rewritten version of MCDaemon, a python tool to control your Minecraft server
-
-*   [RMYHY/RBot](https://github.com/RMYHY/RBot) -
-
-*   [infinityedge01/ASOUL-Generator-Backend](https://github.com/infinityedge01/ASOUL-Generator-Backend) - Backend of https://asoul.infedg.xyz/, An A-SOUL Text Generator Based on CPM-Distill.
-
-*   [SuperZombi/GICutscenesUI](https://github.com/SuperZombi/GICutscenesUI) - User Interface for Genshin Cutscenes Demuxer
-
-*   [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
-
-*   [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
-
-*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-
-*   [GraiaProject/Avilla](https://github.com/GraiaProject/Avilla) - The next-gen framework for IM development. Powered by Graia Project.
-
-*   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-
-*   [zhenxun-org/zhenxun\_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
-
-*   [itstyren/CNKI-download](https://github.com/itstyren/CNKI-download) -  :frog: 知网(CNKI)文献下载及文献速览爬虫 (Web Scraper for Extracting Data)
-
-*   [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
-
-*   [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
-
-*   [HypoX64/Deep3D](https://github.com/HypoX64/Deep3D) - Real-Time end-to-end 2D-to-3D Video Conversion, based on deep learning.
-
-*   [Belval/pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
-
-*   [INotGreen/GlllPowerloader](https://github.com/INotGreen/GlllPowerloader) - 绕过AV/EDR的代码例子（Code example to bypass AV/EDR）
-
-*   [Ha3MrX/DDos-Attack](https://github.com/Ha3MrX/DDos-Attack) - DDos-Attack Is A Python script online Attack
-
-*   [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs
-
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-
-*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-
-*   [jimmy-ly00/Ransomware-PoC](https://github.com/jimmy-ly00/Ransomware-PoC) - A simple, fully python ransomware PoC using AES-CTR and RSA. Supports Windows, Linux and macOS
-
-*   [LeviBorodenko/spectrographic](https://github.com/LeviBorodenko/spectrographic) - Turn an image into sound whose spectrogram looks like the image.
-
-*   [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl) - Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，喜马拉雅，荔枝FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，Bilibili音乐，SoundCloud，猫耳FM等数十个主流音乐平台)
-
-*   [39665558/HideFileInMusic](https://github.com/39665558/HideFileInMusic) - 用歌曲隐藏任意文件，小说、图片、种子等
-
-*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-
-*   [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
-
-*   [terrycojones/rpnpy](https://github.com/terrycojones/rpnpy) - A reverse-Polish notation calculator for Python
-
-*   [hexadecimal233/bili-signature](https://github.com/hexadecimal233/bili-signature) - An auto signature changer for Bilibili. This is the Python port.
-
-*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-
-*   [tlecomte/friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.)
-
-*   [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
-
-*   [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
-
-*   [jtl1207/comic-translation](https://github.com/jtl1207/comic-translation) - 基于深度学习的漫画翻译辅助工具，包含翻译、朗读、图像去字、自动嵌字功能。  目的是帮助非专业汉化人员完成更简单，快速的翻译任务。
-
-*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
-
-*   [nl8590687/ASRT\_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition) - A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统
-
-*   [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
-
-*   [zulkarnine/WordleSolver](https://github.com/zulkarnine/WordleSolver) - Algorithm to solve Wordle correctly 100% of the time within 6 attempts.
-
-*   [GoForceX/bilibili-sign-changer](https://github.com/GoForceX/bilibili-sign-changer) -
-
-*   [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
-
-*   [alekssamos/msspeech](https://github.com/alekssamos/msspeech) - not official API for Microsoft speech synthesis from Microsoft Edge web browser read aloud
-
-*   [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers
-
-*   [drakeerv/MC-Server-Finder](https://github.com/drakeerv/MC-Server-Finder) - A project that scans the internet to find open Minecraft servers.
-
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-
-*   [bilibili/ailab](https://github.com/bilibili/ailab) -
-
-*   [uzh-rpg/rpg\_timelens](https://github.com/uzh-rpg/rpg_timelens) - Repository relating to the CVPR21 paper TimeLens: Event-based Video Frame Interpolation
-
-*   [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) - The Rick Roll programming language is a rickroll based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are from Rick Astley's lyrics. Check our tutorial site, https://rick-lang.github.io/programming-language-explainer/
-
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-*   [MaxSecurity/BiliExper](https://github.com/MaxSecurity/BiliExper) -
-
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
-*   [magicbear/OscilloVideo](https://github.com/magicbear/OscilloVideo) - Make video to oscilloscope graphic
-
-*   [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用 diango 开发的 shadowsocks 面板
-
-*   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
-
-*   [Bluefissure/OtterBot](https://github.com/Bluefissure/OtterBot) - A QQ bot of FFXIV
-
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-
-*   [Cindy723/PyRPA](https://github.com/Cindy723/PyRPA) - 基于Pyautogui的自动化工具
-
-*   [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - \[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
-
-*   [Vincentzyx/DouZero\_For\_HLDDZ\_FullAuto](https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto) - 将DouZero用于欢乐斗地主自动化
-
-*   [lyc8503/AutomaticGrassSpawner-octet](https://github.com/lyc8503/AutomaticGrassSpawner-octet) - \[纯属无聊] 全自动谷歌翻译生草机八国语言版
-
-*   [Rydgel/Fake-images-please](https://github.com/Rydgel/Fake-images-please) - Fakeimg.pl is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free.
-
-*   [laorange/ScriptForSafetyEducation](https://github.com/laorange/ScriptForSafetyEducation) - 用python全自动刷课-(北京麦课)安全教育
-
-*   [seanliang/ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8) - A Sublime Text 2 & 3 plugin for editing and saving files encoded in GBK, BIG5, EUC-KR, EUC-JP, Shift\_JIS, etc.
-
-*   [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) - 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS
-
-*   [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) - 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)
-
-*   [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) - e-hentai, exhentai，看图，搜索，下载器
-
-*   [offu/WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
-
-*   [UndeadSec/EvilURL](https://github.com/UndeadSec/EvilURL) - Generate unicode domains for IDN Homograph Attack and detect them.
-
-*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-
-*   [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
-
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-*   [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv 辅助工具
-
-*   [svzdev/doudizhu](https://github.com/svzdev/doudizhu) - html5 斗地主游戏
-
-*   [kwai/DouZero](https://github.com/kwai/DouZero) - \[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
-
-*   [feisuzhu/thbattle](https://github.com/feisuzhu/thbattle) - A Sanguosha board game clone, based on Touhou Project
-
-*   [sdushantha/wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
-
-*   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-
-*   [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
-
-*   [cve-search/cve-search](https://github.com/cve-search/cve-search) - cve-search - a tool to perform local searches for known vulnerabilities
-
-*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
-
-*   [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
-
-*   [Meituan-Dianping/lyrebird](https://github.com/Meituan-Dianping/lyrebird) - 移动应用插件化测试工作台
-
-*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
-*   [IrisRainbowNeko/genshin\_auto\_fish](https://github.com/IrisRainbowNeko/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI
-
-*   [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) - Open source Python library for converting PDF to DOCX.
-
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-
-*   [liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 🍺基于Django的博客系统
-
-*   [NoisyWinds/puzzle](https://github.com/NoisyWinds/puzzle) - 🌷 使用5000张二次元图片生成海报大图，计算颜色相似度。Make a poster with 5000 pictures，Python spider and Color similarity measure
-
-*   [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
-
-*   [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
-
-*   [ZubinGou/AI\_Poet\_Totoro](https://github.com/ZubinGou/AI_Poet_Totoro) - 新手实战：语料爬取、数据处理、数据分析、规则作诗与机器学习写诗
-
-*   [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
-
-*   [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
-
-*   [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
-
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [abhirooptalasila/AutoSub](https://github.com/abhirooptalasila/AutoSub) - A CLI script to generate subtitle files (SRT/VTT/TXT) for any video using either DeepSpeech or Coqui
-
-*   [webpy/webpy](https://github.com/webpy/webpy) - web.py is a web framework for python that is as simple as it is powerful.
-
-*   [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
-
-*   [official-stockfish/fishtest](https://github.com/official-stockfish/fishtest) - The Stockfish testing framework
-
-*   [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - A bridge between Lichess bots and chess engines
-
-*   [bytedance/OMGD](https://github.com/bytedance/OMGD) - Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
-
-*   [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
-
-*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-
-*   [RimoChan/Vtuber\_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial) - 【教程】从零开始的自制Vtuber！
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
-
-*   [Coder-Osman/Chess](https://github.com/Coder-Osman/Chess) -
-
-*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-
-*   [TomoeMami/S1PlainTextBackup](https://github.com/TomoeMami/S1PlainTextBackup) - 纯文本格式的S1帖子备份
-
-*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).
-
-*   [ASoulCnki/ASoulCnki](https://github.com/ASoulCnki/ASoulCnki) - ASoul评论区小作文 枝网查重系统 爬虫部分
-
-*   [miaotony/calc114514](https://github.com/miaotony/calc114514) - Calculate a number with 114514 & some operators.
-
-*   [jiupinjia/stylized-neural-painting](https://github.com/jiupinjia/stylized-neural-painting) - Official Pytorch implementation of the preprint paper "Stylized Neural Painting", in CVPR 2021.
-
-*   [Severus11/Virtual-Air-Painting](https://github.com/Severus11/Virtual-Air-Painting) - This is an application that enables one to vitually paint in the air using their fingers. It is developed in python on TF lite and opencv
-
-*   [youyuge34/PI-REC](https://github.com/youyuge34/PI-REC) - :fire: PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. :fire: 图像翻译，条件GAN，AI绘画
-
-*   [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
-
-*   [zaxtyson/AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) - 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
-
-*   [coneypo/Dlib\_face\_recognition\_from\_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) - Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别
-
-*   [39665558/PaddleDemo](https://github.com/39665558/PaddleDemo) - 使用百度飞桨深度学习平台的简单例子
-
-*   [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
-
-*   [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
-
-*   [VacantHusky/2048GameAutoMovePython](https://github.com/VacantHusky/2048GameAutoMovePython) - 使用python编写2048游戏及自动玩
-
-*   [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
-
-*   [yutto-dev/bilili](https://github.com/yutto-dev/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
-
-*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
-
-*   [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
-
-*   [userElaina/dream](https://github.com/userElaina/dream) - Welcome to record interesting (or strange) dreams here! 欢迎在这里记录有趣的(或奇怪的)梦境!
-
-*   [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-
-*   [stormshadow07/HackTheWorld](https://github.com/stormshadow07/HackTheWorld) - An Python Script For Generating Payloads that Bypasses All Antivirus so far .
-
-*   [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
-
-*   [mcedit/mcedit2](https://github.com/mcedit/mcedit2) - MCEdit 2.0 - World Editor for Minecraft.
-
-*   [ewanhowell5195/ewanhowell5195.github.io](https://github.com/ewanhowell5195/ewanhowell5195.github.io) - My old website
-
-*   [AsakuraMizu/pygros](https://github.com/AsakuraMizu/pygros) - An open-source fanmade chart emulator for the rhythm game "Phigros".
-
-*   [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn/.DS\_Store泄漏和目录列出
-
-*   [SysCV/qd-3dt](https://github.com/SysCV/qd-3dt) - Official implementation of Monocular Quasi-Dense 3D Object Tracking, TPAMI 2022
-
-*   [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
-
-*   [ado1928/pix2msch](https://github.com/ado1928/pix2msch) - A program that converts images into Mindustry schematics
-
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-
-*   [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
-
-*   [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
-
-*   [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
-
-*   [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
-
-*   [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
-
-*   [imageio/imageio-ffmpeg](https://github.com/imageio/imageio-ffmpeg) - FFMPEG wrapper for Python
-
-*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-
-*   [bytedance/piano\_transcription](https://github.com/bytedance/piano_transcription) -
-
-*   [desbma/GoogleSpeech](https://github.com/desbma/GoogleSpeech) - Read text using Google Translate TTS API
-
-*   [HollowMan6/Picture-Video-Info-Hiding-EnDecryption](https://github.com/HollowMan6/Picture-Video-Info-Hiding-EnDecryption) - This is a software for Picture (Video) Information Hiding Encryption and Decryption.(Hollow 图片（视频）信息隐藏加解密软件)
-
-*   [k4yt3x/zero-width-text-scrambler](https://github.com/k4yt3x/zero-width-text-scrambler) - 一个在字符串中随机加入随机数量零宽字符的混淆器。
-
-*   [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
-
-*   [decalage2/olefile](https://github.com/decalage2/olefile) - olefile is a Python package to parse, read and write Microsoft OLE2 files (also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office 97-2003 documents, vbaProject.bin in MS Office 2007+ files, Image Composer and FlashPix files, Outlook messages, StickyNotes, several Microscopy file formats, McAfee antivirus quarantine files, etc.
-
-*   [strayge/olefile](https://github.com/strayge/olefile) - olefile is a Python package to parse, read and write Microsoft OLE2 files (also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office 97-2003 documents, vbaProject.bin in MS Office 2007+ files, Image Composer and FlashPix files, Outlook messages, StickyNotes, several Microscopy file formats, McAfee antivirus quarantine files, etc.
-
-*   [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba\_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical\_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
-
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-
-*   [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
-
-*   [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [ubitux/oraladder](https://github.com/ubitux/oraladder) - frontend+backend for oraladder.net
-
-*   [39665558/WindowBadApple](https://github.com/39665558/WindowBadApple) - 打开1200个窗口，让它们跳bad apple
-
-*   [39665558/Novel\_In\_Image](https://github.com/39665558/Novel_In_Image) - 把百万字小说藏进图片 再也不担心麻麻检查了
-
-*   [39665558/SimpleScaleDown](https://github.com/39665558/SimpleScaleDown) - 利用近邻法的弱点实现图片缩小后变成另一张图
-
-*   [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
-
-*   [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) - OpenCV问答群不再维护。有问题，自己去搜索。Google能找到大部分答案。
-
-*   [teja156/imghide](https://github.com/teja156/imghide) - Hide secret texts inside an image, optionally encrypt them with a password using AES-256.
-
-*   [jameslyons/pycipher](https://github.com/jameslyons/pycipher) - python module containing many classical cipher algorithms: Caesar, Vigenere, ADFGVX, Enigma etc.
-
-*   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
-
-*   [avdosev/github\_avatars\_generator](https://github.com/avdosev/github_avatars_generator) - generator github avatars
-
-*   [kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [justcatthefish/justctf-2020](https://github.com/justcatthefish/justctf-2020) - justCTF \[\*] 2020 challenges sources
-
-*   [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
-
-*   [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
-
-*   [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
-
-*   [truenas/middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
-
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-
-*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-
-*   [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-
-*   [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
-
-*   [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
-
-*   [artcom-net/mp3-tagger](https://github.com/artcom-net/mp3-tagger) - ID3 data editor
-
-*   [FengZi-lv/WebShell](https://github.com/FengZi-lv/WebShell) - WebShell 可以连接 一句话木马,文件包含漏洞等。基于python3编写。小巧好用。Can connect a sentence Trojan, files containing vulnerabilities, etc. Written in Python 3. Small to use
-
-*   [lijiejie/subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A fast sub domain brute tool for pentesters
-
-*   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-
-*   [fhorinek/adbmirror](https://github.com/fhorinek/adbmirror) - Fast screen mirroring via adb
-
-*   [PeterDing/BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) - BaiduPCS API & App 百度网盘客户端 和 API
-
-*   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
-
-*   [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
-
-*   [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-
-*   [python/cpython](https://github.com/python/cpython) - The Python programming language
-
-*   [ee0703/console\_video](https://github.com/ee0703/console_video) - a tool based on ffmpeg that plays video in console!
-
-*   [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
-
-*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-
-*   [BurguerJohn/Dain-App](https://github.com/BurguerJohn/Dain-App) - Source code for Dain-App
-
-*   [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-
-*   [FortuneDayssss/BilibiliUploader](https://github.com/FortuneDayssss/BilibiliUploader) - 模拟Bilibili windows投稿客户端
-
-*   [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
-
-*   [priyankchheda/chrome\_password\_grabber](https://github.com/priyankchheda/chrome_password_grabber) - Get unencrypted 'Saved Password' from Google Chrome
-
-*   [Nandaka/PixivUtil2](https://github.com/Nandaka/PixivUtil2) - Download images from Pixiv and more!
-
-*   [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
-
-*   [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
-
-*   [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
-
-*   [yuanhao-chen-nyoeghau/Xdi8Translator](https://github.com/yuanhao-chen-nyoeghau/Xdi8Translator) - Multiway Xdi8 Translator
-
-*   [hanikesn/woff2otf](https://github.com/hanikesn/woff2otf) - Converts woff files to otf files
-
-*   [sanderland/katrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo!
-
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-
-*   [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray/xray多用户管理部署程序
-
-*   [dyh/ai-blocks](https://github.com/dyh/ai-blocks) - awesome ai applications, lane line detection, license plate detection, etc.
-
-*   [Nico31415/Drowning-Detector](https://github.com/Nico31415/Drowning-Detector) - Using YOLO object detection, this program will detect if a person is drowning. This project is still a work in progress, so it can only be implemented with a computer's webcam, and doesn't work completely yet.
-
-*   [corpnewt/SSDTTime](https://github.com/corpnewt/SSDTTime) - SSDT/DSDT hotpatch attempts.
-
-*   [eerykitty/CVE-2020-0796-PoC](https://github.com/eerykitty/CVE-2020-0796-PoC) - PoC for triggering buffer overflow via CVE-2020-0796
-
-*   [LubyRuffy/duck2spark](https://github.com/LubyRuffy/duck2spark) - Converter for raw RubberDucky payloads to Digispark Arduino IDE Sketch source.
-
-*   [nitinkamra1992/heic2jpg](https://github.com/nitinkamra1992/heic2jpg) - Convert HEIC image files to JPG format using libheif
-
-*   [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling\_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
-
-*   [IreneSSSL/VideoViewsCapture](https://github.com/IreneSSSL/VideoViewsCapture) -
-
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-
-*   [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
-
-*   [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
-
-*   [dunnousername/yanderifier](https://github.com/dunnousername/yanderifier) - First-Order-Wrapper (formerly known as Yanderify) is a front-end tool for first-order-motion. It aims to make using first-order-motion face animation accessible to everyone, for education and entertainment.
-
-*   [Teahouse-Studios/mcwzh-meme-resourcepack](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) - A pack that include meme translation in Chinese. | 梗体中文
-
-*   [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
-
-*   [BingLingGroup/autosub](https://github.com/BingLingGroup/autosub) - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles
-
-*   [agermanidis/autosub](https://github.com/agermanidis/autosub) - \[NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
-
-*   [aboood40091/Miyamoto](https://github.com/aboood40091/Miyamoto) - A supercharged fork of the modern day level editor.
-
-*   [tarcisio-marinho/GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) - A Linux Ransomware
-
-*   [satan1a/DDoS\_Attacket\_v0.1](https://github.com/satan1a/DDoS_Attacket_v0.1) - DDoS攻击器
-
-*   [aploium/zmirror-onekey](https://github.com/aploium/zmirror-onekey) - 一键部署zmirror镜像
-
-*   [Vincent-WenZX/translate-n-times](https://github.com/Vincent-WenZX/translate-n-times) - translate a article or some text n times
-
-*   [rachpt/lanzou-gui](https://github.com/rachpt/lanzou-gui) - 蓝奏云 | 蓝奏云客户端 | 蓝奏网盘 GUI版本
-
 ## GDScript
 
 *   [jonysuise/voxel-engine-godot-tutorial-jonysuise](https://github.com/jonysuise/voxel-engine-godot-tutorial-jonysuise) - Voxel Engine Godot Tutorial Series
@@ -7080,278 +7390,6 @@
 *   [TheKOG/LSP-Automaton](https://github.com/TheKOG/LSP-Automaton) -
 
 *   [altaga/DBSE-monitor](https://github.com/altaga/DBSE-monitor) -
-
-## Kotlin
-
-*   [MewoLab/AquaDX](https://github.com/MewoLab/AquaDX) - A certain magical arcade server 🪄
-
-*   [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
-
-*   [EssentialGG/Essential-Mod](https://github.com/EssentialGG/Essential-Mod) - Essential is a quality of life mod that boosts Minecraft Java Edition to the next level!
-
-*   [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.x
-
-*   [spotify/ruler](https://github.com/spotify/ruler) - Gradle plugin which helps you analyze the size of your Android apps.
-
-*   [jordond/MaterialKolorBuilder](https://github.com/jordond/MaterialKolorBuilder) - 🚀 A Material3 theme builder for Compose, powered by MaterialKolor
-
-*   [openai/openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
-
-*   [isaakhanimann/psychonautwiki-journal-android](https://github.com/isaakhanimann/psychonautwiki-journal-android) -
-
-*   [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
-
-*   [HdShare/WAuxiliary\_Zygisk](https://github.com/HdShare/WAuxiliary_Zygisk) - WeChat Auxiliary Zygisk
-
-*   [TheCymaera/minecraft-hologram](https://github.com/TheCymaera/minecraft-hologram) -
-
-*   [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频聚合流媒体播放器 🎵
-
-*   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
-
-*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-
-*   [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
-
-*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
-
-*   [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-
-*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
-
-*   [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
-
-*   [MuntashirAkon/Metro](https://github.com/MuntashirAkon/Metro) -
-
-*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
-
-*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
-
-*   [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
-
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-
-*   [pass-with-high-score/ANeko](https://github.com/pass-with-high-score/ANeko) - ANeko Reborn is a modern version of the classic ANeko app.  It features a cute cat animation that follows your finger on the Android screen, inspired by apps like nekoDA, xneko, oneko, and more.  This version is built for modern Android devices with better performance and compatibility.
-
-*   [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) - LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
-
-*   [HdShare/NullAvatar](https://github.com/HdShare/NullAvatar) - NullAvatar Source
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [HdShare/WAuxiliary\_Public](https://github.com/HdShare/WAuxiliary_Public) - WeChat Auxiliary Public
-
-*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
-
-*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-*   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Monochrome outlined brand icons for Android launchers.
-
-*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
-
-*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-
-*   [TheCymaera/minecraft-spider](https://github.com/TheCymaera/minecraft-spider) -
-
-*   [cao-awa/Conium](https://github.com/cao-awa/Conium) - Conium is a datapack and script framework for modern Minecraft, it provides very diverse features without Java coding, Conium lets you complete your mods only using datapacks.
-
-*   [hax0r31337/ProtoHax](https://github.com/hax0r31337/ProtoHax) - MITM cheat for Minecraft: PE
-
-*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-
-*   [huzhicheng/ALauncher](https://github.com/huzhicheng/ALauncher) -
-
-*   [xiSage/Godot4-TapTap-SDK-v4](https://github.com/xiSage/Godot4-TapTap-SDK-v4) - 适用于Godot4.2+的taptap sdk v4
-
-*   [clok-1201/RPGMaker](https://github.com/clok-1201/RPGMaker) -
-
-*   [chrislo27/PolyrhythmMania](https://github.com/chrislo27/PolyrhythmMania) - A game that faithfully recreates the Polyrhythm minigame from Rhythm Tengoku (リズム天国), with a built-in level editor
-
-*   [sotasan/decompiler](https://github.com/sotasan/decompiler) - Java Decompiler GUI
-
-*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
-
-*   [MinecraftFunctionPlusPlus/MCFPP](https://github.com/MinecraftFunctionPlusPlus/MCFPP) - MCFPP is a brand new objected-oriented language that can be compiled into Minecraft Datapack.
-
-*   [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
-
-*   [Sh4miko/BAuth](https://github.com/Sh4miko/BAuth) - A simple minecraft account login plugin with 100% bukkit api.
-
-*   [senseiwells/ServerReplay](https://github.com/senseiwells/ServerReplay) - A completely server-side Minecraft fabric mod that allows you to record replays for replay mod or flashback. This mod allows you to record multiple players that are online on a server at a time, as well as any given chunk area. This will produce replay files which can then be used with the respective mod for viewing/rendering.
-
-*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
-
-*   [Enaium/practice-bukkit-alipay](https://github.com/Enaium/practice-bukkit-alipay) - Bukkit插件对接支付宝支付
-
-*   [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-
-*   [MC-XiaoHei/ISeeYou](https://github.com/MC-XiaoHei/ISeeYou) -
-
-*   [gauravssnl/BypassRootCheckPro](https://github.com/gauravssnl/BypassRootCheckPro) - Bypass Root Check Pro Modern Xposed API Module (with Java & Native C/C++ Hooks)
-
-*   [RatPoison-dev/RatPoison](https://github.com/RatPoison-dev/RatPoison) - Latest Ver: 1.7; Default Menu Key is F1; Charlatano's Successor; dn
-
-*   [simple-robot/simpler-robot](https://github.com/simple-robot/simpler-robot) - Simple Robot，一个bot风格的Kotlin多平台事件调度框架，异步高效、Java友好！/ A Bot-style Kotlin Multiplatform event scheduling framework, asynchronous and high-performance, java-friendly! 🐱😼😻😸
-
-*   [ArcaeaOffline/client-android](https://github.com/ArcaeaOffline/client-android) -
-
-*   [RuiPereiraDev/SimpleScore](https://github.com/RuiPereiraDev/SimpleScore) - A simple animated scoreboard plugin for your minecraft server.
-
-*   [Sumandora/tarasande](https://github.com/Sumandora/tarasande) - As the golden standard in cheating for Minecraft Competitive Multiplayer, tarasande provides the effective client-side solution to cheating.
-
-*   [xszqxszq/KarenBot](https://github.com/xszqxszq/KarenBot) - QQBot for Otomad/Maimai groups
-
-*   [EB-wilson/TooManyItems](https://github.com/EB-wilson/TooManyItems) - 一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [Era4FunMC/MyYsmNonFull](https://github.com/Era4FunMC/MyYsmNonFull) - My simple plugin that aims to run yes\_steve\_model mod on plugin servers without ysm format loading functions
-
-*   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
-
-*   [setruth/MaskAnim](https://github.com/setruth/MaskAnim) - The same switching effect is achieved based on the night and day theme switching effect of Telegram
-
-*   [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
-
-*   [fumiama/copymanga](https://github.com/fumiama/copymanga) - 拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本
-
-*   [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
-
-*   [zly2006/reden-is-what-we-made](https://github.com/zly2006/reden-is-what-we-made) - Redstone EDEN: Undo & Redo | Ctrl+Z | Mineacrft Debugger | Redstone Version Control | Any amazing features you can image!
-
-*   [SpaceXC/Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - Re:从零开始的WearBili
-
-*   [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-
-*   [CatMoe/Blessing](https://github.com/CatMoe/Blessing) - Recoding of MoeFilter. A utility created for Minecraft: Java Edition server/proxy.
-
-*   [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
-
-*   [StarWishsama/Comet-Bot](https://github.com/StarWishsama/Comet-Bot) - ☄ 支持多 IM 平台的机器人
-
-*   [KosmX/jneedle](https://github.com/KosmX/jneedle) - Java malware detection tool
-
-*   [AoEiuV020/IAmNotDisabled](https://github.com/AoEiuV020/IAmNotDisabled) - 我不是残疾人！
-
-*   [KitsunePie/AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) - Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to Android developer.
-
-*   [Dr-TSNG/TwiFucker](https://github.com/Dr-TSNG/TwiFucker) - Yet Another Adkiller for Twitter
-
-*   [RikkaW/YASNAC](https://github.com/RikkaW/YASNAC) - Yet Another SafetyNet Attestation Checker
-
-*   [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
-
-*   [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-
-*   [feilongproject/BAAssetsDownloader](https://github.com/feilongproject/BAAssetsDownloader) - unOfficial BlueArchive Asset Downloader
-
-*   [Luna5ama/TrollHack](https://github.com/Luna5ama/TrollHack) - Strong utility mod for Minecraft anarchy servers.
-
-*   [UnlegitMC/FuckPCL](https://github.com/UnlegitMC/FuckPCL) - A library to detect PCL(Plain Craft Launcher)
-
-*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-
-*   [SpaceXC/WearBili](https://github.com/SpaceXC/WearBili) -
-
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-*   [EssentialGG/Elementa](https://github.com/EssentialGG/Elementa) - A simple, declarative GUI library for Minecraft
-
-*   [VoxelHax/OpenBukloit](https://github.com/VoxelHax/OpenBukloit) - Minecraft plugin backdoor injector
-
-*   [limbang/mirai-console-mcsm-plugin](https://github.com/limbang/mirai-console-mcsm-plugin) - 基于 Mirai Console 编写的MCSM api 控制插件
-
-*   [senseiwells/EssentialClient](https://github.com/senseiwells/EssentialClient) - EssentialClient is a client-side mod that adds many client utilities as well as providing a gui to modify carpet rules!
-
-*   [congHu/DD\_Monitor-android-kotlin](https://github.com/congHu/DD_Monitor-android-kotlin) - DD监控室，安卓版，Kotlin
-
-*   [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
-
-*   [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven-based artifacts in the JVM ecosystem 📦
-
-*   [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client based on LiquidBounce.
-
-*   [lambda-client/lambda-legacy](https://github.com/lambda-client/lambda-legacy) - Minecraft utility mod coded in Kotlin
-
-*   [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
-
-*   [4o4E/Boom](https://github.com/4o4E/Boom) - 基于BukkitAPI的管理插件
-
-*   [shaokeyibb/PaperclipPatcher](https://github.com/shaokeyibb/PaperclipPatcher) - 帮助你更改 Paperclip 的 Vanilla 服务端下载地址到国内友好的镜像站点
-
-*   [TabooLib/taboolib](https://github.com/TabooLib/taboolib) - Powerful framework for creating multi-platform Minecraft plugin
-
-*   [TrPlugins/TrChat](https://github.com/TrPlugins/TrChat) - Modern & Advanced chat control for Minecraft servers
-
-*   [etil2jz/Mirai](https://github.com/etil2jz/Mirai) - Mirai 未来 - A powerful Minecraft Server Software coming from the future
-
-*   [flexbooru/flexbooru](https://github.com/flexbooru/flexbooru) - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Shimmie, etc.
-
-*   [Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment) - 负魔书
-
-*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-
-*   [Dreeam-qwq/Liquidbounce-China](https://github.com/Dreeam-qwq/Liquidbounce-China) - (Abandoned)一个我的世界黑客端 | A Minecraft Hacked Client
-
-*   [SliceCast/External-PG3D-Injector](https://github.com/SliceCast/External-PG3D-Injector) -
-
-*   [HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android) - 【自用】咕咕咕
-
-*   [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
-
-*   [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
-
-*   [Enaium/BiligameAddictionNotLimited](https://github.com/Enaium/BiligameAddictionNotLimited) - B站游戏防沉迷不限制，关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
-*   [MatteCarra/AccA](https://github.com/MatteCarra/AccA) - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [Slava0135/reVision](https://github.com/Slava0135/reVision) - Install for fresh and revised mindustry experience
-
-*   [lucasnlm/antimine-android](https://github.com/lucasnlm/antimine-android) - Antimine is an open source minesweeper-like puzzle game.
-
-*   [way-zer/ScriptAgent4MindustryExt](https://github.com/way-zer/ScriptAgent4MindustryExt) - A Plugin for Mindustry to load kotlin scripts && lots of feature scripts including vote/permission.
-
-*   [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
-
-*   [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
-
-*   [Kieaer/Essentials](https://github.com/Kieaer/Essentials) - Mindustry plugin - Essentials
-
-*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被人泄露、利用
-
-*   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-
-*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-
-*   [mamoe/mirai-console](https://github.com/mamoe/mirai-console) - mirai 的高效率 QQ 机器人控制台
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
-
-*   [lincollincol/HEIF-converter](https://github.com/lincollincol/HEIF-converter) - Converter for High Efficiency Image Format(HEIF)
-
-*   [fabricezhang/lcg](https://github.com/fabricezhang/lcg) - 吾爱破解第三方安卓应用
-
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-
-*   [kami-blue/client](https://github.com/kami-blue/client) - ARCHIVED - KAMI Blue: a continuation of 1.12.2 KAMI
-
-*   [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free Minecraft hacked client (utility mod) for Fabric
-
-*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 
 ## C\#
 
@@ -9069,8 +9107,6 @@
 
 *   [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 
-*   [Nilhcem/markdown2html](https://github.com/Nilhcem/markdown2html) - An extremely simple markdown to html converter and editor.
-
 ## PHP
 
 *   [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
@@ -9221,8 +9257,6 @@
 
 *   [Th3-822/rapidleech](https://github.com/Th3-822/rapidleech) -
 
-*   [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) -
-
 ## SCSS
 
 *   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -9245,7 +9279,7 @@
 
 *   [tkilla64/eurorack](https://github.com/tkilla64/eurorack) - Eurorack DIY projects
 
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
 
 *   [CatMe0w/lostone.catme0w.org](https://github.com/CatMe0w/lostone.catme0w.org) - Source Code for https://lostone.catme0w.org - An automatic solver for the "chiral carbon CAPTCHA". Visit the website for the full report and tool. | “手性碳验证码”自动解答工具的网站源码。
 
@@ -9496,8 +9530,6 @@
 *   [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
 
 *   [fxxkmakeding-archieve/fxxkmakeding](https://github.com/fxxkmakeding-archieve/fxxkmakeding) -
-
-*   [AyagawaSeirin/PandownloadFake](https://github.com/AyagawaSeirin/PandownloadFake) - 虚假的Pandownload验证“服务器”
 
 ## Shell
 
@@ -9908,38 +9940,6 @@
 *   [Fm233/Watermelon-website](https://github.com/Fm233/Watermelon-website) -
 
 *   [LeagueTavern/LeaguePrank](https://github.com/LeagueTavern/LeaguePrank) -
-
-## Svelte
-
-*   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
-*   [METATOOLS-ORG/metacloud](https://github.com/METATOOLS-ORG/metacloud) - experimental music sharing site
-
-*   [tijnjh/sveltrum](https://github.com/tijnjh/sveltrum) - minimal ad-free soundcloud client
-
-*   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
-
-*   [Naptie/nearcade](https://github.com/Naptie/nearcade) -
-
-*   [face-hh/lawmaxxing](https://github.com/face-hh/lawmaxxing) - A maps website, that reports you to the police if detected speeding. (self-hosted, calls a number of your choice, a meme)
-
-*   [bmdavis419/crazy-sveltekit-animations](https://github.com/bmdavis419/crazy-sveltekit-animations) - A little sandbox where I'm playing with some seriously insane animations
-
-*   [face-hh/lyntr](https://github.com/face-hh/lyntr) - Micro-blogging social media - with an IQ test. https://lyntr.com
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-*   [talesofai/comfyui-browser](https://github.com/talesofai/comfyui-browser) - An image/video/workflow browser and manager for ComfyUI.
-
-*   [KUN1007/kun-galgame-stickers-sveltekit](https://github.com/KUN1007/kun-galgame-stickers-sveltekit) - KUN's Visual Novel (galgame) sticker set. To recommend games to more people. Galgame 表情包仓库
-
-*   [MauritsWilke/mcpfp](https://github.com/MauritsWilke/mcpfp) - A website to generate Minecraft profile pictures
-
-*   [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
-
-*   [B00M3000/Mindustry-Schematics](https://github.com/B00M3000/Mindustry-Schematics) -
 
 ## Nix
 
