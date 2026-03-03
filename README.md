@@ -114,6 +114,8 @@
 
 ## JavaScript
 
+*   [Live-GalGame/LiveGalGame](https://github.com/Live-GalGame/LiveGalGame) - 修复了现实世界里和异性对话没有选择项的 Bug
+
 *   [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 
 *   [SthephanShinkufag/bytebeat-composer](https://github.com/SthephanShinkufag/bytebeat-composer) - Bytebeat player with a collection of many formulas from around the internet.
@@ -230,7 +232,7 @@
 
 *   [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 
-*   [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+*   [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
 *   [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 
@@ -2223,6 +2225,8 @@
 *   [insomnimus/plmidi](https://github.com/insomnimus/plmidi) - A command line MIDI player, written in rust.
 
 *   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
+
+*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 
 *   [matrixlin/text\_editor](https://github.com/matrixlin/text_editor) - Learn the Rust programming language by writing your own text editor using the Rust programming language.
 
@@ -4498,7 +4502,7 @@
 
 *   [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
 *   [guduwenjiu/PyWxDump](https://github.com/guduwenjiu/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 
@@ -6010,8 +6014,6 @@
 
 *   [wangyuan389/yunda](https://github.com/wangyuan389/yunda) - 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
 
-*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-
 *   [sanyeEX/novel-mobile](https://github.com/sanyeEX/novel-mobile) - 小说移动端
 
 *   [bufferhead-code/opencraft](https://github.com/bufferhead-code/opencraft) - An open-source clone of infinite-craft
@@ -6492,7 +6494,7 @@
 
 *   [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 
-*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 翻墙tips 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tutorial 翻墙入门
+*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 翻墙tips 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tutorial 翻墙入门 一键翻墙 翻墙技术
 
 *   [sakura-ushio/328P-MiNi-T12](https://github.com/sakura-ushio/328P-MiNi-T12) - 开源版本MiNi T12（328P Based）
 
@@ -10250,7 +10252,7 @@
 
 *   [mentalblank/Reddit-Revanced](https://github.com/mentalblank/Reddit-Revanced) - ReVanced Reddit APK Auto-Builds
 
-*   [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended) - Pre-built, auto-updated ReVanced Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
+*   [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended) - Pre-built, All-In-One, auto-updated ReVanced / Morphed Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
 
 *   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
@@ -10653,8 +10655,6 @@
 *   [EB-wilson/TooManyItems](https://github.com/EB-wilson/TooManyItems) - 一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息
 
 *   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [Era4FunMC/MyYsmNonFull](https://github.com/Era4FunMC/MyYsmNonFull) - My simple plugin that aims to run yes\_steve\_model mod on plugin servers without ysm format loading functions
 
 *   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
 
