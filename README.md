@@ -667,7 +667,7 @@
 
 *   [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx) - SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 
-*   [zxcloli666/SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop) - 🎵 Лучший неофициальный SoundCloud клиент для Windows, Linux & macOS | Без рекламы | Доступно в России | Поддержка прокси | The best unofficial SoundCloud desktop app with ad-blocking & geo-unblocking
+*   [zxcloli666/SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop) - 🎵 Лучший неофициальный SoundCloud клиент для Windows, Linux & macOS | Без рекламы | Доступно в России | БЕЗ КАПЧИ!! | The best unofficial SoundCloud desktop app with ad-blocking & geo-unblocking
 
 *   [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify) - 🎉 Vue3-Toastify allows you to add notifications to your app with ease.
 
@@ -697,7 +697,7 @@
 
 *   [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
 
-*   [Moebytes/Kisaragi](https://github.com/Moebytes/Kisaragi) - Discord bot with 300+ commands such as searching and playing music.
+*   [Moebytes/Kisaragi](https://github.com/Moebytes/Kisaragi) - A kawaii discord bot!
 
 *   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
@@ -4263,7 +4263,7 @@
 
 *   [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
 
-*   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+*   [layui/layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
 
 *   [muicss/mui](https://github.com/muicss/mui) - Lightweight CSS framework
 
@@ -7103,7 +7103,7 @@
 
 *   [itchaox/annotree](https://github.com/itchaox/annotree) - Generate folder directory annotation tree | 生成文件夹目录注释树
 
-*   [KIRAKIRA-DOUGA/KIRAKIRA-Cerasus](https://github.com/KIRAKIRA-DOUGA/KIRAKIRA-Cerasus) - KIRAKIRA's frontend powered by Nuxt.
+*   [KIRAKIRA-DOUGA/KIRAKIRA-Cerasus](https://github.com/KIRAKIRA-DOUGA/KIRAKIRA-Cerasus) - KIRAKIRA's web frontend powered by Nuxt.
 
 *   [kuailemao/Ruyu-Blog](https://github.com/kuailemao/Ruyu-Blog) - 基于 SpringBoot3 + Vue3 + TypeScript+ Mysql + Redis + RabbitMQ + SpringSecurity 的前后台个人博客系统
 
@@ -7577,7 +7577,7 @@
 
 *   [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 
-*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 翻墙tips 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tutorial 翻墙入门 一键翻墙 手机翻墙 翻墙技术 翻墙论坛
+*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 翻墙tips 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tutorial 翻墙入门 一键翻墙 手机翻墙 翻墙技术 翻墙论坛 翻墙机场 翻墙资源
 
 *   [sakura-ushio/328P-MiNi-T12](https://github.com/sakura-ushio/328P-MiNi-T12) - 开源版本MiNi T12（328P Based）
 
