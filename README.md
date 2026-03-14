@@ -5,8 +5,8 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [D](#d)
 *   [JavaScript](#javascript)
+*   [D](#d)
 *   [Lua](#lua)
 *   [C++](#c)
 *   [Kotlin](#kotlin)
@@ -115,6 +115,8 @@
 *   [Vim Script](#vim-script)
 
 ## TypeScript
+
+*   [surrealdb/surqlize](https://github.com/surrealdb/surqlize) - A type-safe TypeScript ORM for SurrealDB with full type inference, a fluent query builder, and native support for graph relationships
 
 *   [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 
@@ -986,7 +988,7 @@
 
 *   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 
 *   [theme-shoka-x/hexo-theme-shokaX](https://github.com/theme-shoka-x/hexo-theme-shokaX) - a hexo theme based on shoka
 
@@ -1132,7 +1134,7 @@
 
 *   [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
 
-*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+*   [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 
 *   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
@@ -1622,15 +1624,11 @@
 
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
-## D
-
-*   [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
-
-*   [Inochi2D/inochi-creator](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application
-
-*   [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
-
 ## JavaScript
+
+*   [ckolderup/postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
+
+*   [chardidathing/wumpwump-dl](https://github.com/chardidathing/wumpwump-dl) - Liberate your chats (Channels & DMs) from a specific chat app, all within a lil' browser extension. :)
 
 *   [zknmoe/x-privacy](https://github.com/zknmoe/x-privacy) -
 
@@ -1689,8 +1687,6 @@
 *   [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
 
 *   [moltbook/api](https://github.com/moltbook/api) - Core API service for Moltbook. Provides endpoints for agent management, content creation, voting system, and personalized feeds.
-
-*   [Lucent-Snow/style-extractor](https://github.com/Lucent-Snow/style-extractor) - 一个能够提取最大化提取网页风格的skill
 
 *   [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能，支持npm install nodejs-argo一键安装包
 
@@ -2868,7 +2864,13 @@
 
 *   [libnoname/noname](https://github.com/libnoname/noname) -
 
-*   [Mr-Po/bilibili-favorites-fix](https://github.com/Mr-Po/bilibili-favorites-fix) - 修复 哔哩哔哩(www.bilibili.com) 失效的收藏。（可查看av号、简介、标题、封面）
+## D
+
+*   [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
+
+*   [Inochi2D/inochi-creator](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application
+
+*   [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
 
 ## Lua
 
@@ -5676,8 +5678,6 @@
 
 *   [Earthcomputer/EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
 
-*   [xmdhs/arcimg](https://github.com/xmdhs/arcimg) -
-
 ## C
 
 *   [elemaudio/elementary](https://github.com/elemaudio/elementary) - Elementary is a JavaScript library for digital audio signal processing.
@@ -7504,7 +7504,7 @@
 
 *   [WeaponizedVSCode/Script](https://github.com/WeaponizedVSCode/Script) - A VSCode Workspace based hacking environment utils. Starting your Note-Driven Hacking experience.
 
-*   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+*   [s0md3v/roop](https://github.com/s0md3v/roop) -
 
 *   [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
 
@@ -7749,6 +7749,8 @@
 *   [OddDevelopment/OperaGX-Nitro-Gen](https://github.com/OddDevelopment/OperaGX-Nitro-Gen) - Gen infinite Opera GX nitro promotion codes! Quick and easy!
 
 *   [WEGFan/Geometry-Dash-Savefile-Editor](https://github.com/WEGFan/Geometry-Dash-Savefile-Editor) - Geometry Dash savefile encrypter & decrypter
+
+*   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
 *   [YeetDisDude/pg3d-tools](https://github.com/YeetDisDude/pg3d-tools) - A Pixel Gun 3D Tool made in Python for Modding and other purposes.
 
@@ -9760,6 +9762,8 @@
 
 *   [Supernova3339/anonupload](https://github.com/Supernova3339/anonupload) - Simple and anonymous file sharing
 
+*   [Lucent-Snow/style-extractor](https://github.com/Lucent-Snow/style-extractor) - 一个能够提取最大化提取网页风格的skill
+
 *   [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 
 *   [Liksium/halo-theme-sora](https://github.com/Liksium/halo-theme-sora) - A blog theme for Halo
@@ -10098,7 +10102,7 @@
 
 *   [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 
-*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2025），欢迎投稿。Ad🔗🈲🙅❌
+*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。Ad🔗🈲🙅❌
 
 *   [MiskaDaeve/AboutYsm](https://github.com/MiskaDaeve/AboutYsm) - \*Uncompleted
 
@@ -10483,8 +10487,6 @@
 *   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 *   [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-
-*   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
 *   [moebooru/moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified
 
@@ -11033,8 +11035,6 @@
 *   [xvhuan/bili](https://github.com/xvhuan/bili) - b站弹幕实时监控
 
 *   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
-
-*   [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5+
 
 ## PLSQL
 
