@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [C++](#c)
@@ -115,6 +115,42 @@
 *   [Haskell](#haskell)
 *   [PLpgSQL](#plpgsql)
 *   [Vim Script](#vim-script)
+
+## PowerShell
+
+*   [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps) - A drop in replacement for slmgr script
+
+*   [JohnHammond/CVE-2021-34527](https://github.com/JohnHammond/CVE-2021-34527) -
+
+*   [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
+
+*   [empty-233/tencent-sandbox](https://github.com/empty-233/tencent-sandbox) - Windows sandbox 腾讯全家桶沙盒配置
+
+*   [wietze/Invoke-ArgFuscator](https://github.com/wietze/Invoke-ArgFuscator) - Invoke-ArgFuscator is an open-source, cross-platform PowerShell module that helps generate obfuscated command-lines for common system-native executables.
+
+*   [JoelGMSec/Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth) - Simple & Powerful PowerShell Script Obfuscator
+
+*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+
+*   [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
+
+*   [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
+
+*   [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds) - Precompiled x64 Qt 5/6 library in minimalistic configuration for Windows.
+
+*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+
+*   [AveYo/Compressed2TXT](https://github.com/AveYo/Compressed2TXT) - File(s)/Folder(s) "Send to" menu .bat ascii encoder with optional password and makecab lzx compression
+
+*   [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
+
+*   [besimorhino/powercat](https://github.com/besimorhino/powercat) - netshell features all in version 2 powershell
+
+*   [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 
 ## TypeScript
 
@@ -2893,40 +2929,6 @@
 *   [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 
 *   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
-
-## PowerShell
-
-*   [JohnHammond/CVE-2021-34527](https://github.com/JohnHammond/CVE-2021-34527) -
-
-*   [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
-
-*   [empty-233/tencent-sandbox](https://github.com/empty-233/tencent-sandbox) - Windows sandbox 腾讯全家桶沙盒配置
-
-*   [wietze/Invoke-ArgFuscator](https://github.com/wietze/Invoke-ArgFuscator) - Invoke-ArgFuscator is an open-source, cross-platform PowerShell module that helps generate obfuscated command-lines for common system-native executables.
-
-*   [JoelGMSec/Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth) - Simple & Powerful PowerShell Script Obfuscator
-
-*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-
-*   [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
-
-*   [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
-
-*   [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds) - Precompiled x64 Qt 5/6 library in minimalistic configuration for Windows.
-
-*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
-
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-
-*   [AveYo/Compressed2TXT](https://github.com/AveYo/Compressed2TXT) - File(s)/Folder(s) "Send to" menu .bat ascii encoder with optional password and makecab lzx compression
-
-*   [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-
-*   [besimorhino/powercat](https://github.com/besimorhino/powercat) - netshell features all in version 2 powershell
-
-*   [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 
 ## Python
 
@@ -7300,7 +7302,7 @@
 
 *   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - JeecgBoot 是一款 AI 驱动的低代码开发平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 
 *   [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) - The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
 
@@ -7886,7 +7888,7 @@
 
 *   [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 
-*   [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) -
+*   [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) - An interactive demo of an iOS 26 style Liquid Glass effect for the web
 
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 
@@ -10373,8 +10375,6 @@
 *   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
 
 *   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [the1812/Popcap-Patches](https://github.com/the1812/Popcap-Patches) - Fix 3D acceleration of Popcap games in Windows 10
 
 ## CSS
 
