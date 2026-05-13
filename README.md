@@ -4,18 +4,19 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
-*   [TypeScript](#typescript)
 *   [Rust](#rust)
+*   [TypeScript](#typescript)
+*   [HTML](#html)
+*   [GLSL](#glsl)
+*   [C#](#c)
+*   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [C#](#c)
 *   [GDScript](#gdscript)
 *   [Java](#java)
 *   [Svelte](#svelte)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
-*   [HTML](#html)
 *   [C3](#c3)
 *   [Shell](#shell)
 *   [C](#c-1)
@@ -44,7 +45,6 @@
 *   [Arc](#arc)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Astro](#astro)
-*   [GLSL](#glsl)
 *   [PLpgSQL](#plpgsql)
 *   [Smarty](#smarty)
 *   [MDX](#mdx)
@@ -125,61 +125,625 @@
 *   [QMake](#qmake)
 *   [Vim Script](#vim-script)
 
-## Swift
+## Rust
 
-*   [Stmol/ssh-keys-manager-macos-app](https://github.com/Stmol/ssh-keys-manager-macos-app) - A native macOS app for managing SSH keys, editing SSH config entries, and safely organizing your local SSH workspace.
+*   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 
-*   [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
+*   [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 
-*   [thebrowsercompany/swift-winrt](https://github.com/thebrowsercompany/swift-winrt) - Swift Language Projection for WinRT
+*   [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
 
-*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+*   [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
 
-*   [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - Download. Flash. Boot. The all-in-one macOS USB creator
+*   [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
 
-*   [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) - The 7-Zip derivative intended for macOS
+*   [alexpasmantier/rust-devicons](https://github.com/alexpasmantier/rust-devicons) - A Rust library that provides filetype glyphs (icons) for a wide range of common file formats.
 
-*   [Lakr233/CoreExtendedNFC](https://github.com/Lakr233/CoreExtendedNFC) - Swift Package porting libnfc protocol-layer logic to iOS via CoreNFC
+*   [LeopoldArkham/humansize](https://github.com/LeopoldArkham/humansize) - Humansize - A flexible crate for humanizing file sizes
 
-*   [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
+*   [kikijiki/ntfs-reader](https://github.com/kikijiki/ntfs-reader) -
 
-*   [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) - Open source implementation of Apple's SwiftUI.
+*   [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API.
 
-*   [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
+*   [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
 
-*   [Lakr233/SafariYYDS](https://github.com/Lakr233/SafariYYDS) -
+*   [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
 
-*   [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+*   [programatik29/tokio-rusqlite](https://github.com/programatik29/tokio-rusqlite) - Asynchronous handle for rusqlite library.
 
-*   [lbrndnr/SoundCloud](https://github.com/lbrndnr/SoundCloud) - The private SoundCloud API v2 in Swift
+*   [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 
-*   [lbrndnr/nuage-macos](https://github.com/lbrndnr/nuage-macos) - A native SoundCloud app for macOS, written in SwiftUI
+*   [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 
-*   [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+*   [janTatesa/ratatui-minecraft](https://github.com/janTatesa/ratatui-minecraft) - Valence screens port to ratatui
 
-*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+*   [Nugine/mirage-tank](https://github.com/Nugine/mirage-tank) - A simple library for creating "mirage tank" images.
 
-*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+*   [VOICEVOX/voicevox\_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+*   [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 
-*   [CrayonChimp/GmailNotification](https://github.com/CrayonChimp/GmailNotification) - A tiny Gmail notification app for mac
+*   [lukehsiao/openring-rs](https://github.com/lukehsiao/openring-rs) - :chains: a webring for static site generators written in Rust
 
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+*   [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 
-*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+*   [rnostr/rnostr](https://github.com/rnostr/rnostr) - A high-performance and scalable nostr relay written in Rust.
 
-*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+*   [occlum/occlum](https://github.com/occlum/occlum) - Occlum is a memory-safe, multi-process library OS for Intel SGX
 
-*   [SamusAranX/MinimalMIDIPlayer](https://github.com/SamusAranX/MinimalMIDIPlayer) - A MIDI player for macOS with SF2/DLS soundfont support
+*   [RustCrypto/AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers
 
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+*   [amehashi/thumbhash-node](https://github.com/amehashi/thumbhash-node) - ThumbHash binding for Node.js
 
-*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+*   [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 
-*   [Pavo-IM/OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X) - OpenCore Config Generator
+*   [glebpom/cargo-sonic](https://github.com/glebpom/cargo-sonic) -
+
+*   [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+
+*   [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+
+*   [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+
+*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
+
+*   [yarnpkg/zpm](https://github.com/yarnpkg/zpm) - 🐈 Future development trunk for Yarn 📦
+
+*   [LordAizen1/scamp-cat](https://github.com/LordAizen1/scamp-cat) - A small pixel-art cat that wanders, naps, and washes her paws in your terminal.
+
+*   [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
+
+*   [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - \[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
+
+*   [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
+
+*   [hook0/hook0](https://github.com/hook0/hook0) - Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
+
+*   [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) - TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows.
+
+*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
+*   [storopoli/dead-man-switch](https://github.com/storopoli/dead-man-switch) - Rust no-BS Dead Man's Switch library, TUI and Web Interface
+
+*   [motivation-inc/yourgpu](https://github.com/motivation-inc/yourgpu) - A modern, simple, and fast graphics API for Rust.
+
+*   [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+
+*   [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
+
+*   [anowell/are-we-learning-yet](https://github.com/anowell/are-we-learning-yet) - How ready is Rust for Machine Learning?
+
+*   [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) - xuniq is a blazing-fast utility to remove duplicate lines from input
+
+*   [doceazedo/godot\_wry](https://github.com/doceazedo/godot_wry) - 🌐 Cross-platform webview extension for Godot 4
+
+*   [pchampin/sophia\_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
+
+*   [hisbaan/didyoumean](https://github.com/hisbaan/didyoumean) - A CLI spelling corrector for when you're unsure
+
+*   [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
+
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+
+*   [surrealdb/surrealql.wasm](https://github.com/surrealdb/surrealql.wasm) - WebAssembly utility functions for SurrealQL parsing and validation
+
+*   [surrealdb/surrealmx](https://github.com/surrealdb/surrealmx) - An embedded, in-memory, lock-free, transaction-based, key-value database engine
+
+*   [DCjanus/cang-jie](https://github.com/DCjanus/cang-jie) - Chinese tokenizer for tantivy, based on jieba-rs
+
+*   [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+
+*   [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
+
+*   [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
+
+*   [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+
+*   [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+
+*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
+
+*   [acccoco/TruvisRenderer](https://github.com/acccoco/TruvisRenderer) - A Real-time ray-traced renderer based on Rust + vulkan
+
+*   [surrealdb/crud-bench](https://github.com/surrealdb/crud-bench) - A benchmarking tool for testing and comparing the performance of both embedded and networked SQL and NoSQL databases.
+
+*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
+
+*   [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
+
+*   [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema) - A high-performance JSON Schema validator for Rust
+
+*   [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
+
+*   [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+
+*   [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
+
+*   [UniClipboard/UniClipboard](https://github.com/UniClipboard/UniClipboard) - Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypted. No account. No cloud dependency. No central server.
+
+*   [NodeSpaceAI/nodespace-core](https://github.com/NodeSpaceAI/nodespace-core) - Local-first knowledge base with semantic search for AI coding assistants. Fewer tokens, faster context.
+
+*   [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
+
+*   [clockworklabs/BitCraftPublic](https://github.com/clockworklabs/BitCraftPublic) - The open source server code for the BitCraft MMORPG
+
+*   [sevenc-nanashi/aviutl2-rs](https://github.com/sevenc-nanashi/aviutl2-rs) - AviUtl2 SDKのRust版。
+
+*   [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
+
+*   [lazy-hq/aisdk](https://github.com/lazy-hq/aisdk) - The AI Toolkit for Rust, inspired by the Vercel AI SDK.
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+*   [httpsworldview/openmeters](https://github.com/httpsworldview/openmeters) - Fast and professional audio metering/visualization for Linux.
+
+*   [MatsDK/TauRPC](https://github.com/MatsDK/TauRPC) - Typesafe IPC layer for Tauri applications
+
+*   [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) -  Ergonomic bindings to duckdb for Rust
+
+*   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
+
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+*   [tschinz/dithers](https://github.com/tschinz/dithers) - Dithering implemented as a cli program
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
+
+*   [miantiao-me/cloudflare-worker-image](https://github.com/miantiao-me/cloudflare-worker-image) - 使用 Cloudflare Worker + Container 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。
+
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+
+*   [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+
+*   [s3s-project/s3s](https://github.com/s3s-project/s3s) - S3 Service Adapter
+
+*   [bytecodealliance/cranelift-jit-demo](https://github.com/bytecodealliance/cranelift-jit-demo) - JIT compiler and runtime for a toy language, using Cranelift
+
+*   [undead-undead/rustls-reality](https://github.com/undead-undead/rustls-reality) - Rustls with Reality protocol support for VLESS proxies
+
+*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+
+*   [HEXXDECIMAL/DISSECT](https://github.com/HEXXDECIMAL/DISSECT) - EXPERIMENTAL - dissect a program's featureset
+
+*   [Kirottu/kidex](https://github.com/Kirottu/kidex) - A simple file indexing service for looking up file locations
+
+*   [itsKaynine/electron-injector](https://github.com/itsKaynine/electron-injector) - Inject JavaScript code into Electron apps at runtime
+
+*   [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
+
+*   [cloudflare/ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust
+
+*   [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
+
+*   [MemeCrafters/meme-generator-rs](https://github.com/MemeCrafters/meme-generator-rs) - 表情包生成器，用于制作各种沙雕表情包
+
+*   [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
+
+*   [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels
+
+*   [ShellWen/v8\_killer](https://github.com/ShellWen/v8_killer) - A powerful and highly customizable universal V8 virtual machine injector.
+
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+
+*   [renoise/pattrns](https://github.com/renoise/pattrns) - Experimental imperative-style music sequence generator engine
+
+*   [virtualritz/after-effects](https://github.com/virtualritz/after-effects) - High(er) level Rust bindings for the Adobe After Effects® SDK
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
+
+*   [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
+
+*   [tlsnotary/tlsn](https://github.com/tlsnotary/tlsn) - Rust implementation of the TLSNotary protocol
+
+*   [MemeMeow-Studio/MemeMeowIME](https://github.com/MemeMeow-Studio/MemeMeowIME) - MMIME，一个输入表情包的输入法
+
+*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+
+*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+
+*   [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
+
+*   [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+
+*   [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
+
+*   [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+*   [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
+
+*   [specta-rs/tauri-specta](https://github.com/specta-rs/tauri-specta) - Completely typesafe Tauri commands
+
+*   [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
+
+*   [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
+
+*   [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+
+*   [ayangweb/tauri-plugin-system-fonts](https://github.com/ayangweb/tauri-plugin-system-fonts) - Support getting all fonts installed on your system.
+
+*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+
+*   [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
+
+*   [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
+
+*   [sout233/im\_disperser](https://github.com/sout233/im_disperser) - A disperser vst/clap plugin that made with `i_am_dsp`
+
+*   [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) - VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with a familiar SQL‑like language.  Instead of sending every RAG or semantic search query to a remote cluster, VelesDB runs directly on your server, laptop, browser, mobile or edge device — no cloud dependency, no external services, ..
+
+*   [okaneco/kmeans-colors](https://github.com/okaneco/kmeans-colors) - k-means clustering library and binary to find dominant colors in images
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+
+*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+
+*   [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+
+*   [specta-rs/rspc](https://github.com/specta-rs/rspc) - A framework for building typesafe web backends in Rust
+
+*   [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
+
+*   [Kesomannen/gale](https://github.com/Kesomannen/gale) - A modern mod manager for Thunderstore
+
+*   [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies.
+
+*   [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket implementation
+
+*   [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation
+
+*   [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org\[Rust]
+
+*   [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no\_std + serde compatible message library for Rust
+
+*   [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
+
+*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+
+*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+
+*   [shm11C3/HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) - A lightweight hardware monitor built with Tauri for real-time hardware status monitoring.
+
+*   [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust
+
+*   [valignatev/sleep-from-scratch](https://github.com/valignatev/sleep-from-scratch) - sleep for x86\_64 Linux from scratch
+
+*   [Fanteria/todotxt-tui](https://github.com/Fanteria/todotxt-tui) - Todo.txt TUI - Terminal-based Todo Task Manager
+
+*   [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) -
+
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+
+*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
+
+*   [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
+
+*   [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
+
+*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+
+*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
+
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+
+*   [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
+
+*   [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
+
+*   [IxianPixel/rustwave](https://github.com/IxianPixel/rustwave) - A Soundcloud client written in Rust
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [biomejs/biome-zed](https://github.com/biomejs/biome-zed) - Biome extension for Zed
+
+*   [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
+
+*   [s00d/tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) -
+
+*   [Taiizor/tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - 🚀 Supercharge your Tauri app with intelligent disk & memory caching. Features TTL, compression, auto-cleanup, and cross-platform support for optimized performance.
+
+*   [cetra3/rustcloud](https://github.com/cetra3/rustcloud) - Download songs and mixes from your soundcloud stream
+
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+
+*   [zxcloli666/SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop) - 🎵 Лучший неофициальный SoundCloud клиент для Windows, Linux и macOS | БЕЗ РЕКЛАМЫ | БЕЗ КАПЧИ | БЕЗ ЦЕНЗУРЫ | ДОСТУПНО В РОССИИ
+
+*   [djkato/DRP\_Creative](https://github.com/djkato/DRP_Creative) - Show your friends what you're working on, be it in Adobe Suite, Autodesk Suite, Cinema 4D or many more! Currently supported: C4D, Adobe Suite, Davinci Resolve, Maya, 3Ds Max, Sony Vegas, Substance suite, Isotropix suite, FL, Ableton, Blender, Cavalry, Zbrush
+
+*   [MaxOhn/Bathbot](https://github.com/MaxOhn/Bathbot) - Discord bot for osu!
+
+*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
+*   [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
+
+*   [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
+
+*   [grufkork/rkbx\_link](https://github.com/grufkork/rkbx_link) - Sync music and lights to Rekordbox over Ableton Link, OSC and more!
+
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+
+*   [clitic/vsd](https://github.com/clitic/vsd) - Download streams from DASH and HLS playlists.
+
+*   [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences. Has a mode which aims to be compatible with Oniguruma syntax.
+
+*   [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
+
+*   [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) - \[READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
+
+*   [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
+
+*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+
+*   [rerun-io/egui\_table](https://github.com/rerun-io/egui_table) - Advanced table viewer for egui
+
+*   [kang-sw/egui-data-table](https://github.com/kang-sw/egui-data-table) -
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+
+*   [wangfu91/usn-journal-rs](https://github.com/wangfu91/usn-journal-rs) - A Rust library for working with the NTFS USN change journal and enumerating the MFT.
+
+*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+
+*   [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) - Package Manager for AOSC OS
+
+*   [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
+
+*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+
+*   [neocturne/MinedMap](https://github.com/neocturne/MinedMap) - Minecraft map renderer and viewer
+
+*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+
+*   [7086cmd/totp-console](https://github.com/7086cmd/totp-console) - Generate and manage your TOTP codes, in console.
+
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+
+*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
+
+*   [kingwingfly/encrypt-config](https://github.com/kingwingfly/encrypt-config) - A rust crate to manage, persist and encrypt your configurations.
+
+*   [AzurIce/ranim](https://github.com/AzurIce/ranim) - An animation engine implemented in rust, inspired by manim and JAnim
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+
+*   [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+
+*   [Eonian-Sharp/ESPortscan](https://github.com/Eonian-Sharp/ESPortscan) - 超高速端口扫描器。
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
+*   [onion108/xibao-gen](https://github.com/onion108/xibao-gen) - Generate xibao picture
+
+*   [Martinplior/high\_performance\_key\_overlay](https://github.com/Martinplior/high_performance_key_overlay) - A high performance key overlay, but not only high performance.
+
+*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+*   [contextfreeinfo/taca](https://github.com/contextfreeinfo/taca) - Wasm runtime for multimedia apps
+
+*   [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
+
+*   [maxcurzi/tplay](https://github.com/maxcurzi/tplay) - A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
+
+*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+
+*   [insomnimus/nodi](https://github.com/insomnimus/nodi) - A rust library for playing and abstraction of MIDI files.
+
+*   [insomnimus/plmidi](https://github.com/insomnimus/plmidi) - A command line MIDI player, written in rust.
+
+*   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
+
+*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+
+*   [matrixlin/text\_editor](https://github.com/matrixlin/text_editor) - Learn the Rust programming language by writing your own text editor using the Rust programming language.
+
+*   [HaoboGu/rmk](https://github.com/HaoboGu/rmk) - Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support
+
+*   [typst/subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts.
+
+*   [chris-zen/kiro-synth](https://github.com/chris-zen/kiro-synth) - Modular sound synthesizer written in Rust
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+*   [michaelfairley/ezing](https://github.com/michaelfairley/ezing) - Easing functions for Rust
+
+*   [gin66/rusthesia](https://github.com/gin66/rusthesia) - Reads midi files and create piano notes waterfall
+
+*   [Coddeus/Pianorium](https://github.com/Coddeus/Pianorium) - A customizable midi visualizer/renderer for piano performances
+
+*   [kovaxis/midly](https://github.com/kovaxis/midly) - A feature-complete MIDI parser and writer focused on speed.
+
+*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+
+*   [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
+
+*   [Bylx666/key-lang](https://github.com/Bylx666/key-lang) - 目标是最精致的编程语言
+
+*   [wyatt-herkamp/vue3-simple-icons](https://github.com/wyatt-herkamp/vue3-simple-icons) - Simple-Icons for Vue3 with Typescript Definitions.
+
+*   [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and MacOs
+
+*   [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
+
+*   [srcres258/minecraft-rust](https://github.com/srcres258/minecraft-rust) -
+
+*   [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+
+*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+
+*   [lolishinshi/imsearch](https://github.com/lolishinshi/imsearch) - 基于特征点匹配的大规模相似图片搜索
+
+*   [kawayww/deci-player](https://github.com/kawayww/deci-player) - A music-player written with rust and iced
+
+*   [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+
+*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+
+*   [19MisterX98/Nether\_Bedrock\_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
+
+*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
+
+*   [kingwingfly/fav](https://github.com/kingwingfly/fav) - Back up your favorite bilibili resources with CLI. 根据 收藏夹/up主 批量下载B站视频
+
+*   [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [Spu7Nix/SPWN-language](https://github.com/Spu7Nix/SPWN-language) - A language for Geometry Dash triggers
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [kingwingfly/downloader](https://github.com/kingwingfly/downloader) - A downloader by Tauri, Nextjs and actix.
+
+*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
+
+*   [ganlvtech/obs-audio-renderer](https://github.com/ganlvtech/obs-audio-renderer) - OBS 音频渲染器，将音频的采样信息渲染成视频画面
+
+*   [ganlvtech/obs-video-tile-remap](https://github.com/ganlvtech/obs-video-tile-remap) - OBS 视频分块重映射插件
+
+*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
+
+*   [framist/egg-language-server](https://github.com/framist/egg-language-server) - egg 驱动的编写时代码优化语言服务器及 VS Code 插件 | Egg-powered code optimization language server & VS Code extension
+
+*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+
+*   [BRA1L0R/hopper-rs](https://github.com/BRA1L0R/hopper-rs) - Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft
+
+*   [StarWishsama/starrail-unlock-rs](https://github.com/StarWishsama/starrail-unlock-rs) - 星穹铁道 FPS 解锁 | Unlock Honkai: Star Rail fps limit | Written in Rust
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
+
+*   [TeamFlos/phira](https://github.com/TeamFlos/phira) -
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [BHznJNs/Calculator.rs](https://github.com/BHznJNs/Calculator.rs) - A simple command-line calculator program writen with Rust.
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [theorzr/portablemc](https://github.com/theorzr/portablemc) - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [katyo/msdfgen-rs](https://github.com/katyo/msdfgen-rs) - Rust bindings to msdfgen library
+
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+*   [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
+
+*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+
+*   [anna-is-cute/paste](https://github.com/anna-is-cute/paste) - A sensible, modern pastebin.
+
+*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [biliup/biliup-app](https://github.com/biliup/biliup-app) - b站全平台投稿客户端，支持多p投稿，稿件编辑
+
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+
+*   [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+
+*   [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+
+*   [veloren/veloren](https://github.com/veloren/veloren) - \[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+
+*   [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
+
+*   [chewing/windows-chewing-tsf](https://github.com/chewing/windows-chewing-tsf) - Free software implementation of Chewing Input method for Windows based on Text Services Framework
+
+*   [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+
+*   [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+
+*   [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
+
+*   [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
+
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+
+*   [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
+
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+*   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+
+*   [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+
+*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+
+*   [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
+
+*   [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.
+
+*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+
+*   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+
+*   [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
+
+*   [MaulingMonkey/appx](https://github.com/MaulingMonkey/appx) - manage appx packages
+
+*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
 
 ## TypeScript
+
+*   [hyodotdev/openiap](https://github.com/hyodotdev/openiap) - Meta-backed standardized protocol for implementing in-app purchases across all platforms
+
+*   [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+
+*   [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
 *   [setube/stackprism](https://github.com/setube/stackprism) - StackPrism是一款用于检测网页技术栈的浏览器插件。
 
@@ -237,7 +801,7 @@
 
 *   [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 
-*   [BCsabaEngine/svelteesp32](https://github.com/BCsabaEngine/svelteesp32) - Embed Any Web App in Your ESP32 — One Binary, Zero Filesystem Hassle Turn your Svelte, React, Angular, or Vue frontend into a single C++ header file. Serve beautiful web interfaces directly from ESP32/ESP8266 flash memory with automatic gzip compression, ETag caching, and seamless OTA updates.
+*   [BCsabaEngine/svelteesp32](https://github.com/BCsabaEngine/svelteesp32) - Pack any Svelte, React, Angular, or Vue app into a single C++ header. Serve it straight from ESP32/ESP8266 flash — gzip compressed, ETag cached, OTA-ready.
 
 *   [HkTeamX/node-napcat-ts](https://github.com/HkTeamX/node-napcat-ts) - napcat SDK
 
@@ -1029,7 +1593,7 @@
 
 *   [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router
 
-*   [realies/soundcloud-sync](https://github.com/realies/soundcloud-sync) - ☁️ Synchronise SoundCloud User Likes With a Local Folder
+*   [realies/soundcloud-sync](https://github.com/realies/soundcloud-sync) - ☁️ SoundCloud likes to local files
 
 *   [ArthurTent/ShaderAmp](https://github.com/ArthurTent/ShaderAmp) - Chrome extension to visualize music
 
@@ -1231,7 +1795,7 @@
 
 *   [CoffeSiberian/truck-tools](https://github.com/CoffeSiberian/truck-tools) - Edit your saves game in Euro Truck Simulator 2 and American Truck Simulator with this simple Desktop App
 
-*   [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
+*   [shareAI-lab/Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
 
 *   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
@@ -2019,615 +2583,1117 @@
 
 *   [alexcorvi/heic2any](https://github.com/alexcorvi/heic2any) - Converting HEIF/HEIF image formats to PNG/GIF/JPEG in the browser
 
-## Rust
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
-*   [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+*   [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 
-*   [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 
-*   [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
+*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
 
-*   [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
+## HTML
 
-*   [alexpasmantier/rust-devicons](https://github.com/alexpasmantier/rust-devicons) - A Rust library that provides filetype glyphs (icons) for a wide range of common file formats.
+*   [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt) - 利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求
 
-*   [LeopoldArkham/humansize](https://github.com/LeopoldArkham/humansize) - Humansize - A flexible crate for humanizing file sizes
+*   [NNNullptr/MoeKernel\_Desktop](https://github.com/NNNullptr/MoeKernel_Desktop) -
 
-*   [kikijiki/ntfs-reader](https://github.com/kikijiki/ntfs-reader) -
+*   [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website
 
-*   [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - Embedded relational database and native Rust data API.
+*   [botuniverse/onebot-11](https://github.com/botuniverse/onebot-11) - OneBot 11 标准
 
-*   [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
+*   [qwertyaz111/kabedon-floor-simulator](https://github.com/qwertyaz111/kabedon-floor-simulator) - 床ドンシミュレーター
 
-*   [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
+*   [atangccc/Serenity-Grace](https://github.com/atangccc/Serenity-Grace) - 「Serenity」，简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式自由切换。
 
-*   [programatik29/tokio-rusqlite](https://github.com/programatik29/tokio-rusqlite) - Asynchronous handle for rusqlite library.
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
-*   [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
+*   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 
-*   [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 
-*   [janTatesa/ratatui-minecraft](https://github.com/janTatesa/ratatui-minecraft) - Valence screens port to ratatui
+*   [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 
-*   [Nugine/mirage-tank](https://github.com/Nugine/mirage-tank) - A simple library for creating "mirage tank" images.
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 
-*   [VOICEVOX/voicevox\_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
+*   [oduwsdl/tweetedat](https://github.com/oduwsdl/tweetedat) - TweetedAt tells the time of a tweet based on its tweet id
 
-*   [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+*   [Iceface-microtonal/iceface-tdn-geo-rotator](https://github.com/Iceface-microtonal/iceface-tdn-geo-rotator) - Microtonal toy that geometrically rotates notes  Iceface TDN theory based rotating arpeggiator + perfectly synced drum machine. Drag to bend & rotate sounds while generating arpeggios. Harmony and rhythm merge in real-time under Relational-Tonal.  Features: Geometric rotation control, real-time drum sync, mobile-friendly pure HTML/JS web app.
 
-*   [lukehsiao/openring-rs](https://github.com/lukehsiao/openring-rs) - :chains: a webring for static site generators written in Rust
+*   [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 
-*   [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
+*   [zero-delimiter/TFBOYS](https://github.com/zero-delimiter/TFBOYS) - Texture Forge - the Binary Output YOLO System 文生Minecraft Mod 16x16贴图AI
 
-*   [rnostr/rnostr](https://github.com/rnostr/rnostr) - A high-performance and scalable nostr relay written in Rust.
+*   [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 
-*   [occlum/occlum](https://github.com/occlum/occlum) - Occlum is a memory-safe, multi-process library OS for Intel SGX
+*   [jsonh-org/Jsonh](https://github.com/jsonh-org/Jsonh) - JSON for Humans.
 
-*   [RustCrypto/AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers
+*   [rocksun/mwblog](https://github.com/rocksun/mwblog) -
 
-*   [amehashi/thumbhash-node](https://github.com/amehashi/thumbhash-node) - ThumbHash binding for Node.js
+*   [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -
 
-*   [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
+*   [tedivm/qr\_stencil\_creator](https://github.com/tedivm/qr_stencil_creator) - A website to generate QR Codes that can be turned into stencils.
 
-*   [glebpom/cargo-sonic](https://github.com/glebpom/cargo-sonic) -
+*   [facebookarchive/RakNet](https://github.com/facebookarchive/RakNet) - RakNet is a cross platform, open source, C++ networking engine for game programmers.
 
-*   [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+*   [paulrosen/abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 
-*   [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+*   [miniyu157/petal-note](https://github.com/miniyu157/petal-note) - 🌸 极简、唯美、无需构建的纯前端碎碎念日记框架
 
-*   [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+*   [kherrick/pwgen](https://github.com/kherrick/pwgen) - A password generator compiled as Wasm for use on the CLI, in a custom element, or as a module.
 
-*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
+*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 
-*   [yarnpkg/zpm](https://github.com/yarnpkg/zpm) - 🐈 Future development trunk for Yarn 📦
+*   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
 
-*   [LordAizen1/scamp-cat](https://github.com/LordAizen1/scamp-cat) - A small pixel-art cat that wanders, naps, and washes her paws in your terminal.
+*   [whatwg/fetch](https://github.com/whatwg/fetch) - Fetch Standard
 
-*   [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
+*   [yuhan2680/Website](https://github.com/yuhan2680/Website) - 小涵的个人网站
 
-*   [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - \[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
+*   [qcontinuum1/spying-extensions](https://github.com/qcontinuum1/spying-extensions) - Report on spying browser extensions by Q Continuum group.
 
-*   [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
+*   [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 
-*   [hook0/hook0](https://github.com/hook0/hook0) - Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
+*   [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 
-*   [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) - TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows.
+*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 
-*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+*   [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 
-*   [storopoli/dead-man-switch](https://github.com/storopoli/dead-man-switch) - Rust no-BS Dead Man's Switch library, TUI and Web Interface
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-*   [motivation-inc/yourgpu](https://github.com/motivation-inc/yourgpu) - A modern, simple, and fast graphics API for Rust.
+*   [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 
-*   [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+*   [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 
-*   [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
+*   [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) - An interactive demo of an iOS 26 style Liquid Glass effect for the web
 
-*   [anowell/are-we-learning-yet](https://github.com/anowell/are-we-learning-yet) - How ready is Rust for Machine Learning?
+*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 
-*   [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) - xuniq is a blazing-fast utility to remove duplicate lines from input
+*   [tkilla64/eurorack](https://github.com/tkilla64/eurorack) - Eurorack DIY projects
 
-*   [doceazedo/godot\_wry](https://github.com/doceazedo/godot_wry) - 🌐 Cross-platform webview extension for Godot 4
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 
-*   [pchampin/sophia\_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
+*   [CatMe0w/lostone.catme0w.org](https://github.com/CatMe0w/lostone.catme0w.org) - Source Code for https://lostone.catme0w.org - An automatic solver for the "chiral carbon CAPTCHA". Visit the website for the full report and tool. | “手性碳验证码”自动解答工具的网站源码。
 
-*   [hisbaan/didyoumean](https://github.com/hisbaan/didyoumean) - A CLI spelling corrector for when you're unsure
+*   [SnippetsDevelop/snippetsdevelop.github.io](https://github.com/SnippetsDevelop/snippetsdevelop.github.io) -
 
-*   [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
+*   [jaden/totp-generator](https://github.com/jaden/totp-generator) - Generates TOTP tokens in the browser
 
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+*   [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
 
-*   [surrealdb/surrealql.wasm](https://github.com/surrealdb/surrealql.wasm) - WebAssembly utility functions for SurrealQL parsing and validation
+*   [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 
-*   [surrealdb/surrealmx](https://github.com/surrealdb/surrealmx) - An embedded, in-memory, lock-free, transaction-based, key-value database engine
+*   [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for Entra ID and M365 with a browser-based GUI
 
-*   [DCjanus/cang-jie](https://github.com/DCjanus/cang-jie) - Chinese tokenizer for tantivy, based on jieba-rs
+*   [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 
-*   [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+*   [bghtnya/TransFlag\_Avatar\_Tool](https://github.com/bghtnya/TransFlag_Avatar_Tool) -
 
-*   [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
+*   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 
-*   [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
+*   [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki) - 高等教育学社基础知识开源建设工程｜青年大学习
 
-*   [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+*   [tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow) - A Modern Hugo Theme with Multiple Color Schemes - Built on TailwindCSS 4.
 
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+*   [Akanyi/Gaynum](https://github.com/Akanyi/Gaynum) - A counter of your name‘s gay rate
 
-*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+*   [fanlusky/haruhikage](https://github.com/fanlusky/haruhikage) - 春日影 (MyGO!!!!! Ver.)
 
-*   [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+*   [hexadecimal233/advx-disqualified-generator](https://github.com/hexadecimal233/advx-disqualified-generator) -
 
-*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
+*   [chear/SWNote](https://github.com/chear/SWNote) -
 
-*   [acccoco/TruvisRenderer](https://github.com/acccoco/TruvisRenderer) - A Real-time ray-traced renderer based on Rust + vulkan
+*   [Mechmallow/git\_matrix](https://github.com/Mechmallow/git_matrix) -  Draw on your GitHub contribution graph by easily generating a custom commit history.
 
-*   [surrealdb/crud-bench](https://github.com/surrealdb/crud-bench) - A benchmarking tool for testing and comparing the performance of both embedded and networked SQL and NoSQL databases.
+*   [aiwebarchitects/ball-simulation-from-TikTok](https://github.com/aiwebarchitects/ball-simulation-from-TikTok) - That one bouncing ball simulation from TikTok...?
 
-*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
+*   [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
 
-*   [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
+*   [TumoiYorozu/white200](https://github.com/TumoiYorozu/white200) - 200色の白から、お題の白を見つけるゲームです。良ければStarお願いします。This is a game to find the white of the subject out of 200 colors of white. Please Star if you like.
 
-*   [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema) - A high-performance JSON Schema validator for Rust
+*   [C1710/blobmoji](https://github.com/C1710/blobmoji) - Noto Emoji with extended Blob support
 
-*   [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 
-*   [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+*   [JobYu/image2pixel-web](https://github.com/JobYu/image2pixel-web) - A simple web-based tool that converts images into pixel art style.
 
-*   [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
+*   [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML file
 
-*   [UniClipboard/UniClipboard](https://github.com/UniClipboard/UniClipboard) - Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypted. No account. No cloud dependency. No central server.
+*   [dev-coco/dev-coco.github.io](https://github.com/dev-coco/dev-coco.github.io) - This is a personal website. Please do not fork this project.
 
-*   [NodeSpaceAI/nodespace-core](https://github.com/NodeSpaceAI/nodespace-core) - Local-first knowledge base with semantic search for AI coding assistants. Fewer tokens, faster context.
+*   [8values/8values.github.io](https://github.com/8values/8values.github.io) - The 8values political quiz
 
-*   [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
+*   [BeiyanYunyi/Astro-blog-Lithium](https://github.com/BeiyanYunyi/Astro-blog-Lithium) - A astro blog with pagination, UnoCSS, tags, default layout
 
-*   [clockworklabs/BitCraftPublic](https://github.com/clockworklabs/BitCraftPublic) - The open source server code for the BitCraft MMORPG
+*   [bobolovecat/tool](https://github.com/bobolovecat/tool) -
 
-*   [sevenc-nanashi/aviutl2-rs](https://github.com/sevenc-nanashi/aviutl2-rs) - AviUtl2 SDKのRust版。
+*   [vo-soft/vic-diary-releases](https://github.com/vo-soft/vic-diary-releases) - 支持markdown语法输入、所见即所得的跨平台日记软件
 
-*   [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
+*   [Sridhar-C-25/TailwindCSS\_navbar2](https://github.com/Sridhar-C-25/TailwindCSS_navbar2) - Responsive navbar using tailwind css
 
-*   [lazy-hq/aisdk](https://github.com/lazy-hq/aisdk) - The AI Toolkit for Rust, inspired by the Vercel AI SDK.
+*   [Natsusomekeishi/MCCAG](https://github.com/Natsusomekeishi/MCCAG) - Minecraft Cute Avatar Generator MC可爱头像生成器
 
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+*   [kqakqakqa/min-gluttonous-snake-js](https://github.com/kqakqakqa/min-gluttonous-snake-js) - 尝试用尽量短的代码实现贪吃蛇
 
-*   [httpsworldview/openmeters](https://github.com/httpsworldview/openmeters) - Fast and professional audio metering/visualization for Linux.
+*   [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
 
-*   [MatsDK/TauRPC](https://github.com/MatsDK/TauRPC) - Typesafe IPC layer for Tauri applications
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
-*   [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) -  Ergonomic bindings to duckdb for Rust
+*   [yanjisheng/world-clock](https://github.com/yanjisheng/world-clock) - World Clock Widget, showing date and time from different places around the world.
 
-*   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
+*   [chiron-fonts/chiron-hei-hk](https://github.com/chiron-fonts/chiron-hei-hk) - 昭源黑體：現代筆形風格，平衡標準字形和印刷體慣用筆形的免費開源黑體字型
 
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+*   [CyrilSLi/cyrilsli.github.io](https://github.com/CyrilSLi/cyrilsli.github.io) -
 
-*   [tschinz/dithers](https://github.com/tschinz/dithers) - Dithering implemented as a cli program
+*   [CHCAT1320/CN\_1320\_Toolbox](https://github.com/CHCAT1320/CN_1320_Toolbox) -
 
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+*   [kaygb/KZHomePage](https://github.com/kaygb/KZHomePage) - 二次元卡片个人网站主页
 
-*   [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
-*   [miantiao-me/cloudflare-worker-image](https://github.com/miantiao-me/cloudflare-worker-image) - 使用 Cloudflare Worker + Container 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。
+*   [hexadecimal233/jilijili](https://github.com/hexadecimal233/jilijili) - 寄哩寄哩，一个B站登录页的高仿项目
 
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+*   [Zhaokugua/GettingOverItBlueArchiveWebVersion](https://github.com/Zhaokugua/GettingOverItBlueArchiveWebVersion) - 碧蓝档案的和掘地求生（Getting Over It）很像的网页小游戏，官方是限时活动所以备份一下w
 
-*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+*   [YamatoRyou/2a03presetsforflstudio](https://github.com/YamatoRyou/2a03presetsforflstudio) -
 
-*   [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars
+*   [kqakqakqa/utf-block-sign-art](https://github.com/kqakqakqa/utf-block-sign-art) - 一个使用UTF-8块元素生成大型字符的网页工具。a web tool that generates big characters using UTF-8 block.
 
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+*   [iota9star/mikan\_flutter](https://github.com/iota9star/mikan_flutter) - 蜜柑计划（ https://mikanani.me ），🚧 持续开发中...
 
-*   [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 
-*   [s3s-project/s3s](https://github.com/s3s-project/s3s) - S3 Service Adapter
+*   [Fancyflame/FoodGenerator](https://github.com/Fancyflame/FoodGenerator) - A fancy Weird-Food name generator
 
-*   [bytecodealliance/cranelift-jit-demo](https://github.com/bytecodealliance/cranelift-jit-demo) - JIT compiler and runtime for a toy language, using Cranelift
+*   [re-zero-khis/re0-web](https://github.com/re-zero-khis/re0-web) - Re0：从零开始的异世界生活 （WEB版）
 
-*   [undead-undead/rustls-reality](https://github.com/undead-undead/rustls-reality) - Rustls with Reality protocol support for VLESS proxies
+*   [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 
-*   [HEXXDECIMAL/DISSECT](https://github.com/HEXXDECIMAL/DISSECT) - EXPERIMENTAL - dissect a program's featureset
+*   [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) - 纯静态多业务展示的个人主页主题
 
-*   [Kirottu/kidex](https://github.com/Kirottu/kidex) - A simple file indexing service for looking up file locations
+*   [xiaomayo233/DiamondCalculator](https://github.com/xiaomayo233/DiamondCalculator) -
 
-*   [itsKaynine/electron-injector](https://github.com/itsKaynine/electron-injector) - Inject JavaScript code into Electron apps at runtime
+*   [sanderfrenken/Universal-LPC-Spritesheet-Character-Generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 
-*   [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
+*   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
 
-*   [cloudflare/ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust
+*   [xmcp/QRCD](https://github.com/xmcp/QRCD) - QQMusic lyrics crawler & decoder
 
-*   [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
+*   [bigratmonster/bigrat.monster](https://github.com/bigratmonster/bigrat.monster) - a picture of big rat
 
-*   [MemeCrafters/meme-generator-rs](https://github.com/MemeCrafters/meme-generator-rs) - 表情包生成器，用于制作各种沙雕表情包
+*   [39665558/webPageGarbled](https://github.com/39665558/webPageGarbled) - 一个字体加密的小demo：文字在网页上显示正常，但复制下来后乱码
 
-*   [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
+*   [OrgEleCho/EleCho.GoCqHttpSdk](https://github.com/OrgEleCho/EleCho.GoCqHttpSdk) - 专为 Go-CqHttp 打造, 完全遵守 C# 编码规范, 优雅与便捷的通信 SDK
 
-*   [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels
+*   [wexuo/home](https://github.com/wexuo/home) - 现代化的个人主页，博客主页模板，个人简历模板
 
-*   [ShellWen/v8\_killer](https://github.com/ShellWen/v8_killer) - A powerful and highly customizable universal V8 virtual machine injector.
+*   [two-twelve/popcat-classic](https://github.com/two-twelve/popcat-classic) - Popcat.Click as of 11th Dec 2020, 17:29 GMT 🕹️
 
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+*   [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
 
-*   [renoise/pattrns](https://github.com/renoise/pattrns) - Experimental imperative-style music sequence generator engine
+*   [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - \[ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 
-*   [virtualritz/after-effects](https://github.com/virtualritz/after-effects) - High(er) level Rust bindings for the Adobe After Effects® SDK
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
 
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [tjy-gitnub/nikov](https://github.com/tjy-gitnub/nikov) - 仅供学习，切勿他用。
 
-*   [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
+*   [Listenbourg/ListenPASS](https://github.com/Listenbourg/ListenPASS) - Générateur de carte d'identité "officiel" du Listenbourg
 
-*   [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
+*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 
-*   [tlsnotary/tlsn](https://github.com/tlsnotary/tlsn) - Rust implementation of the TLSNotary protocol
+*   [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 
-*   [MemeMeow-Studio/MemeMeowIME](https://github.com/MemeMeow-Studio/MemeMeowIME) - MMIME，一个输入表情包的输入法
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 
-*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+*   [AdenForshaw/theCatAPI-website](https://github.com/AdenForshaw/theCatAPI-website) - VueJS / Vuetify website for theCatAPI.com
 
-*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+*   [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit
 
-*   [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
+*   [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool \[Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 
-*   [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+*   [mckuhei/xn--j28haaa](https://github.com/mckuhei/xn--j28haaa) - https://www.😅😅😅😅.ml
 
-*   [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
+*   [AdhesionTek/Quantum-Wormhole](https://github.com/AdhesionTek/Quantum-Wormhole) - Quantum Wormhole by AdhesionTek
 
-*   [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 
-*   [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 
-*   [specta-rs/tauri-specta](https://github.com/specta-rs/tauri-specta) - Completely typesafe Tauri commands
+*   [pkfrom/404](https://github.com/pkfrom/404) - 404 Pages not found
 
-*   [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
+*   [AHOHNMYC/chromeosflex](https://github.com/AHOHNMYC/chromeosflex) - Chrome OS Flex direct links
 
-*   [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
+*   [vinugawade/Morse\_Code\_Translator](https://github.com/vinugawade/Morse_Code_Translator) - A Simple Morse Code Translator.
 
-*   [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+*   [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 
-*   [ayangweb/tauri-plugin-system-fonts](https://github.com/ayangweb/tauri-plugin-system-fonts) - Support getting all fonts installed on your system.
+*   [adobe-fonts/noto-emoji-svg](https://github.com/adobe-fonts/noto-emoji-svg) - OpenType-SVG version of Noto Color Emoji
 
-*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+*   [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 
-*   [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust
+*   [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 
-*   [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 
-*   [sout233/im\_disperser](https://github.com/sout233/im_disperser) - A disperser vst/clap plugin that made with `i_am_dsp`
+*   [haveyouwantto/WindsongLyre-Sim](https://github.com/haveyouwantto/WindsongLyre-Sim) - Genshin Impact Instruments Simulator
 
-*   [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) - VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with a familiar SQL‑like language.  Instead of sending every RAG or semantic search query to a remote cluster, VelesDB runs directly on your server, laptop, browser, mobile or edge device — no cloud dependency, no external services, ..
+*   [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 
-*   [okaneco/kmeans-colors](https://github.com/okaneco/kmeans-colors) - k-means clustering library and binary to find dominant colors in images
+*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+*   [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC
 
-*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
 
-*   [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 
-*   [specta-rs/rspc](https://github.com/specta-rs/rspc) - A framework for building typesafe web backends in Rust
+*   [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 
-*   [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
+*   [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 
-*   [Kesomannen/gale](https://github.com/Kesomannen/gale) - A modern mod manager for Thunderstore
+*   [yuameshi/PRC-ID-Generate](https://github.com/yuameshi/PRC-ID-Generate) - 中国大陆身份证号码生成/ID Number(PRC)Generate
 
-*   [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies.
+*   [khalisafkari/bc](https://github.com/khalisafkari/bc) -
 
-*   [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket implementation
+*   [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 
-*   [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation
+*   [jnxyp/Bilibili-Block-List](https://github.com/jnxyp/Bilibili-Block-List) - 基于正则表达式的Bilibili弹幕屏蔽规则 / Regex-based filtering rules for Bilibili.com
 
-*   [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org\[Rust]
+*   [openjfx/openjfx.github.io](https://github.com/openjfx/openjfx.github.io) -
 
-*   [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no\_std + serde compatible message library for Rust
+*   [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
-*   [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
+*   [lelinhtinh/watermark](https://github.com/lelinhtinh/watermark) - Add watermark on images use HTML5 and Javascript.
 
-*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+*   [balsn/ctf\_writeup](https://github.com/balsn/ctf_writeup) - CTF writeups from Balsn
 
-*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+*   [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) -
 
-*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+*   [terjanq/JS-Alpha](https://github.com/terjanq/JS-Alpha) - Funny project to create an encoder/obfuscator that converts any javascript code into a code that only consist of /\[a-z().]/ characters
 
-*   [shm11C3/HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) - A lightweight hardware monitor built with Tauri for real-time hardware status monitoring.
+*   [yubius/BS-Start-Page](https://github.com/yubius/BS-Start-Page) -
 
-*   [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust
+*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 
-*   [valignatev/sleep-from-scratch](https://github.com/valignatev/sleep-from-scratch) - sleep for x86\_64 Linux from scratch
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
-*   [Fanteria/todotxt-tui](https://github.com/Fanteria/todotxt-tui) - Todo.txt TUI - Terminal-based Todo Task Manager
+*   [rogeraabbccdd/AsiaGodTone-Hotpot-Game](https://github.com/rogeraabbccdd/AsiaGodTone-Hotpot-Game) - 統神端火鍋
 
-*   [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) -
+*   [hax0r31337/JSDec](https://github.com/hax0r31337/JSDec) - Online JavaScript decoder.Supported sojson v4/Premium/v5 and more(No longer update)
 
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+*   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 
-*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
+*   [bilibili/bas](https://github.com/bilibili/bas) - Bilibili Animation Script
 
-*   [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
+*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
-*   [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
+*   [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 
-*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+*   [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 
-*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
+*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界翻墙 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tips 翻墙入门 一键翻墙 手机翻墙 翻墙机场 翻墙资源
 
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+*   [sakura-ushio/328P-MiNi-T12](https://github.com/sakura-ushio/328P-MiNi-T12) - 开源版本MiNi T12（328P Based）
 
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+*   [fontforge/designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) - A book about how to design new typefaces with FontForge
 
-*   [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
+*   [YamatoRyou/chiptunes-flp](https://github.com/YamatoRyou/chiptunes-flp) - 红白机风格 Chiptune FL Studio 工程
 
-*   [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
+*   [cznull/cznull.github.io](https://github.com/cznull/cznull.github.io) -
 
-*   [IxianPixel/rustwave](https://github.com/IxianPixel/rustwave) - A Soundcloud client written in Rust
+*   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+*   [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 
-*   [biomejs/biome-zed](https://github.com/biomejs/biome-zed) - Biome extension for Zed
+*   [letsencrypt/website](https://github.com/letsencrypt/website) - Let's Encrypt Website and Documentation
 
-*   [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
+*   [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
 
-*   [s00d/tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) -
+*   [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
 
-*   [Taiizor/tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) - 🚀 Supercharge your Tauri app with intelligent disk & memory caching. Features TTL, compression, auto-cleanup, and cross-platform support for optimized performance.
+*   [fxxkmakeding-archieve/fxxkmakeding](https://github.com/fxxkmakeding-archieve/fxxkmakeding) -
 
-*   [cetra3/rustcloud](https://github.com/cetra3/rustcloud) - Download songs and mixes from your soundcloud stream
+*   [AyagawaSeirin/PandownloadFake](https://github.com/AyagawaSeirin/PandownloadFake) - 虚假的Pandownload验证“服务器”
 
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+*   [Womsxd/pandownload.com\_Pages\_Backup](https://github.com/Womsxd/pandownload.com_Pages_Backup) - pandownload页面的备份，应该是比较完全的一份
 
-*   [zxcloli666/SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop) - 🎵 Лучший неофициальный SoundCloud клиент для Windows, Linux и macOS | БЕЗ РЕКЛАМЫ | БЕЗ КАПЧИ | БЕЗ ЦЕНЗУРЫ | ДОСТУПНО В РОССИИ
+## GLSL
 
-*   [djkato/DRP\_Creative](https://github.com/djkato/DRP_Creative) - Show your friends what you're working on, be it in Adobe Suite, Autodesk Suite, Cinema 4D or many more! Currently supported: C4D, Adobe Suite, Davinci Resolve, Maya, 3Ds Max, Sony Vegas, Substance suite, Isotropix suite, FL, Ableton, Blender, Cavalry, Zbrush
+*   [SilentPaltos/Minecraft-HAL-Lighting-VanillaShader](https://github.com/SilentPaltos/Minecraft-HAL-Lighting-VanillaShader) - I don't remember why it is called HAL
 
-*   [MaxOhn/Bathbot](https://github.com/MaxOhn/Bathbot) - Discord bot for osu!
+*   [lua-gods/flashlight-iris-shader](https://github.com/lua-gods/flashlight-iris-shader) - Flashlight iris shader for minecraft
 
-*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+*   [Ancientkingg/shader-shenanigans](https://github.com/Ancientkingg/shader-shenanigans) - Just a bunch of shaders I made for 1.17
 
-*   [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
+*   [shaderLABS/Base-330](https://github.com/shaderLABS/Base-330) - Template pack which includes most of the basic files, but none of them actually do anything. Using #version 330 and intended for MC 1.17+
 
-*   [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
+*   [VulpixelMC/cursed-shaderpack](https://github.com/VulpixelMC/cursed-shaderpack) - Ever wanted to vomit while playing Minecraft? Too bad!
 
-*   [grufkork/rkbx\_link](https://github.com/grufkork/rkbx_link) - Sync music and lights to Rekordbox over Ableton Link, OSC and more!
+*   [gl-transitions/gl-transitions](https://github.com/gl-transitions/gl-transitions) - The open collection of GL Transitions
 
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+*   [hooke007/mpv\_PlayKit](https://github.com/hooke007/mpv_PlayKit) - 🔄 mpv player 播放器折腾记录 Windows conf | 中文注释配置 汉化文档 快速帮助入门 | mpv-lazy 懒人包 Win11 x64 config | 着色器 shader 滤镜 filter 整合方案
 
-*   [clitic/vsd](https://github.com/clitic/vsd) - Download streams from DASH and HLS playlists.
+*   [hkiceflow/mpv\_video](https://github.com/hkiceflow/mpv_video) - 搭配目前最高效的实时超分及滤镜算法。With the most efficient real-time super-resolution and filter algorithms at present.
 
-*   [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences. Has a mode which aims to be compatible with Oniguruma syntax.
+*   [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
 
-*   [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
+*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
 
-*   [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) - \[READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
+*   [sixthsurge/photon](https://github.com/sixthsurge/photon) - A gameplay-focused shader pack for Minecraft
 
-*   [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
+*   [spiralhalo/LumiLights](https://github.com/spiralhalo/LumiLights) - Gameplay focused visual improvements for Canvas
 
-*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+## C\#
 
-*   [rerun-io/egui\_table](https://github.com/rerun-io/egui_table) - Advanced table viewer for egui
+*   [shitake2333/GUML](https://github.com/shitake2333/GUML) - Godot UI Markup Language
 
-*   [kang-sw/egui-data-table](https://github.com/kang-sw/egui-data-table) -
+*   [sselecirPyM/Godot-MMD](https://github.com/sselecirPyM/Godot-MMD) - Godot MMD Plugin with .NET
 
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+*   [Scighost/GainMapStego](https://github.com/Scighost/GainMapStego) - 一种基于增益图元数据的图像隐藏方法
 
-*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+*   [v0l/void.cat](https://github.com/v0l/void.cat) - Free file hosting website
 
-*   [wangfu91/usn-journal-rs](https://github.com/wangfu91/usn-journal-rs) - A Rust library for working with the NTFS USN change journal and enumerating the MFT.
+*   [zhicheng233/WhereMyWinCursor](https://github.com/zhicheng233/WhereMyWinCursor) - ⚡A utility to help you find your Windows cursor like MacOS
 
-*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+*   [DoomVoss/BASpark](https://github.com/DoomVoss/BASpark) - 基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas
 
-*   [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) - Package Manager for AOSC OS
+*   [Telltale-Modding-Group/Telltale-Texture-Tool](https://github.com/Telltale-Modding-Group/Telltale-Texture-Tool) - A GUI application designed to make texture mods possible for Telltale Tool games. It converts D3DTX files to PNG, DDS, TGA and other image formats and vice versa.
 
-*   [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
+*   [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 
-*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+*   [SalHe/ebuild](https://github.com/SalHe/ebuild) - 易语言高层构建工具
 
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+*   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 
-*   [neocturne/MinedMap](https://github.com/neocturne/MinedMap) - Minecraft map renderer and viewer
+*   [LiuYunPlayer/TuneLab](https://github.com/LiuYunPlayer/TuneLab) -
 
-*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+*   [vinaypamnani/wmie](https://github.com/vinaypamnani/wmie) - WMI Explorer
 
-*   [7086cmd/totp-console](https://github.com/7086cmd/totp-console) - Generate and manage your TOTP codes, in console.
+*   [SageChaozu/SyobonActionMono](https://github.com/SageChaozu/SyobonActionMono) - Syobon Action original source from author's Geocities site converted to MonoGame (Previously XNA)
 
-*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+*   [zigurous/unity-fruit-ninja-tutorial](https://github.com/zigurous/unity-fruit-ninja-tutorial) - 🍉 Learn to make Fruit Ninja in Unity.
 
-*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
+*   [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
 
-*   [kingwingfly/encrypt-config](https://github.com/kingwingfly/encrypt-config) - A rust crate to manage, persist and encrypt your configurations.
+*   [pamidur/aspect-injector](https://github.com/pamidur/aspect-injector) - AOP framework for .NET (c#, vb, etc)
 
-*   [AzurIce/ranim](https://github.com/AzurIce/ranim) - An animation engine implemented in rust, inspired by manim and JAnim
+*   [Eppie-io/Eppie-App](https://github.com/Eppie-io/Eppie-App) - Eppie — open protocol encrypted p2p email
 
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+*   [LagrangeDev/LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) - The V2 Implementation of Lagrange.Core, aim to provide more user-friendly interface and extreme efficiency (This is only a development repo, would be removed in future)
 
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+*   [Natsukage/EmojiManager](https://github.com/Natsukage/EmojiManager) - 一个配合QQNT使用的本地表情包管理工具
 
-*   [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit
+*   [lin-ycv/EverythingCommandPalette](https://github.com/lin-ycv/EverythingCommandPalette) - Everything search extension for Command Palette
 
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 
-*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+*   [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
 
-*   [Eonian-Sharp/ESPortscan](https://github.com/Eonian-Sharp/ESPortscan) - 超高速端口扫描器。
+*   [JaneySprings/DotRush](https://github.com/JaneySprings/DotRush) - Lightweight C# development environment for VSCode
 
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
 
-*   [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+*   [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 
-*   [onion108/xibao-gen](https://github.com/onion108/xibao-gen) - Generate xibao picture
+*   [zhweaa/ShuiShuiMaoWatcher](https://github.com/zhweaa/ShuiShuiMaoWatcher) - 专门用于视奸水水猫（https://x.com/shuishuimao8964
 
-*   [Martinplior/high\_performance\_key\_overlay](https://github.com/Martinplior/high_performance_key_overlay) - A high performance key overlay, but not only high performance.
+*   [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
 
-*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics visualizer & versatile music player, built with WinUI3/Win2D | 一款优雅且高度自定义的歌词可视化与全能音乐播放应用，基于 WinUI3/Win2D 构建
 
-*   [contextfreeinfo/taca](https://github.com/contextfreeinfo/taca) - Wasm runtime for multimedia apps
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 
-*   [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
+*   [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 
-*   [maxcurzi/tplay](https://github.com/maxcurzi/tplay) - A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
+*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 
-*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+*   [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
 
-*   [insomnimus/nodi](https://github.com/insomnimus/nodi) - A rust library for playing and abstraction of MIDI files.
+*   [Five-Blocks-at-Fredricks/five-blocks-at-fredricks](https://github.com/Five-Blocks-at-Fredricks/five-blocks-at-fredricks) - A Five Nights at Freddy's Fan Game meant to be Goofy
 
-*   [insomnimus/plmidi](https://github.com/insomnimus/plmidi) - A command line MIDI player, written in rust.
+*   [face-hh/8055](https://github.com/face-hh/8055) - Real-time anime vision for VR headsets.
 
-*   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
+*   [LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay) - A Simai Player
 
-*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+*   [MCSLTeam/MCServerLauncher-Future](https://github.com/MCSLTeam/MCServerLauncher-Future) - Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher & Daemon)
 
-*   [matrixlin/text\_editor](https://github.com/matrixlin/text_editor) - Learn the Rust programming language by writing your own text editor using the Rust programming language.
+*   [SebLague/Pathfinding](https://github.com/SebLague/Pathfinding) -
 
-*   [HaoboGu/rmk](https://github.com/HaoboGu/rmk) - Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support
+*   [zhweaa/OneLauncher](https://github.com/zhweaa/OneLauncher) - 一个Minecraft启动器
 
-*   [typst/subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts.
+*   [2394425147/astrodx](https://github.com/2394425147/astrodx) -
 
-*   [chris-zen/kiro-synth](https://github.com/chris-zen/kiro-synth) - Modular sound synthesizer written in Rust
+*   [Corona-Studio/ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) - The next generation Minecraft launcher core written in C# providing the freest, fastest and the most complete experience.
 
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+*   [AidanNelson/anamorphose-utility](https://github.com/AidanNelson/anamorphose-utility) - A tool for performing refractive (lens-based) anamorphosis in Unity.
 
-*   [michaelfairley/ezing](https://github.com/michaelfairley/ezing) - Easing functions for Rust
+*   [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative
 
-*   [gin66/rusthesia](https://github.com/gin66/rusthesia) - Reads midi files and create piano notes waterfall
+*   [zzzzzz9125/UltraPaste](https://github.com/zzzzzz9125/UltraPaste) - UltraPaste Extension for VEGAS Pro.
 
-*   [Coddeus/Pianorium](https://github.com/Coddeus/Pianorium) - A customizable midi visualizer/renderer for piano performances
+*   [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows Vista through 11.
 
-*   [kovaxis/midly](https://github.com/kovaxis/midly) - A feature-complete MIDI parser and writer focused on speed.
+*   [ebrasha/abdal-anydesk-remote-ip-detector](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector) - CVE-2024-52940 - A zero-day vulnerability in AnyDesk's "Allow Direct Connections" feature, discovered and registered by Ebrahim Shafiei (EbraSha), exposing public and private IP addresses. For details, visit the NVD, Tenable, or MITRE pages.
 
-*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+*   [hlaueriksson/Community.PowerToys.Run.Plugins](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins) - 🗂️🔎 Community PowerToys Run Plugins 🔌
 
-*   [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
+*   [N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - 一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run
 
-*   [Bylx666/key-lang](https://github.com/Bylx666/key-lang) - 目标是最精致的编程语言
+*   [Advaith3600/PowerToys-Run-Currency-Converter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - PowerToys Run plugin which will convert real and crypto currencies.
 
-*   [wyatt-herkamp/vue3-simple-icons](https://github.com/wyatt-herkamp/vue3-simple-icons) - Simple-Icons for Vue3 with Typescript Definitions.
+*   [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 
-*   [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and MacOs
+*   [pankoza2-pl/kapi2.0peys-malwares](https://github.com/pankoza2-pl/kapi2.0peys-malwares) - malwares by kapi2.0peys and Uuwai. Download at your own risk
 
-*   [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
+*   [bghta666/AICHelper](https://github.com/bghta666/AICHelper) -
 
-*   [srcres258/minecraft-rust](https://github.com/srcres258/minecraft-rust) -
+*   [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 
-*   [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+*   [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) - OSC App to allow VRChat avatars to interact with eye and facial tracking hardware
 
-*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 
-*   [lolishinshi/imsearch](https://github.com/lolishinshi/imsearch) - 基于特征点匹配的大规模相似图片搜索
+*   [tryashtar/image-map](https://github.com/tryashtar/image-map) - Converts image to maps for Minecraft Java and Bedrock
 
-*   [kawayww/deci-player](https://github.com/kawayww/deci-player) - A music-player written with rust and iced
+*   [VvvfGeeks/VVVF-Simulator](https://github.com/VvvfGeeks/VVVF-Simulator) - Simulates VVVF on PC
 
-*   [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+*   [Laster-dev/WeChat-Dump-Auto](https://github.com/Laster-dev/WeChat-Dump-Auto) - 微信取证---完全自动化的基地址查找，密钥抓取，打压缩上传
 
-*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+*   [IAFEnvoy/ThreeBody-Simulators](https://github.com/IAFEnvoy/ThreeBody-Simulators) -
 
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+*   [cuppar/angry\_bird](https://github.com/cuppar/angry_bird) -
 
-*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
 
-*   [19MisterX98/Nether\_Bedrock\_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
+*   [null7323/Zenith-MIDI-Modded](https://github.com/null7323/Zenith-MIDI-Modded) - Zenith-MIDI-Modified
 
-*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
+*   [KeppySoftware/KMC](https://github.com/KeppySoftware/KMC) - A fully functional MIDI to WAV/OGG converter.
 
-*   [kingwingfly/fav](https://github.com/kingwingfly/fav) - Back up your favorite bilibili resources with CLI. 根据 收藏夹/up主 批量下载B站视频
+*   [CTFAK/CTFAK2.0](https://github.com/CTFAK/CTFAK2.0) - Updated version of the Clickteam Fusion Army Knife Decompiler
 
-*   [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
+*   [Taiizor/Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+*   [arcusmaximus/YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
 
-*   [Spu7Nix/SPWN-language](https://github.com/Spu7Nix/SPWN-language) - A language for Geometry Dash triggers
+*   [DmitriySalnikov/GodotPCKExplorer](https://github.com/DmitriySalnikov/GodotPCKExplorer) - Small program for exploring and extracting files from the Godot Engine PCK
 
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+*   [Bioruebe/godotdec](https://github.com/Bioruebe/godotdec) - An unpacker for Godot Engine package files (.pck)
 
-*   [kingwingfly/downloader](https://github.com/kingwingfly/downloader) - A downloader by Tauri, Nextjs and actix.
+*   [yukieiji/UnityExplorer](https://github.com/yukieiji/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 
-*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
+*   [SieBRUM/minecraft-server-discovery](https://github.com/SieBRUM/minecraft-server-discovery) - Tool to discover minecraft servers all over the internet and visualize them in a web application. Written in C# and Angular
 
-*   [ganlvtech/obs-audio-renderer](https://github.com/ganlvtech/obs-audio-renderer) - OBS 音频渲染器，将音频的采样信息渲染成视频画面
+*   [clinlx/CN\_GreenLumaGUI](https://github.com/clinlx/CN_GreenLumaGUI) - 用WPF开发的GreenLuma的简单易用的中文图形界面
 
-*   [ganlvtech/obs-video-tile-remap](https://github.com/ganlvtech/obs-video-tile-remap) - OBS 视频分块重映射插件
+*   [RazTools/Studio](https://github.com/RazTools/Studio) - Modded AssetStudio with new features
 
-*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
+*   [Tom60chat/DeskBand-Media-Controls](https://github.com/Tom60chat/DeskBand-Media-Controls) - Control your music from your taskbar.
 
-*   [framist/egg-language-server](https://github.com/framist/egg-language-server) - egg 驱动的编写时代码优化语言服务器及 VS Code 插件 | Egg-powered code optimization language server & VS Code extension
+*   [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
 
-*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 
-*   [BRA1L0R/hopper-rs](https://github.com/BRA1L0R/hopper-rs) - Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft
+*   [arduano/Kiva](https://github.com/arduano/Kiva) - An optimised and modern MIDI player, with the goal of replacing Piano From Above as well as some other common black midi players.
 
-*   [StarWishsama/starrail-unlock-rs](https://github.com/StarWishsama/starrail-unlock-rs) - 星穹铁道 FPS 解锁 | Unlock Honkai: Star Rail fps limit | Written in Rust
+*   [ByMynix/CouInjector](https://github.com/ByMynix/CouInjector) - An Open Source Injector for CS:GO, written in C#.
 
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+*   [tiouoo/YMCL.Avalonia](https://github.com/tiouoo/YMCL.Avalonia) - Yu Minecraft Launcher · YMCL !
 
-*   [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
+*   [MSEDGE-CORE/Fringe](https://github.com/MSEDGE-CORE/Fringe) - Fringe
 
-*   [TeamFlos/phira](https://github.com/TeamFlos/phira) -
+*   [jonathanpeppers/dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
 
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
 
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+*   [rxaa/MediaMux](https://github.com/rxaa/MediaMux) - A windows tool for converting/muxing/split/concat videos.
 
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
 
-*   [BHznJNs/Calculator.rs](https://github.com/BHznJNs/Calculator.rs) - A simple command-line calculator program writen with Rust.
+*   [EplExplorer/EFormRipper](https://github.com/EplExplorer/EFormRipper) - Extract form from EPL binary file 从易语言二进制文件中提取窗口信息
 
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [Snow1226/CameraPlus](https://github.com/Snow1226/CameraPlus) - Plugin for Beat Saber for a smoother and wider FOV camera
 
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [Thryrallo/VRC-Avatar-Performance-Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools) -
 
-*   [theorzr/portablemc](https://github.com/theorzr/portablemc) - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
+*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [moom825/visualstudio-suo-exploit](https://github.com/moom825/visualstudio-suo-exploit) - This repository is a tool to create a .suo that when run by visual studio's will achieve code execution
 
-*   [katyo/msdfgen-rs](https://github.com/katyo/msdfgen-rs) - Rust bindings to msdfgen library
+*   [SychicBoy/NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) - An open source (GPLv3) deobfuscator and unpacker for Eziriz .NET Reactor
 
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+*   [bbepis/XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) -
 
-*   [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
 
-*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+*   [MoyuScript/StarTripOrchestra](https://github.com/MoyuScript/StarTripOrchestra) - 《星空列车与白的旅行》OP 管弦乐改编可视化工程（Godot & C#）
 
-*   [anna-is-cute/paste](https://github.com/anna-is-cute/paste) - A sensible, modern pastebin.
+*   [EveElseIf/MusicParty](https://github.com/EveElseIf/MusicParty) -
 
-*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
+*   [Forairaaaaa/Lucy](https://github.com/Forairaaaaa/Lucy) - 简约的串口监视器🫠  Clean Design Serial Monitor, Base On WinUI3
 
-*   [biliup/biliup-app](https://github.com/biliup/biliup-app) - b站全平台投稿客户端，支持多p投稿，稿件编辑
+*   [7hr0wer/ProxyValidator](https://github.com/7hr0wer/ProxyValidator) - 用C#开发的简单的多线程代理验证工具。
 
-*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+*   [239573049/EarthChat](https://github.com/239573049/EarthChat) -
 
-*   [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+*   [DjShinter/NecronomiconPriority](https://github.com/DjShinter/NecronomiconPriority) - This is a mod made for Town of Salem 2, It visualizes the Necronomicon priority.
 
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+*   [DevBobcorn/MarkovCraft](https://github.com/DevBobcorn/MarkovCraft) - MarkovJunior in Unity
 
-*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+*   [MisakaCirno/QQGroupRescueTool](https://github.com/MisakaCirno/QQGroupRescueTool) - QQ群抢救工具
 
-*   [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+*   [qwqdanchun/RainbowSheep](https://github.com/qwqdanchun/RainbowSheep) - Change hash for a signed pe
 
-*   [veloren/veloren](https://github.com/veloren/veloren) - \[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+*   [Hellobaka/LoliconApiSetuBot](https://github.com/Hellobaka/LoliconApiSetuBot) - 水银涩图机~
 
-*   [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
+*   [commandlineparser/commandline](https://github.com/commandlineparser/commandline) - The best C# command line parser that brings standardized \*nix getopt style, for .NET.  Includes F# support
 
-*   [chewing/windows-chewing-tsf](https://github.com/chewing/windows-chewing-tsf) - Free software implementation of Chewing Input method for Windows based on Text Services Framework
+*   [Arispex/PrismBot](https://github.com/Arispex/PrismBot) - Terraria TShock QQ 机器人的终极解决方案
 
-*   [frk1/hazedumper-rs](https://github.com/frk1/hazedumper-rs) - Source code of the hazedumper written in Rust
+*   [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+*   [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
 
-*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+*   [eDonnes124/Town-Of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R) - An Among Us mod containing a bunch of roles
 
-*   [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+*   [NuclearPowered/Reactor](https://github.com/NuclearPowered/Reactor) - Modding api for Among Us
 
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+*   [tukasa0001/TownOfHost](https://github.com/tukasa0001/TownOfHost) - Host only mod for Among Us.
 
-*   [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
+*   [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player
 
-*   [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
+*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+*   [Xing-Fax/RePKG-WPF](https://github.com/Xing-Fax/RePKG-WPF) - 用于解压PKG文件的GUI图形界面
 
-*   [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
+*   [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
 
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 
-*   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+*   [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
 
-*   [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+*   [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
 
-*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+*   [AuroraStudio-aurorast/MCBE-Version-Manager](https://github.com/AuroraStudio-aurorast/MCBE-Version-Manager) - Minrctaft Windows 10 Edition(MCBE) Multi-Version launcher.
 
-*   [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
+*   [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
 
-*   [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framework.
+*   [Fody/Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 
-*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+*   [Fody/Costura](https://github.com/Fody/Costura) - Embed references as resources
 
-*   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+*   [2DIPW/audio\_dataset\_screener](https://github.com/2DIPW/audio_dataset_screener) - An auxiliary tool for manual screening of audio dataset.
 
-*   [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
+*   [TownOfNext/TownOfNext](https://github.com/TownOfNext/TownOfNext) - An AmongUs mod with learning & love
 
-*   [MaulingMonkey/appx](https://github.com/MaulingMonkey/appx) - manage appx packages
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
-*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
+*   [fishaudio/OpenUtau](https://github.com/fishaudio/OpenUtau) - OpenUTAU renderer for diffsinger / 适用于diffsinger的OpenUTAU渲染器，使用方法：https://github.com/xunmengshe/OpenUtau/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89
+
+*   [xunmengshe/OpenUtau](https://github.com/xunmengshe/OpenUtau) -
+
+*   [CjangCjengh/MoeGoe\_GUI](https://github.com/CjangCjengh/MoeGoe_GUI) - GUI for MoeGoe
+
+*   [AlaricGilbert/MIDI2NBS](https://github.com/AlaricGilbert/MIDI2NBS) - A tool helps you import MIDI files into Minecraft via Minecraft Note Block Studio (Needs Piano+ resource pack.)
+
+*   [ldqk/ImageSearch](https://github.com/ldqk/ImageSearch) - 基于.NET10的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+*   [HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - Bilibili 直播录制
+
+*   [xiaoxinpro/ChineseSubtitleConversionTool](https://github.com/xiaoxinpro/ChineseSubtitleConversionTool) - 繁体简体字幕转换工具
+
+*   [Polyhaze/Volte](https://github.com/Polyhaze/Volte) - A free, robust, open-source Discord bot written in C# using .NET and a whole lotta Man Hours.
+
+*   [LingFeng-bbben/MajdataView](https://github.com/LingFeng-bbben/MajdataView) - Next-generation Simai: Note designer for maimai. The unity viewer part of the Majdata.
+
+*   [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
+
+*   [EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - Prefetch Explorer Command Line
+
+*   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
+
+*   [FragLand/minestat](https://github.com/FragLand/minestat) - :chart\_with\_upwards\_trend: A Minecraft server status checker
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
+
+*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+
+*   [Xcube-Studio/Natsurainko.FluentLauncher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) - A Minecraft launcher specifically designed for Windows 11, delivering a clean and smooth visual experience.
+
+*   [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
+
+*   [Blessing-Studio/WonderLab](https://github.com/Blessing-Studio/WonderLab) - 下一代 Minecraft 启动器
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [ledoge/novideo\_srgb](https://github.com/ledoge/novideo_srgb) - Calibrate monitors to sRGB or other color spaces on NVIDIA GPUs, based on EDID data or ICC profiles
+
+*   [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
+
+*   [kemo14331/Particle-Converter](https://github.com/kemo14331/Particle-Converter) - 画像ファイルをmcfunctionに変換するツール
+
+*   [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
+
+*   [AdminHcat/LOIC-X](https://github.com/AdminHcat/LOIC-X) - 低轨道离子炮——一个开源的网络压力测试工具，使用C#编写。基于Praetox的LOIC项目。使用此工具造成的任何潜在风险自行承担。
+
+*   [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
+
+*   [Wenveo/AakStudio.Shell.UI.Themes.AvalonDock](https://github.com/Wenveo/AakStudio.Shell.UI.Themes.AvalonDock) - AakStudio.Shell.UI Themes for AvalonDock
+
+*   [Wenveo/AakStudio.Shell.UI](https://github.com/Wenveo/AakStudio.Shell.UI) - Wpf control styles and themes of AakStudio
+
+*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
+
+*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
+
+*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+
+*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
+
+*   [Chlna6666/mc-w10-version-launcher](https://github.com/Chlna6666/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
+
+*   [stakira/OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
+
+*   [wherewhere/Mica-For-UWP](https://github.com/wherewhere/Mica-For-UWP) - A UWP Library that implement an easy way to use Mica material without WinUI.
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
+
+*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
+
+*   [YUXUAN888/FSM3](https://github.com/YUXUAN888/FSM3) - FSMLauncher!
+
+*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
+
+*   [Pryaxis/TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
+
+*   [Mirai-NET-Shelter/Mirai.Net](https://github.com/Mirai-NET-Shelter/Mirai.Net) - Mirai.Net是基于mirai-api-http实现的轻量级mirai社区sdk。
+
+*   [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) - Official ProtonVPN Windows app
+
+*   [TEdit/Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor) - TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers!
+
+*   [efojug/Grasssummoner](https://github.com/efojug/Grasssummoner) - Grasscutter Launcher
+
+*   [Qiu233/QTRHacker](https://github.com/Qiu233/QTRHacker) - A powerful hack for Terraria
+
+*   [flipswitchingmonkey/FlexASIO\_GUI](https://github.com/flipswitchingmonkey/FlexASIO_GUI) - Simple configuration GUI for FlexASIO
+
+*   [KamenRiderKuuga/ProcessGuard](https://github.com/KamenRiderKuuga/ProcessGuard) - A windows service to run all kinds of executeable from Session 0, can also be used to run console programs as windows services
+
+*   [mkaring/ConfuserEx](https://github.com/mkaring/ConfuserEx) - An open-source, free protector for .NET applications
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [sabihoshi/GenshinLyreMidiPlayer](https://github.com/sabihoshi/GenshinLyreMidiPlayer) - Genshin Impact Windsong Lyre, Floral Zither, & Vintage Lyre MIDI auto player in Modern Mica UI. Supports MIDI instruments & Playlist controls.
+
+*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
+
+*   [InJeCTrL/BiliCLOnline](https://github.com/InJeCTrL/BiliCLOnline) - BiliCommentLottery Online
+
+*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
+
+*   [zmjack/PortProxyGUI](https://github.com/zmjack/PortProxyGUI) - A manager of netsh interface portproxy which is to evaluate TCP/IP port redirect on windows.
+
+*   [li-zheng-hao/StickyNotes](https://github.com/li-zheng-hao/StickyNotes) - 一个便捷的Windows桌面便利贴/A convenitent Windows Notes
+
+*   [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
+
+*   [mrd0x/EvilSelenium](https://github.com/mrd0x/EvilSelenium) - EvilSelenium is a tool that weaponizes Selenium to attack Chromium based browsers.
+
+*   [keygen-sh/example-csharp-license-activation](https://github.com/keygen-sh/example-csharp-license-activation) - An example implementation of a node-locked license activation flow using Keygen and C# .NET
+
+*   [NewbieGameCoder/IllegalWordsDetection](https://github.com/NewbieGameCoder/IllegalWordsDetection) - 提供高效率的较简单的Unity3d手游客户端的敏感词检测的算法，能应付大部分敏感词过滤需求
+
+*   [LiveSplit/LiveSplit](https://github.com/LiveSplit/LiveSplit) - A sleek, highly customizable timer for speedrunners.
+
+*   [xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
+
+*   [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
+
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
+
+*   [POPCORNBOOM/CardEditor](https://github.com/POPCORNBOOM/CardEditor) - 一款专为桌游设计师开发的批处理数值填入卡牌生成器/A card batch generator specially developed for board game designers
+
+*   [CodeName-Anti/CrabGame-Cheat](https://github.com/CodeName-Anti/CrabGame-Cheat) - A Cheat for CrabGame by DaniDev.
+
+*   [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
+
+*   [krxdev-kaan/AqHax-CSGO](https://github.com/krxdev-kaan/AqHax-CSGO) - Simple CSGO Hack
+
+*   [icsharpcode/CodeConverter](https://github.com/icsharpcode/CodeConverter) - Convert code from C# to VB.NET and vice versa using Roslyn
+
+*   [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+
+*   [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
+
+*   [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+
+*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
+
+*   [OpenHV/OpenHV](https://github.com/OpenHV/OpenHV) - An Open Source Pixelart Science-Fiction Real-Time-Strategy game
+
+*   [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) - A simple remote tool in C#.
+
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+*   [mlaily/NegativeScreen](https://github.com/mlaily/NegativeScreen) - NegativeScreen is a Windows application allowing you to invert your screen colors. (and more)
+
+*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
+
+*   [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
+
+*   [YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive) - Onedrive & SharePoint 文件浏览网页程序
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+
+*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+
+*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows (and now cross-platform via Certify Management Hub). Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Download from certifytheweb.com
+
+*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
+
+*   [Xing-Fax/WPF-Music\_Player](https://github.com/Xing-Fax/WPF-Music_Player) - 一款界面漂亮的音乐播放器
+
+*   [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
+
+*   [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
+
+*   [Unity-Technologies/UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation) -
+
+*   [InJeCTrL/BiliCommentLottery](https://github.com/InJeCTrL/BiliCommentLottery) - Bilibili评论区抽奖工具
+
+*   [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
+
+*   [automuteus/amonguscapture](https://github.com/automuteus/amonguscapture) - Capture of the local Among Us executable state
+
+*   [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
+
+*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+
+*   [ForkGG/Fork-legacy](https://github.com/ForkGG/Fork-legacy) - Fork: Minecraft Server Manager GUI for Windows
+
+*   [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
+
+*   [Impostor/Impostor](https://github.com/Impostor/Impostor) - Impostor - An open source reimplementation of the Among Us Server
+
+*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
+
+*   [Zeruel87/Cameo-mod](https://github.com/Zeruel87/Cameo-mod) - This openRA mod brings together a couple of other 2D-RTS into a single game.
+
+*   [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
+*   [XuanchenLin/NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for developers who want to create Windows desktop applications with HTML, CSS and JavaScript.
+
+*   [LimerBoy/FireFox-Thief](https://github.com/LimerBoy/FireFox-Thief) - :fox\_face: Decrypt gecko based browsers passwords, cookies, history, bookmarks.
+
+*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+
+*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
+*   [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
+
+*   [Kermalis/VGMusicStudio](https://github.com/Kermalis/VGMusicStudio) - 🎵 A program that lets you listen to the music from popular video game formats. 🎵
+
+*   [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
+
+*   [leezer3/OpenBVE](https://github.com/leezer3/OpenBVE) - OpenBVE- A free train simulator
+
+*   [hbl917070/TiefSee](https://github.com/hbl917070/TiefSee) -
+
+*   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
+
+*   [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI) - A software MIDI synthesizer for professional use.
+
+*   [CnCNet/xna-cncnet-client](https://github.com/CnCNet/xna-cncnet-client) - XNA / MonoGame based client for playing classic Command & Conquer games both online and offline with a CnCNet game spawner.
+
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+
+*   [Fm233/Program-Maker](https://github.com/Fm233/Program-Maker) -
+
+*   [OpenRA/Eluant](https://github.com/OpenRA/Eluant) - A set of C# bindings for Lua with a specific focus on building sandboxes.
+
+*   [VitaliiTsilnyk/NGettext](https://github.com/VitaliiTsilnyk/NGettext) - A cross-platform .NET implementation of the GNU/Gettext library.
+
+*   [MustaphaTR/OpenRA](https://github.com/MustaphaTR/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, \*BSD and Mac OS X.
+
+*   [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR) - Capture level information & events from a Mario Maker 2 game feed and display on a locally hosted web app.
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [Inq8/CAmod](https://github.com/Inq8/CAmod) - Combined Arms
+
+*   [CombinEC-R/Medieval-Warfare](https://github.com/CombinEC-R/Medieval-Warfare) - Medieval Warfare mod for OpenRa
+
+*   [cookgreen/Yuris-Revenge](https://github.com/cookgreen/Yuris-Revenge) - A Red Alert 2 Yuri's Revenge mod for OpenRA Engine
+
+*   [zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui) - 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置
+
+*   [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+
+*   [dahall/TaskScheduler](https://github.com/dahall/TaskScheduler) - Provides a .NET wrapper for the Windows Task Scheduler. It aggregates the multiple versions, provides an editor and allows for localization.
+
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+*   [zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer) - 一款优雅的UWP文件管理器 | An elegant UWP Explorer
+
+*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
+
+*   [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) - #1 Open Source Unity Networking Library
+
+*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+*   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
+
+*   [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
+
+*   [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
+
+*   [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+
+*   [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, \*BSD and Mac OS X.
+
+*   [ABrandau/Shattered-Paradise-SDK](https://github.com/ABrandau/Shattered-Paradise-SDK) - Shattered Paradise's main repository and installation Kit.
+
+*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+*   [MustaphaTR/Romanovs-Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) - Romanov's Vengeance is an OpenRA mod based on Red Alert 2.
+
+*   [mono/CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages
+
+*   [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
+
+*   [buchizo/ClaudiaIDE](https://github.com/buchizo/ClaudiaIDE) - This extension can change easily the background image of editor window in Visual Studio.
+
+*   [colinkiama/UWP-Package-Installer](https://github.com/colinkiama/UWP-Package-Installer) - An UWP installer for appx/appxbundle packages
+
+*   [ZeBobo5/Vlc.DotNet](https://github.com/ZeBobo5/Vlc.DotNet) - .NET control that hosts the audio/video capabilities of the VLC libraries
+
+*   [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
+
+*   [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
+
+*   [Fm233/Weird-PPT-Maker](https://github.com/Fm233/Weird-PPT-Maker) -
+
+*   [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+
+*   [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material.
+
+*   [LazoVelko/Windows-Hacks](https://github.com/LazoVelko/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
+
+*   [hexadecimal233/Windows-Store-Downloader](https://github.com/hexadecimal233/Windows-Store-Downloader) - Download Microsoft Store items using store.rg-adguard.net API
+
+*   [ZhangYuShui/HttpRequester](https://github.com/ZhangYuShui/HttpRequester) - window 端，测试后台接口的工具软件。C#语言，封装有get和post。
+
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+
+*   [YuanJianTing/WinForm.UI](https://github.com/YuanJianTing/WinForm.UI) - WinForm 皮肤，自定义控件
+
+*   [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+
+*   [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
+
+*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
+
+*   [shadow578/ImmersiveMiracast](https://github.com/shadow578/ImmersiveMiracast) - Easy immersive Miracast for Windows 10
+
+*   [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
+
+*   [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [fdorg/flashdevelop](https://github.com/fdorg/flashdevelop) - FlashDevelop is a free and open source code editor.
+
+*   [crpietschmann/VirtualRouter](https://github.com/crpietschmann/VirtualRouter) - Wifi Hotspot for Windows computers (Windows 7, 8.x, Server 2012 and newer!)
+
+*   [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.1
+
+*   [Fm233/Watermelon-but-it-s-3D](https://github.com/Fm233/Watermelon-but-it-s-3D) -
+
+*   [FlyTechVideos/BluescreenSimulator](https://github.com/FlyTechVideos/BluescreenSimulator) - Bluescreen Simulator for Windows
+
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+
+*   [Shedelbower/MinecraftClone](https://github.com/Shedelbower/MinecraftClone) - A Minecraft clone I made from scratch in Unity.
+
+*   [riskydissonance/SharpCookieMonster](https://github.com/riskydissonance/SharpCookieMonster) - Extracts cookies from Chrome.
+
+*   [sovetskyfish/pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
+
+*   [zozpretor/desktoppet](https://github.com/zozpretor/desktoppet) -
+
+*   [huiyadanli/DesktopPet](https://github.com/huiyadanli/DesktopPet) - 一个桌面宠物，模仿伪春菜(伺か)的作品
+
+*   [Adrianotiger/desktopPet](https://github.com/Adrianotiger/desktopPet) - Remembering the lovely eSheep (stray sheep) from 1995 -
+
+*   [zhongrongzhao/Fishball-modification-system-tool](https://github.com/zhongrongzhao/Fishball-modification-system-tool) - 鱼蛋修改系统工具：本软件可修改”控制面板\系统和安全\系统“的图标与”制造商“名称。
+
+*   [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+
+*   [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
+
+*   [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
+
+*   [XIU2/TileAssistTool](https://github.com/XIU2/TileAssistTool) - 🎨 Windows10 磁贴辅助小工具
+
+*   [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
+
+*   [RexProg/ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
+
+*   [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
+
+*   [AnyListen/tianruoocr](https://github.com/AnyListen/tianruoocr) - 已停止维护，欢迎使用新版跨平台 OCR 工具（树洞 OCR 文字识别）
+
+*   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
+
+*   [NYAN-x-CAT/LimeUSB-Csharp](https://github.com/NYAN-x-CAT/LimeUSB-Csharp) - Malware USB Spread | Example C#
+
+*   [NYAN-x-CAT/Lime-Crypter](https://github.com/NYAN-x-CAT/Lime-Crypter) - Simple obfuscation tool
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [billiegoose/lock-screen](https://github.com/billiegoose/lock-screen) - An invisible screensaver / lock screen for Windows 7+
+
+*   [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
+
+*   [beetlex-io/WebApiBenchmark](https://github.com/beetlex-io/WebApiBenchmark) - Web api management and performance testing tools
+
+*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+
+*   [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [shack2/SNETCracker](https://github.com/shack2/SNETCracker) - 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
+
+*   [Mochengvia/PanuonUI.Silver](https://github.com/Mochengvia/PanuonUI.Silver) - Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.
+
+*   [QinZhuo/QXmlTable](https://github.com/QinZhuo/QXmlTable) - xml表格化编辑工具
+
+*   [XIU2/TileTool](https://github.com/XIU2/TileTool) - 🎨 Windows10 磁贴美化小工具
+
+*   [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
+
+*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+
+*   [dlebansais/ZombifyMe](https://github.com/dlebansais/ZombifyMe) - A library that can restart the program it's linked with if it crashes unexpectedly.
+
+*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+
+*   [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
+
+*   [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
+
+*   [PMZeroSkyline/ReNamer](https://github.com/PMZeroSkyline/ReNamer) -   *一款轻量级批量文件名称修改器*
+
+*   [hui-shao/welcome-words](https://github.com/hui-shao/welcome-words) - :thought\_balloon: 用于修改Windows开机欢迎词
+
+*   [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
+
+*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
+
+*   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+
+*   [huix-oldcat/ArkDesktop](https://github.com/huix-oldcat/ArkDesktop) -
+
+*   [copyliu/bililive\_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
+
+*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [the1812/Popcap-Patches](https://github.com/the1812/Popcap-Patches) - Fix 3D acceleration of Popcap games in Windows 10
+
+*   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 通过 UAC 阻止流氓软件的管理员授权. / Prevent UAC authorization of malware.
+
+*   [ntminer/NtMiner](https://github.com/ntminer/NtMiner) - GPU miner. github不太慢，https://ntminer.coding.net/public/NtMiner/NtMiner/git/files
+
+*   [OpenRA/ra2](https://github.com/OpenRA/ra2) - A Red Alert 2 mod for the OpenRA game engine
+
+*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
+
+*   [xiaoyaocz/biliuwp](https://github.com/xiaoyaocz/biliuwp) - bilibili uwp
+
+*   [SimpleBrowserDotNet/SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - A flexible and intuitive web browser engine designed for automation tasks. Built on .NET Standard 2.1.
+
+*   [kwsch/NHSE](https://github.com/kwsch/NHSE) - Animal Crossing: New Horizons save editor
+
+*   [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
+
+## Swift
+
+*   [Stmol/ssh-keys-manager-macos-app](https://github.com/Stmol/ssh-keys-manager-macos-app) - A native macOS app for managing SSH keys, editing SSH config entries, and safely organizing your local SSH workspace.
+
+*   [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
+
+*   [thebrowsercompany/swift-winrt](https://github.com/thebrowsercompany/swift-winrt) - Swift Language Projection for WinRT
+
+*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+
+*   [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - Download. Flash. Boot. The all-in-one macOS USB creator
+
+*   [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) - The 7-Zip derivative intended for macOS
+
+*   [Lakr233/CoreExtendedNFC](https://github.com/Lakr233/CoreExtendedNFC) - Swift Package porting libnfc protocol-layer logic to iOS via CoreNFC
+
+*   [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
+
+*   [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) - Open source implementation of Apple's SwiftUI.
+
+*   [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
+
+*   [Lakr233/SafariYYDS](https://github.com/Lakr233/SafariYYDS) -
+
+*   [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+*   [lbrndnr/SoundCloud](https://github.com/lbrndnr/SoundCloud) - The private SoundCloud API v2 in Swift
+
+*   [lbrndnr/nuage-macos](https://github.com/lbrndnr/nuage-macos) - A native SoundCloud app for macOS, written in SwiftUI
+
+*   [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+
+*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+
+*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
+*   [CrayonChimp/GmailNotification](https://github.com/CrayonChimp/GmailNotification) - A tiny Gmail notification app for mac
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+
+*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+
+*   [SamusAranX/MinimalMIDIPlayer](https://github.com/SamusAranX/MinimalMIDIPlayer) - A MIDI player for macOS with SF2/DLS soundfont support
+
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+
+*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+
+*   [Pavo-IM/OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X) - OpenCore Config Generator
 
 ## JavaScript
 
@@ -3980,6 +5046,22 @@
 *   [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 
 *   [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
+
+*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
+
+*   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+
+*   [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
+
+*   [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
+
+*   [libnoname/noname](https://github.com/libnoname/noname) -
+
+*   [Mr-Po/bilibili-favorites-fix](https://github.com/Mr-Po/bilibili-favorites-fix) - 修复 哔哩哔哩(www.bilibili.com) 失效的收藏。（可查看av号、简介、标题、封面）
+
+*   [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
+
+*   [justjavac/Flarum](https://github.com/justjavac/Flarum) - Flarum - 优雅自由的 PHP 轻社区
 
 ## Python
 
@@ -5693,675 +6775,27 @@
 
 *   [dunnousername/yanderifier](https://github.com/dunnousername/yanderifier) - First-Order-Wrapper (formerly known as Yanderify) is a front-end tool for first-order-motion. It aims to make using first-order-motion face animation accessible to everyone, for education and entertainment.
 
-## C\#
+*   [Teahouse-Studios/mcwzh-meme-resourcepack](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) - A pack that include meme translation in Chinese. | 梗体中文
 
-*   [sselecirPyM/Godot-MMD](https://github.com/sselecirPyM/Godot-MMD) - Godot MMD Plugin with .NET
+*   [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 
-*   [Scighost/GainMapStego](https://github.com/Scighost/GainMapStego) - 一种基于增益图元数据的图像隐藏方法
+*   [BingLingGroup/autosub](https://github.com/BingLingGroup/autosub) - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles
 
-*   [v0l/void.cat](https://github.com/v0l/void.cat) - Free file hosting website
+*   [agermanidis/autosub](https://github.com/agermanidis/autosub) - \[NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
 
-*   [zhicheng233/WhereMyWinCursor](https://github.com/zhicheng233/WhereMyWinCursor) - ⚡A utility to help you find your Windows cursor like MacOS
+*   [aboood40091/Miyamoto](https://github.com/aboood40091/Miyamoto) - A supercharged fork of the modern day level editor.
 
-*   [DoomVoss/BASpark](https://github.com/DoomVoss/BASpark) - 基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas
+*   [tarcisio-marinho/GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) - A Linux Ransomware
 
-*   [Telltale-Modding-Group/Telltale-Texture-Tool](https://github.com/Telltale-Modding-Group/Telltale-Texture-Tool) - A GUI application designed to make texture mods possible for Telltale Tool games. It converts D3DTX files to PNG, DDS, TGA and other image formats and vice versa.
+*   [satan1a/DDoS\_Attacket\_v0.1](https://github.com/satan1a/DDoS_Attacket_v0.1) - DDoS攻击器
 
-*   [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
+*   [aploium/zmirror-onekey](https://github.com/aploium/zmirror-onekey) - 一键部署zmirror镜像
 
-*   [SalHe/ebuild](https://github.com/SalHe/ebuild) - 易语言高层构建工具
+*   [Vincent-WenZX/translate-n-times](https://github.com/Vincent-WenZX/translate-n-times) - translate a article or some text n times
 
-*   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
+*   [rachpt/lanzou-gui](https://github.com/rachpt/lanzou-gui) - 蓝奏云 | 蓝奏云客户端 | 蓝奏网盘 GUI版本
 
-*   [LiuYunPlayer/TuneLab](https://github.com/LiuYunPlayer/TuneLab) -
-
-*   [vinaypamnani/wmie](https://github.com/vinaypamnani/wmie) - WMI Explorer
-
-*   [SageChaozu/SyobonActionMono](https://github.com/SageChaozu/SyobonActionMono) - Syobon Action original source from author's Geocities site converted to MonoGame (Previously XNA)
-
-*   [zigurous/unity-fruit-ninja-tutorial](https://github.com/zigurous/unity-fruit-ninja-tutorial) - 🍉 Learn to make Fruit Ninja in Unity.
-
-*   [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
-
-*   [pamidur/aspect-injector](https://github.com/pamidur/aspect-injector) - AOP framework for .NET (c#, vb, etc)
-
-*   [Eppie-io/Eppie-App](https://github.com/Eppie-io/Eppie-App) - Eppie — open protocol encrypted p2p email
-
-*   [LagrangeDev/LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) - The V2 Implementation of Lagrange.Core, aim to provide more user-friendly interface and extreme efficiency (This is only a development repo, would be removed in future)
-
-*   [Natsukage/EmojiManager](https://github.com/Natsukage/EmojiManager) - 一个配合QQNT使用的本地表情包管理工具
-
-*   [lin-ycv/EverythingCommandPalette](https://github.com/lin-ycv/EverythingCommandPalette) - Everything search extension for Command Palette
-
-*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-
-*   [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
-
-*   [JaneySprings/DotRush](https://github.com/JaneySprings/DotRush) - Lightweight C# development environment for VSCode
-
-*   [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
-
-*   [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
-
-*   [zhweaa/ShuiShuiMaoWatcher](https://github.com/zhweaa/ShuiShuiMaoWatcher) - 专门用于视奸水水猫（https://x.com/shuishuimao8964
-
-*   [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
-
-*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics visualizer & versatile music player, built with WinUI3/Win2D | 一款优雅且高度自定义的歌词可视化与全能音乐播放应用，基于 WinUI3/Win2D 构建
-
-*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
-
-*   [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
-
-*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-
-*   [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
-
-*   [Five-Blocks-at-Fredricks/five-blocks-at-fredricks](https://github.com/Five-Blocks-at-Fredricks/five-blocks-at-fredricks) - A Five Nights at Freddy's Fan Game meant to be Goofy
-
-*   [face-hh/8055](https://github.com/face-hh/8055) - Real-time anime vision for VR headsets.
-
-*   [LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay) - A Simai Player
-
-*   [MCSLTeam/MCServerLauncher-Future](https://github.com/MCSLTeam/MCServerLauncher-Future) - Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher & Daemon)
-
-*   [SebLague/Pathfinding](https://github.com/SebLague/Pathfinding) -
-
-*   [zhweaa/OneLauncher](https://github.com/zhweaa/OneLauncher) - 一个Minecraft启动器
-
-*   [2394425147/astrodx](https://github.com/2394425147/astrodx) -
-
-*   [Corona-Studio/ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) - The next generation Minecraft launcher core written in C# providing the freest, fastest and the most complete experience.
-
-*   [AidanNelson/anamorphose-utility](https://github.com/AidanNelson/anamorphose-utility) - A tool for performing refractive (lens-based) anamorphosis in Unity.
-
-*   [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative
-
-*   [zzzzzz9125/UltraPaste](https://github.com/zzzzzz9125/UltraPaste) - UltraPaste Extension for VEGAS Pro.
-
-*   [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows Vista through 11.
-
-*   [ebrasha/abdal-anydesk-remote-ip-detector](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector) - CVE-2024-52940 - A zero-day vulnerability in AnyDesk's "Allow Direct Connections" feature, discovered and registered by Ebrahim Shafiei (EbraSha), exposing public and private IP addresses. For details, visit the NVD, Tenable, or MITRE pages.
-
-*   [hlaueriksson/Community.PowerToys.Run.Plugins](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins) - 🗂️🔎 Community PowerToys Run Plugins 🔌
-
-*   [N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - 一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run
-
-*   [Advaith3600/PowerToys-Run-Currency-Converter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - PowerToys Run plugin which will convert real and crypto currencies.
-
-*   [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
-
-*   [pankoza2-pl/kapi2.0peys-malwares](https://github.com/pankoza2-pl/kapi2.0peys-malwares) - malwares by kapi2.0peys and Uuwai. Download at your own risk
-
-*   [bghta666/AICHelper](https://github.com/bghta666/AICHelper) -
-
-*   [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
-
-*   [benaclejames/VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) - OSC App to allow VRChat avatars to interact with eye and facial tracking hardware
-
-*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
-
-*   [tryashtar/image-map](https://github.com/tryashtar/image-map) - Converts image to maps for Minecraft Java and Bedrock
-
-*   [VvvfGeeks/VVVF-Simulator](https://github.com/VvvfGeeks/VVVF-Simulator) - Simulates VVVF on PC
-
-*   [Laster-dev/WeChat-Dump-Auto](https://github.com/Laster-dev/WeChat-Dump-Auto) - 微信取证---完全自动化的基地址查找，密钥抓取，打压缩上传
-
-*   [IAFEnvoy/ThreeBody-Simulators](https://github.com/IAFEnvoy/ThreeBody-Simulators) -
-
-*   [cuppar/angry\_bird](https://github.com/cuppar/angry_bird) -
-
-*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
-
-*   [null7323/Zenith-MIDI-Modded](https://github.com/null7323/Zenith-MIDI-Modded) - Zenith-MIDI-Modified
-
-*   [KeppySoftware/KMC](https://github.com/KeppySoftware/KMC) - A fully functional MIDI to WAV/OGG converter.
-
-*   [CTFAK/CTFAK2.0](https://github.com/CTFAK/CTFAK2.0) - Updated version of the Clickteam Fusion Army Knife Decompiler
-
-*   [Taiizor/Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
-
-*   [arcusmaximus/YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
-
-*   [DmitriySalnikov/GodotPCKExplorer](https://github.com/DmitriySalnikov/GodotPCKExplorer) - Small program for exploring and extracting files from the Godot Engine PCK
-
-*   [Bioruebe/godotdec](https://github.com/Bioruebe/godotdec) - An unpacker for Godot Engine package files (.pck)
-
-*   [yukieiji/UnityExplorer](https://github.com/yukieiji/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
-
-*   [SieBRUM/minecraft-server-discovery](https://github.com/SieBRUM/minecraft-server-discovery) - Tool to discover minecraft servers all over the internet and visualize them in a web application. Written in C# and Angular
-
-*   [clinlx/CN\_GreenLumaGUI](https://github.com/clinlx/CN_GreenLumaGUI) - 用WPF开发的GreenLuma的简单易用的中文图形界面
-
-*   [RazTools/Studio](https://github.com/RazTools/Studio) - Modded AssetStudio with new features
-
-*   [Tom60chat/DeskBand-Media-Controls](https://github.com/Tom60chat/DeskBand-Media-Controls) - Control your music from your taskbar.
-
-*   [AudioBand/AudioBand](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar
-
-*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
-
-*   [arduano/Kiva](https://github.com/arduano/Kiva) - An optimised and modern MIDI player, with the goal of replacing Piano From Above as well as some other common black midi players.
-
-*   [ByMynix/CouInjector](https://github.com/ByMynix/CouInjector) - An Open Source Injector for CS:GO, written in C#.
-
-*   [tiouoo/YMCL.Avalonia](https://github.com/tiouoo/YMCL.Avalonia) - Yu Minecraft Launcher · YMCL !
-
-*   [MSEDGE-CORE/Fringe](https://github.com/MSEDGE-CORE/Fringe) - Fringe
-
-*   [jonathanpeppers/dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
-
-*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
-
-*   [rxaa/MediaMux](https://github.com/rxaa/MediaMux) - A windows tool for converting/muxing/split/concat videos.
-
-*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
-
-*   [EplExplorer/EFormRipper](https://github.com/EplExplorer/EFormRipper) - Extract form from EPL binary file 从易语言二进制文件中提取窗口信息
-
-*   [Snow1226/CameraPlus](https://github.com/Snow1226/CameraPlus) - Plugin for Beat Saber for a smoother and wider FOV camera
-
-*   [Thryrallo/VRC-Avatar-Performance-Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools) -
-
-*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
-
-*   [moom825/visualstudio-suo-exploit](https://github.com/moom825/visualstudio-suo-exploit) - This repository is a tool to create a .suo that when run by visual studio's will achieve code execution
-
-*   [SychicBoy/NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) - An open source (GPLv3) deobfuscator and unpacker for Eziriz .NET Reactor
-
-*   [bbepis/XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) -
-
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
-
-*   [MoyuScript/StarTripOrchestra](https://github.com/MoyuScript/StarTripOrchestra) - 《星空列车与白的旅行》OP 管弦乐改编可视化工程（Godot & C#）
-
-*   [EveElseIf/MusicParty](https://github.com/EveElseIf/MusicParty) -
-
-*   [Forairaaaaa/Lucy](https://github.com/Forairaaaaa/Lucy) - 简约的串口监视器🫠  Clean Design Serial Monitor, Base On WinUI3
-
-*   [7hr0wer/ProxyValidator](https://github.com/7hr0wer/ProxyValidator) - 用C#开发的简单的多线程代理验证工具。
-
-*   [239573049/EarthChat](https://github.com/239573049/EarthChat) -
-
-*   [DjShinter/NecronomiconPriority](https://github.com/DjShinter/NecronomiconPriority) - This is a mod made for Town of Salem 2, It visualizes the Necronomicon priority.
-
-*   [DevBobcorn/MarkovCraft](https://github.com/DevBobcorn/MarkovCraft) - MarkovJunior in Unity
-
-*   [MisakaCirno/QQGroupRescueTool](https://github.com/MisakaCirno/QQGroupRescueTool) - QQ群抢救工具
-
-*   [qwqdanchun/RainbowSheep](https://github.com/qwqdanchun/RainbowSheep) - Change hash for a signed pe
-
-*   [Hellobaka/LoliconApiSetuBot](https://github.com/Hellobaka/LoliconApiSetuBot) - 水银涩图机~
-
-*   [commandlineparser/commandline](https://github.com/commandlineparser/commandline) - The best C# command line parser that brings standardized \*nix getopt style, for .NET.  Includes F# support
-
-*   [Arispex/PrismBot](https://github.com/Arispex/PrismBot) - Terraria TShock QQ 机器人的终极解决方案
-
-*   [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
-
-*   [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
-
-*   [eDonnes124/Town-Of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R) - An Among Us mod containing a bunch of roles
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [NuclearPowered/Reactor](https://github.com/NuclearPowered/Reactor) - Modding api for Among Us
-
-*   [tukasa0001/TownOfHost](https://github.com/tukasa0001/TownOfHost) - Host only mod for Among Us.
-
-*   [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player
-
-*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
-
-*   [Xing-Fax/RePKG-WPF](https://github.com/Xing-Fax/RePKG-WPF) - 用于解压PKG文件的GUI图形界面
-
-*   [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
-
-*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
-
-*   [ikvmnet/ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
-
-*   [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
-
-*   [AuroraStudio-aurorast/MCBE-Version-Manager](https://github.com/AuroraStudio-aurorast/MCBE-Version-Manager) - Minrctaft Windows 10 Edition(MCBE) Multi-Version launcher.
-
-*   [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
-
-*   [Fody/Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
-
-*   [Fody/Costura](https://github.com/Fody/Costura) - Embed references as resources
-
-*   [2DIPW/audio\_dataset\_screener](https://github.com/2DIPW/audio_dataset_screener) - An auxiliary tool for manual screening of audio dataset.
-
-*   [TownOfNext/TownOfNext](https://github.com/TownOfNext/TownOfNext) - An AmongUs mod with learning & love
-
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-
-*   [fishaudio/OpenUtau](https://github.com/fishaudio/OpenUtau) - OpenUTAU renderer for diffsinger / 适用于diffsinger的OpenUTAU渲染器，使用方法：https://github.com/xunmengshe/OpenUtau/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89
-
-*   [xunmengshe/OpenUtau](https://github.com/xunmengshe/OpenUtau) -
-
-*   [CjangCjengh/MoeGoe\_GUI](https://github.com/CjangCjengh/MoeGoe_GUI) - GUI for MoeGoe
-
-*   [AlaricGilbert/MIDI2NBS](https://github.com/AlaricGilbert/MIDI2NBS) - A tool helps you import MIDI files into Minecraft via Minecraft Note Block Studio (Needs Piano+ resource pack.)
-
-*   [ldqk/ImageSearch](https://github.com/ldqk/ImageSearch) - 基于.NET10的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-
-*   [HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - Bilibili 直播录制
-
-*   [xiaoxinpro/ChineseSubtitleConversionTool](https://github.com/xiaoxinpro/ChineseSubtitleConversionTool) - 繁体简体字幕转换工具
-
-*   [Polyhaze/Volte](https://github.com/Polyhaze/Volte) - A free, robust, open-source Discord bot written in C# using .NET and a whole lotta Man Hours.
-
-*   [LingFeng-bbben/MajdataView](https://github.com/LingFeng-bbben/MajdataView) - Next-generation Simai: Note designer for maimai. The unity viewer part of the Majdata.
-
-*   [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
-
-*   [EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - Prefetch Explorer Command Line
-
-*   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
-
-*   [FragLand/minestat](https://github.com/FragLand/minestat) - :chart\_with\_upwards\_trend: A Minecraft server status checker
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
-
-*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-
-*   [Xcube-Studio/Natsurainko.FluentLauncher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) - A Minecraft launcher specifically designed for Windows 11, delivering a clean and smooth visual experience.
-
-*   [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
-
-*   [Blessing-Studio/WonderLab](https://github.com/Blessing-Studio/WonderLab) - 下一代 Minecraft 启动器
-
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-*   [ledoge/novideo\_srgb](https://github.com/ledoge/novideo_srgb) - Calibrate monitors to sRGB or other color spaces on NVIDIA GPUs, based on EDID data or ICC profiles
-
-*   [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
-
-*   [kemo14331/Particle-Converter](https://github.com/kemo14331/Particle-Converter) - 画像ファイルをmcfunctionに変換するツール
-
-*   [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
-
-*   [AdminHcat/LOIC-X](https://github.com/AdminHcat/LOIC-X) - 低轨道离子炮——一个开源的网络压力测试工具，使用C#编写。基于Praetox的LOIC项目。使用此工具造成的任何潜在风险自行承担。
-
-*   [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
-
-*   [Wenveo/AakStudio.Shell.UI.Themes.AvalonDock](https://github.com/Wenveo/AakStudio.Shell.UI.Themes.AvalonDock) - AakStudio.Shell.UI Themes for AvalonDock
-
-*   [Wenveo/AakStudio.Shell.UI](https://github.com/Wenveo/AakStudio.Shell.UI) - Wpf control styles and themes of AakStudio
-
-*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
-
-*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
-
-*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
-
-*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
-
-*   [Chlna6666/mc-w10-version-launcher](https://github.com/Chlna6666/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
-
-*   [stakira/OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
-
-*   [wherewhere/Mica-For-UWP](https://github.com/wherewhere/Mica-For-UWP) - A UWP Library that implement an easy way to use Mica material without WinUI.
-
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
-
-*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
-
-*   [YUXUAN888/FSM3](https://github.com/YUXUAN888/FSM3) - FSMLauncher!
-
-*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
-
-*   [Pryaxis/TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
-
-*   [Mirai-NET-Shelter/Mirai.Net](https://github.com/Mirai-NET-Shelter/Mirai.Net) - Mirai.Net是基于mirai-api-http实现的轻量级mirai社区sdk。
-
-*   [ProtonVPN/win-app](https://github.com/ProtonVPN/win-app) - Official ProtonVPN Windows app
-
-*   [TEdit/Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor) - TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers!
-
-*   [efojug/Grasssummoner](https://github.com/efojug/Grasssummoner) - Grasscutter Launcher
-
-*   [Qiu233/QTRHacker](https://github.com/Qiu233/QTRHacker) - A powerful hack for Terraria
-
-*   [flipswitchingmonkey/FlexASIO\_GUI](https://github.com/flipswitchingmonkey/FlexASIO_GUI) - Simple configuration GUI for FlexASIO
-
-*   [KamenRiderKuuga/ProcessGuard](https://github.com/KamenRiderKuuga/ProcessGuard) - A windows service to run all kinds of executeable from Session 0, can also be used to run console programs as windows services
-
-*   [mkaring/ConfuserEx](https://github.com/mkaring/ConfuserEx) - An open-source, free protector for .NET applications
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [sabihoshi/GenshinLyreMidiPlayer](https://github.com/sabihoshi/GenshinLyreMidiPlayer) - Genshin Impact Windsong Lyre, Floral Zither, & Vintage Lyre MIDI auto player in Modern Mica UI. Supports MIDI instruments & Playlist controls.
-
-*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
-
-*   [InJeCTrL/BiliCLOnline](https://github.com/InJeCTrL/BiliCLOnline) - BiliCommentLottery Online
-
-*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
-
-*   [zmjack/PortProxyGUI](https://github.com/zmjack/PortProxyGUI) - A manager of netsh interface portproxy which is to evaluate TCP/IP port redirect on windows.
-
-*   [li-zheng-hao/StickyNotes](https://github.com/li-zheng-hao/StickyNotes) - 一个便捷的Windows桌面便利贴/A convenitent Windows Notes
-
-*   [DarwinBaker/AATool](https://github.com/DarwinBaker/AATool) - A tool to track Minecraft Advancement progress.
-
-*   [mrd0x/EvilSelenium](https://github.com/mrd0x/EvilSelenium) - EvilSelenium is a tool that weaponizes Selenium to attack Chromium based browsers.
-
-*   [keygen-sh/example-csharp-license-activation](https://github.com/keygen-sh/example-csharp-license-activation) - An example implementation of a node-locked license activation flow using Keygen and C# .NET
-
-*   [NewbieGameCoder/IllegalWordsDetection](https://github.com/NewbieGameCoder/IllegalWordsDetection) - 提供高效率的较简单的Unity3d手游客户端的敏感词检测的算法，能应付大部分敏感词过滤需求
-
-*   [LiveSplit/LiveSplit](https://github.com/LiveSplit/LiveSplit) - A sleek, highly customizable timer for speedrunners.
-
-*   [xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
-
-*   [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
-
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
-
-*   [POPCORNBOOM/CardEditor](https://github.com/POPCORNBOOM/CardEditor) - 一款专为桌游设计师开发的批处理数值填入卡牌生成器/A card batch generator specially developed for board game designers
-
-*   [CodeName-Anti/CrabGame-Cheat](https://github.com/CodeName-Anti/CrabGame-Cheat) - A Cheat for CrabGame by DaniDev.
-
-*   [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
-
-*   [krxdev-kaan/AqHax-CSGO](https://github.com/krxdev-kaan/AqHax-CSGO) - Simple CSGO Hack
-
-*   [icsharpcode/CodeConverter](https://github.com/icsharpcode/CodeConverter) - Convert code from C# to VB.NET and vice versa using Roslyn
-
-*   [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
-
-*   [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
-
-*   [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
-
-*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
-
-*   [OpenHV/OpenHV](https://github.com/OpenHV/OpenHV) - An Open Source Pixelart Science-Fiction Real-Time-Strategy game
-
-*   [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) - A simple remote tool in C#.
-
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-
-*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-
-*   [mlaily/NegativeScreen](https://github.com/mlaily/NegativeScreen) - NegativeScreen is a Windows application allowing you to invert your screen colors. (and more)
-
-*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
-
-*   [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
-
-*   [YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive) - Onedrive & SharePoint 文件浏览网页程序
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-
-*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-
-*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows (and now cross-platform via Certify Management Hub). Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Download from certifytheweb.com
-
-*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-
-*   [Xing-Fax/WPF-Music\_Player](https://github.com/Xing-Fax/WPF-Music_Player) - 一款界面漂亮的音乐播放器
-
-*   [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
-
-*   [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
-
-*   [Unity-Technologies/UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation) -
-
-*   [InJeCTrL/BiliCommentLottery](https://github.com/InJeCTrL/BiliCommentLottery) - Bilibili评论区抽奖工具
-
-*   [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
-
-*   [automuteus/amonguscapture](https://github.com/automuteus/amonguscapture) - Capture of the local Among Us executable state
-
-*   [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
-
-*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
-
-*   [ForkGG/Fork-legacy](https://github.com/ForkGG/Fork-legacy) - Fork: Minecraft Server Manager GUI for Windows
-
-*   [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
-
-*   [Impostor/Impostor](https://github.com/Impostor/Impostor) - Impostor - An open source reimplementation of the Among Us Server
-
-*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
-
-*   [Zeruel87/Cameo-mod](https://github.com/Zeruel87/Cameo-mod) - This openRA mod brings together a couple of other 2D-RTS into a single game.
-
-*   [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
-
-*   [XuanchenLin/NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for developers who want to create Windows desktop applications with HTML, CSS and JavaScript.
-
-*   [LimerBoy/FireFox-Thief](https://github.com/LimerBoy/FireFox-Thief) - :fox\_face: Decrypt gecko based browsers passwords, cookies, history, bookmarks.
-
-*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-
-*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-
-*   [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
-
-*   [Kermalis/VGMusicStudio](https://github.com/Kermalis/VGMusicStudio) - 🎵 A program that lets you listen to the music from popular video game formats. 🎵
-
-*   [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
-
-*   [leezer3/OpenBVE](https://github.com/leezer3/OpenBVE) - OpenBVE- A free train simulator
-
-*   [hbl917070/TiefSee](https://github.com/hbl917070/TiefSee) -
-
-*   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
-
-*   [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI) - A software MIDI synthesizer for professional use.
-
-*   [CnCNet/xna-cncnet-client](https://github.com/CnCNet/xna-cncnet-client) - XNA / MonoGame based client for playing classic Command & Conquer games both online and offline with a CnCNet game spawner.
-
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-
-*   [Fm233/Program-Maker](https://github.com/Fm233/Program-Maker) -
-
-*   [OpenRA/Eluant](https://github.com/OpenRA/Eluant) - A set of C# bindings for Lua with a specific focus on building sandboxes.
-
-*   [VitaliiTsilnyk/NGettext](https://github.com/VitaliiTsilnyk/NGettext) - A cross-platform .NET implementation of the GNU/Gettext library.
-
-*   [MustaphaTR/OpenRA](https://github.com/MustaphaTR/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, \*BSD and Mac OS X.
-
-*   [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR) - Capture level information & events from a Mario Maker 2 game feed and display on a locally hosted web app.
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [Inq8/CAmod](https://github.com/Inq8/CAmod) - Combined Arms
-
-*   [CombinEC-R/Medieval-Warfare](https://github.com/CombinEC-R/Medieval-Warfare) - Medieval Warfare mod for OpenRa
-
-*   [cookgreen/Yuris-Revenge](https://github.com/cookgreen/Yuris-Revenge) - A Red Alert 2 Yuri's Revenge mod for OpenRA Engine
-
-*   [zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui) - 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置
-
-*   [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
-
-*   [dahall/TaskScheduler](https://github.com/dahall/TaskScheduler) - Provides a .NET wrapper for the Windows Task Scheduler. It aggregates the multiple versions, provides an editor and allows for localization.
-
-*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
-*   [zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer) - 一款优雅的UWP文件管理器 | An elegant UWP Explorer
-
-*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
-
-*   [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) - #1 Open Source Unity Networking Library
-
-*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-
-*   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
-
-*   [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
-
-*   [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
-
-*   [dotnet/wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
-
-*   [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, \*BSD and Mac OS X.
-
-*   [ABrandau/Shattered-Paradise-SDK](https://github.com/ABrandau/Shattered-Paradise-SDK) - Shattered Paradise's main repository and installation Kit.
-
-*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-
-*   [MustaphaTR/Romanovs-Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) - Romanov's Vengeance is an OpenRA mod based on Red Alert 2.
-
-*   [mono/CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages
-
-*   [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
-
-*   [buchizo/ClaudiaIDE](https://github.com/buchizo/ClaudiaIDE) - This extension can change easily the background image of editor window in Visual Studio.
-
-*   [colinkiama/UWP-Package-Installer](https://github.com/colinkiama/UWP-Package-Installer) - An UWP installer for appx/appxbundle packages
-
-*   [ZeBobo5/Vlc.DotNet](https://github.com/ZeBobo5/Vlc.DotNet) - .NET control that hosts the audio/video capabilities of the VLC libraries
-
-*   [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
-
-*   [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
-
-*   [Fm233/Weird-PPT-Maker](https://github.com/Fm233/Weird-PPT-Maker) -
-
-*   [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
-
-*   [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material.
-
-*   [LazoVelko/Windows-Hacks](https://github.com/LazoVelko/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
-
-*   [hexadecimal233/Windows-Store-Downloader](https://github.com/hexadecimal233/Windows-Store-Downloader) - Download Microsoft Store items using store.rg-adguard.net API
-
-*   [ZhangYuShui/HttpRequester](https://github.com/ZhangYuShui/HttpRequester) - window 端，测试后台接口的工具软件。C#语言，封装有get和post。
-
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-
-*   [YuanJianTing/WinForm.UI](https://github.com/YuanJianTing/WinForm.UI) - WinForm 皮肤，自定义控件
-
-*   [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
-
-*   [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
-
-*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
-
-*   [shadow578/ImmersiveMiracast](https://github.com/shadow578/ImmersiveMiracast) - Easy immersive Miracast for Windows 10
-
-*   [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
-
-*   [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [fdorg/flashdevelop](https://github.com/fdorg/flashdevelop) - FlashDevelop is a free and open source code editor.
-
-*   [crpietschmann/VirtualRouter](https://github.com/crpietschmann/VirtualRouter) - Wifi Hotspot for Windows computers (Windows 7, 8.x, Server 2012 and newer!)
-
-*   [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.1
-
-*   [Fm233/Watermelon-but-it-s-3D](https://github.com/Fm233/Watermelon-but-it-s-3D) -
-
-*   [FlyTechVideos/BluescreenSimulator](https://github.com/FlyTechVideos/BluescreenSimulator) - Bluescreen Simulator for Windows
-
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-
-*   [Shedelbower/MinecraftClone](https://github.com/Shedelbower/MinecraftClone) - A Minecraft clone I made from scratch in Unity.
-
-*   [riskydissonance/SharpCookieMonster](https://github.com/riskydissonance/SharpCookieMonster) - Extracts cookies from Chrome.
-
-*   [sovetskyfish/pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
-*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
-
-*   [zozpretor/desktoppet](https://github.com/zozpretor/desktoppet) -
-
-*   [huiyadanli/DesktopPet](https://github.com/huiyadanli/DesktopPet) - 一个桌面宠物，模仿伪春菜(伺か)的作品
-
-*   [Adrianotiger/desktopPet](https://github.com/Adrianotiger/desktopPet) - Remembering the lovely eSheep (stray sheep) from 1995 -
-
-*   [zhongrongzhao/Fishball-modification-system-tool](https://github.com/zhongrongzhao/Fishball-modification-system-tool) - 鱼蛋修改系统工具：本软件可修改”控制面板\系统和安全\系统“的图标与”制造商“名称。
-
-*   [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-
-*   [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
-
-*   [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
-
-*   [XIU2/TileAssistTool](https://github.com/XIU2/TileAssistTool) - 🎨 Windows10 磁贴辅助小工具
-
-*   [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
-
-*   [RexProg/ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
-
-*   [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
-
-*   [AnyListen/tianruoocr](https://github.com/AnyListen/tianruoocr) - 已停止维护，欢迎使用新版跨平台 OCR 工具（树洞 OCR 文字识别）
-
-*   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
-
-*   [NYAN-x-CAT/LimeUSB-Csharp](https://github.com/NYAN-x-CAT/LimeUSB-Csharp) - Malware USB Spread | Example C#
-
-*   [NYAN-x-CAT/Lime-Crypter](https://github.com/NYAN-x-CAT/Lime-Crypter) - Simple obfuscation tool
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [billiegoose/lock-screen](https://github.com/billiegoose/lock-screen) - An invisible screensaver / lock screen for Windows 7+
-
-*   [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
-
-*   [beetlex-io/WebApiBenchmark](https://github.com/beetlex-io/WebApiBenchmark) - Web api management and performance testing tools
-
-*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-
-*   [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
-*   [shack2/SNETCracker](https://github.com/shack2/SNETCracker) - 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
-
-*   [Mochengvia/PanuonUI.Silver](https://github.com/Mochengvia/PanuonUI.Silver) - Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.
-
-*   [QinZhuo/QXmlTable](https://github.com/QinZhuo/QXmlTable) - xml表格化编辑工具
-
-*   [XIU2/TileTool](https://github.com/XIU2/TileTool) - 🎨 Windows10 磁贴美化小工具
-
-*   [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
-
-*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
-
-*   [dlebansais/ZombifyMe](https://github.com/dlebansais/ZombifyMe) - A library that can restart the program it's linked with if it crashes unexpectedly.
-
-*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
-
-*   [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
-
-*   [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
-
-*   [PMZeroSkyline/ReNamer](https://github.com/PMZeroSkyline/ReNamer) -   *一款轻量级批量文件名称修改器*
-
-*   [hui-shao/welcome-words](https://github.com/hui-shao/welcome-words) - :thought\_balloon: 用于修改Windows开机欢迎词
-
-*   [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
-
-*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
-
-*   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
-*   [huix-oldcat/ArkDesktop](https://github.com/huix-oldcat/ArkDesktop) -
+*   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 
 ## GDScript
 
@@ -7515,6 +7949,34 @@
 
 *   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 
+*   [TerraformersMC/Terrestria](https://github.com/TerraformersMC/Terrestria) - A Fabric mod enhancing the detail of Minecraft with unique and vibrant biomes. Inspired by ExtrabiomesXL.
+
+*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+
+*   [Earthcomputer/bedrockified](https://github.com/Earthcomputer/bedrockified) - A mod which makes the Java edition more like the Bedrock edition, mainly for research purposes.
+
+*   [FabricMC/Enigma](https://github.com/FabricMC/Enigma) - This is a fork of cuchaz's Enigma, a deobfuscation/remapping tool for Java software.
+
+*   [FabricMC/yarn](https://github.com/FabricMC/yarn) - Libre Minecraft mappings, free to use for everyone. No exceptions.
+
+*   [FabricMC/fabric-loader](https://github.com/FabricMC/fabric-loader) - Fabric's mostly-version-independent mod loader.
+
+*   [FabricMC/fabric-loom](https://github.com/FabricMC/fabric-loom) - Gradle build system plugin used to automate the setup of a minecraft mod development environment.
+
+*   [FabricMC/fabric-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric.
+
+*   [asiekierka/FoamFix](https://github.com/asiekierka/FoamFix) - Minecraft memory usage optimization mod. Please note that code contained herein is not a suggestion for Minecraft unless explicitly declared elsewhere, in writing, by the rightsholder(s).
+
+*   [Earthcomputer/EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
+
+*   [xmdhs/arcimg](https://github.com/xmdhs/arcimg) -
+
+*   [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
+
+*   [Nilhcem/markdown2html](https://github.com/Nilhcem/markdown2html) - An extremely simple markdown to html converter and editor.
+
+*   [jenly1314/ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成扫码更简单。
+
 ## Svelte
 
 *   [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru) - A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!
@@ -8207,6 +8669,24 @@
 
 *   [dylanbai8/Windows10\_Windows7\_Volume\_MAK\_Key\_Share](https://github.com/dylanbai8/Windows10_Windows7_Volume_MAK_Key_Share) - Windows10 Windows7 批量MAK激活密钥 激活码 数字权利激活 数字许可证 永久激活 终身授权 Volume MAK Key
 
+*   [FabricMC/intermediary](https://github.com/FabricMC/intermediary) - Match and mapping information between different versions of Minecraft
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
+
+*   [FaithfulTeam/Faithful](https://github.com/FaithfulTeam/Faithful) - Faithful x32
+
+*   [alphaSeclab/awesome-rat](https://github.com/alphaSeclab/awesome-rat) - RAT And C\&C Resources. 250+ Open Source Projects, 1200+ RAT/C\&C blog/video.
+
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+
+*   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+
+*   [aceslup/pandownload-fake-server](https://github.com/aceslup/pandownload-fake-server) - 重定向服务器打开 Pandownload
+
+*   [box-archives/Pandownload-Copy](https://github.com/box-archives/Pandownload-Copy) - Pandownload作者被捕，此项目仅作软件保存用
+
+*   [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
+
 ## Go
 
 *   [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾
@@ -8655,325 +9135,13 @@
 
 *   [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 
-## HTML
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [NNNullptr/MoeKernel\_Desktop](https://github.com/NNNullptr/MoeKernel_Desktop) -
+*   [mauri870/ransomware](https://github.com/mauri870/ransomware) - A POC Windows crypto-ransomware (Academic). Now Ransom:Win32/MauriCrypt.MK!MTB
 
-*   [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
-*   [botuniverse/onebot-11](https://github.com/botuniverse/onebot-11) - OneBot 11 标准
-
-*   [qwertyaz111/kabedon-floor-simulator](https://github.com/qwertyaz111/kabedon-floor-simulator) - 床ドンシミュレーター
-
-*   [atangccc/Serenity-Grace](https://github.com/atangccc/Serenity-Grace) - 「Serenity」，简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式自由切换。
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-
-*   [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
-
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-
-*   [oduwsdl/tweetedat](https://github.com/oduwsdl/tweetedat) - TweetedAt tells the time of a tweet based on its tweet id
-
-*   [Iceface-microtonal/iceface-tdn-geo-rotator](https://github.com/Iceface-microtonal/iceface-tdn-geo-rotator) - Microtonal toy that geometrically rotates notes  Iceface TDN theory based rotating arpeggiator + perfectly synced drum machine. Drag to bend & rotate sounds while generating arpeggios. Harmony and rhythm merge in real-time under Relational-Tonal.  Features: Geometric rotation control, real-time drum sync, mobile-friendly pure HTML/JS web app.
-
-*   [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
-
-*   [zero-delimiter/TFBOYS](https://github.com/zero-delimiter/TFBOYS) - Texture Forge - the Binary Output YOLO System 文生Minecraft Mod 16x16贴图AI
-
-*   [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
-
-*   [jsonh-org/Jsonh](https://github.com/jsonh-org/Jsonh) - JSON for Humans.
-
-*   [rocksun/mwblog](https://github.com/rocksun/mwblog) -
-
-*   [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -
-
-*   [tedivm/qr\_stencil\_creator](https://github.com/tedivm/qr_stencil_creator) - A website to generate QR Codes that can be turned into stencils.
-
-*   [facebookarchive/RakNet](https://github.com/facebookarchive/RakNet) - RakNet is a cross platform, open source, C++ networking engine for game programmers.
-
-*   [paulrosen/abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
-
-*   [miniyu157/petal-note](https://github.com/miniyu157/petal-note) - 🌸 极简、唯美、无需构建的纯前端碎碎念日记框架
-
-*   [kherrick/pwgen](https://github.com/kherrick/pwgen) - A password generator compiled as Wasm for use on the CLI, in a custom element, or as a module.
-
-*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
-
-*   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
-
-*   [whatwg/fetch](https://github.com/whatwg/fetch) - Fetch Standard
-
-*   [yuhan2680/Website](https://github.com/yuhan2680/Website) - 小涵的个人网站
-
-*   [qcontinuum1/spying-extensions](https://github.com/qcontinuum1/spying-extensions) - Report on spying browser extensions by Q Continuum group.
-
-*   [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
-
-*   [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
-
-*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
-
-*   [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-*   [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
-
-*   [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
-
-*   [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) - An interactive demo of an iOS 26 style Liquid Glass effect for the web
-
-*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
-
-*   [tkilla64/eurorack](https://github.com/tkilla64/eurorack) - Eurorack DIY projects
-
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
-
-*   [CatMe0w/lostone.catme0w.org](https://github.com/CatMe0w/lostone.catme0w.org) - Source Code for https://lostone.catme0w.org - An automatic solver for the "chiral carbon CAPTCHA". Visit the website for the full report and tool. | “手性碳验证码”自动解答工具的网站源码。
-
-*   [SnippetsDevelop/snippetsdevelop.github.io](https://github.com/SnippetsDevelop/snippetsdevelop.github.io) -
-
-*   [jaden/totp-generator](https://github.com/jaden/totp-generator) - Generates TOTP tokens in the browser
-
-*   [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
-
-*   [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
-
-*   [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for Entra ID and M365 with a browser-based GUI
-
-*   [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
-
-*   [bghtnya/TransFlag\_Avatar\_Tool](https://github.com/bghtnya/TransFlag_Avatar_Tool) -
-
-*   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
-
-*   [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki) - 高等教育学社基础知识开源建设工程｜青年大学习
-
-*   [tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow) - A Modern Hugo Theme with Multiple Color Schemes - Built on TailwindCSS 4.
-
-*   [Akanyi/Gaynum](https://github.com/Akanyi/Gaynum) - A counter of your name‘s gay rate
-
-*   [fanlusky/haruhikage](https://github.com/fanlusky/haruhikage) - 春日影 (MyGO!!!!! Ver.)
-
-*   [hexadecimal233/advx-disqualified-generator](https://github.com/hexadecimal233/advx-disqualified-generator) -
-
-*   [chear/SWNote](https://github.com/chear/SWNote) -
-
-*   [Mechmallow/git\_matrix](https://github.com/Mechmallow/git_matrix) -  Draw on your GitHub contribution graph by easily generating a custom commit history.
-
-*   [aiwebarchitects/ball-simulation-from-TikTok](https://github.com/aiwebarchitects/ball-simulation-from-TikTok) - That one bouncing ball simulation from TikTok...?
-
-*   [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
-
-*   [TumoiYorozu/white200](https://github.com/TumoiYorozu/white200) - 200色の白から、お題の白を見つけるゲームです。良ければStarお願いします。This is a game to find the white of the subject out of 200 colors of white. Please Star if you like.
-
-*   [C1710/blobmoji](https://github.com/C1710/blobmoji) - Noto Emoji with extended Blob support
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
-*   [JobYu/image2pixel-web](https://github.com/JobYu/image2pixel-web) - A simple web-based tool that converts images into pixel art style.
-
-*   [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML file
-
-*   [dev-coco/dev-coco.github.io](https://github.com/dev-coco/dev-coco.github.io) - This is a personal website. Please do not fork this project.
-
-*   [8values/8values.github.io](https://github.com/8values/8values.github.io) - The 8values political quiz
-
-*   [BeiyanYunyi/Astro-blog-Lithium](https://github.com/BeiyanYunyi/Astro-blog-Lithium) - A astro blog with pagination, UnoCSS, tags, default layout
-
-*   [bobolovecat/tool](https://github.com/bobolovecat/tool) -
-
-*   [vo-soft/vic-diary-releases](https://github.com/vo-soft/vic-diary-releases) - 支持markdown语法输入、所见即所得的跨平台日记软件
-
-*   [Sridhar-C-25/TailwindCSS\_navbar2](https://github.com/Sridhar-C-25/TailwindCSS_navbar2) - Responsive navbar using tailwind css
-
-*   [Natsusomekeishi/MCCAG](https://github.com/Natsusomekeishi/MCCAG) - Minecraft Cute Avatar Generator MC可爱头像生成器
-
-*   [kqakqakqa/min-gluttonous-snake-js](https://github.com/kqakqakqa/min-gluttonous-snake-js) - 尝试用尽量短的代码实现贪吃蛇
-
-*   [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
-
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
-
-*   [yanjisheng/world-clock](https://github.com/yanjisheng/world-clock) - World Clock Widget, showing date and time from different places around the world.
-
-*   [chiron-fonts/chiron-hei-hk](https://github.com/chiron-fonts/chiron-hei-hk) - 昭源黑體：現代筆形風格，平衡標準字形和印刷體慣用筆形的免費開源黑體字型
-
-*   [CyrilSLi/cyrilsli.github.io](https://github.com/CyrilSLi/cyrilsli.github.io) -
-
-*   [CHCAT1320/CN\_1320\_Toolbox](https://github.com/CHCAT1320/CN_1320_Toolbox) -
-
-*   [kaygb/KZHomePage](https://github.com/kaygb/KZHomePage) - 二次元卡片个人网站主页
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [hexadecimal233/jilijili](https://github.com/hexadecimal233/jilijili) - 寄哩寄哩，一个B站登录页的高仿项目
-
-*   [Zhaokugua/GettingOverItBlueArchiveWebVersion](https://github.com/Zhaokugua/GettingOverItBlueArchiveWebVersion) - 碧蓝档案的和掘地求生（Getting Over It）很像的网页小游戏，官方是限时活动所以备份一下w
-
-*   [YamatoRyou/2a03presetsforflstudio](https://github.com/YamatoRyou/2a03presetsforflstudio) -
-
-*   [kqakqakqa/utf-block-sign-art](https://github.com/kqakqakqa/utf-block-sign-art) - 一个使用UTF-8块元素生成大型字符的网页工具。a web tool that generates big characters using UTF-8 block.
-
-*   [iota9star/mikan\_flutter](https://github.com/iota9star/mikan_flutter) - 蜜柑计划（ https://mikanani.me ），🚧 持续开发中...
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-*   [Fancyflame/FoodGenerator](https://github.com/Fancyflame/FoodGenerator) - A fancy Weird-Food name generator
-
-*   [re-zero-khis/re0-web](https://github.com/re-zero-khis/re0-web) - Re0：从零开始的异世界生活 （WEB版）
-
-*   [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-
-*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-
-*   [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) - 纯静态多业务展示的个人主页主题
-
-*   [xiaomayo233/DiamondCalculator](https://github.com/xiaomayo233/DiamondCalculator) -
-
-*   [sanderfrenken/Universal-LPC-Spritesheet-Character-Generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
-
-*   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
-
-*   [xmcp/QRCD](https://github.com/xmcp/QRCD) - QQMusic lyrics crawler & decoder
-
-*   [bigratmonster/bigrat.monster](https://github.com/bigratmonster/bigrat.monster) - a picture of big rat
-
-*   [39665558/webPageGarbled](https://github.com/39665558/webPageGarbled) - 一个字体加密的小demo：文字在网页上显示正常，但复制下来后乱码
-
-*   [OrgEleCho/EleCho.GoCqHttpSdk](https://github.com/OrgEleCho/EleCho.GoCqHttpSdk) - 专为 Go-CqHttp 打造, 完全遵守 C# 编码规范, 优雅与便捷的通信 SDK
-
-*   [wexuo/home](https://github.com/wexuo/home) - 现代化的个人主页，博客主页模板，个人简历模板
-
-*   [two-twelve/popcat-classic](https://github.com/two-twelve/popcat-classic) - Popcat.Click as of 11th Dec 2020, 17:29 GMT 🕹️
-
-*   [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
-
-*   [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - \[ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
-*   [tjy-gitnub/nikov](https://github.com/tjy-gitnub/nikov) - 仅供学习，切勿他用。
-
-*   [Listenbourg/ListenPASS](https://github.com/Listenbourg/ListenPASS) - Générateur de carte d'identité "officiel" du Listenbourg
-
-*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
-
-*   [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [AdenForshaw/theCatAPI-website](https://github.com/AdenForshaw/theCatAPI-website) - VueJS / Vuetify website for theCatAPI.com
-
-*   [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit
-
-*   [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool \[Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
-
-*   [mckuhei/xn--j28haaa](https://github.com/mckuhei/xn--j28haaa) - https://www.😅😅😅😅.ml
-
-*   [AdhesionTek/Quantum-Wormhole](https://github.com/AdhesionTek/Quantum-Wormhole) - Quantum Wormhole by AdhesionTek
-
-*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [pkfrom/404](https://github.com/pkfrom/404) - 404 Pages not found
-
-*   [AHOHNMYC/chromeosflex](https://github.com/AHOHNMYC/chromeosflex) - Chrome OS Flex direct links
-
-*   [vinugawade/Morse\_Code\_Translator](https://github.com/vinugawade/Morse_Code_Translator) - A Simple Morse Code Translator.
-
-*   [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-
-*   [adobe-fonts/noto-emoji-svg](https://github.com/adobe-fonts/noto-emoji-svg) - OpenType-SVG version of Noto Color Emoji
-
-*   [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
-
-*   [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [haveyouwantto/WindsongLyre-Sim](https://github.com/haveyouwantto/WindsongLyre-Sim) - Genshin Impact Instruments Simulator
-
-*   [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-
-*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
-
-*   [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC
-
-*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
-
-*   [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-
-*   [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
-
-*   [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
-
-*   [yuameshi/PRC-ID-Generate](https://github.com/yuameshi/PRC-ID-Generate) - 中国大陆身份证号码生成/ID Number(PRC)Generate
-
-*   [khalisafkari/bc](https://github.com/khalisafkari/bc) -
-
-*   [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
-
-*   [jnxyp/Bilibili-Block-List](https://github.com/jnxyp/Bilibili-Block-List) - 基于正则表达式的Bilibili弹幕屏蔽规则 / Regex-based filtering rules for Bilibili.com
-
-*   [openjfx/openjfx.github.io](https://github.com/openjfx/openjfx.github.io) -
-
-*   [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
-*   [lelinhtinh/watermark](https://github.com/lelinhtinh/watermark) - Add watermark on images use HTML5 and Javascript.
-
-*   [balsn/ctf\_writeup](https://github.com/balsn/ctf_writeup) - CTF writeups from Balsn
-
-*   [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) -
-
-*   [terjanq/JS-Alpha](https://github.com/terjanq/JS-Alpha) - Funny project to create an encoder/obfuscator that converts any javascript code into a code that only consist of /\[a-z().]/ characters
-
-*   [yubius/BS-Start-Page](https://github.com/yubius/BS-Start-Page) -
-
-*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [rogeraabbccdd/AsiaGodTone-Hotpot-Game](https://github.com/rogeraabbccdd/AsiaGodTone-Hotpot-Game) - 統神端火鍋
-
-*   [hax0r31337/JSDec](https://github.com/hax0r31337/JSDec) - Online JavaScript decoder.Supported sojson v4/Premium/v5 and more(No longer update)
-
-*   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-
-*   [bilibili/bas](https://github.com/bilibili/bas) - Bilibili Animation Script
-
-*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-
-*   [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
-
-*   [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
-
-*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界翻墙 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tips 翻墙入门 一键翻墙 手机翻墙 翻墙机场 翻墙资源
-
-*   [sakura-ushio/328P-MiNi-T12](https://github.com/sakura-ushio/328P-MiNi-T12) - 开源版本MiNi T12（328P Based）
-
-*   [fontforge/designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) - A book about how to design new typefaces with FontForge
-
-*   [YamatoRyou/chiptunes-flp](https://github.com/YamatoRyou/chiptunes-flp) - 红白机风格 Chiptune FL Studio 工程
-
-*   [cznull/cznull.github.io](https://github.com/cznull/cznull.github.io) -
-
-*   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
-
-*   [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
-
-*   [letsencrypt/website](https://github.com/letsencrypt/website) - Let's Encrypt Website and Documentation
-
-*   [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
-
-*   [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 ## C3
 
@@ -9160,6 +9328,10 @@
 *   [kdxcxs/remove-password](https://github.com/kdxcxs/remove-password) - Remove Android password
 
 *   [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+
+*   [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
+
+*   [agherzan/yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
 
 ## C
 
@@ -9774,6 +9946,10 @@
 *   [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 
 *   [legiar/diskcryptor](https://github.com/legiar/diskcryptor) - DiskCryptor - it's a free solution that allows you to encrypt disk partitions, including system partition.
+
+*   [AlexAltea/orbital](https://github.com/AlexAltea/orbital) - Experimental PlayStation 4 emulator.
+
+*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
 ## HLSL
 
@@ -10893,6 +11069,26 @@
 
 *   [CnAoKip/360MEMZ](https://github.com/CnAoKip/360MEMZ) - 作者为360MEMZ自制的无害特效程序
 
+*   [maidsafe-archive/MaidSafe-Encrypt](https://github.com/maidsafe-archive/MaidSafe-Encrypt) - MaidSafe Encrypt implements functions related to "self-encryption" of files and folders.
+
+*   [stefankueng/CryptSync](https://github.com/stefankueng/CryptSync) - CryptSync is a small utility that synchronizes two folders while encrypting the contents in one folder. That means one of the two folders has all files unencrypted (the files you work with) and the other folder has all the files encrypted.
+
+*   [lu69x/simple-overwrite-mbr](https://github.com/lu69x/simple-overwrite-mbr) - Warning! Don't run this code on your computer.
+
+*   [netease-kit/NIM\_PC\_Demo](https://github.com/netease-kit/NIM_PC_Demo) - 云信Windows(PC) C/C++ Demo源码仓库
+
+*   [NyDubh3/MEMZ](https://github.com/NyDubh3/MEMZ) - A trojan made for Danooct1's User Made Malware Series.
+
+*   [electronicarts/CnC\_Remastered\_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
+
+*   [AncientLysine/BiliLocal](https://github.com/AncientLysine/BiliLocal) - add danmaku to local videos
+
+*   [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
+
+*   [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) - :white\_square\_button: Geometrize is a desktop app that geometrizes images into geometric primitives
+
+*   [yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) - A remote control program based on Gh0st: 实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。
+
 ## Squirrel
 
 *   [p2r3/spplice-repo](https://github.com/p2r3/spplice-repo) - The global Spplice package repository
@@ -11211,6 +11407,14 @@
 
 *   [fabricezhang/lcg](https://github.com/fabricezhang/lcg) - 吾爱破解第三方安卓应用
 
+*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+
+*   [kami-blue/client](https://github.com/kami-blue/client) - ARCHIVED - KAMI Blue: a continuation of 1.12.2 KAMI
+
+*   [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free Minecraft hacked client (utility mod) for Fabric
+
+*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+
 ## Nix
 
 *   [imnotpoz/nixwebr.ing](https://github.com/imnotpoz/nixwebr.ing) - the nix webring
@@ -11384,6 +11588,16 @@
 *   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
 
 *   [ganlvtech/down\_52pojie\_cn](https://github.com/ganlvtech/down_52pojie_cn) - A single page file explorer that can be hosted on static website. 吾爱破解论坛 爱盘 https://down.52pojie.cn/ 页面的源代码
+
+*   [xvhuan/bili](https://github.com/xvhuan/bili) - b站弹幕实时监控
+
+*   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
+
+*   [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5+
+
+*   [Th3-822/rapidleech](https://github.com/Th3-822/rapidleech) -
+
+*   [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) -
 
 ## Solidity
 
@@ -11747,6 +11961,8 @@
 
 *   [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux
 
+*   [minggithubaccount/pandownload\_backup](https://github.com/minggithubaccount/pandownload_backup) - 最全的pandownload历史版本备份
+
 ## Pascal
 
 *   [USEPA/EPANET2.2](https://github.com/USEPA/EPANET2.2) - Perform extended-period simulation of the hydraulic and water quality behavior within drinking water distribution systems
@@ -12033,6 +12249,8 @@
 
 *   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 
+*   [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
+
 ## JSON
 
 *   [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - Browser compatibility data for Web technologies as displayed on MDN
@@ -12103,30 +12321,6 @@
 
 *   [QingXia-Ela/Shiina-Astro-Blog](https://github.com/QingXia-Ela/Shiina-Astro-Blog) - A blog powered by Astro & Vue with SSG & SSR build mode.
 
-## GLSL
-
-*   [lua-gods/flashlight-iris-shader](https://github.com/lua-gods/flashlight-iris-shader) - Flashlight iris shader for minecraft
-
-*   [Ancientkingg/shader-shenanigans](https://github.com/Ancientkingg/shader-shenanigans) - Just a bunch of shaders I made for 1.17
-
-*   [shaderLABS/Base-330](https://github.com/shaderLABS/Base-330) - Template pack which includes most of the basic files, but none of them actually do anything. Using #version 330 and intended for MC 1.17+
-
-*   [VulpixelMC/cursed-shaderpack](https://github.com/VulpixelMC/cursed-shaderpack) - Ever wanted to vomit while playing Minecraft? Too bad!
-
-*   [gl-transitions/gl-transitions](https://github.com/gl-transitions/gl-transitions) - The open collection of GL Transitions
-
-*   [hooke007/mpv\_PlayKit](https://github.com/hooke007/mpv_PlayKit) - 🔄 mpv player 播放器折腾记录 Windows conf | 中文注释配置 汉化文档 快速帮助入门 | mpv-lazy 懒人包 Win11 x64 config | 着色器 shader 滤镜 filter 整合方案
-
-*   [hkiceflow/mpv\_video](https://github.com/hkiceflow/mpv_video) - 搭配目前最高效的实时超分及滤镜算法。With the most efficient real-time super-resolution and filter algorithms at present.
-
-*   [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
-
-*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
-
-*   [sixthsurge/photon](https://github.com/sixthsurge/photon) - A gameplay-focused shader pack for Minecraft
-
-*   [spiralhalo/LumiLights](https://github.com/spiralhalo/LumiLights) - Gameplay focused visual improvements for Canvas
-
 ## PLpgSQL
 
 *   [pgEdge/snowflake](https://github.com/pgEdge/snowflake) - Snowflake Sequences for PostgreSQL
@@ -12190,6 +12384,8 @@
 *   [besimorhino/powercat](https://github.com/besimorhino/powercat) - netshell features all in version 2 powershell
 
 *   [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
+
+*   [unacro/AutoTaskScripts](https://github.com/unacro/AutoTaskScripts) - 各种自动化脚本
 
 ## Ada
 
@@ -12374,6 +12570,8 @@
 *   [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 
 *   [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - Free Chat SDK (IM SDK) — 1,000 MAU/month free forever with push notifications & no concurrency limits. Build in-app messaging with chat API, UIKit & send message. Supports Android, iOS, Flutter, Web, React Native, uni-app, HarmonyOS & more.
+
+*   [DigitalJokerMan/MEMZ-MBR-Overwriter](https://github.com/DigitalJokerMan/MEMZ-MBR-Overwriter) - A program that will overwrite your mbr with the MEMZ's or VineMEMZ's mbr depending on the user's choice. This was writen by request from Rezi.
 
 ## mcfunction
 
@@ -12648,6 +12846,8 @@
 *   [znm2500/Undertale-Engine-Ultra](https://github.com/znm2500/Undertale-Engine-Ultra) - It's based on Undertale Engine modded by onezhazha.It's involves GB,bone,kr and different bullet system.Anyway,I add some effects to it.
 
 *   [WheatBox/WheatCloudSleep](https://github.com/WheatBox/WheatCloudSleep) - 小麦云睡觉软件，很无意义的那种
+
+*   [OpenNBS/NoteBlockStudio](https://github.com/OpenNBS/NoteBlockStudio) - An open-source Minecraft music maker.
 
 ## Stylus
 
